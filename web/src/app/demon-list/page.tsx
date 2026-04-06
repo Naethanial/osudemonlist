@@ -84,13 +84,19 @@ export default async function DemonListPage({ searchParams }: Props) {
 
       {/* Column headers */}
       <div
-        className="flex items-center gap-4 px-4 pb-2 mb-2 text-xs font-semibold uppercase tracking-wider"
+        className="hidden sm:flex items-center gap-4 px-4 pb-2 mb-2 text-xs font-semibold uppercase tracking-wider"
         style={{ color: "#5a5d6e", borderBottom: "1px solid #2a2d3a" }}
       >
         <div className="w-10 text-right">Rank</div>
         <div className="w-20">Stars</div>
         <div className="flex-1">Map</div>
         <div className="text-right">Points / Clears</div>
+      </div>
+      <div
+        className="flex sm:hidden pb-2 mb-2 text-xs font-semibold uppercase tracking-wider"
+        style={{ color: "#5a5d6e", borderBottom: "1px solid #2a2d3a" }}
+      >
+        <span>Maps — {maps.length} total</span>
       </div>
 
       {/* Map cards */}

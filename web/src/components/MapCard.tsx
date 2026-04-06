@@ -214,17 +214,17 @@ export default function MapCard({
           </div>
 
           {/* Content */}
-          <div className="relative flex items-center gap-5 px-5 py-5 w-full pr-14">
+          <div className="relative flex items-center gap-2 sm:gap-5 px-3 sm:px-5 py-4 sm:py-5 w-full pr-10 sm:pr-14">
             {/* Rank */}
-            <div className="shrink-0 w-10 text-right">
-              <span className="text-base font-bold" style={{ color: topAccent }}>
+            <div className="shrink-0 w-8 sm:w-10 text-right">
+              <span className="text-sm sm:text-base font-bold" style={{ color: topAccent }}>
                 #1
               </span>
             </div>
 
             {/* Star badge */}
             <div
-              className="shrink-0 px-3 py-1 rounded-lg text-sm font-bold tabular-nums"
+              className="shrink-0 px-2 py-0.5 sm:px-3 sm:py-1 rounded-lg text-xs sm:text-sm font-bold tabular-nums"
               style={{ backgroundColor: "rgba(0,0,0,0.55)", color, border: `1px solid ${color}44` }}
             >
               ★ {difficultyRating.toFixed(2)}
@@ -233,27 +233,18 @@ export default function MapCard({
             {/* Map info */}
             <div className="flex-1 min-w-0">
               <div
-                className="text-xl font-bold truncate"
+                className="text-base sm:text-xl font-bold truncate"
                 style={{ color: "#ffffff", textShadow: "0 1px 8px rgba(0,0,0,0.8)" }}
               >
                 {title}
               </div>
-              <div className="flex items-center gap-2 mt-1">
-                <span className="text-sm truncate" style={{ color: "#9da0b0" }}>
-                  {artist}
-                </span>
-                <span className="text-sm shrink-0" style={{ color: "#5a5d6e" }}>
-                  —
-                </span>
-                <span
-                  className="text-sm truncate font-semibold shrink-0 max-w-[200px]"
-                  style={{ color }}
-                >
-                  {difficultyName}
-                </span>
+              <div className="text-xs sm:text-sm truncate mt-0.5 sm:mt-1">
+                <span style={{ color: "#9da0b0" }}>{artist}</span>
+                <span style={{ color: "#5a5d6e" }}> — </span>
+                <span className="font-semibold" style={{ color }}>{difficultyName}</span>
               </div>
               {verifier && (
-                <div className="flex items-center gap-1 mt-1">
+                <div className="flex items-center gap-1 mt-0.5 sm:mt-1 min-w-0">
                   <span className="text-xs shrink-0" style={{ color: "#5a5d6e" }}>
                     verified by
                   </span>
@@ -261,13 +252,13 @@ export default function MapCard({
                     <a
                       href={`/users/${verifierUserId}`}
                       onClick={(e) => e.stopPropagation()}
-                      className="text-sm font-semibold truncate hover:underline"
+                      className="text-xs sm:text-sm font-semibold truncate min-w-0 hover:underline"
                       style={{ color: "#ff99cc" }}
                     >
                       {verifier}
                     </a>
                   ) : (
-                    <span className="text-sm font-semibold truncate" style={{ color: "#ff99cc" }}>
+                    <span className="text-xs sm:text-sm font-semibold truncate min-w-0" style={{ color: "#ff99cc" }}>
                       {verifier}
                     </span>
                   )}
@@ -277,13 +268,13 @@ export default function MapCard({
 
             {/* Right stats */}
             <div className="shrink-0 text-right">
-              <div className="text-2xl font-bold tabular-nums" style={{ color: "#b6e534" }}>
+              <div className="text-lg sm:text-2xl font-bold tabular-nums" style={{ color: "#b6e534" }}>
                 {points.toFixed(0)}
-                <span className="text-sm font-normal ml-1" style={{ color: "#5a5d6e" }}>
+                <span className="text-xs sm:text-sm font-normal ml-1" style={{ color: "#5a5d6e" }}>
                   pts
                 </span>
               </div>
-              <div className="text-sm mt-0.5" style={{ color: "#9da0b0" }}>
+              <div className="text-xs sm:text-sm mt-0.5" style={{ color: "#9da0b0" }}>
                 {clearCount} clear{clearCount !== 1 ? "s" : ""}
               </div>
             </div>
@@ -350,10 +341,10 @@ export default function MapCard({
         </div>
 
         {/* Content */}
-        <div className="relative flex items-center gap-4 px-4 py-3 w-full pr-12">
+        <div className="relative flex items-center gap-2 sm:gap-4 px-3 sm:px-4 py-2 sm:py-3 w-full pr-9 sm:pr-12">
           {/* Rank */}
           <div
-            className="w-10 text-right text-sm font-bold shrink-0"
+            className="w-8 sm:w-10 text-right text-xs sm:text-sm font-bold shrink-0"
             style={{ color: "#5a5d6e" }}
           >
             #{rank}
@@ -361,7 +352,7 @@ export default function MapCard({
 
           {/* Star badge */}
           <div
-            className="shrink-0 px-2 py-0.5 rounded text-xs font-bold tabular-nums"
+            className="shrink-0 px-1.5 sm:px-2 py-0.5 rounded text-xs font-bold tabular-nums"
             style={{ backgroundColor: "rgba(0,0,0,0.5)", color }}
           >
             ★ {difficultyRating.toFixed(2)}
@@ -370,27 +361,18 @@ export default function MapCard({
           {/* Map info */}
           <div className="flex-1 min-w-0">
             <div
-              className="text-sm font-semibold truncate"
+              className="text-xs sm:text-sm font-semibold truncate"
               style={{ color: "#ffffff" }}
             >
               {title}
             </div>
-            <div className="flex items-center gap-2 mt-0.5">
-              <span className="text-xs truncate" style={{ color: "#9da0b0" }}>
-                {artist}
-              </span>
-              <span className="text-xs shrink-0" style={{ color: "#5a5d6e" }}>
-                —
-              </span>
-              <span
-                className="text-xs truncate font-medium shrink-0 max-w-[160px]"
-                style={{ color: color }}
-              >
-                {difficultyName}
-              </span>
+            <div className="text-xs truncate mt-0.5">
+              <span style={{ color: "#9da0b0" }}>{artist}</span>
+              <span style={{ color: "#5a5d6e" }}> — </span>
+              <span className="font-medium" style={{ color }}>{difficultyName}</span>
             </div>
             {verifier && (
-              <div className="flex items-center gap-1 mt-0.5">
+              <div className="flex items-center gap-1 mt-0.5 min-w-0">
                 <span className="text-xs shrink-0" style={{ color: "#5a5d6e" }}>
                   verified by
                 </span>
@@ -398,13 +380,13 @@ export default function MapCard({
                   <a
                     href={`/users/${verifierUserId}`}
                     onClick={(e) => e.stopPropagation()}
-                    className="text-xs font-medium truncate hover:underline"
+                    className="text-xs font-medium truncate min-w-0 hover:underline"
                     style={{ color: "#ff99cc" }}
                   >
                     {verifier}
                   </a>
                 ) : (
-                  <span className="text-xs font-medium truncate" style={{ color: "#ff99cc" }}>
+                  <span className="text-xs font-medium truncate min-w-0" style={{ color: "#ff99cc" }}>
                     {verifier}
                   </span>
                 )}
@@ -414,7 +396,7 @@ export default function MapCard({
 
           {/* Right stats */}
           <div className="shrink-0 text-right">
-            <div className="text-sm font-bold tabular-nums" style={{ color: "#b6e534" }}>
+            <div className="text-xs sm:text-sm font-bold tabular-nums" style={{ color: "#b6e534" }}>
               {points.toFixed(0)}{" "}
               <span className="text-xs font-normal" style={{ color: "#5a5d6e" }}>
                 pts
