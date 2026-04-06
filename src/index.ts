@@ -25,23 +25,26 @@ interface CliOptions {
   sampleOnly: number | null;
   lenientFc: boolean;
   additive: boolean;
+  /** Resume scan: preserve existing export and crawl the full ranked pool (up to max pages) for qualifying maps not already listed. */
+  backfill: boolean;
 }
 
 function parseArgs(argv: string[]): CliOptions {
   let targetCount = 1000;
-  let maxSearchPages = 1200;
+  let maxSearchPages = 3000;
   let delayMs = 120;
   let outputDir = join(ROOT, "output");
   let sampleOnly: number | null = null;
   let lenientFc = true;
   let additive = false;
+  let backfill = false;
 
   for (const arg of argv) {
     if (arg.startsWith("--target=")) {
       const parsed = parseInt(arg.slice("--target=".length), 10);
       targetCount = Number.isFinite(parsed) ? Math.max(0, parsed) : 1000;
     } else if (arg.startsWith("--max-pages=")) {
-      maxSearchPages = Math.max(1, parseInt(arg.slice("--max-pages=".length), 10) || 1200);
+      maxSearchPages = Math.max(1, parseInt(arg.slice("--max-pages=".length), 10) || 3000);
     } else if (arg.startsWith("--delay-ms=")) {
       delayMs = Math.max(0, parseInt(arg.slice("--delay-ms=".length), 10) || 0);
     } else if (arg.startsWith("--out=")) {
@@ -54,10 +57,12 @@ function parseArgs(argv: string[]): CliOptions {
       lenientFc = true;
     } else if (arg === "--additive") {
       additive = true;
+    } else if (arg === "--backfill") {
+      backfill = true;
     }
   }
 
-  return { targetCount, maxSearchPages, delayMs, outputDir, sampleOnly, lenientFc, additive };
+  return { targetCount, maxSearchPages, delayMs, outputDir, sampleOnly, lenientFc, additive, backfill };
 }
 
 function isAllowedStatus(status: string | undefined): boolean {
@@ -111,7 +116,31 @@ type QualifiedMapCandidate = Omit<DemonMapEntry, "rank" | "points">;
 const INCLUDED_BEATMAP_IDS = new Set<number>([
   690982, // Spawn Of Possession - Apparition [Blind Faith]
   2049467, // Renard - Because Maybe! pt. 3
+  2496720, // Fleshgod Apocalypse - The Violation (beatmapset search / discovery can omit some sets)
 ]);
+
+/**
+ * Reads user-submitted beatmap IDs from queue.json in the output directory.
+ * These are treated as additional forced includes (same as INCLUDED_BEATMAP_IDS).
+ */
+function loadQueuedBeatmapIds(outputDir: string): Set<number> {
+  const queuePath = join(outputDir, "queue.json");
+  if (!existsSync(queuePath)) return new Set();
+  try {
+    const raw = readFileSync(queuePath, "utf8");
+    const parsed = JSON.parse(raw) as { beatmapIds?: unknown[] };
+    if (!Array.isArray(parsed.beatmapIds)) return new Set();
+    const ids = new Set<number>();
+    for (const id of parsed.beatmapIds) {
+      if (typeof id === "number" && Number.isFinite(id) && id > 0) {
+        ids.add(id);
+      }
+    }
+    return ids;
+  } catch {
+    return new Set();
+  }
+}
 
 // Manual exclusions for specific beatmaps that should never appear on the demon list.
 // Keep this list very small and explicit.
@@ -259,10 +288,11 @@ function buildLeaderboard(
 
 async function collectManualBeatmaps(
   client: OsuClient,
+  beatmapIds: Set<number>,
 ): Promise<{ beatmap: OsuBeatmap; set: OsuBeatmapset }[]> {
   const out: { beatmap: OsuBeatmap; set: OsuBeatmapset }[] = [];
 
-  for (const beatmapId of INCLUDED_BEATMAP_IDS) {
+  for (const beatmapId of beatmapIds) {
     const beatmap = await client.getBeatmap(beatmapId);
     if (beatmap.mode !== "osu" || !isAllowedStatus(beatmap.status)) {
       continue;
@@ -345,7 +375,30 @@ async function main(): Promise<void> {
     delayMs: opts.delayMs,
   });
 
-  const existingOutput = opts.additive ? loadExistingOutput(opts.outputDir) : null;
+  // User-submitted beatmap IDs (from web/data/queue.json).
+  // These are seeded into the search pool so the ranked-search scraper can't miss them,
+  // but they are NOT force-included: they must still have ≥1 qualifying FC and their
+  // difficulty must place them within the top-N cutoff. If a map eventually falls out
+  // of the natural top 1000, the next refresh will drop it automatically.
+  const queuedIds = loadQueuedBeatmapIds(opts.outputDir);
+  // Combined set used only for pool seeding (collectManualBeatmaps).
+  const poolSeedIds = new Set([...INCLUDED_BEATMAP_IDS, ...queuedIds]);
+  if (queuedIds.size > 0) {
+    console.error(`Loaded ${queuedIds.size} queued beatmap ID(s) from queue.json: ${[...queuedIds].join(", ")}`);
+  }
+
+  const preserveExisting = opts.additive || opts.backfill;
+  const existingOutput = preserveExisting ? loadExistingOutput(opts.outputDir) : null;
+
+  if (opts.backfill) {
+    if (!existingOutput) {
+      console.error(
+        `Backfill requires an existing leaderboard at ${join(opts.outputDir, "leaderboard.json")}.`,
+      );
+      process.exit(1);
+    }
+  }
+
   const existingMaps = existingOutput?.maps ?? [];
   const existingLeaderboard = existingOutput?.leaderboard ?? [];
   const existingMapIds = new Set(existingMaps.map((m) => m.beatmapId));
@@ -356,19 +409,22 @@ async function main(): Promise<void> {
 
   let pages = 0;
   const targetNewMaps = opts.sampleOnly ?? opts.targetCount;
+  const shouldCrawlRanked = targetNewMaps > 0 || opts.backfill;
 
   const fcMode = opts.lenientFc
     ? "lenient (>=95% combo, max_combo allowed)"
     : "strict (>=95% combo, perfect-combo flags + no miss stats)";
   console.error(
-    opts.additive
-      ? existingMaps.length > 0
-        ? `Building demon list additively: preserving ${existingMaps.length} existing maps and searching for ${targetNewMaps} new hardest ranked osu! maps with ≥1 qualifying FC (NM or CL only, ${fcMode}).`
-        : `Building demon list additively: searching for ${targetNewMaps} new hardest ranked osu! maps with ≥1 qualifying FC (NM or CL only, ${fcMode}).`
-      : `Building demon list: ${targetNewMaps} hardest ranked osu! maps that have ≥1 qualifying FC (NM or CL only, ${fcMode}).`,
+    opts.backfill
+      ? `Backfill demon list: preserving ${existingMaps.length} existing maps; scanning ranked pool (up to ${opts.maxSearchPages} search pages) for qualifying maps not already on the list (${fcMode}).`
+      : opts.additive
+        ? existingMaps.length > 0
+          ? `Building demon list additively: preserving ${existingMaps.length} existing maps and searching for ${targetNewMaps} new hardest ranked osu! maps with ≥1 qualifying FC (NM or CL only, ${fcMode}).`
+          : `Building demon list additively: searching for ${targetNewMaps} new hardest ranked osu! maps with ≥1 qualifying FC (NM or CL only, ${fcMode}).`
+        : `Building demon list: ${targetNewMaps} hardest ranked osu! maps that have ≥1 qualifying FC (NM or CL only, ${fcMode}).`,
   );
 
-  if (targetNewMaps > 0) {
+  if (shouldCrawlRanked) {
     const statuses: Array<"ranked"> = ["ranked"];
     for (const status of statuses) {
       let cursor: string | undefined;
@@ -390,19 +446,19 @@ async function main(): Promise<void> {
     }
   }
 
-  for (const manual of await collectManualBeatmaps(client)) {
+  for (const manual of await collectManualBeatmaps(client, poolSeedIds)) {
     pool.set(manual.beatmap.id, manual);
   }
 
   const ordered = sortByDifficulty([...uniqueByBeatmapId([...pool.values()]).values()]);
   for (const { beatmap, set } of ordered) {
-    if (candidates.length >= targetNewMaps) {
+    if (!opts.backfill && candidates.length >= targetNewMaps) {
       break;
     }
     if (EXCLUDED_BEATMAP_IDS.has(beatmap.id)) {
       continue;
     }
-    if (opts.additive && existingMapIds.has(beatmap.id)) {
+    if (preserveExisting && existingMapIds.has(beatmap.id)) {
       continue;
     }
     if (scoreChecked.has(beatmap.id)) {
@@ -417,6 +473,8 @@ async function main(): Promise<void> {
       const qualifying = (scores ?? []).filter((s) =>
         scoreQualifies(s, bm, { lenientFc: opts.lenientFc }),
       );
+      // Only hardcoded INCLUDED_BEATMAP_IDS bypass the FC requirement.
+      // Queued maps must have at least one qualifying FC like any other map.
       if (qualifying.length === 0 && !INCLUDED_BEATMAP_IDS.has(bm.id)) {
         continue;
       }
@@ -434,59 +492,66 @@ async function main(): Promise<void> {
       });
 
       const rank = candidates.length;
-      const points = pointsForDemonRank(rank);
-      console.error(
-        `[${rank}/${targetNewMaps}] ★${bm.difficulty_rating.toFixed(2)} ${set.artist} - ${set.title} [${bm.version}] — ${players.length} FC player(s) (+${points.toFixed(3)} pp each)`,
-      );
+      const points = pointsForDemonRank(existingMaps.length + rank);
+      if (opts.backfill) {
+        console.error(
+          `[+${rank}] ★${bm.difficulty_rating.toFixed(2)} ${set.artist} - ${set.title} [${bm.version}] — ${players.length} FC player(s) (+${points.toFixed(3)} pp each)`,
+        );
+      } else {
+        console.error(
+          `[${rank}/${targetNewMaps}] ★${bm.difficulty_rating.toFixed(2)} ${set.artist} - ${set.title} [${bm.version}] — ${players.length} FC player(s) (+${points.toFixed(3)} pp each)`,
+        );
+      }
     } catch (e) {
       console.error(`Beatmap ${beatmap.id} skipped:`, e instanceof Error ? e.message : e);
     }
   }
 
-  if (candidates.length < targetNewMaps) {
+  if (!opts.backfill && candidates.length < targetNewMaps) {
     console.error(
       `Warning: only found ${candidates.length} new maps with qualifying FCs (wanted ${targetNewMaps}).`,
     );
   }
 
-  if (opts.additive) {
-    const selectedIds = new Set(candidates.map((candidate) => candidate.beatmapId));
-    for (const manualBeatmapId of INCLUDED_BEATMAP_IDS) {
-      if (existingMapIds.has(manualBeatmapId) || selectedIds.has(manualBeatmapId)) {
-        continue;
-      }
-      const manual = pool.get(manualBeatmapId);
-      if (!manual) {
-        continue;
-      }
+  // Force-include any hardcoded beatmaps that weren't picked up by the main pass (e.g. maps
+  // omitted from `/beatmapsets/search` due to discovery restrictions). Queued maps are NOT
+  // in this section — they compete purely on difficulty rank and FC count like normal maps.
+  const selectedIds = new Set(candidates.map((candidate) => candidate.beatmapId));
+  for (const manualBeatmapId of INCLUDED_BEATMAP_IDS) {
+    if (existingMapIds.has(manualBeatmapId) || selectedIds.has(manualBeatmapId)) {
+      continue;
+    }
+    const manual = pool.get(manualBeatmapId);
+    if (!manual) {
+      continue;
+    }
 
-      try {
-        const bm = await ensureMaxCombo(client, manual.beatmap);
-        const { scores } = await client.getBeatmapScores(bm.id);
-        const qualifying = (scores ?? []).filter((s) =>
-          scoreQualifies(s, bm, { lenientFc: opts.lenientFc }),
-        );
-        const players = sortQualifyingPlayers(extractPlayers(qualifying));
+    try {
+      const bm = await ensureMaxCombo(client, manual.beatmap);
+      const { scores } = await client.getBeatmapScores(bm.id);
+      const qualifying = (scores ?? []).filter((s) =>
+        scoreQualifies(s, bm, { lenientFc: opts.lenientFc }),
+      );
+      const players = sortQualifyingPlayers(extractPlayers(qualifying));
 
-        candidates.push({
-          beatmapId: bm.id,
-          beatmapsetId: manual.set.id,
-          title: manual.set.title,
-          artist: manual.set.artist,
-          difficultyName: bm.version,
-          difficultyRating: bm.difficulty_rating,
-          hitLength: bm.hit_length,
-          qualifyingPlayers: players,
-        });
-        console.error(
-          `[forced] ★${bm.difficulty_rating.toFixed(2)} ${manual.set.artist} - ${manual.set.title} [${bm.version}] — ${players.length} FC player(s)`,
-        );
-      } catch (e) {
-        console.error(
-          `Manual beatmap ${manualBeatmapId} skipped:`,
-          e instanceof Error ? e.message : e,
-        );
-      }
+      candidates.push({
+        beatmapId: bm.id,
+        beatmapsetId: manual.set.id,
+        title: manual.set.title,
+        artist: manual.set.artist,
+        difficultyName: bm.version,
+        difficultyRating: bm.difficulty_rating,
+        hitLength: bm.hit_length,
+        qualifyingPlayers: players,
+      });
+      console.error(
+        `[forced] ★${bm.difficulty_rating.toFixed(2)} ${manual.set.artist} - ${manual.set.title} [${bm.version}] — ${players.length} FC player(s)`,
+      );
+    } catch (e) {
+      console.error(
+        `Manual beatmap ${manualBeatmapId} skipped:`,
+        e instanceof Error ? e.message : e,
+      );
     }
   }
 
@@ -510,15 +575,17 @@ async function main(): Promise<void> {
       requireFullCombo: true,
       strictPerfectCombo: !opts.lenientFc,
       allowedModAcronyms: allowedModAcronymsForExport(),
-      allowedModPolicy: "NM/CL/HD/HR only; Hidden is 1x, HardRock is 1.2x, and combinations of those mods are allowed.",
+      allowedModPolicy: "NM/CL/HD/HR only; Hidden is 1.05x, HardRock is 1.2x, and combinations of those mods are allowed.",
       includeLegacyAndLazerScores: true,
       demonListSize: demonMaps.length,
-      selection:
-        opts.additive
+      selection: opts.backfill
+        ? "backfill_resume_ranked_search_append_qualifying_maps_preserve_existing"
+        : opts.additive
           ? "preserve_existing_demon_list_entries_and_append_new_ranked_beatmaps_with_qualifying_fc_nm_cl_hd_hr"
           : "hardest_ranked_beatmaps_first_until_N_each_with_at_least_one_qualifying_fc_nm_cl_hd_hr",
-      note:
-        opts.additive
+      note: opts.backfill
+        ? "Resumed ranked beatmapset search (bounded by max search pages). Skips beatmaps already in the exported demon list; appends any newly found qualifying FC maps. Per-map scores are whatever the osu API returns for the global leaderboard; deep FCs may be omitted if not in that payload."
+        : opts.additive
           ? "Per-map scores are whatever the osu API returns for the global leaderboard; very deep FCs may be omitted if not in that payload. Existing demon list entries are preserved and newly discovered maps are appended."
           : "Per-map scores are whatever the osu API returns for the global leaderboard; very deep FCs may be omitted if not in that payload. Scores must reach at least 95% of map max combo.",
     },
@@ -528,6 +595,11 @@ async function main(): Promise<void> {
 
   await writeExports(opts.outputDir, output);
   console.error(`Wrote ${join(opts.outputDir, "leaderboard.json")} and .md / .csv`);
+  if (opts.backfill) {
+    console.error(
+      `Backfill summary: added ${newDemonMaps.length} map(s); total demon list size ${demonMaps.length}.`,
+    );
+  }
 
   for (const p of output.leaderboard.slice(0, 20)) {
     console.log(`${p.username}\t${p.totalPoints.toFixed(3)}`);

@@ -33,17 +33,23 @@ jobs:
       - name: Install CLI dependencies
         run: npm ci
 
-      - name: Generate leaderboard into web/data
+      - name: Full leaderboard scan (web/data)
         env:
           OSU_CLIENT_ID: ${{ secrets.OSU_CLIENT_ID }}
           OSU_CLIENT_SECRET: ${{ secrets.OSU_CLIENT_SECRET }}
         run: npm run build && node dist/index.js --out=web/data
 
+      - name: Backfill maps skipped by search (web/data)
+        env:
+          OSU_CLIENT_ID: ${{ secrets.OSU_CLIENT_ID }}
+          OSU_CLIENT_SECRET: ${{ secrets.OSU_CLIENT_SECRET }}
+        run: node dist/index.js --out=web/data --backfill
+
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add web/data/leaderboard.json web/data/leaderboard.md web/data/leaderboard.csv
+          git add web/data/leaderboard.json web/data/leaderboard.md web/data/leaderboard.csv web/data/queue.json
           if git diff --staged --quiet; then
             echo "No leaderboard file changes."
           else

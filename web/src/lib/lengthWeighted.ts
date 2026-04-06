@@ -10,7 +10,8 @@ import type { DemonMap, Player } from "./types";
  */
 
 const REF_SECONDS = 90;
-const LENGTH_ALPHA = 0.075;
+// Slightly soften the length contribution while keeping the same overall shape.
+const LENGTH_ALPHA = 0.07;
 export const LENGTH_POINTS_CUTOFF = 500;
 
 // Same piecewise curve + affine boost used in src/scoring.ts
