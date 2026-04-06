@@ -6,12 +6,18 @@ import {
   getPlayerRank,
   getPlayers,
   getMapById,
+  getMaps,
 } from "@/lib/data";
+import { difficultyDisplayByBeatmapId } from "@/lib/demonListOrder";
+import type { DemonMap } from "@/lib/types";
 import { fetchUserCountry } from "@/lib/osuAuth";
 
 interface Props {
   params: Promise<{ userId: string }>;
 }
+
+/** Always resolve ranks against current `getMaps()` + difficulty order (same as /demon-list). */
+export const dynamic = "force-dynamic";
 
 function starColor(stars: number): string {
   if (stars >= 9) return "#ff6060";
@@ -38,23 +44,44 @@ export default async function UserProfilePage({ params }: Props) {
   const rank = getPlayerRank(userId);
   const countryCode = await fetchUserCountry(userId);
 
-  // Resolve full map data for each cleared map, sorted by demon rank ascending.
-  // Also look up the player's pointsMultiplier from qualifyingPlayers (e.g. HR = 1.2x).
+  // Rank + base points match /demon-list default ("Difficulty"): length-weighted display order,
+  // not raw JSON `map.rank` / `map.points`.
+  const demonListDisplay = difficultyDisplayByBeatmapId(getMaps());
+
   const clearedMaps = player.maps
     .map((pm) => {
       const map = getMapById(pm.beatmapId);
       if (!map) return null;
+      const disp = demonListDisplay.get(map.beatmapId);
+      if (!disp) return null;
       const qp = map.qualifyingPlayers.find((q) => q.userId === userId);
       const multiplier = qp?.pointsMultiplier ?? 1;
       const clearRole = qp?.clearRole ?? "victor";
-      return { playerMap: pm, map, earnedPoints: pm.points * multiplier, multiplier, clearRole };
+      const earnedPoints = disp.displayPoints * multiplier;
+      return {
+        map,
+        demonListRank: disp.displayRank,
+        earnedPoints,
+        multiplier,
+        clearRole,
+      };
     })
-    .filter(
-      (x): x is NonNullable<typeof x> => x !== null
-    )
-    .sort((a, b) => a.playerMap.demonRank - b.playerMap.demonRank);
+    .filter((x): x is NonNullable<typeof x> => x !== null)
+    .sort(
+      (a, b) =>
+        a.demonListRank - b.demonListRank || a.map.beatmapId - b.map.beatmapId
+    );
 
   const hardestMap = clearedMaps[0]?.map;
+
+  const totalPointsFromMaps = clearedMaps.reduce(
+    (s, { earnedPoints }) => s + earnedPoints,
+    0
+  );
+  const pointsStat =
+    clearedMaps.length === player.maps.length
+      ? totalPointsFromMaps
+      : player.totalPoints;
 
   const rankColor =
     rank === 1
@@ -196,7 +223,7 @@ export default async function UserProfilePage({ params }: Props) {
               <StatPill label="Rank" value={`#${rank}`} color={rankColor} />
               <StatPill
                 label="Points"
-                value={player.totalPoints.toFixed(2)}
+                value={pointsStat.toFixed(2)}
                 color="#b6e534"
                 suffix="pts"
               />
@@ -240,17 +267,19 @@ export default async function UserProfilePage({ params }: Props) {
           className="flex items-center gap-4 px-4 pb-2 mb-2 text-xs font-semibold uppercase tracking-wider"
           style={{ color: "#5a5d6e", borderBottom: "1px solid #2a2d3a" }}
         >
-          <div className="w-10 text-right">Rank</div>
+          <div className="w-10 text-right" title="Same numbering as /demon-list (Difficulty sort)">
+            Rank
+          </div>
           <div className="w-20">Stars</div>
           <div className="flex-1">Map</div>
           <div className="text-right">Points</div>
         </div>
 
         <div className="space-y-2">
-          {clearedMaps.map(({ playerMap, map, earnedPoints, multiplier, clearRole }) => (
+          {clearedMaps.map(({ map, demonListRank, earnedPoints, multiplier, clearRole }) => (
             <PlayerMapCard
               key={map.beatmapId}
-              demonRank={playerMap.demonRank}
+              demonListRank={demonListRank}
               points={earnedPoints}
               multiplier={multiplier}
               clearRole={clearRole}
@@ -297,24 +326,26 @@ function StatPill({
 }
 
 function PlayerMapCard({
-  demonRank,
+  demonListRank,
   points,
   multiplier,
   clearRole,
   map,
 }: {
-  demonRank: number;
+  demonListRank: number;
   points: number;
   multiplier: number;
   clearRole: string;
-  map: {
-    beatmapId: number;
-    beatmapsetId: number;
-    title: string;
-    artist: string;
-    difficultyName: string;
-    difficultyRating: number;
-  };
+  map: Pick<
+    DemonMap,
+    | "beatmapId"
+    | "beatmapsetId"
+    | "title"
+    | "artist"
+    | "difficultyName"
+    | "difficultyRating"
+    | "points"
+  >;
 }) {
   const coverUrl = `https://assets.ppy.sh/beatmaps/${map.beatmapsetId}/covers/cover.jpg`;
   const color = starColor(map.difficultyRating);
@@ -351,7 +382,7 @@ function PlayerMapCard({
           className="w-10 text-right text-sm font-bold shrink-0"
           style={{ color: "#5a5d6e" }}
         >
-          #{demonRank}
+          #{demonListRank}
         </div>
 
         {/* Star badge */}

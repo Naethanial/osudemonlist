@@ -3,6 +3,7 @@
 import { useState, useRef, useEffect, useCallback } from "react";
 import Image from "next/image";
 import { Link } from "next-view-transitions";
+import { AnimatePresence, motion, useReducedMotion } from "motion/react";
 
 interface PlayerResult {
   userId: number;
@@ -27,15 +28,43 @@ interface SearchResults {
   maps: MapResult[];
 }
 
-export default function SearchBar() {
+interface SearchBarProps {
+  /** Fires when the search field opens or closes (for coordinated header UI). */
+  onExpandedChange?: (expanded: boolean) => void;
+}
+
+export default function SearchBar({ onExpandedChange }: SearchBarProps) {
   const [query, setQuery] = useState("");
   const [results, setResults] = useState<SearchResults | null>(null);
   const [open, setOpen] = useState(false);
   const [loading, setLoading] = useState(false);
   const [expanded, setExpanded] = useState(false);
+  /** Stays true until the search-field exit animation finishes so layout/github don’t jump. */
+  const [layoutExpanded, setLayoutExpanded] = useState(false);
+  const expandedRef = useRef(false);
   const inputRef = useRef<HTMLInputElement>(null);
   const containerRef = useRef<HTMLDivElement>(null);
   const debounceRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const reduceMotion = useReducedMotion();
+
+  const uiSpring = reduceMotion
+    ? { duration: 0.08 }
+    : { type: "spring" as const, stiffness: 780, damping: 44, mass: 0.45 };
+  const uiEase = reduceMotion
+    ? { duration: 0.08 }
+    : { duration: 0.14, ease: [0.22, 1, 0.36, 1] as const };
+
+  expandedRef.current = expanded;
+
+  useEffect(() => {
+    onExpandedChange?.(layoutExpanded);
+  }, [layoutExpanded, onExpandedChange]);
+
+  function handlePresenceExitComplete() {
+    if (!expandedRef.current) {
+      setLayoutExpanded(false);
+    }
+  }
 
   const search = useCallback(async (q: string) => {
     if (q.length < 2) {
@@ -88,6 +117,7 @@ export default function SearchBar() {
 
   function handleExpand() {
     setExpanded(true);
+    setLayoutExpanded(true);
     setTimeout(() => inputRef.current?.focus(), 30);
   }
 
@@ -98,81 +128,111 @@ export default function SearchBar() {
   const hasResults = results && (results.players.length > 0 || results.maps.length > 0);
   const showDropdown = open && expanded && query.length >= 2;
 
+  const fieldStyle = {
+    backgroundColor: "rgba(0, 0, 0, 0.5)",
+    backdropFilter: "blur(12px)",
+    WebkitBackdropFilter: "blur(12px)",
+  } as const;
+
   return (
     <div
       ref={containerRef}
       className={`flex items-center ${
-        expanded
-          ? "absolute inset-0 px-4 z-20 bg-transparent sm:relative sm:inset-auto sm:px-0 sm:ml-auto"
-          : "relative ml-auto"
+        layoutExpanded
+          ? "absolute inset-0 px-4 z-20 bg-transparent sm:relative sm:inset-auto sm:px-0"
+          : "relative"
       }`}
     >
-      {!expanded ? (
-        <button
-          onClick={handleExpand}
-          className="flex items-center gap-2 px-3 py-1.5 rounded-full text-xs transition-all duration-200"
-          style={{
-            color: "#9da0b0",
-            backgroundColor: "rgba(0, 0, 0, 0.5)",
-            backdropFilter: "blur(12px)",
-            WebkitBackdropFilter: "blur(12px)",
-            border: "1px solid #2a2d3a",
-          }}
-          aria-label="Open search"
-        >
-          <SearchIcon />
-          <span className="hidden sm:block" style={{ color: "#5a5d6e" }}>
-            search...
-          </span>
-        </button>
-      ) : (
-        <div
-          className="flex items-center gap-2 px-3 py-1.5 rounded-full transition-all duration-200 w-full sm:w-auto sm:min-w-[220px]"
-          style={{
-            backgroundColor: "rgba(0, 0, 0, 0.5)",
-            backdropFilter: "blur(12px)",
-            border: "1px solid #ff66aa",
-          }}
-        >
-          <SearchIcon />
-          <input
-            ref={inputRef}
-            value={query}
-            onChange={(e) => setQuery(e.target.value)}
-            onKeyDown={handleKeyDown}
-            placeholder="search players or maps..."
-            className="bg-transparent text-xs outline-none flex-1"
-            style={{ color: "#ffffff" }}
-            autoFocus
-            autoComplete="off"
-            spellCheck={false}
-          />
-          {loading && <Spinner />}
-          {!loading && query && (
-            <button
-              onClick={close}
-              className="text-xs transition-opacity hover:opacity-100 opacity-50"
-              style={{ color: "#9da0b0" }}
-              aria-label="Clear search"
-            >
-              ✕
-            </button>
-          )}
-        </div>
-      )}
+      <AnimatePresence
+        mode="wait"
+        initial={false}
+        onExitComplete={handlePresenceExitComplete}
+      >
+        {!expanded ? (
+          <motion.button
+            key="search-trigger"
+            type="button"
+            onClick={handleExpand}
+            className="flex items-center gap-2 px-3 py-1.5 rounded-full text-xs"
+            style={{
+              color: "#9da0b0",
+              ...fieldStyle,
+              border: "1px solid #2a2d3a",
+              transformOrigin: "right center",
+            }}
+            aria-label="Open search"
+            initial={{ opacity: 0, scale: 0.94, x: 10 }}
+            animate={{ opacity: 1, scale: 1, x: 0 }}
+            exit={{ opacity: 0, scale: 0.94, x: 8 }}
+            transition={uiSpring}
+          >
+            <SearchIcon />
+            <span className="hidden sm:block" style={{ color: "#5a5d6e" }}>
+              search...
+            </span>
+          </motion.button>
+        ) : (
+          <motion.div
+            key="search-field"
+            className="flex items-center gap-2 px-3 py-1.5 rounded-full w-full sm:w-auto sm:min-w-[220px]"
+            style={{
+              ...fieldStyle,
+              border: "1px solid #ff66aa",
+              transformOrigin: "right center",
+            }}
+            initial={{ opacity: 0, scale: 0.94, x: 14 }}
+            animate={{ opacity: 1, scale: 1, x: 0 }}
+            exit={{ opacity: 0, scale: 0.94, x: 10 }}
+            transition={uiSpring}
+          >
+            <SearchIcon />
+            <input
+              ref={inputRef}
+              value={query}
+              onChange={(e) => setQuery(e.target.value)}
+              onKeyDown={handleKeyDown}
+              placeholder="search players or maps..."
+              className="bg-transparent text-xs outline-none flex-1"
+              style={{ color: "#ffffff" }}
+              autoFocus
+              autoComplete="off"
+              spellCheck={false}
+            />
+            {loading && <Spinner />}
+            {!loading && query && (
+              <button
+                type="button"
+                onClick={close}
+                className="text-xs transition-opacity hover:opacity-100 opacity-50"
+                style={{ color: "#9da0b0" }}
+                aria-label="Clear search"
+              >
+                ✕
+              </button>
+            )}
+          </motion.div>
+        )}
+      </AnimatePresence>
 
       {/* Dropdown */}
-      {showDropdown && (
-        <div
-          className="absolute left-0 right-0 sm:left-auto sm:right-0 top-14 w-full sm:w-80 rounded-xl shadow-2xl overflow-hidden z-50"
-          style={{
-            backgroundColor: "rgba(0, 0, 0, 0.5)",
-            backdropFilter: "blur(12px)",
-            WebkitBackdropFilter: "blur(12px)",
-            border: "1px solid #2a2d3a",
-            boxShadow: "0 8px 32px rgba(0,0,0,0.6)",
-          }}
-        >
+      <AnimatePresence>
+        {showDropdown && (
+          <motion.div
+            key="search-dropdown"
+            className="absolute left-0 right-0 sm:left-auto sm:right-0 top-14 w-full sm:w-80 rounded-xl shadow-2xl overflow-hidden z-50"
+            style={{
+              backgroundColor: "rgba(0, 0, 0, 0.5)",
+              backdropFilter: "blur(12px)",
+              WebkitBackdropFilter: "blur(12px)",
+              border: "1px solid #2a2d3a",
+              boxShadow: "0 8px 32px rgba(0,0,0,0.6)",
+              transformOrigin: "top right",
+            }}
+            initial={{ opacity: 0, y: -10, scale: 0.97 }}
+            animate={{ opacity: 1, y: 0, scale: 1 }}
+            exit={{ opacity: 0, y: -8, scale: 0.98 }}
+            transition={uiEase}
+          >
           {!hasResults && !loading && (
             <div
               className="px-4 py-8 text-center text-xs"
@@ -332,8 +392,9 @@ export default function SearchBar() {
               press <kbd className="px-1 py-0.5 rounded text-[9px]" style={{ backgroundColor: "#2a2d3a", color: "#9da0b0" }}>esc</kbd> to close
             </div>
           )}
-        </div>
-      )}
+          </motion.div>
+        )}
+      </AnimatePresence>
     </div>
   );
 }

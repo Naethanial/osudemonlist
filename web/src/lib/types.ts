@@ -29,6 +29,7 @@ export interface DemonMap {
   artist: string;
   difficultyName: string;
   difficultyRating: number;
+  hitLength?: number;
   qualifyingPlayers: QualifyingPlayer[];
   rank: number;
   points: number;

@@ -34,11 +34,11 @@ export default function PlayerRow({
   const accentColor = medalColor ?? "#ffffff";
 
   return (
-    <div className="relative group">
+    <div className="group relative flex items-stretch overflow-hidden rounded-lg transition-colors hover:bg-[#1e2028]">
       {/* Main clickable row → internal profile */}
       <Link
         href={`/users/${userId}`}
-        className="player-row flex items-center gap-1.5 sm:gap-3 px-2 sm:px-4 py-3 rounded-lg transition-colors"
+        className="player-row flex min-w-0 flex-1 items-center gap-1.5 sm:gap-3 px-2 sm:px-4 py-3 transition-colors"
       >
         {/* Rank */}
         <div
@@ -82,7 +82,7 @@ export default function PlayerRow({
         </div>
 
         {/* Username */}
-        <div className="flex-1 min-w-0 sm:pr-7">
+        <div className="min-w-0 flex-1">
           <span
             className="text-sm font-medium truncate block group-hover:underline"
             style={{ color: accentColor }}
@@ -91,70 +91,63 @@ export default function PlayerRow({
           </span>
         </div>
 
-        {/* Points */}
-        <div className="text-right shrink-0 w-20 sm:w-28">
-          <span
-            className="text-sm font-bold tabular-nums"
-            style={{ color: sort === "points" ? accentColor : "#9da0b0" }}
-          >
-            {totalPoints.toFixed(2)}
+        {/* Primary stat — matches selected sort */}
+        <div
+          className={`text-right shrink-0 ${
+            sort === "verifications" ? "w-[7.5rem] sm:w-32" : "w-20 sm:w-28"
+          }`}
+        >
+          <span className="text-sm font-bold tabular-nums" style={{ color: accentColor }}>
+            {sort === "clears"
+              ? clearCount
+              : sort === "verifications"
+                ? (verificationCount ?? 0)
+                : totalPoints.toFixed(2)}
           </span>
           <span className="text-xs ml-1" style={{ color: "#5a5d6e" }}>
-            pts
+            {sort === "clears" ? "clears" : sort === "verifications" ? "verifs" : "pts"}
           </span>
         </div>
 
-        {/* Clears / Verifications — hidden on mobile, swaps based on sort on desktop */}
-        {sort === "verifications" ? (
-          <div className="hidden sm:block text-right shrink-0 w-20">
-            <span className="text-sm font-bold tabular-nums" style={{ color: accentColor }}>
-              {verificationCount ?? 0}
-            </span>
-            <span className="text-xs ml-1" style={{ color: "#5a5d6e" }}>
-              verifs
-            </span>
-          </div>
-        ) : (
-          <div className="hidden sm:block text-right shrink-0 w-16">
-            <span
-              className="text-sm tabular-nums font-bold"
-              style={{ color: sort === "clears" ? accentColor : "#9da0b0" }}
-            >
-              {clearCount}
-            </span>
-            <span className="text-xs ml-1" style={{ color: "#5a5d6e" }}>
-              clears
-            </span>
-          </div>
-        )}
+        {/* Secondary stat — desktop only */}
+        <div className="hidden sm:block text-right shrink-0 w-16">
+          <span className="text-sm font-bold tabular-nums" style={{ color: "#9da0b0" }}>
+            {sort === "points" ? clearCount : totalPoints.toFixed(2)}
+          </span>
+          <span className="text-xs ml-1" style={{ color: "#5a5d6e" }}>
+            {sort === "points" ? "clears" : "pts"}
+          </span>
+        </div>
       </Link>
 
-      {/* External osu! profile link — hidden on mobile (hover-only feature) */}
-      <a
-        href={`https://osu.ppy.sh/users/${userId}`}
-        target="_blank"
-        rel="noopener noreferrer"
-        className="hidden sm:block absolute right-[7.5rem] top-1/2 -translate-y-1/2 z-10 opacity-0 group-hover:opacity-60 hover:!opacity-100 transition-opacity"
-        title="Open osu! profile"
-        aria-label={`${username} on osu!`}
-      >
-        <svg
-          xmlns="http://www.w3.org/2000/svg"
-          width="11"
-          height="11"
-          viewBox="0 0 24 24"
-          fill="none"
-          stroke="currentColor"
-          strokeWidth="2.5"
-          strokeLinecap="round"
-          strokeLinejoin="round"
-          style={{ color: "#9da0b0" }}
+      {/* External osu! profile — width animates in from the right and pushes stats left */}
+      <div className="hidden min-w-0 max-w-0 shrink-0 overflow-hidden pr-0 transition-[max-width,padding] duration-200 ease-out group-hover:max-w-[2rem] group-hover:pr-2 sm:flex sm:items-center sm:justify-end">
+        <a
+          href={`https://osu.ppy.sh/users/${userId}`}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="shrink-0 opacity-0 transition-opacity duration-150 group-hover:opacity-60 hover:!opacity-100"
+          title="Open osu! profile"
+          aria-label={`${username} on osu!`}
         >
-          <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6" />
-          <polyline points="15 3 21 3 21 9" />
-          <line x1="10" y1="14" x2="21" y2="3" />
-        </svg>
-      </a>
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="11"
+            height="11"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            strokeWidth="2.5"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+            className="text-[#9da0b0]"
+          >
+            <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6" />
+            <polyline points="15 3 21 3 21 9" />
+            <line x1="10" y1="14" x2="21" y2="3" />
+          </svg>
+        </a>
+      </div>
     </div>
   );
 }

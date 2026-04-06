@@ -7,7 +7,7 @@
     "build": "tsc",
     "start": "node dist/index.js",
     "dev": "tsx src/index.ts",
-    "generate:leaderboard": "npm run build && node dist/index.js --out=web/data"
+    "generate:leaderboard": "npm run build && node dist/index.js --out=output"
   },
   "devDependencies": {
     "@types/node": "^22.10.0",

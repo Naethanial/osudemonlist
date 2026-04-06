@@ -4,13 +4,31 @@ import type { LeaderboardData, Player, DemonMap } from "./types";
 import { resolveDataDir } from "./dataPaths";
 
 let cachedData: LeaderboardData | null = null;
+let cachedLeaderboardMtimeMs: number | null = null;
+let cachedLeaderboardPath: string | null = null;
 
 export function getLeaderboardData(): LeaderboardData {
-  if (cachedData) return cachedData;
-
   const filePath = path.join(resolveDataDir(), "leaderboard.json");
+  const stat = fs.statSync(filePath);
+  const mtime = stat.mtimeMs;
+
+  const isProd = process.env.NODE_ENV === "production";
+  if (isProd && cachedData) {
+    return cachedData;
+  }
+  if (
+    !isProd &&
+    cachedData &&
+    cachedLeaderboardPath === filePath &&
+    cachedLeaderboardMtimeMs === mtime
+  ) {
+    return cachedData;
+  }
+
   const raw = fs.readFileSync(filePath, "utf-8");
   cachedData = JSON.parse(raw) as LeaderboardData;
+  cachedLeaderboardPath = filePath;
+  cachedLeaderboardMtimeMs = mtime;
   return cachedData;
 }
 
@@ -24,6 +42,29 @@ export function getMaps(): DemonMap[] {
 
 export function getGeneratedAt(): string {
   return getLeaderboardData().generatedAt;
+}
+
+export function getDemonListSize(): number {
+  return getLeaderboardData().criteria.demonListSize;
+}
+
+/** Verification counts (verified clears only) for maps whose demon list rank is in [minRank, maxRank]. */
+export function getPlayerVerificationCountsInRange(
+  minRank: number,
+  maxRank: number
+): Map<number, number> {
+  const maps = getMaps().filter(
+    (m) => m.rank >= minRank && m.rank <= maxRank
+  );
+  const counts = new Map<number, number>();
+  for (const map of maps) {
+    for (const qp of map.qualifyingPlayers) {
+      if (qp.clearRole === "verified") {
+        counts.set(qp.userId, (counts.get(qp.userId) ?? 0) + 1);
+      }
+    }
+  }
+  return counts;
 }
 
 export function getMapById(beatmapId: number): DemonMap | undefined {

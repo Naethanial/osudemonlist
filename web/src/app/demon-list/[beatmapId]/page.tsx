@@ -2,11 +2,14 @@ import { notFound } from "next/navigation";
 import Image from "next/image";
 import { Link } from "next-view-transitions";
 import { getMapById, getMaps } from "@/lib/data";
+import { difficultyDisplayByBeatmapId } from "@/lib/demonListOrder";
 import type { QualifyingPlayer } from "@/lib/types";
 
 interface Props {
   params: Promise<{ beatmapId: string }>;
 }
+
+export const dynamic = "force-dynamic";
 
 function starColor(stars: number): string {
   if (stars >= 9) return "#ff6060";
@@ -44,6 +47,12 @@ export default async function MapDetailPage({ params }: Props) {
 
   const map = getMapById(beatmapId);
   if (!map) notFound();
+
+  const displayByBeatmapId = difficultyDisplayByBeatmapId(getMaps());
+  const display = displayByBeatmapId.get(map.beatmapId) ?? {
+    displayRank: map.rank,
+    displayPoints: map.points,
+  };
 
   const coverUrl = `https://assets.ppy.sh/beatmaps/${map.beatmapsetId}/covers/cover.jpg`;
   const beatmapUrl = `https://osu.ppy.sh/beatmapsets/${map.beatmapsetId}#osu/${map.beatmapId}`;
@@ -116,7 +125,7 @@ export default async function MapDetailPage({ params }: Props) {
               className="text-xs font-bold px-2 py-0.5 rounded"
               style={{ backgroundColor: "rgba(0,0,0,0.55)", color: "#9da0b0" }}
             >
-              #{map.rank}
+              #{display.displayRank}
             </span>
             <span
               className="text-xs font-bold px-2 py-0.5 rounded tabular-nums"
@@ -181,7 +190,7 @@ export default async function MapDetailPage({ params }: Props) {
                 className="text-2xl font-bold tabular-nums"
                 style={{ color: "#b6e534" }}
               >
-                {map.points.toFixed(0)}
+                {display.displayPoints.toFixed(0)}
               </span>
               <span className="text-sm ml-1" style={{ color: "#5a5d6e" }}>
                 pts

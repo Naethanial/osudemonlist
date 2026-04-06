@@ -1,6 +1,7 @@
 import type {
   BeatmapSearchResponse,
   OsuBeatmap,
+  OsuBeatmapset,
   BeatmapScoresResponse,
 } from "./types.js";
 
@@ -98,6 +99,10 @@ export class OsuClient {
 
   async getBeatmap(beatmapId: number): Promise<OsuBeatmap> {
     return this.requestJson<OsuBeatmap>(`/beatmaps/${beatmapId}`);
+  }
+
+  async getBeatmapset(beatmapsetId: number): Promise<OsuBeatmapset> {
+    return this.requestJson<OsuBeatmapset>(`/beatmapsets/${beatmapsetId}`);
   }
 
   async getBeatmapScores(beatmapId: number): Promise<BeatmapScoresResponse> {

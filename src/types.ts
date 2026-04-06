@@ -41,6 +41,7 @@ export interface OsuBeatmap {
   status: string;
   version: string;
   max_combo?: number;
+  hit_length?: number;
 }
 
 export interface OsuBeatmapset {
@@ -64,6 +65,7 @@ export interface DemonMapEntry {
   artist: string;
   difficultyName: string;
   difficultyRating: number;
+  hitLength?: number;
   points: number;
   qualifyingPlayers: {
     userId: number;

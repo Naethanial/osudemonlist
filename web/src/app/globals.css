@@ -93,12 +93,9 @@ body {
   }
 }
 
-/* Player row hover */
+/* Player row — hover background is on the outer .group wrapper in PlayerRow */
 .player-row {
   background-color: transparent;
-}
-.player-row:hover {
-  background-color: #1e2028;
 }
 
 /* Custom scrollbar */
@@ -166,4 +163,71 @@ body {
     animation-duration: 0.001ms !important;
     animation: none !important;
   }
+}
+
+/* Rankings — dual-handle range: one track, left thumb = min, right thumb = max */
+.rank-dual-range__input {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  height: 40px;
+  top: 50%;
+  translate: 0 -50%;
+  margin: 0;
+  padding: 0;
+  pointer-events: none;
+  -webkit-appearance: none;
+  appearance: none;
+  background: transparent;
+}
+
+.rank-dual-range__input--min {
+  z-index: 2;
+}
+
+.rank-dual-range__input--max {
+  z-index: 3;
+}
+
+.rank-dual-range__input::-webkit-slider-runnable-track {
+  height: 8px;
+  background: transparent;
+}
+
+.rank-dual-range__input::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  pointer-events: auto;
+  width: 20px;
+  height: 20px;
+  margin-top: -6px;
+  border-radius: 50%;
+  background: #ff66aa;
+  border: 2px solid rgba(255, 255, 255, 0.22);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.45);
+  cursor: grab;
+}
+
+.rank-dual-range__input:active::-webkit-slider-thumb {
+  cursor: grabbing;
+}
+
+.rank-dual-range__input::-moz-range-track {
+  height: 8px;
+  background: transparent;
+}
+
+.rank-dual-range__input::-moz-range-thumb {
+  pointer-events: auto;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: #ff66aa;
+  border: 2px solid rgba(255, 255, 255, 0.22);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.45);
+  cursor: grab;
+}
+
+.rank-dual-range__input:active::-moz-range-thumb {
+  cursor: grabbing;
 }

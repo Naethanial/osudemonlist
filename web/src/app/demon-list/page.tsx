@@ -2,29 +2,32 @@ import { getMaps, getGeneratedAt, MAPS_PER_PAGE } from "@/lib/data";
 import MapCard from "@/components/MapCard";
 import Pagination from "@/components/Pagination";
 import DemonListControls from "@/components/DemonListControls";
+import { getDifficultySortedMaps } from "@/lib/demonListOrder";
 import { Suspense } from "react";
 
 interface Props {
   searchParams: Promise<{ page?: string; sort?: string }>;
 }
 
+type SortedMap = ReturnType<typeof getMaps>[number] & {
+  displayRank: number;
+  displayPoints: number;
+};
+
 function sortMaps(
   maps: ReturnType<typeof getMaps>,
   sort: "clears" | "difficulty"
-): ReturnType<typeof getMaps> {
+): SortedMap[] {
   if (sort === "clears") {
-    return [...maps].sort((a, b) => {
-      const d =
-        b.qualifyingPlayers.length - a.qualifyingPlayers.length;
-      if (d !== 0) return d;
-      return a.rank - b.rank;
-    });
+    return [...maps]
+      .sort((a, b) => {
+        const d = b.qualifyingPlayers.length - a.qualifyingPlayers.length;
+        return d !== 0 ? d : a.rank - b.rank;
+      })
+      .map((m, i) => ({ ...m, displayRank: i + 1, displayPoints: m.points }));
   }
-  return [...maps].sort((a, b) => {
-    const d = b.difficultyRating - a.difficultyRating;
-    if (d !== 0) return d;
-    return a.rank - b.rank;
-  });
+
+  return getDifficultySortedMaps(maps);
 }
 
 export default async function DemonListPage({ searchParams }: Props) {
@@ -99,17 +102,18 @@ export default async function DemonListPage({ searchParams }: Props) {
           return (
             <MapCard
               key={map.beatmapId}
-              rank={map.rank}
+              rank={map.displayRank}
               beatmapId={map.beatmapId}
               beatmapsetId={map.beatmapsetId}
               title={map.title}
               artist={map.artist}
               difficultyName={map.difficultyName}
               difficultyRating={map.difficultyRating}
-              points={map.points}
+              points={map.displayPoints}
               clearCount={map.qualifyingPlayers.length}
               verifier={verifierPlayer?.username}
               verifierUserId={verifierPlayer?.userId}
+              isTop={map.displayRank === 1}
             />
           );
         })}

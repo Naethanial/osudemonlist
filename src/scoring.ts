@@ -1,9 +1,9 @@
 import type { OsuScore } from "./types.js";
 
 /**
- * Points y for demon list map position x (1..1000) from the piecewise formula.
+ * Piecewise base points before the global rank-1 boost (see `pointsForDemonRank`).
  */
-export function pointsForDemonRank(x: number): number {
+function rawPointsForDemonRank(x: number): number {
   if (x < 1) {
     throw new RangeError(`demon rank x must be >= 1, got ${x}`);
   }
@@ -22,6 +22,26 @@ export function pointsForDemonRank(x: number): number {
   }
 
   return (250 - 100.39) * 1.168 ** (1 - x) + 100.39;
+}
+
+/** Target base points for rank 1 (before mod multiplier). Lowest rank keeps the raw tail value. */
+const RANK1_TARGET_POINTS = 350;
+
+const TAIL_RAW = rawPointsForDemonRank(1000);
+const RANK1_RAW = rawPointsForDemonRank(1);
+const POINTS_SCALE = (RANK1_TARGET_POINTS - TAIL_RAW) / (RANK1_RAW - TAIL_RAW);
+const POINTS_OFFSET = TAIL_RAW * (1 - POINTS_SCALE);
+
+/**
+ * Points y for demon list map position x (1..1000). Affine boost vs the legacy curve:
+ * rank 1 → ~350 base, rank 1000 unchanged, everything in between scaled consistently.
+ */
+export function pointsForDemonRank(x: number): number {
+  if (x < 1) {
+    throw new RangeError(`demon rank x must be >= 1, got ${x}`);
+  }
+
+  return rawPointsForDemonRank(x) * POINTS_SCALE + POINTS_OFFSET;
 }
 
 function normalizeMods(mods: OsuScore["mods"]): string[] {

@@ -1,39 +1,111 @@
 import {
   getPlayers,
+  getMaps,
   getGeneratedAt,
   PLAYERS_PER_PAGE,
   getPlayerVerificationCounts,
+  getPlayerVerificationCountsInRange,
+  getDemonListSize,
 } from "@/lib/data";
+import type { Player } from "@/lib/types";
+import { computeLengthRanks, playerLengthStats } from "@/lib/lengthWeighted";
 import { fetchCountriesForPlayers, getStoredCountries } from "@/lib/osuAuth";
 import PlayerRow from "@/components/PlayerRow";
 import Pagination from "@/components/Pagination";
 import RankingsControls from "@/components/RankingsControls";
 import { Suspense } from "react";
 
+const VALID_SORTS = ["points", "clears", "verifications"] as const;
+type SortMode = (typeof VALID_SORTS)[number];
+
 interface Props {
-  searchParams: Promise<{ page?: string; sort?: string; country?: string }>;
+  searchParams: Promise<{
+    page?: string;
+    sort?: string;
+    country?: string;
+    rankMin?: string;
+    rankMax?: string;
+  }>;
+}
+
+function parseRankRange(
+  rankMinStr: string | undefined,
+  rankMaxStr: string | undefined,
+  demonListSize: number
+): { min: number; max: number } {
+  const parse = (s: string | undefined, fallback: number) => {
+    const n = parseInt(s ?? "", 10);
+    return Number.isFinite(n) ? n : fallback;
+  };
+  let min = parse(rankMinStr, 1);
+  let max = parse(rankMaxStr, demonListSize);
+  min = Math.max(1, Math.min(min, demonListSize));
+  max = Math.max(1, Math.min(max, demonListSize));
+  if (min > max) {
+    const t = min;
+    min = max;
+    max = t;
+  }
+  return { min, max };
+}
+
+function filteredStats(player: Player, minRank: number, maxRank: number) {
+  const maps = player.maps.filter(
+    (m) => m.demonRank >= minRank && m.demonRank <= maxRank
+  );
+  const points = maps.reduce((s, m) => s + m.points, 0);
+  return { clears: maps.length, points };
 }
 
 export default async function RankingsPage({ searchParams }: Props) {
   const params = await searchParams;
   const page = Math.max(1, parseInt(params.page ?? "1", 10) || 1);
-  const sort = ["points", "clears", "verifications"].includes(params.sort ?? "")
-    ? (params.sort ?? "points")
+  const sort: SortMode = (VALID_SORTS as readonly string[]).includes(params.sort ?? "")
+    ? (params.sort as SortMode)
     : "points";
   const countryFilter = /^[A-Z]{2}$/.test(params.country ?? "") ? (params.country ?? "") : "";
 
-  const verificationCounts = getPlayerVerificationCounts();
+  const demonListSize = getDemonListSize();
+  const { min: rankMin, max: rankMax } = parseRankRange(
+    params.rankMin,
+    params.rankMax,
+    demonListSize
+  );
+  const isFullRankRange = rankMin === 1 && rankMax === demonListSize;
+
+  const verificationCountsFull = getPlayerVerificationCounts();
+  const verificationCounts = isFullRankRange
+    ? verificationCountsFull
+    : getPlayerVerificationCountsInRange(rankMin, rankMax);
+
   let players = getPlayers();
 
-  // Sort
+  // Length-weighted ranks are always used for "points" scoring
+  const lengthRanks = computeLengthRanks(getMaps());
+
   if (sort === "clears") {
-    players = [...players].sort((a, b) => b.maps.length - a.maps.length);
+    if (isFullRankRange) {
+      players = [...players].sort((a, b) => b.maps.length - a.maps.length);
+    } else {
+      players = [...players].sort((a, b) => {
+        const ca = filteredStats(a, rankMin, rankMax).clears;
+        const cb = filteredStats(b, rankMin, rankMax).clears;
+        return cb !== ca ? cb - ca : a.userId - b.userId;
+      });
+    }
   } else if (sort === "verifications") {
-    players = [...players].sort(
-      (a, b) =>
-        (verificationCounts.get(b.userId) ?? 0) -
-        (verificationCounts.get(a.userId) ?? 0)
-    );
+    players = [...players].sort((a, b) => {
+      const va = verificationCounts.get(a.userId) ?? 0;
+      const vb = verificationCounts.get(b.userId) ?? 0;
+      return vb !== va ? vb - va : a.userId - b.userId;
+    });
+  } else {
+    // "points" — always length-weighted
+    players = [...players].sort((a, b) => {
+      const pa = playerLengthStats(a, lengthRanks, rankMin, rankMax).points;
+      const pb = playerLengthStats(b, lengthRanks, rankMin, rankMax).points;
+      return pb !== pa ? pb - pa : a.userId - b.userId;
+    });
   }
 
   // Country filter — use only stored/cached data (no live API calls)
@@ -59,8 +131,9 @@ export default async function RankingsPage({ searchParams }: Props) {
 
   const generatedAt = getGeneratedAt();
 
-  const rightColLabel =
-    sort === "verifications" ? "Verifs" : sort === "clears" ? "Clears" : "Clears";
+  const primaryColLabel =
+    sort === "points" ? "Points" : sort === "clears" ? "Clears" : "Verifications";
+  const secondaryColLabel = sort === "points" ? "Clears" : "Points";
 
   return (
     <div className="max-w-5xl mx-auto px-4 py-8">
@@ -103,9 +176,21 @@ export default async function RankingsPage({ searchParams }: Props) {
       {/* Controls */}
       <div className="mb-5">
         <Suspense>
-          <RankingsControls currentSort={sort} currentCountry={countryFilter} />
+          <RankingsControls
+            currentSort={sort}
+            currentCountry={countryFilter}
+            demonListSize={demonListSize}
+            rankMin={rankMin}
+            rankMax={rankMax}
+          />
         </Suspense>
       </div>
+
+      {!isFullRankRange && (
+        <p className="text-xs mb-4" style={{ color: "#5a5d6e" }}>
+          Showing stats for demon list ranks #{rankMin}–#{rankMax} (1 = hardest).
+        </p>
+      )}
 
       {/* Table header */}
       <div
@@ -116,10 +201,14 @@ export default async function RankingsPage({ searchParams }: Props) {
         <div className="w-9 shrink-0" />
         <div className="w-6 shrink-0" />
         <div className="flex-1">Player</div>
-        <div className="w-20 sm:w-28 text-right">Points</div>
-        <div className={`hidden sm:block text-right ${sort === "verifications" ? "w-20" : "w-16"}`}>
-          {rightColLabel}
+        <div
+          className={`text-right shrink-0 ${
+            sort === "verifications" ? "w-[7.5rem] sm:w-32" : "w-20 sm:w-28"
+          }`}
+        >
+          {primaryColLabel}
         </div>
+        <div className="hidden sm:block text-right w-16 shrink-0">{secondaryColLabel}</div>
       </div>
 
       {/* Player rows */}
@@ -133,19 +222,38 @@ export default async function RankingsPage({ searchParams }: Props) {
             {countryFilter && ` for country ${countryFilter}`}.
           </div>
         ) : (
-          pagePlayers.map((player, i) => (
-            <PlayerRow
-              key={player.userId}
-              rank={startIndex + i + 1}
-              userId={player.userId}
-              username={player.username}
-              totalPoints={player.totalPoints}
-              clearCount={player.maps.length}
-              verificationCount={verificationCounts.get(player.userId) ?? 0}
-              countryCode={countryMap.get(player.userId)}
-              sort={sort}
-            />
-          ))
+          pagePlayers.map((player, i) => {
+            let displayPoints: number;
+            let displayClears: number;
+
+            if (sort === "clears" || sort === "verifications") {
+              // secondary "points" column still shows length-weighted total
+              const ls = playerLengthStats(player, lengthRanks, rankMin, rankMax);
+              displayPoints = ls.points;
+              displayClears = isFullRankRange
+                ? player.maps.length
+                : filteredStats(player, rankMin, rankMax).clears;
+            } else {
+              // "points" sort — primary = length-weighted points
+              const ls = playerLengthStats(player, lengthRanks, rankMin, rankMax);
+              displayPoints = ls.points;
+              displayClears = ls.clears;
+            }
+
+            return (
+              <PlayerRow
+                key={player.userId}
+                rank={startIndex + i + 1}
+                userId={player.userId}
+                username={player.username}
+                totalPoints={displayPoints}
+                clearCount={displayClears}
+                verificationCount={verificationCounts.get(player.userId) ?? 0}
+                countryCode={countryMap.get(player.userId)}
+                sort={sort}
+              />
+            );
+          })
         )}
       </div>
 
@@ -158,6 +266,7 @@ export default async function RankingsPage({ searchParams }: Props) {
           [
             sort !== "points" ? `sort=${sort}` : "",
             countryFilter ? `country=${countryFilter}` : "",
+            !isFullRankRange ? `rankMin=${rankMin}&rankMax=${rankMax}` : "",
           ]
             .filter(Boolean)
             .join("&")

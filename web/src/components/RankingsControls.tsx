@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, useRef, useCallback } from "react";
 import { useRouter } from "next/navigation";
 
 interface Country {
@@ -12,6 +12,9 @@ interface Country {
 interface RankingsControlsProps {
   currentSort: string;
   currentCountry: string;
+  demonListSize: number;
+  rankMin: number;
+  rankMax: number;
 }
 
 const SORTS = [
@@ -23,10 +26,16 @@ const SORTS = [
 export default function RankingsControls({
   currentSort,
   currentCountry,
+  demonListSize,
+  rankMin,
+  rankMax,
 }: RankingsControlsProps) {
   const router = useRouter();
   const [countries, setCountries] = useState<Country[]>([]);
   const [countriesLoading, setCountriesLoading] = useState(true);
+  const [localMin, setLocalMin] = useState(rankMin);
+  const [localMax, setLocalMax] = useState(rankMax);
+  const debounceRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
   useEffect(() => {
     fetch("/api/countries")
@@ -38,15 +47,50 @@ export default function RankingsControls({
       .finally(() => setCountriesLoading(false));
   }, []);
 
-  function navigate(sort: string, country: string) {
-    const params = new URLSearchParams();
-    if (sort !== "points") params.set("sort", sort);
-    if (country) params.set("country", country);
-    const qs = params.toString();
-    router.push(`/rankings${qs ? `?${qs}` : ""}`);
-  }
+  useEffect(() => {
+    setLocalMin(rankMin);
+    setLocalMax(rankMax);
+  }, [rankMin, rankMax]);
+
+  useEffect(() => {
+    return () => {
+      if (debounceRef.current) clearTimeout(debounceRef.current);
+    };
+  }, []);
+
+  const navigate = useCallback(
+    (sort: string, country: string, rMin: number, rMax: number) => {
+      const params = new URLSearchParams();
+      if (sort !== "points") params.set("sort", sort);
+      if (country) params.set("country", country);
+      if (rMin !== 1 || rMax !== demonListSize) {
+        params.set("rankMin", String(rMin));
+        params.set("rankMax", String(rMax));
+      }
+      const qs = params.toString();
+      router.push(`/rankings${qs ? `?${qs}` : ""}`);
+    },
+    [router, demonListSize]
+  );
+
+  const scheduleRankNavigate = useCallback(
+    (nextMin: number, nextMax: number) => {
+      if (debounceRef.current) clearTimeout(debounceRef.current);
+      debounceRef.current = setTimeout(() => {
+        navigate(currentSort, currentCountry, nextMin, nextMax);
+      }, 280);
+    },
+    [navigate, currentSort, currentCountry]
+  );
+
+  const isFullRange = localMin === 1 && localMax === demonListSize;
+
+  const rankSpan = Math.max(1, demonListSize - 1);
+  const fillLeftPct = ((localMin - 1) / rankSpan) * 100;
+  const fillWidthPct = ((localMax - localMin) / rankSpan) * 100;
 
   return (
+    <div className="flex flex-col gap-4 w-full">
     <div className="flex items-center gap-3 flex-wrap">
       {/* Sort tabs */}
       <div
@@ -58,7 +102,7 @@ export default function RankingsControls({
           return (
             <button
               key={s.value}
-              onClick={() => navigate(s.value, currentCountry)}
+              onClick={() => navigate(s.value, currentCountry, rankMin, rankMax)}
               className="px-3 py-1 rounded-md text-xs font-semibold transition-all duration-150"
               style={{
                 backgroundColor: active ? "#ff66aa" : "transparent",
@@ -75,7 +119,7 @@ export default function RankingsControls({
       <div className="relative flex items-center">
         <select
           value={currentCountry}
-          onChange={(e) => navigate(currentSort, e.target.value)}
+          onChange={(e) => navigate(currentSort, e.target.value, rankMin, rankMax)}
           disabled={countriesLoading}
           className="appearance-none pl-8 pr-8 py-1.5 rounded-lg text-xs font-medium outline-none"
           style={{
@@ -125,7 +169,7 @@ export default function RankingsControls({
       {/* Active filters badge */}
       {currentCountry && (
         <button
-          onClick={() => navigate(currentSort, "")}
+          onClick={() => navigate(currentSort, "", rankMin, rankMax)}
           className="flex items-center gap-1.5 px-2.5 py-1 rounded-full text-xs font-medium transition-opacity hover:opacity-70"
           style={{ backgroundColor: "#ff66aa22", color: "#ff66aa", border: "1px solid #ff66aa44" }}
         >
@@ -133,6 +177,100 @@ export default function RankingsControls({
           <span>✕</span>
         </button>
       )}
+    </div>
+
+      {/* Full-width dual-handle demon rank range (left = min, right = max) */}
+      <div className="w-full">
+        <div className="flex items-center justify-between gap-3 mb-2">
+          <p className="text-xs" style={{ color: "#9da0b0" }}>
+            <span className="font-semibold" style={{ color: "#c8cad4" }}>
+              Demon rank
+            </span>{" "}
+            <span className="tabular-nums" style={{ color: "#ffffff" }}>
+              #{localMin}
+            </span>
+            <span style={{ color: "#5a5d6e" }}> — </span>
+            <span className="tabular-nums" style={{ color: "#ffffff" }}>
+              #{localMax}
+            </span>
+          </p>
+          {!isFullRange && (
+            <button
+              type="button"
+              onClick={() => {
+                setLocalMin(1);
+                setLocalMax(demonListSize);
+                navigate(currentSort, currentCountry, 1, demonListSize);
+              }}
+              className="text-xs font-medium shrink-0 px-2.5 py-1 rounded-md transition-opacity hover:opacity-85"
+              style={{ color: "#ff66aa", backgroundColor: "#ff66aa18" }}
+            >
+              Reset
+            </button>
+          )}
+        </div>
+
+        <div className="relative w-full h-11 sm:h-12">
+          {/* Track */}
+          <div
+            className="absolute left-0 right-0 top-1/2 h-2 -translate-y-1/2 rounded-full pointer-events-none"
+            style={{ backgroundColor: "#2a2d3a" }}
+            aria-hidden
+          />
+          {/* Selected span */}
+          <div
+            className="absolute top-1/2 h-2 -translate-y-1/2 rounded-full pointer-events-none"
+            style={{
+              left: `${fillLeftPct}%`,
+              width: `${fillWidthPct}%`,
+              backgroundColor: "#ff66aa",
+              minWidth: localMin === localMax ? "8px" : undefined,
+            }}
+            aria-hidden
+          />
+          <input
+            type="range"
+            min={1}
+            max={demonListSize}
+            step={1}
+            value={localMin}
+            onChange={(e) => {
+              const v = Math.min(Number(e.target.value), localMax);
+              setLocalMin(v);
+              scheduleRankNavigate(v, localMax);
+            }}
+            className="rank-dual-range__input rank-dual-range__input--min"
+            aria-label={`Minimum demon rank, ${localMin}`}
+            aria-valuemin={1}
+            aria-valuemax={demonListSize}
+            aria-valuenow={localMin}
+          />
+          <input
+            type="range"
+            min={1}
+            max={demonListSize}
+            step={1}
+            value={localMax}
+            onChange={(e) => {
+              const v = Math.max(Number(e.target.value), localMin);
+              setLocalMax(v);
+              scheduleRankNavigate(localMin, v);
+            }}
+            className="rank-dual-range__input rank-dual-range__input--max"
+            aria-label={`Maximum demon rank, ${localMax}`}
+            aria-valuemin={1}
+            aria-valuemax={demonListSize}
+            aria-valuenow={localMax}
+          />
+        </div>
+        <div
+          className="flex justify-between text-[10px] tabular-nums mt-1 px-0.5"
+          style={{ color: "#5a5d6e" }}
+        >
+          <span>#1 (hardest)</span>
+          <span>#{demonListSize}</span>
+        </div>
+      </div>
     </div>
   );
 }
