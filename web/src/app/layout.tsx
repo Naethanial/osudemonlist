@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { Analytics } from "@vercel/analytics/react";
 import "./globals.css";
 import Nav from "@/components/Nav";
 import ViewTransitionsProvider from "@/components/ViewTransitionsProvider";
@@ -22,6 +23,7 @@ export default function RootLayout({
           <main className="min-h-screen page-transition-root">{children}</main>
           <MapQueueForm />
         </ViewTransitionsProvider>
+        <Analytics />
       </body>
     </html>
   );
