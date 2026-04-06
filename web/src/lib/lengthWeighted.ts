@@ -6,13 +6,12 @@ import type { DemonMap, Player } from "./types";
  * Combined difficulty = stars × (hitLength / REF_SECONDS)^LENGTH_ALPHA
  *
  * Calibrated so that an 8.3★ 5-minute map scores ≈ the same as a 9.1★ 90-second map.
- * Only the top LENGTH_POINTS_CUTOFF maps by combined difficulty award points.
+ * Every map gets points from its position in the combined-difficulty ordering.
  */
 
 const REF_SECONDS = 90;
 // Slightly soften the length contribution while keeping the same overall shape.
-const LENGTH_ALPHA = 0.07;
-export const LENGTH_POINTS_CUTOFF = 500;
+const LENGTH_ALPHA = 0.075;
 
 // Same piecewise curve + affine boost used in src/scoring.ts
 function rawPoints(x: number): number {
@@ -39,7 +38,6 @@ export function mapCombinedScore(stars: number, hitLength: number): number {
 
 export interface LengthRankInfo {
   lengthRank: number;
-  /** 0 for maps ranked > LENGTH_POINTS_CUTOFF */
   lengthPoints: number;
 }
 
@@ -60,8 +58,7 @@ export function computeLengthRanks(maps: DemonMap[]): Map<number, LengthRankInfo
     const lengthRank = i + 1;
     result.set(sorted[i].beatmapId, {
       lengthRank,
-      lengthPoints:
-        lengthRank <= LENGTH_POINTS_CUTOFF ? pointsForLengthRank(lengthRank) : 0,
+      lengthPoints: pointsForLengthRank(lengthRank),
     });
   }
   return result;

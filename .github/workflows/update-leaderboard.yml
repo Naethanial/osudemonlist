@@ -39,11 +39,12 @@ jobs:
           OSU_CLIENT_SECRET: ${{ secrets.OSU_CLIENT_SECRET }}
         run: npm run build && node dist/index.js --out=web/data
 
-      - name: Backfill maps skipped by search (web/data)
-        env:
-          OSU_CLIENT_ID: ${{ secrets.OSU_CLIENT_ID }}
-          OSU_CLIENT_SECRET: ${{ secrets.OSU_CLIENT_SECRET }}
-        run: node dist/index.js --out=web/data --backfill
+      # Backfill disabled — it appends rather than filling gaps; re-enable manually if needed.
+      # - name: Backfill maps skipped by search (web/data)
+      #   env:
+      #     OSU_CLIENT_ID: ${{ secrets.OSU_CLIENT_ID }}
+      #     OSU_CLIENT_SECRET: ${{ secrets.OSU_CLIENT_SECRET }}
+      #   run: node dist/index.js --out=web/data --backfill
 
       - name: Commit and push
         run: |

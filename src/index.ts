@@ -416,7 +416,7 @@ async function main(): Promise<void> {
     : "strict (>=95% combo, perfect-combo flags + no miss stats)";
   console.error(
     opts.backfill
-      ? `Backfill demon list: preserving ${existingMaps.length} existing maps; scanning ranked pool (up to ${opts.maxSearchPages} search pages) for qualifying maps not already on the list (${fcMode}).`
+      ? `Backfill demon list: preserving ${existingMaps.length} existing maps; scanning ranked pool (up to ${opts.maxSearchPages} search pages) for up to 300 qualifying maps not already on the list (${fcMode}).`
       : opts.additive
         ? existingMaps.length > 0
           ? `Building demon list additively: preserving ${existingMaps.length} existing maps and searching for ${targetNewMaps} new hardest ranked osu! maps with ≥1 qualifying FC (NM or CL only, ${fcMode}).`
@@ -452,6 +452,9 @@ async function main(): Promise<void> {
 
   const ordered = sortByDifficulty([...uniqueByBeatmapId([...pool.values()]).values()]);
   for (const { beatmap, set } of ordered) {
+    if (opts.backfill && candidates.length >= 300) {
+      break;
+    }
     if (!opts.backfill && candidates.length >= targetNewMaps) {
       break;
     }

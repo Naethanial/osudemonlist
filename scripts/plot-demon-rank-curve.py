@@ -6,7 +6,7 @@ Requires: matplotlib (`pip install matplotlib` or use a venv).
 
 Usage from repo root:
   python3 scripts/plot-demon-rank-curve.py
-  python3 scripts/plot-demon-rank-curve.py --out output/demon-rank-points-curve.png
+  python3 scripts/plot-demon-rank-curve.py --out docs/demon-rank-points-curve.png
 """
 from __future__ import annotations
 
@@ -41,7 +41,7 @@ def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument(
         "--out",
-        default=os.path.join(repo_root(), "output", "demon-rank-points-curve.png"),
+        default=os.path.join(repo_root(), "docs", "demon-rank-points-curve.png"),
         help="Output PNG path",
     )
     args = parser.parse_args()

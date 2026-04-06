@@ -11,7 +11,7 @@ import {
 import { difficultyDisplayByBeatmapId } from "@/lib/demonListOrder";
 import { computeLengthRanks, playerLengthStats } from "@/lib/lengthWeighted";
 import type { DemonMap } from "@/lib/types";
-import { fetchUserCountry } from "@/lib/osuAuth";
+import { fetchOsuUserInfo } from "@/lib/osuAuth";
 
 interface Props {
   params: Promise<{ userId: string }>;
@@ -40,7 +40,12 @@ export default async function UserProfilePage({ params }: Props) {
   if (isNaN(userId)) notFound();
 
   const player = getPlayerById(userId);
-  if (!player) notFound();
+
+  // Fetch osu! user info (username + country) for any user, leaderboard or not
+  const osuInfo = await fetchOsuUserInfo(userId);
+
+  // If not in leaderboard and osu! API can't find them either, 404
+  if (!player && !osuInfo) notFound();
 
   const allMaps = getMaps();
   const demonListSize = getDemonListSize();
@@ -53,15 +58,16 @@ export default async function UserProfilePage({ params }: Props) {
     const pb = playerLengthStats(b, lengthRanks, 1, demonListSize).points;
     return pb !== pa ? pb - pa : a.userId - b.userId;
   });
-  const rank = sortedPlayers.findIndex((p) => p.userId === userId) + 1;
+  const rank = player ? sortedPlayers.findIndex((p) => p.userId === userId) + 1 : 0;
 
-  const countryCode = await fetchUserCountry(userId);
+  const countryCode = osuInfo?.countryCode ?? null;
+  const displayUsername = osuInfo?.username ?? player?.username ?? `user_${userId}`;
 
   // Rank + base points match /demon-list default ("Difficulty"): length-weighted display order,
   // not raw JSON `map.rank` / `map.points`.
   const demonListDisplay = difficultyDisplayByBeatmapId(allMaps);
 
-  const clearedMaps = player.maps
+  const clearedMaps = (player?.maps ?? [])
     .map((pm) => {
       const map = getMapById(pm.beatmapId);
       if (!map) return null;
@@ -89,7 +95,9 @@ export default async function UserProfilePage({ params }: Props) {
   const hardestMap = clearedMaps[0]?.map;
 
   // Total points via the same playerLengthStats formula used on /rankings
-  const pointsStat = playerLengthStats(player, lengthRanks, 1, demonListSize).points;
+  const pointsStat = player
+    ? playerLengthStats(player, lengthRanks, 1, demonListSize).points
+    : 0;
 
   const rankColor =
     rank === 1
@@ -159,11 +167,11 @@ export default async function UserProfilePage({ params }: Props) {
           {/* Avatar */}
           <div
             className="w-24 h-24 rounded-full overflow-hidden relative shrink-0"
-            style={{ boxShadow: `0 0 0 3px ${rankColor}55` }}
+            style={{ boxShadow: `0 0 0 3px ${rank > 0 ? rankColor : "#5a5d6e"}55` }}
           >
             <Image
               src={`https://a.ppy.sh/${userId}`}
-              alt={player.username}
+              alt={displayUsername}
               fill
               className="object-cover"
               sizes="96px"
@@ -192,7 +200,7 @@ export default async function UserProfilePage({ params }: Props) {
                 className="text-3xl font-bold"
                 style={{ color: "#ffffff", fontFamily: "Torus, sans-serif" }}
               >
-                {player.username}
+                {displayUsername}
               </h1>
               {/* osu! profile link */}
               <a
@@ -228,7 +236,11 @@ export default async function UserProfilePage({ params }: Props) {
 
             {/* Stats row */}
             <div className="flex items-center gap-6 flex-wrap mt-3">
-              <StatPill label="Rank" value={`#${rank}`} color={rankColor} />
+              <StatPill
+                label="Rank"
+                value={rank > 0 ? `#${rank}` : "—"}
+                color={rank > 0 ? rankColor : "#5a5d6e"}
+              />
               <StatPill
                 label="Points"
                 value={pointsStat.toFixed(2)}
@@ -237,7 +249,7 @@ export default async function UserProfilePage({ params }: Props) {
               />
               <StatPill
                 label="Clears"
-                value={String(player.maps.length)}
+                value={String(player?.maps.length ?? 0)}
                 color="#ffffff"
               />
               {hardestMap && (
@@ -284,16 +296,25 @@ export default async function UserProfilePage({ params }: Props) {
         </div>
 
         <div className="space-y-2">
-          {clearedMaps.map(({ map, demonListRank, earnedPoints, multiplier, clearRole }) => (
-            <PlayerMapCard
-              key={map.beatmapId}
-              demonListRank={demonListRank}
-              points={earnedPoints}
-              multiplier={multiplier}
-              clearRole={clearRole}
-              map={map}
-            />
-          ))}
+          {clearedMaps.length === 0 ? (
+            <div
+              className="py-12 text-center text-sm rounded-xl"
+              style={{ color: "#5a5d6e", backgroundColor: "#1a1c27", border: "1px solid #2a2d3a" }}
+            >
+              No demon clears yet
+            </div>
+          ) : (
+            clearedMaps.map(({ map, demonListRank, earnedPoints, multiplier, clearRole }) => (
+              <PlayerMapCard
+                key={map.beatmapId}
+                demonListRank={demonListRank}
+                points={earnedPoints}
+                multiplier={multiplier}
+                clearRole={clearRole}
+                map={map}
+              />
+            ))
+          )}
         </div>
       </div>
     </div>

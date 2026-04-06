@@ -14,6 +14,13 @@ interface OsuUser {
   country_code: string;
 }
 
+interface CachedUserInfo {
+  username: string;
+  countryCode: string;
+}
+
+const userInfoCache = new Map<number, CachedUserInfo>();
+
 let cachedToken: string | null = null;
 let tokenExpiry = 0;
 
@@ -105,7 +112,76 @@ export async function fetchUserCountry(userId: number): Promise<string | null> {
 
     const user = (await res.json()) as OsuUser;
     countryCache.set(userId, user.country_code);
+    userInfoCache.set(userId, { username: user.username, countryCode: user.country_code });
     return user.country_code;
+  } catch {
+    return null;
+  }
+}
+
+/**
+ * Returns username + country code for any osu! user (leaderboard or not).
+ * Uses in-process cache; falls back to the osu! API if not cached.
+ */
+export async function fetchOsuUserInfo(
+  userId: number
+): Promise<{ username: string; countryCode: string } | null> {
+  const cached = userInfoCache.get(userId);
+  if (cached) return cached;
+
+  const token = await getAccessToken();
+  if (!token) return null;
+
+  try {
+    const res = await fetch(`https://osu.ppy.sh/api/v2/users/${userId}/osu`, {
+      headers: {
+        Authorization: `Bearer ${token}`,
+        "Content-Type": "application/json",
+      },
+      signal: AbortSignal.timeout(5000),
+    });
+
+    if (!res.ok) return null;
+
+    const user = (await res.json()) as OsuUser;
+    const info: CachedUserInfo = { username: user.username, countryCode: user.country_code };
+    userInfoCache.set(userId, info);
+    countryCache.set(userId, user.country_code);
+    return info;
+  } catch {
+    return null;
+  }
+}
+
+/**
+ * Looks up an osu! user by exact username. Returns basic user info or null if not found.
+ * Used by the search API to find players who haven't cleared any demons.
+ */
+export async function lookupOsuUserByUsername(
+  username: string
+): Promise<{ userId: number; username: string; countryCode: string } | null> {
+  const token = await getAccessToken();
+  if (!token) return null;
+
+  try {
+    const res = await fetch(
+      `https://osu.ppy.sh/api/v2/users/${encodeURIComponent(username)}/osu?key=username`,
+      {
+        headers: {
+          Authorization: `Bearer ${token}`,
+          "Content-Type": "application/json",
+        },
+        signal: AbortSignal.timeout(5000),
+      }
+    );
+
+    if (!res.ok) return null;
+
+    const user = (await res.json()) as OsuUser;
+    const info: CachedUserInfo = { username: user.username, countryCode: user.country_code };
+    userInfoCache.set(user.id, info);
+    countryCache.set(user.id, user.country_code);
+    return { userId: user.id, username: user.username, countryCode: user.country_code };
   } catch {
     return null;
   }

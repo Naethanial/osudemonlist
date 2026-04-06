@@ -10,7 +10,7 @@ interface PlayerResult {
   username: string;
   totalPoints: number;
   clearCount: number;
-  rank: number;
+  rank: number | null;
 }
 
 interface MapResult {
@@ -290,9 +290,10 @@ export default function SearchBar({ onExpandedChange }: SearchBarProps) {
                     >
                       {p.username}
                     </div>
-                    <div className="text-[10px]" style={{ color: "#ffffff" }}>
-                      #{p.rank} &middot; {p.totalPoints.toFixed(0)} pts &middot;{" "}
-                      {p.clearCount} clears
+                    <div className="text-[10px]" style={{ color: "#9da0b0" }}>
+                      {p.rank !== null
+                        ? `#${p.rank} · ${p.totalPoints.toFixed(0)} pts · ${p.clearCount} clears`
+                        : "no demon clears yet"}
                     </div>
                   </div>
                   <svg
