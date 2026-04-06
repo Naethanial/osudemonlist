@@ -1,11 +1,18 @@
 # Regenerates leaderboard JSON via the osu! API and commits to web/data.
-# Runs at 6:00 and 18:00 America/Los_Angeles (Pacific local time, DST-aware).
+# Runs on every push to main, at 6:00 and 18:00 America/Los_Angeles (Pacific local time, DST-aware),
+# and on manual dispatch.
 # Vercel cannot run this job on a schedule: the CLI needs far longer than serverless limits.
 # After push, Vercel redeploys with the new data if the project is connected to this repo.
 
 name: Update leaderboard
 
 on:
+  push:
+    branches:
+      - main
+    # Avoid re-running when the workflow’s own commit only touches generated data.
+    paths-ignore:
+      - "web/data/**"
   schedule:
     - cron: "0 6,18 * * *"
       timezone: "America/Los_Angeles"
