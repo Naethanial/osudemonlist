@@ -6,7 +6,8 @@
   "scripts": {
     "build": "tsc",
     "start": "node dist/index.js",
-    "dev": "tsx src/index.ts"
+    "dev": "tsx src/index.ts",
+    "generate:leaderboard": "npm run build && node dist/index.js --out=web/data"
   },
   "devDependencies": {
     "@types/node": "^22.10.0",

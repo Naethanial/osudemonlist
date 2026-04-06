@@ -1,5 +1,6 @@
 import fs from "fs";
 import path from "path";
+import { resolveDataDir } from "./dataPaths";
 
 interface TokenResponse {
   access_token: string;
@@ -47,12 +48,7 @@ async function getAccessToken(): Promise<string | null> {
   }
 }
 
-const COUNTRY_CACHE_FILE = path.join(
-  process.cwd(),
-  "..",
-  "output",
-  "countries.json"
-);
+const COUNTRY_CACHE_FILE = path.join(resolveDataDir(), "countries.json");
 
 const countryCache = new Map<number, string>();
 

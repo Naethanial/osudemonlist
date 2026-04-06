@@ -1,0 +1,52 @@
+# Regenerates leaderboard JSON via the osu! API and commits to web/data.
+# Runs at 6:00 and 18:00 America/Los_Angeles (Pacific local time, DST-aware).
+# Vercel cannot run this job on a schedule: the CLI needs far longer than serverless limits.
+# After push, Vercel redeploys with the new data if the project is connected to this repo.
+
+name: Update leaderboard
+
+on:
+  schedule:
+    - cron: "0 6,18 * * *"
+      timezone: "America/Los_Angeles"
+  workflow_dispatch:
+
+concurrency:
+  group: update-leaderboard
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+          cache-dependency-path: package-lock.json
+
+      - name: Install CLI dependencies
+        run: npm ci
+
+      - name: Generate leaderboard into web/data
+        env:
+          OSU_CLIENT_ID: ${{ secrets.OSU_CLIENT_ID }}
+          OSU_CLIENT_SECRET: ${{ secrets.OSU_CLIENT_SECRET }}
+        run: npm run build && node dist/index.js --out=web/data
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add web/data/leaderboard.json web/data/leaderboard.md web/data/leaderboard.csv
+          if git diff --staged --quiet; then
+            echo "No leaderboard file changes."
+          else
+            git commit -m "chore: refresh leaderboard data"
+            git push
+          fi

@@ -1,13 +1,14 @@
 import fs from "fs";
 import path from "path";
 import type { LeaderboardData, Player, DemonMap } from "./types";
+import { resolveDataDir } from "./dataPaths";
 
 let cachedData: LeaderboardData | null = null;
 
 export function getLeaderboardData(): LeaderboardData {
   if (cachedData) return cachedData;
 
-  const filePath = path.join(process.cwd(), "..", "output", "leaderboard.json");
+  const filePath = path.join(resolveDataDir(), "leaderboard.json");
   const raw = fs.readFileSync(filePath, "utf-8");
   cachedData = JSON.parse(raw) as LeaderboardData;
   return cachedData;
