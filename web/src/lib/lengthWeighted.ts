@@ -45,6 +45,11 @@ export interface LengthRankInfo {
   lengthPoints: number;
 }
 
+export interface LengthWeightedStats {
+  points: number;
+  clears: number;
+}
+
 /**
  * Re-ranks all provided maps by combined difficulty score and returns a lookup
  * from beatmapId → { lengthRank, lengthPoints }.
@@ -69,24 +74,25 @@ export function computeLengthRanks(maps: DemonMap[]): Map<number, LengthRankInfo
 }
 
 /**
- * Computes a player's length-weighted stats, filtered to maps whose original
- * demon rank is in [minDemonRank, maxDemonRank].
+ * Computes a player's length-weighted stats, filtered to maps whose display
+ * rank is in [minLengthRank, maxLengthRank].
  */
 export function playerLengthStats(
   player: Player,
   lengthRanks: Map<number, LengthRankInfo>,
-  minDemonRank: number,
-  maxDemonRank: number
-): { points: number; clears: number } {
+  multiplierLookup: Map<number, Map<number, number>>,
+  minLengthRank: number,
+  maxLengthRank: number
+): LengthWeightedStats {
   let points = 0;
   let clears = 0;
   for (const pm of player.maps) {
-    if (pm.demonRank < minDemonRank || pm.demonRank > maxDemonRank) continue;
     const info = lengthRanks.get(pm.beatmapId);
-    if (info) {
-      points += info.lengthPoints;
-      clears++;
-    }
+    if (!info) continue;
+    if (info.lengthRank < minLengthRank || info.lengthRank > maxLengthRank) continue;
+    const multiplier = multiplierLookup.get(pm.beatmapId)?.get(player.userId) ?? 1;
+    points += info.lengthPoints * multiplier;
+    clears++;
   }
   return { points, clears };
 }

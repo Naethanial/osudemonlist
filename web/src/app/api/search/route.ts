@@ -1,5 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
-import { getPlayers, getMaps } from "@/lib/data";
+import { getPlayers, getMaps, getMultiplierLookup } from "@/lib/data";
+import { computeLengthRanks, playerLengthStats } from "@/lib/lengthWeighted";
+import { difficultyDisplayByBeatmapId } from "@/lib/demonListOrder";
 import { lookupOsuUserByUsername } from "@/lib/osuAuth";
 
 export async function GET(req: NextRequest) {
@@ -11,7 +13,17 @@ export async function GET(req: NextRequest) {
   }
 
   const allPlayers = getPlayers();
-  const leaderboardResults = allPlayers
+  const lengthRanks = computeLengthRanks(getMaps());
+  const multiplierLookup = getMultiplierLookup();
+  const leaderboardStats = allPlayers.map((player) => ({
+    player,
+    stats: playerLengthStats(player, lengthRanks, multiplierLookup, 1, lengthRanks.size),
+  }));
+  const sortedLeaderboard = [...leaderboardStats].sort((a, b) =>
+    b.stats.points !== a.stats.points ? b.stats.points - a.stats.points : a.player.userId - b.player.userId
+  );
+  const displayByBeatmapId = difficultyDisplayByBeatmapId(getMaps());
+  const leaderboardResults = sortedLeaderboard
     .reduce<
       Array<{
         userId: number;
@@ -20,13 +32,13 @@ export async function GET(req: NextRequest) {
         clearCount: number;
         rank: number | null;
       }>
-    >((acc, p, i) => {
-      if (p.username.toLowerCase().includes(qLower)) {
+    >((acc, entry, i) => {
+      if (entry.player.username.toLowerCase().includes(qLower)) {
         acc.push({
-          userId: p.userId,
-          username: p.username,
-          totalPoints: p.totalPoints,
-          clearCount: p.maps.length,
+          userId: entry.player.userId,
+          username: entry.player.username,
+          totalPoints: entry.stats.points,
+          clearCount: entry.stats.clears,
           rank: i + 1,
         });
       }
@@ -44,14 +56,14 @@ export async function GET(req: NextRequest) {
       const alreadyIncluded = players.some((p) => p.userId === osuUser.userId);
       if (!alreadyIncluded) {
         // Check if this user is actually on the leaderboard (just not fuzzy-matched)
-        const leaderboardIdx = allPlayers.findIndex((p) => p.userId === osuUser.userId);
+        const leaderboardIdx = sortedLeaderboard.findIndex((entry) => entry.player.userId === osuUser.userId);
         if (leaderboardIdx !== -1) {
-          const p = allPlayers[leaderboardIdx];
+          const p = sortedLeaderboard[leaderboardIdx];
           players.push({
-            userId: p.userId,
-            username: p.username,
-            totalPoints: p.totalPoints,
-            clearCount: p.maps.length,
+            userId: p.player.userId,
+            username: p.player.username,
+            totalPoints: p.stats.points,
+            clearCount: p.stats.clears,
             rank: leaderboardIdx + 1,
           });
         } else {
@@ -81,8 +93,8 @@ export async function GET(req: NextRequest) {
       title: m.title,
       artist: m.artist,
       difficultyName: m.difficultyName,
-      rank: m.rank,
-      points: m.points,
+      rank: displayByBeatmapId.get(m.beatmapId)?.displayRank ?? m.rank,
+      points: displayByBeatmapId.get(m.beatmapId)?.displayPoints ?? m.points,
     }));
 
   return NextResponse.json({ players, maps });

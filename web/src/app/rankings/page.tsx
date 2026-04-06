@@ -1,13 +1,14 @@
 import {
   getPlayers,
+  getMaps,
   getGeneratedAt,
   PLAYERS_PER_PAGE,
   getPlayerVerificationCounts,
   getPlayerVerificationCountsInRange,
   getDemonListSize,
   getMultiplierLookup,
-  playerStoredStats,
 } from "@/lib/data";
+import { computeLengthRanks, playerLengthStats } from "@/lib/lengthWeighted";
 import type { Player } from "@/lib/types";
 import { fetchCountriesForPlayers, getStoredCountries } from "@/lib/osuAuth";
 import PlayerRow from "@/components/PlayerRow";
@@ -59,12 +60,24 @@ export default async function RankingsPage({ searchParams }: Props) {
   const countryFilter = /^[A-Z]{2}$/.test(params.country ?? "") ? (params.country ?? "") : "";
 
   const demonListSize = getDemonListSize();
+  const lengthRanks = computeLengthRanks(getMaps());
+  const multiplierLookup = getMultiplierLookup();
   const { min: rankMin, max: rankMax } = parseRankRange(
     params.rankMin,
     params.rankMax,
     demonListSize
   );
   const isFullRankRange = rankMin === 1 && rankMax === demonListSize;
+  const statsCache = new Map<number, { points: number; clears: number }>();
+  const getDisplayStats = (player: Player) => {
+    const cached = statsCache.get(player.userId);
+    if (cached) {
+      return cached;
+    }
+    const stats = playerLengthStats(player, lengthRanks, multiplierLookup, rankMin, rankMax);
+    statsCache.set(player.userId, stats);
+    return stats;
+  };
 
   const verificationCountsFull = getPlayerVerificationCounts();
   const verificationCounts = isFullRankRange
@@ -72,15 +85,14 @@ export default async function RankingsPage({ searchParams }: Props) {
     : getPlayerVerificationCountsInRange(rankMin, rankMax);
 
   let players = getPlayers();
-  const multiplierLookup = getMultiplierLookup();
 
   if (sort === "clears") {
     if (isFullRankRange) {
       players = [...players].sort((a, b) => b.maps.length - a.maps.length);
     } else {
       players = [...players].sort((a, b) => {
-        const ca = playerStoredStats(a, multiplierLookup, rankMin, rankMax).clears;
-        const cb = playerStoredStats(b, multiplierLookup, rankMin, rankMax).clears;
+        const ca = getDisplayStats(a).clears;
+        const cb = getDisplayStats(b).clears;
         return cb !== ca ? cb - ca : a.userId - b.userId;
       });
     }
@@ -91,16 +103,17 @@ export default async function RankingsPage({ searchParams }: Props) {
       return vb !== va ? vb - va : a.userId - b.userId;
     });
   } else {
-    // "points" — use stored curve points with mod multipliers
+    // "points" — use display-order points with mod multipliers
     if (isFullRankRange) {
-      // JSON leaderboard is already sorted by totalPoints; re-sort to be safe
-      players = [...players].sort((a, b) =>
-        b.totalPoints !== a.totalPoints ? b.totalPoints - a.totalPoints : a.userId - b.userId
-      );
+      players = [...players].sort((a, b) => {
+        const pa = getDisplayStats(a).points;
+        const pb = getDisplayStats(b).points;
+        return pb !== pa ? pb - pa : a.userId - b.userId;
+      });
     } else {
       players = [...players].sort((a, b) => {
-        const pa = playerStoredStats(a, multiplierLookup, rankMin, rankMax).points;
-        const pb = playerStoredStats(b, multiplierLookup, rankMin, rankMax).points;
+        const pa = getDisplayStats(a).points;
+        const pb = getDisplayStats(b).points;
         return pb !== pa ? pb - pa : a.userId - b.userId;
       });
     }
@@ -224,14 +237,9 @@ export default async function RankingsPage({ searchParams }: Props) {
             let displayPoints: number;
             let displayClears: number;
 
-            if (isFullRankRange) {
-              displayPoints = player.totalPoints;
-              displayClears = player.maps.length;
-            } else {
-              const ss = playerStoredStats(player, multiplierLookup, rankMin, rankMax);
-              displayPoints = ss.points;
-              displayClears = ss.clears;
-            }
+            const ss = getDisplayStats(player);
+            displayPoints = ss.points;
+            displayClears = ss.clears;
 
             return (
               <PlayerRow

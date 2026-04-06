@@ -272,8 +272,9 @@ function buildLeaderboard(
         row = { userId: p.userId, username: p.username, totalPoints: 0, maps: [] };
         byUser.set(p.userId, row);
       }
-      row.maps.push({ beatmapId: m.beatmapId, demonRank: m.rank, points: m.points });
-      row.totalPoints += m.points * p.pointsMultiplier;
+      const awardedPoints = m.points * p.pointsMultiplier;
+      row.maps.push({ beatmapId: m.beatmapId, demonRank: m.rank, points: awardedPoints });
+      row.totalPoints += awardedPoints;
     }
   }
 

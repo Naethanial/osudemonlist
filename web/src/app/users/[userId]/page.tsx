@@ -6,7 +6,9 @@ import {
   getPlayers,
   getMapById,
   getMaps,
+  getMultiplierLookup,
 } from "@/lib/data";
+import { computeLengthRanks, playerLengthStats } from "@/lib/lengthWeighted";
 import { difficultyDisplayByBeatmapId } from "@/lib/demonListOrder";
 import type { DemonMap } from "@/lib/types";
 import { fetchOsuUserInfo } from "@/lib/osuAuth";
@@ -46,13 +48,22 @@ export default async function UserProfilePage({ params }: Props) {
   if (!player && !osuInfo) notFound();
 
   const allMaps = getMaps();
+  const lengthRanks = computeLengthRanks(allMaps);
+  const multiplierLookup = getMultiplierLookup();
 
-  // Compute rank using stored totalPoints (consistent with /rankings)
+  // Compute rank using display-order points (consistent with /rankings)
   const allPlayers = getPlayers();
-  const sortedPlayers = [...allPlayers].sort((a, b) =>
-    b.totalPoints !== a.totalPoints ? b.totalPoints - a.totalPoints : a.userId - b.userId
+  const leaderboardStats = allPlayers.map((p) => ({
+    player: p,
+    stats: playerLengthStats(p, lengthRanks, multiplierLookup, 1, lengthRanks.size),
+  }));
+  const sortedPlayers = [...leaderboardStats].sort((a, b) =>
+    b.stats.points !== a.stats.points ? b.stats.points - a.stats.points : a.player.userId - b.player.userId
   );
-  const rank = player ? sortedPlayers.findIndex((p) => p.userId === userId) + 1 : 0;
+  const playerStats = player
+    ? leaderboardStats.find((entry) => entry.player.userId === userId)?.stats ?? { points: 0, clears: 0 }
+    : { points: 0, clears: 0 };
+  const rank = player ? sortedPlayers.findIndex((entry) => entry.player.userId === userId) + 1 : 0;
 
   const countryCode = osuInfo?.countryCode ?? null;
   const displayUsername = osuInfo?.username ?? player?.username ?? `user_${userId}`;
@@ -88,8 +99,8 @@ export default async function UserProfilePage({ params }: Props) {
 
   const hardestMap = clearedMaps[0]?.map;
 
-  // Total points from stored leaderboard data (consistent with /rankings)
-  const pointsStat = player?.totalPoints ?? 0;
+  // Total points from display-order map values (consistent with /rankings)
+  const pointsStat = playerStats.points;
 
   const rankColor =
     rank === 1
