@@ -9,7 +9,9 @@ interface PlayerRowProps {
   username: string;
   totalPoints: number;
   clearCount: number;
+  verificationCount?: number;
   countryCode?: string;
+  sort?: string;
 }
 
 export default function PlayerRow({
@@ -18,7 +20,9 @@ export default function PlayerRow({
   username,
   totalPoints,
   clearCount,
+  verificationCount,
   countryCode,
+  sort = "points",
 }: PlayerRowProps) {
   const medalColor =
     rank === 1 ? "#ffd700"
@@ -34,11 +38,11 @@ export default function PlayerRow({
       {/* Main clickable row → internal profile */}
       <Link
         href={`/users/${userId}`}
-        className="player-row flex items-center gap-3 px-4 py-3 rounded-lg transition-colors"
+        className="player-row flex items-center gap-1.5 sm:gap-3 px-2 sm:px-4 py-3 rounded-lg transition-colors"
       >
         {/* Rank */}
         <div
-          className="w-10 text-right text-sm font-bold shrink-0"
+          className="w-8 sm:w-10 text-right text-sm font-bold shrink-0"
           style={{ color: rankColor }}
         >
           #{rank}
@@ -78,7 +82,7 @@ export default function PlayerRow({
         </div>
 
         {/* Username */}
-        <div className="flex-1 min-w-0 pr-7">
+        <div className="flex-1 min-w-0 sm:pr-7">
           <span
             className="text-sm font-medium truncate block group-hover:underline"
             style={{ color: accentColor }}
@@ -88,10 +92,10 @@ export default function PlayerRow({
         </div>
 
         {/* Points */}
-        <div className="text-right shrink-0 w-28">
+        <div className="text-right shrink-0 w-20 sm:w-28">
           <span
             className="text-sm font-bold tabular-nums"
-            style={{ color: accentColor }}
+            style={{ color: sort === "points" ? accentColor : "#9da0b0" }}
           >
             {totalPoints.toFixed(2)}
           </span>
@@ -100,23 +104,37 @@ export default function PlayerRow({
           </span>
         </div>
 
-        {/* Clears */}
-        <div className="text-right shrink-0 w-16">
-          <span className="text-sm tabular-nums" style={{ color: "#9da0b0" }}>
-            {clearCount}
-          </span>
-          <span className="text-xs ml-1" style={{ color: "#5a5d6e" }}>
-            clears
-          </span>
-        </div>
+        {/* Clears / Verifications — hidden on mobile, swaps based on sort on desktop */}
+        {sort === "verifications" ? (
+          <div className="hidden sm:block text-right shrink-0 w-20">
+            <span className="text-sm font-bold tabular-nums" style={{ color: accentColor }}>
+              {verificationCount ?? 0}
+            </span>
+            <span className="text-xs ml-1" style={{ color: "#5a5d6e" }}>
+              verifs
+            </span>
+          </div>
+        ) : (
+          <div className="hidden sm:block text-right shrink-0 w-16">
+            <span
+              className="text-sm tabular-nums font-bold"
+              style={{ color: sort === "clears" ? accentColor : "#9da0b0" }}
+            >
+              {clearCount}
+            </span>
+            <span className="text-xs ml-1" style={{ color: "#5a5d6e" }}>
+              clears
+            </span>
+          </div>
+        )}
       </Link>
 
-      {/* External osu! profile link — absolutely positioned to avoid <a> inside <a> */}
+      {/* External osu! profile link — hidden on mobile (hover-only feature) */}
       <a
         href={`https://osu.ppy.sh/users/${userId}`}
         target="_blank"
         rel="noopener noreferrer"
-        className="absolute right-[7.5rem] top-1/2 -translate-y-1/2 z-10 opacity-0 group-hover:opacity-60 hover:!opacity-100 transition-opacity"
+        className="hidden sm:block absolute right-[7.5rem] top-1/2 -translate-y-1/2 z-10 opacity-0 group-hover:opacity-60 hover:!opacity-100 transition-opacity"
         title="Open osu! profile"
         aria-label={`${username} on osu!`}
       >

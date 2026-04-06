@@ -114,7 +114,7 @@ export default async function UserProfilePage({ params }: Props) {
             className="absolute inset-0"
             style={{
               background:
-                "linear-gradient(135deg, rgba(18,19,24,0.95) 0%, rgba(18,19,24,0.80) 60%, rgba(18,19,24,0.6) 100%)",
+                "linear-gradient(135deg, rgba(18,19,24,0.97) 0%, rgba(18,19,24,0.88) 45%, rgba(18,19,24,0.78) 100%)",
             }}
           />
         </div>
@@ -207,10 +207,7 @@ export default async function UserProfilePage({ params }: Props) {
               />
               {hardestMap && (
                 <div>
-                  <p
-                    className="text-xs uppercase tracking-widest mb-0.5"
-                    style={{ color: "#5a5d6e" }}
-                  >
+                  <p className="text-xs uppercase tracking-widest mb-0.5 !text-white">
                     Hardest Demon
                   </p>
                   <Link
@@ -279,10 +276,7 @@ function StatPill({
 }) {
   return (
     <div>
-      <p
-        className="text-xs uppercase tracking-widest mb-0.5"
-        style={{ color: "#5a5d6e" }}
-      >
+      <p className="text-xs uppercase tracking-widest mb-0.5 !text-white">
         {label}
       </p>
       <p>
@@ -293,7 +287,7 @@ function StatPill({
           {value}
         </span>
         {suffix && (
-          <span className="text-sm ml-1" style={{ color: "#5a5d6e" }}>
+          <span className="text-sm ml-1 !text-white">
             {suffix}
           </span>
         )}

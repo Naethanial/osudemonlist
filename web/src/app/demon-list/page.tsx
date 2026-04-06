@@ -1,15 +1,38 @@
 import { getMaps, getGeneratedAt, MAPS_PER_PAGE } from "@/lib/data";
 import MapCard from "@/components/MapCard";
 import Pagination from "@/components/Pagination";
+import DemonListControls from "@/components/DemonListControls";
+import { Suspense } from "react";
 
 interface Props {
-  searchParams: Promise<{ page?: string }>;
+  searchParams: Promise<{ page?: string; sort?: string }>;
+}
+
+function sortMaps(
+  maps: ReturnType<typeof getMaps>,
+  sort: "clears" | "difficulty"
+): ReturnType<typeof getMaps> {
+  if (sort === "clears") {
+    return [...maps].sort((a, b) => {
+      const d =
+        b.qualifyingPlayers.length - a.qualifyingPlayers.length;
+      if (d !== 0) return d;
+      return a.rank - b.rank;
+    });
+  }
+  return [...maps].sort((a, b) => {
+    const d = b.difficultyRating - a.difficultyRating;
+    if (d !== 0) return d;
+    return a.rank - b.rank;
+  });
 }
 
 export default async function DemonListPage({ searchParams }: Props) {
   const params = await searchParams;
   const page = Math.max(1, parseInt(params.page ?? "1", 10) || 1);
-  const maps = getMaps();
+  const sort: "clears" | "difficulty" =
+    params.sort === "clears" ? "clears" : "difficulty";
+  const maps = sortMaps(getMaps(), sort);
   const totalPages = Math.ceil(maps.length / MAPS_PER_PAGE);
   const clampedPage = Math.min(page, totalPages);
 
@@ -48,6 +71,12 @@ export default async function DemonListPage({ searchParams }: Props) {
             timeZoneName: "short",
           })}
         </p>
+      </div>
+
+      <div className="mb-5">
+        <Suspense>
+          <DemonListControls currentSort={sort} />
+        </Suspense>
       </div>
 
       {/* Column headers */}
@@ -91,6 +120,7 @@ export default async function DemonListPage({ searchParams }: Props) {
         currentPage={clampedPage}
         totalPages={totalPages}
         basePath="/demon-list"
+        extraParams={sort !== "difficulty" ? `sort=${sort}` : ""}
       />
     </div>
   );

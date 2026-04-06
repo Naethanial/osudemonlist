@@ -6,14 +6,19 @@ interface PaginationProps {
   currentPage: number;
   totalPages: number;
   basePath: string;
+  extraParams?: string;
 }
 
 export default function Pagination({
   currentPage,
   totalPages,
   basePath,
+  extraParams,
 }: PaginationProps) {
-  const pageUrl = (p: number) => `${basePath}?page=${p}`;
+  const pageUrl = (p: number) => {
+    const extra = extraParams ? `&${extraParams}` : "";
+    return `${basePath}?page=${p}${extra}`;
+  };
 
   // Build page number list with ellipsis
   const pages: (number | "...")[] = [];

@@ -1,3 +1,6 @@
+import fs from "fs";
+import path from "path";
+
 interface TokenResponse {
   access_token: string;
   token_type: string;
@@ -44,7 +47,49 @@ async function getAccessToken(): Promise<string | null> {
   }
 }
 
+const COUNTRY_CACHE_FILE = path.join(
+  process.cwd(),
+  "..",
+  "output",
+  "countries.json"
+);
+
 const countryCache = new Map<number, string>();
+
+function loadCountryCacheFromFile(): void {
+  try {
+    const raw = fs.readFileSync(COUNTRY_CACHE_FILE, "utf-8");
+    const data = JSON.parse(raw) as Record<string, string>;
+    for (const [id, code] of Object.entries(data)) {
+      countryCache.set(Number(id), code);
+    }
+  } catch {
+    // File doesn't exist yet — populated on first full fetch
+  }
+}
+
+function saveCountryCacheToFile(): void {
+  try {
+    const data: Record<string, string> = {};
+    for (const [id, code] of countryCache) {
+      data[String(id)] = code;
+    }
+    fs.writeFileSync(COUNTRY_CACHE_FILE, JSON.stringify(data));
+  } catch {
+    // Ignore write errors (e.g. read-only filesystem)
+  }
+}
+
+// Hydrate in-process cache from disk on module load
+loadCountryCacheFromFile();
+
+/**
+ * Returns country codes that are already stored (file + in-process cache).
+ * Never makes live API calls — safe to call in server components.
+ */
+export function getStoredCountries(): Map<number, string> {
+  return new Map(countryCache);
+}
 
 export async function fetchUserCountry(userId: number): Promise<string | null> {
   if (countryCache.has(userId)) return countryCache.get(userId)!;
@@ -70,22 +115,33 @@ export async function fetchUserCountry(userId: number): Promise<string | null> {
   }
 }
 
-async function fetchOneCountry(
-  userId: number,
+// Fetch up to 50 users in one request using the bulk endpoint
+async function fetchBulkCountries(
+  userIds: number[],
   token: string
-): Promise<[number, string] | null> {
-  if (countryCache.has(userId)) return [userId, countryCache.get(userId)!];
+): Promise<void> {
+  const uncached = userIds.filter((id) => !countryCache.has(id));
+  if (uncached.length === 0) return;
+
   try {
-    const res = await fetch(`https://osu.ppy.sh/api/v2/users/${userId}/osu`, {
+    const qs = uncached.map((id) => `ids[]=${id}`).join("&");
+    const res = await fetch(`https://osu.ppy.sh/api/v2/users?${qs}`, {
       headers: { Authorization: `Bearer ${token}` },
-      signal: AbortSignal.timeout(4000),
+      signal: AbortSignal.timeout(8000),
     });
-    if (!res.ok) return null;
-    const user = (await res.json()) as OsuUser;
-    countryCache.set(userId, user.country_code);
-    return [userId, user.country_code];
+    if (!res.ok) return;
+    const data: unknown = await res.json();
+    const users: OsuUser[] = Array.isArray(data)
+      ? (data as OsuUser[])
+      : ((data as { users?: OsuUser[] }).users ?? []);
+    let anyNew = false;
+    for (const user of users) {
+      if (!countryCache.has(user.id)) anyNew = true;
+      countryCache.set(user.id, user.country_code);
+    }
+    if (anyNew) saveCountryCacheToFile();
   } catch {
-    return null;
+    // ignore — cached entries are still usable
   }
 }
 
@@ -96,16 +152,17 @@ export async function fetchCountriesForPlayers(
   const token = await getAccessToken();
   if (!token) return result;
 
-  // Fetch in parallel, 10 at a time
-  const CONCURRENCY = 10;
-  for (let i = 0; i < userIds.length; i += CONCURRENCY) {
-    const batch = userIds.slice(i, i + CONCURRENCY);
-    const entries = await Promise.all(
-      batch.map((id) => fetchOneCountry(id, token))
-    );
-    for (const entry of entries) {
-      if (entry) result.set(entry[0], entry[1]);
-    }
+  // Use bulk endpoint — 50 users per request instead of 1 each
+  const BATCH_SIZE = 50;
+  const batches: Promise<void>[] = [];
+  for (let i = 0; i < userIds.length; i += BATCH_SIZE) {
+    batches.push(fetchBulkCountries(userIds.slice(i, i + BATCH_SIZE), token));
+  }
+  await Promise.all(batches);
+
+  for (const id of userIds) {
+    const code = countryCache.get(id);
+    if (code) result.set(id, code);
   }
 
   return result;

@@ -42,3 +42,16 @@ export function getPlayerRank(userId: number): number {
 
 export const PLAYERS_PER_PAGE = 50;
 export const MAPS_PER_PAGE = 50;
+
+export function getPlayerVerificationCounts(): Map<number, number> {
+  const maps = getMaps();
+  const counts = new Map<number, number>();
+  for (const map of maps) {
+    for (const qp of map.qualifyingPlayers) {
+      if (qp.clearRole === "verified") {
+        counts.set(qp.userId, (counts.get(qp.userId) ?? 0) + 1);
+      }
+    }
+  }
+  return counts;
+}
