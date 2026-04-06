@@ -1,0 +1,133 @@
+@import "tailwindcss";
+
+/* osu! fonts — Torus (UI) + Venera (display headings) */
+@font-face {
+  font-family: "Torus";
+  src: url("/fonts/Torus-Light.otf") format("opentype");
+  font-weight: 300;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Torus";
+  src: url("/fonts/Torus-Regular.otf") format("opentype");
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Torus";
+  src: url("/fonts/Torus-SemiBold.otf") format("opentype");
+  font-weight: 600;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Torus";
+  src: url("/fonts/Torus-Bold.otf") format("opentype");
+  font-weight: 700;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Torus";
+  src: url("/fonts/Torus-Heavy.otf") format("opentype");
+  font-weight: 900;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Venera";
+  src: url("/fonts/Venera-500.otf") format("opentype");
+  font-weight: 500;
+  font-display: swap;
+}
+
+:root {
+  --bg-primary: #121318;
+  --bg-surface: #1e2028;
+  --bg-card: #23252f;
+  --accent-green: #b6e534;
+  --accent-green-dim: #8ab425;
+  --text-primary: #ffffff;
+  --text-secondary: #9da0b0;
+  --text-muted: #5a5d6e;
+  --border: #2a2d3a;
+}
+
+body {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  font-family: "Torus", "Noto Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  min-height: 100vh;
+}
+
+/* Player row hover */
+.player-row {
+  background-color: transparent;
+}
+.player-row:hover {
+  background-color: #1e2028;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: var(--bg-primary);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--border);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--text-muted);
+}
+
+/* View Transitions API — main content only (nav stays fixed) */
+.page-transition-root {
+  view-transition-name: page-content;
+  contain: layout;
+}
+
+@keyframes vt-page-out {
+  from {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+  to {
+    opacity: 0;
+    transform: translateY(-0.35rem) scale(0.995);
+  }
+}
+
+@keyframes vt-page-in {
+  from {
+    opacity: 0;
+    transform: translateY(0.5rem) scale(0.995);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+::view-transition-old(page-content) {
+  animation: vt-page-out 0.28s cubic-bezier(0.4, 0, 0.2, 1) both;
+}
+
+::view-transition-new(page-content) {
+  animation: vt-page-in 0.36s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+::view-transition-group(page-content) {
+  overflow: clip;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .page-transition-root {
+    view-transition-name: none;
+  }
+
+  ::view-transition-old(page-content),
+  ::view-transition-new(page-content) {
+    animation-duration: 0.001ms !important;
+    animation: none !important;
+  }
+}
