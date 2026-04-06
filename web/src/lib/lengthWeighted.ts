@@ -27,8 +27,12 @@ const RANK1_TARGET = 350;
 const SCALE = (RANK1_TARGET - TAIL_RAW) / (RANK1_RAW - TAIL_RAW);
 const OFFSET = TAIL_RAW * (1 - SCALE);
 
+const PRESTIGE_BOOST = 0.45;
+const PRESTIGE_DECAY = 45;
+
 export function pointsForLengthRank(rank: number): number {
-  return rawPoints(rank) * SCALE + OFFSET;
+  const base = rawPoints(rank) * SCALE + OFFSET;
+  return base * (1 + PRESTIGE_BOOST * Math.exp(-(rank - 1) / PRESTIGE_DECAY));
 }
 
 /** Combined difficulty score used to re-rank maps. */

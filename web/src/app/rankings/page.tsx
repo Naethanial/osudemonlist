@@ -1,14 +1,14 @@
 import {
   getPlayers,
-  getMaps,
   getGeneratedAt,
   PLAYERS_PER_PAGE,
   getPlayerVerificationCounts,
   getPlayerVerificationCountsInRange,
   getDemonListSize,
+  getMultiplierLookup,
+  playerStoredStats,
 } from "@/lib/data";
 import type { Player } from "@/lib/types";
-import { computeLengthRanks, playerLengthStats } from "@/lib/lengthWeighted";
 import { fetchCountriesForPlayers, getStoredCountries } from "@/lib/osuAuth";
 import PlayerRow from "@/components/PlayerRow";
 import Pagination from "@/components/Pagination";
@@ -49,13 +49,6 @@ function parseRankRange(
   return { min, max };
 }
 
-function filteredStats(player: Player, minRank: number, maxRank: number) {
-  const maps = player.maps.filter(
-    (m) => m.demonRank >= minRank && m.demonRank <= maxRank
-  );
-  const points = maps.reduce((s, m) => s + m.points, 0);
-  return { clears: maps.length, points };
-}
 
 export default async function RankingsPage({ searchParams }: Props) {
   const params = await searchParams;
@@ -79,17 +72,15 @@ export default async function RankingsPage({ searchParams }: Props) {
     : getPlayerVerificationCountsInRange(rankMin, rankMax);
 
   let players = getPlayers();
-
-  // Length-weighted ranks are always used for "points" scoring
-  const lengthRanks = computeLengthRanks(getMaps());
+  const multiplierLookup = getMultiplierLookup();
 
   if (sort === "clears") {
     if (isFullRankRange) {
       players = [...players].sort((a, b) => b.maps.length - a.maps.length);
     } else {
       players = [...players].sort((a, b) => {
-        const ca = filteredStats(a, rankMin, rankMax).clears;
-        const cb = filteredStats(b, rankMin, rankMax).clears;
+        const ca = playerStoredStats(a, multiplierLookup, rankMin, rankMax).clears;
+        const cb = playerStoredStats(b, multiplierLookup, rankMin, rankMax).clears;
         return cb !== ca ? cb - ca : a.userId - b.userId;
       });
     }
@@ -100,12 +91,19 @@ export default async function RankingsPage({ searchParams }: Props) {
       return vb !== va ? vb - va : a.userId - b.userId;
     });
   } else {
-    // "points" — always length-weighted
-    players = [...players].sort((a, b) => {
-      const pa = playerLengthStats(a, lengthRanks, rankMin, rankMax).points;
-      const pb = playerLengthStats(b, lengthRanks, rankMin, rankMax).points;
-      return pb !== pa ? pb - pa : a.userId - b.userId;
-    });
+    // "points" — use stored curve points with mod multipliers
+    if (isFullRankRange) {
+      // JSON leaderboard is already sorted by totalPoints; re-sort to be safe
+      players = [...players].sort((a, b) =>
+        b.totalPoints !== a.totalPoints ? b.totalPoints - a.totalPoints : a.userId - b.userId
+      );
+    } else {
+      players = [...players].sort((a, b) => {
+        const pa = playerStoredStats(a, multiplierLookup, rankMin, rankMax).points;
+        const pb = playerStoredStats(b, multiplierLookup, rankMin, rankMax).points;
+        return pb !== pa ? pb - pa : a.userId - b.userId;
+      });
+    }
   }
 
   // Country filter — use only stored/cached data (no live API calls)
@@ -226,18 +224,13 @@ export default async function RankingsPage({ searchParams }: Props) {
             let displayPoints: number;
             let displayClears: number;
 
-            if (sort === "clears" || sort === "verifications") {
-              // secondary "points" column still shows length-weighted total
-              const ls = playerLengthStats(player, lengthRanks, rankMin, rankMax);
-              displayPoints = ls.points;
-              displayClears = isFullRankRange
-                ? player.maps.length
-                : filteredStats(player, rankMin, rankMax).clears;
+            if (isFullRankRange) {
+              displayPoints = player.totalPoints;
+              displayClears = player.maps.length;
             } else {
-              // "points" sort — primary = length-weighted points
-              const ls = playerLengthStats(player, lengthRanks, rankMin, rankMax);
-              displayPoints = ls.points;
-              displayClears = ls.clears;
+              const ss = playerStoredStats(player, multiplierLookup, rankMin, rankMax);
+              displayPoints = ss.points;
+              displayClears = ss.clears;
             }
 
             return (

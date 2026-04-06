@@ -31,34 +31,26 @@ const TAIL_RAW = rawPointsForDemonRank(1000);
 const RANK1_RAW = rawPointsForDemonRank(1);
 const POINTS_SCALE = (RANK1_TARGET_POINTS - TAIL_RAW) / (RANK1_RAW - TAIL_RAW);
 const POINTS_OFFSET = TAIL_RAW * (1 - POINTS_SCALE);
-const MIDRANGE_BOOST = 0.04;
 
-function smoothStep(edge0: number, edge1: number, x: number): number {
-  if (edge0 === edge1) {
-    return x < edge0 ? 0 : 1;
-  }
+/** Prestige multiplier: exponential decay from rank 1 so clearing harder maps is meaningfully more valuable. */
+const PRESTIGE_BOOST = 0.45;
+const PRESTIGE_DECAY = 45;
 
-  const t = Math.max(0, Math.min(1, (x - edge0) / (edge1 - edge0)));
-  return t * t * (3 - 2 * t);
-}
-
-function midrangeMultiplier(x: number): number {
-  // Lift the 200-400 range a little without turning the curve into a visible hump.
-  const rise = smoothStep(200, 220, x);
-  const fall = 1 - smoothStep(380, 400, x);
-  return 1 + MIDRANGE_BOOST * rise * fall;
+function prestigeMultiplier(x: number): number {
+  return 1 + PRESTIGE_BOOST * Math.exp(-(x - 1) / PRESTIGE_DECAY);
 }
 
 /**
  * Points y for demon list map position x (rank ≥ 1). Affine boost vs the legacy curve:
  * rank 1 → ~350 base, rank 1000 unchanged, everything in between scaled consistently; ranks beyond 1000 use the same formula.
+ * A prestige multiplier (exponential decay from rank 1) further rewards top-tier clears.
  */
 export function pointsForDemonRank(x: number): number {
   if (x < 1) {
     throw new RangeError(`demon rank x must be >= 1, got ${x}`);
   }
 
-  return (rawPointsForDemonRank(x) * POINTS_SCALE + POINTS_OFFSET) * midrangeMultiplier(x);
+  return (rawPointsForDemonRank(x) * POINTS_SCALE + POINTS_OFFSET) * prestigeMultiplier(x);
 }
 
 function normalizeMods(mods: OsuScore["mods"]): string[] {

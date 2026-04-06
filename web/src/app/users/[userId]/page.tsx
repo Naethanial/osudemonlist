@@ -6,10 +6,8 @@ import {
   getPlayers,
   getMapById,
   getMaps,
-  getDemonListSize,
 } from "@/lib/data";
 import { difficultyDisplayByBeatmapId } from "@/lib/demonListOrder";
-import { computeLengthRanks, playerLengthStats } from "@/lib/lengthWeighted";
 import type { DemonMap } from "@/lib/types";
 import { fetchOsuUserInfo } from "@/lib/osuAuth";
 
@@ -48,16 +46,12 @@ export default async function UserProfilePage({ params }: Props) {
   if (!player && !osuInfo) notFound();
 
   const allMaps = getMaps();
-  const demonListSize = getDemonListSize();
-  const lengthRanks = computeLengthRanks(allMaps);
 
-  // Compute rank using the same length-weighted sort as /rankings
+  // Compute rank using stored totalPoints (consistent with /rankings)
   const allPlayers = getPlayers();
-  const sortedPlayers = [...allPlayers].sort((a, b) => {
-    const pa = playerLengthStats(a, lengthRanks, 1, demonListSize).points;
-    const pb = playerLengthStats(b, lengthRanks, 1, demonListSize).points;
-    return pb !== pa ? pb - pa : a.userId - b.userId;
-  });
+  const sortedPlayers = [...allPlayers].sort((a, b) =>
+    b.totalPoints !== a.totalPoints ? b.totalPoints - a.totalPoints : a.userId - b.userId
+  );
   const rank = player ? sortedPlayers.findIndex((p) => p.userId === userId) + 1 : 0;
 
   const countryCode = osuInfo?.countryCode ?? null;
@@ -76,8 +70,8 @@ export default async function UserProfilePage({ params }: Props) {
       const qp = map.qualifyingPlayers.find((q) => q.userId === userId);
       const multiplier = qp?.pointsMultiplier ?? 1;
       const clearRole = qp?.clearRole ?? "victor";
-      // Use length-weighted points without mod multiplier — consistent with /rankings
-      const earnedPoints = disp.displayPoints;
+      // Length-weighted base points × mod multiplier (same breakdown as the × badge)
+      const earnedPoints = disp.displayPoints * multiplier;
       return {
         map,
         demonListRank: disp.displayRank,
@@ -94,10 +88,8 @@ export default async function UserProfilePage({ params }: Props) {
 
   const hardestMap = clearedMaps[0]?.map;
 
-  // Total points via the same playerLengthStats formula used on /rankings
-  const pointsStat = player
-    ? playerLengthStats(player, lengthRanks, 1, demonListSize).points
-    : 0;
+  // Total points from stored leaderboard data (consistent with /rankings)
+  const pointsStat = player?.totalPoints ?? 0;
 
   const rankColor =
     rank === 1

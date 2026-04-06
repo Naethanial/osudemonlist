@@ -11,7 +11,7 @@ export type DemonMapWithDisplay = DemonMap & {
 /**
  * Default demon list order: length-weighted combined difficulty (same as /demon-list with
  * "Difficulty" sort). `displayRank` 1 = top row on that page; `displayPoints` matches the
- * points shown there (not raw JSON `map.rank` / `map.points`).
+ * list's own descending display curve.
  */
 export function getDifficultySortedMaps(maps: DemonMap[]): DemonMapWithDisplay[] {
   const lengthRanks = computeLengthRanks(maps);

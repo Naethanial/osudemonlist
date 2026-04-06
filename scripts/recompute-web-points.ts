@@ -1,6 +1,7 @@
 /**
- * Re-applies `pointsForDemonRank` to web/data/leaderboard.json and regenerates
- * .csv / .md (same shapes as src/index.ts writeExports).
+ * Re-applies `pointsForDemonRank` to web/data/leaderboard.json using the
+ * current demon-list ordering and regenerates .csv / .md
+ * (same shapes as src/index.ts writeExports).
  */
 import { readFileSync, writeFileSync } from "node:fs";
 import { dirname, join } from "node:path";
@@ -9,6 +10,12 @@ import { pointsForDemonRank } from "../src/scoring.ts";
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 const dataPath = join(root, "web/data/leaderboard.json");
+
+function mapCombinedScore(stars: number, hitLength: number): number {
+  const refSeconds = 90;
+  const lengthAlpha = 0.075;
+  return stars * Math.pow(Math.max(hitLength, 1) / refSeconds, lengthAlpha);
+}
 
 type Json = {
   generatedAt: string;
@@ -20,7 +27,9 @@ type Json = {
     title: string;
     difficultyName: string;
     difficultyRating: number;
+    hitLength?: number;
     qualifyingPlayers: Array<{
+      userId: number;
       username: string;
       clearRole: string;
       victorNumber: number | null;
@@ -38,13 +47,29 @@ type Json = {
 const raw = readFileSync(dataPath, "utf8");
 const data = JSON.parse(raw) as Json;
 
-const mapById = new Map<number, { oldBase: number; newBase: number }>();
-for (const m of data.maps) {
+const orderedMaps = [...data.maps].sort((a, b) => {
+  const sa = mapCombinedScore(a.difficultyRating, a.hitLength ?? 90);
+  const sb = mapCombinedScore(b.difficultyRating, b.hitLength ?? 90);
+  return sb !== sa ? sb - sa : a.rank - b.rank;
+});
+
+const mapById = new Map<number, { oldBase: number; newBase: number; newRank: number }>();
+const multiplierByMapId = new Map<number, Map<number, number>>();
+data.maps = orderedMaps.map((m, index) => {
   const oldBase = m.points;
-  const newBase = pointsForDemonRank(m.rank);
-  mapById.set(m.beatmapId, { oldBase, newBase });
-  m.points = newBase;
-}
+  const newRank = index + 1;
+  const newBase = pointsForDemonRank(newRank);
+  mapById.set(m.beatmapId, { oldBase, newBase, newRank });
+  multiplierByMapId.set(
+    m.beatmapId,
+    new Map(m.qualifyingPlayers.map((p) => [p.userId, p.pointsMultiplier])),
+  );
+  return {
+    ...m,
+    rank: newRank,
+    points: newBase,
+  };
+});
 
 for (const p of data.leaderboard) {
   let total = 0;
@@ -53,8 +78,13 @@ for (const p of data.leaderboard) {
     if (!e) {
       throw new Error(`beatmap ${pm.beatmapId} missing from maps`);
     }
+    pm.demonRank = e.newRank;
     pm.points = pm.points * (e.newBase / e.oldBase);
-    total += pm.points;
+    const multiplier = multiplierByMapId.get(pm.beatmapId)?.get(p.userId);
+    if (multiplier == null) {
+      throw new Error(`player ${p.userId} missing multiplier for beatmap ${pm.beatmapId}`);
+    }
+    total += pm.points * multiplier;
   }
   p.totalPoints = total;
 }

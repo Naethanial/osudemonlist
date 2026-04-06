@@ -97,3 +97,39 @@ export function getPlayerVerificationCounts(): Map<number, number> {
   }
   return counts;
 }
+
+/** beatmapId → userId → pointsMultiplier, built from the maps qualifyingPlayers list. */
+export function getMultiplierLookup(): Map<number, Map<number, number>> {
+  const maps = getMaps();
+  const lookup = new Map<number, Map<number, number>>();
+  for (const m of maps) {
+    const inner = new Map<number, number>();
+    for (const qp of m.qualifyingPlayers) {
+      inner.set(qp.userId, qp.pointsMultiplier);
+    }
+    lookup.set(m.beatmapId, inner);
+  }
+  return lookup;
+}
+
+/**
+ * Computes a player's stored points (pm.points × mod multiplier) and clear count,
+ * filtered to maps whose demon rank is in [minRank, maxRank].
+ * Consistent with leaderboard.json totalPoints.
+ */
+export function playerStoredStats(
+  player: Player,
+  multiplierLookup: Map<number, Map<number, number>>,
+  minRank: number,
+  maxRank: number
+): { points: number; clears: number } {
+  let points = 0;
+  let clears = 0;
+  for (const pm of player.maps) {
+    if (pm.demonRank < minRank || pm.demonRank > maxRank) continue;
+    const multiplier = multiplierLookup.get(pm.beatmapId)?.get(player.userId) ?? 1;
+    points += pm.points * multiplier;
+    clears++;
+  }
+  return { points, clears };
+}

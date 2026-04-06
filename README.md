@@ -39,7 +39,7 @@ The raw values are then linearly scaled so that f(1) is 350 points.
 points(x) = (f(x) × scale + offset) × midrangeMultiplier(x)
 ```
 
- `midrangeMultiplier(x)` is `1 + 0.04 × smoothstep(200, 220, x) × (1 − smoothstep(380, 400, x))`.
+ `midrangeMultiplier(x)` is `1 + 0.01 × smoothstep(200, 220, x) × (1 − smoothstep(380, 400, x))`.
 
 The full system is in [`src/scoring.ts`](src/scoring.ts).
 
