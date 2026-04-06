@@ -1,7 +1,7 @@
 import type { OsuScore } from "./types.js";
 
 /**
- * Points y for demon list map position x (1..300) from the piecewise formula.
+ * Points y for demon list map position x (1..1000) from the piecewise formula.
  */
 export function pointsForDemonRank(x: number): number {
   if (x < 1) {
@@ -9,7 +9,8 @@ export function pointsForDemonRank(x: number): number {
   }
 
   if (x > 55) {
-    return 64.767 - 0.149224 * x;
+    const start = 56.559857;
+    return start * Math.exp(-0.005 * (x - 55));
   }
 
   if (x > 35) {

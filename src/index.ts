@@ -26,8 +26,8 @@ interface CliOptions {
 }
 
 function parseArgs(argv: string[]): CliOptions {
-  let targetCount = 300;
-  let maxSearchPages = 400;
+  let targetCount = 1000;
+  let maxSearchPages = 1200;
   let delayMs = 120;
   let outputDir = join(ROOT, "output");
   let sampleOnly: number | null = null;
@@ -35,9 +35,9 @@ function parseArgs(argv: string[]): CliOptions {
 
   for (const arg of argv) {
     if (arg.startsWith("--target=")) {
-      targetCount = Math.max(1, parseInt(arg.slice("--target=".length), 10) || 300);
+      targetCount = Math.max(1, parseInt(arg.slice("--target=".length), 10) || 1000);
     } else if (arg.startsWith("--max-pages=")) {
-      maxSearchPages = Math.max(1, parseInt(arg.slice("--max-pages=".length), 10) || 400);
+      maxSearchPages = Math.max(1, parseInt(arg.slice("--max-pages=".length), 10) || 1200);
     } else if (arg.startsWith("--delay-ms=")) {
       delayMs = Math.max(0, parseInt(arg.slice("--delay-ms=".length), 10) || 0);
     } else if (arg.startsWith("--out=")) {
@@ -59,7 +59,7 @@ function isAllowedStatus(status: string | undefined): boolean {
     return false;
   }
   const s = status.toLowerCase();
-  return s === "ranked" || s === "loved" || s === "1" || s === "8";
+  return s === "ranked" || s === "1";
 }
 
 function collectAllowedOsuBeatmaps(
@@ -293,7 +293,7 @@ async function main(): Promise<void> {
     `Building demon list: ${effectiveTarget} hardest ranked osu! maps that have ≥1 qualifying FC (NM or CL only, ${fcMode}).`,
   );
 
-  const statuses: Array<"ranked" | "loved"> = ["ranked", "loved"];
+  const statuses: Array<"ranked"> = ["ranked"];
   for (const status of statuses) {
     let cursor: string | undefined;
     while (pages < opts.maxSearchPages) {
@@ -385,9 +385,9 @@ async function main(): Promise<void> {
       includeLegacyAndLazerScores: true,
       demonListSize: demonMaps.length,
       selection:
-        "hardest_ranked_plus_loved_beatmaps_first_until_N_each_with_at_least_one_qualifying_fc_nm_cl_hd_hr",
+        "hardest_ranked_beatmaps_first_until_N_each_with_at_least_one_qualifying_fc_nm_cl_hd_hr",
       note:
-        "Per-map scores are whatever the osu API returns for the global leaderboard; very deep FCs may be omitted if not in that payload. Scores must reach at least 95% of map max combo, and loved maps are included alongside ranked maps.",
+        "Per-map scores are whatever the osu API returns for the global leaderboard; very deep FCs may be omitted if not in that payload. Scores must reach at least 95% of map max combo.",
     },
     maps: demonMaps,
     leaderboard: buildLeaderboard(demonMaps),
