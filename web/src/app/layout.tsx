@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Analytics } from "@vercel/analytics/react";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 import "./globals.css";
 import Nav from "@/components/Nav";
 import ViewTransitionsProvider from "@/components/ViewTransitionsProvider";
@@ -24,6 +25,7 @@ export default function RootLayout({
           <MapQueueForm />
         </ViewTransitionsProvider>
         <Analytics />
+        <SpeedInsights />
       </body>
     </html>
   );
