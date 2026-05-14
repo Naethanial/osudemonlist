@@ -46,6 +46,7 @@ userId,username,totalPoints
 12118967,"Zentoro",712.780054
 1860489,"_Shield",700.317784
 11553627,"Jemzsee",698.566307
+5527745,"Abyssal",695.694424
 14992852,"lil bread",695.060991
 15225729,"-IZZY",686.769862
 2932510,"wuhua",682.580276
@@ -57,14 +58,13 @@ userId,username,totalPoints
 16139008,"sharytory",648.359611
 3345902,"Varvalian",638.941143
 15339747,"runnysunny",591.622525
-2511839,"NeliNyan",582.865779
+2511839,"NeliNyan",586.965486
 2214428,"Shower Head",576.438786
 7075211,"tekkito",573.817952
 14676719,"TTv_UFO",569.232392
 14503423,"misha awa",563.596114
 10634348,"EthantrixV3",556.070647
 11399348,"fragranceofpage",554.352420
-5527745,"Abyssal",553.220192
 7918057,"Shyot73",547.454509
 4511522,"Doomsday fanboy",546.199762
 6157605,"Topoi",543.998924
@@ -430,6 +430,7 @@ userId,username,totalPoints
 18047920,"Froinks",75.834946
 11320627,"MejiroMcQueen",75.414413
 8573172,"Lightedd",75.287817
+10345787,"obkatiekat",75.276530
 4112304,"FINGERLOCK",75.074547
 11828209,"Aerodite",75.071631
 7611178,"coughing baby",75.046424
@@ -441,7 +442,6 @@ userId,username,totalPoints
 13407873,"Ex Merami",73.673820
 15802126,"Nederland",73.673820
 6215032,"Aoi Kiseki",73.562375
-10345787,"obkatiekat",73.201791
 5447609,"Demonical",72.759572
 11507406,"DecoysIsBored",71.940943
 9923423,"RageMuffin",71.601083
@@ -1133,7 +1133,6 @@ userId,username,totalPoints
 12762744,"Toilet Player",9.964572
 10601725,"Senzek",9.818706
 20811939,"iweezz",9.797036
-8040245,"Skellers",9.777501
 15658574,"ratbutbuff",9.731423
 2003326,"emilia",9.703117
 12045254,"XenoPenguino",9.666061
@@ -1199,6 +1198,7 @@ userId,username,totalPoints
 17994125,"kulerbruh",7.762484
 12482926,"zoomiee",7.749328
 4291505,"TheRainHome",7.702762
+8040245,"Skellers",7.702762
 9858112,"AdonisXVIII",7.702324
 4460587,"Edviskrc",7.683812
 11305398,"Pancho",7.682585
