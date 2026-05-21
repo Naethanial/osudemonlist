@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T05:25:55.863Z",
+  "generatedAt": "2026-05-21T16:34:07.751Z",
   "criteria": {
     "ruleset": "osu",
     "rankedOnly": true,
@@ -2081,7 +2081,7 @@
         },
         {
           "userId": 13872859,
-          "username": "doctor mojo",
+          "username": "SheDiK YT",
           "scoreId": 6607094297,
           "pointsMultiplier": 1,
           "clearedAt": "2026-04-28T16:13:32Z",
@@ -26679,6 +26679,15 @@
           "clearedAt": "2026-05-20T15:07:11Z",
           "clearRole": "victor",
           "victorNumber": 19
+        },
+        {
+          "userId": 16762558,
+          "username": "Peterbot",
+          "scoreId": 6734860869,
+          "pointsMultiplier": 1,
+          "clearedAt": "2026-05-21T15:31:57Z",
+          "clearRole": "victor",
+          "victorNumber": 20
         }
       ],
       "rank": 308,
@@ -39839,7 +39848,7 @@
         },
         {
           "userId": 19469420,
-          "username": "Ahwokn",
+          "username": "Pakjinwoo",
           "scoreId": 5948746327,
           "pointsMultiplier": 1.2,
           "clearedAt": "2025-12-24T05:06:40Z",
@@ -48908,7 +48917,7 @@
         },
         {
           "userId": 19469420,
-          "username": "Ahwokn",
+          "username": "Pakjinwoo",
           "scoreId": 5797134402,
           "pointsMultiplier": 1.05,
           "clearedAt": "2025-11-24T13:34:31Z",
@@ -80531,7 +80540,7 @@
         },
         {
           "userId": 19469420,
-          "username": "Ahwokn",
+          "username": "Pakjinwoo",
           "scoreId": 5942766119,
           "pointsMultiplier": 1.26,
           "clearedAt": "2025-12-23T00:59:53Z",
@@ -102379,6 +102388,15 @@
           "clearedAt": "2026-04-30T18:39:48Z",
           "clearRole": "victor",
           "victorNumber": 23
+        },
+        {
+          "userId": 1906975,
+          "username": "Hellotomlol225",
+          "scoreId": 6734060819,
+          "pointsMultiplier": 1,
+          "clearedAt": "2026-05-21T12:58:58Z",
+          "clearRole": "victor",
+          "victorNumber": 24
         }
       ],
       "rank": 882,
@@ -115891,7 +115909,7 @@
         },
         {
           "userId": 19469420,
-          "username": "Ahwokn",
+          "username": "Pakjinwoo",
           "scoreId": 5656790027,
           "pointsMultiplier": 1.05,
           "clearedAt": "2025-10-26T15:48:47Z",
@@ -159018,6 +159036,63 @@
       ]
     },
     {
+      "userId": 1906975,
+      "username": "Hellotomlol225",
+      "totalPoints": 114.11024530399067,
+      "maps": [
+        {
+          "beatmapId": 3569579,
+          "demonRank": 177,
+          "points": 43.2341980385325
+        },
+        {
+          "beatmapId": 3591050,
+          "demonRank": 275,
+          "points": 26.198757594540886
+        },
+        {
+          "beatmapId": 3588981,
+          "demonRank": 306,
+          "points": 22.39673601699054
+        },
+        {
+          "beatmapId": 3967922,
+          "demonRank": 541,
+          "points": 6.77402082691603
+        },
+        {
+          "beatmapId": 2991731,
+          "demonRank": 545,
+          "points": 6.635902725989423
+        },
+        {
+          "beatmapId": 1977469,
+          "demonRank": 752,
+          "points": 2.227581631762842
+        },
+        {
+          "beatmapId": 2687455,
+          "demonRank": 758,
+          "points": 2.155803409306379
+        },
+        {
+          "beatmapId": 5181225,
+          "demonRank": 794,
+          "points": 1.7675521583268374
+        },
+        {
+          "beatmapId": 1626300,
+          "demonRank": 806,
+          "points": 1.6529071212273332
+        },
+        {
+          "beatmapId": 4509879,
+          "demonRank": 882,
+          "points": 1.0667857803978953
+        }
+      ]
+    },
+    {
       "userId": 17008453,
       "username": "shinomontaj",
       "totalPoints": 113.84932961902547,
@@ -159151,58 +159226,6 @@
       ]
     },
     {
-      "userId": 1906975,
-      "username": "Hellotomlol225",
-      "totalPoints": 113.04345952359277,
-      "maps": [
-        {
-          "beatmapId": 3569579,
-          "demonRank": 177,
-          "points": 43.2341980385325
-        },
-        {
-          "beatmapId": 3591050,
-          "demonRank": 275,
-          "points": 26.198757594540886
-        },
-        {
-          "beatmapId": 3588981,
-          "demonRank": 306,
-          "points": 22.39673601699054
-        },
-        {
-          "beatmapId": 3967922,
-          "demonRank": 541,
-          "points": 6.77402082691603
-        },
-        {
-          "beatmapId": 2991731,
-          "demonRank": 545,
-          "points": 6.635902725989423
-        },
-        {
-          "beatmapId": 1977469,
-          "demonRank": 752,
-          "points": 2.227581631762842
-        },
-        {
-          "beatmapId": 2687455,
-          "demonRank": 758,
-          "points": 2.155803409306379
-        },
-        {
-          "beatmapId": 5181225,
-          "demonRank": 794,
-          "points": 1.7675521583268374
-        },
-        {
-          "beatmapId": 1626300,
-          "demonRank": 806,
-          "points": 1.6529071212273332
-        }
-      ]
-    },
-    {
       "userId": 21207816,
       "username": "bored yes",
       "totalPoints": 112.83182918255942,
@@ -159320,7 +159343,7 @@
     },
     {
       "userId": 13872859,
-      "username": "doctor mojo",
+      "username": "SheDiK YT",
       "totalPoints": 111.37988555624388,
       "maps": [
         {
@@ -169397,6 +169420,23 @@
       ]
     },
     {
+      "userId": 16762558,
+      "username": "Peterbot",
+      "totalPoints": 43.463837585801635,
+      "maps": [
+        {
+          "beatmapId": 5576887,
+          "demonRank": 308,
+          "points": 22.17138914751446
+        },
+        {
+          "beatmapId": 5423979,
+          "demonRank": 316,
+          "points": 21.292448438287174
+        }
+      ]
+    },
+    {
       "userId": 9397144,
       "username": "[RyuTell]",
       "totalPoints": 43.43372375534088,
@@ -174624,7 +174664,7 @@
     },
     {
       "userId": 19469420,
-      "username": "Ahwokn",
+      "username": "Pakjinwoo",
       "totalPoints": 26.778918173518694,
       "maps": [
         {
@@ -176248,18 +176288,6 @@
     {
       "userId": 11141578,
       "username": "Emilbus",
-      "totalPoints": 21.292448438287174,
-      "maps": [
-        {
-          "beatmapId": 5423979,
-          "demonRank": 316,
-          "points": 21.292448438287174
-        }
-      ]
-    },
-    {
-      "userId": 16762558,
-      "username": "Peterbot",
       "totalPoints": 21.292448438287174,
       "maps": [
         {
