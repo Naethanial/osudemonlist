@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T16:48:34.250Z",
+  "generatedAt": "2026-05-21T05:25:55.863Z",
   "criteria": {
     "ruleset": "osu",
     "rankedOnly": true,
@@ -10793,6 +10793,15 @@
           "clearedAt": "2026-03-27T14:01:02Z",
           "clearRole": "victor",
           "victorNumber": 2
+        },
+        {
+          "userId": 39332026,
+          "username": "Deshbroun",
+          "scoreId": 6731173498,
+          "pointsMultiplier": 1,
+          "clearedAt": "2026-05-20T21:15:26Z",
+          "clearRole": "victor",
+          "victorNumber": 3
         }
       ],
       "rank": 184,
@@ -36417,7 +36426,7 @@
         },
         {
           "userId": 2571893,
-          "username": "mithew",
+          "username": "sharpnel",
           "scoreId": 4824379426,
           "pointsMultiplier": 1,
           "clearedAt": "2025-05-10T23:07:14Z",
@@ -46376,6 +46385,15 @@
           "clearedAt": "2026-04-24T14:22:33Z",
           "clearRole": "victor",
           "victorNumber": 1
+        },
+        {
+          "userId": 6646269,
+          "username": "1v9",
+          "scoreId": 6731429984,
+          "pointsMultiplier": 1,
+          "clearedAt": "2026-05-20T22:22:28Z",
+          "clearRole": "victor",
+          "victorNumber": 2
         }
       ],
       "rank": 487,
@@ -78436,6 +78454,15 @@
           "clearedAt": "2026-05-19T06:10:45Z",
           "clearRole": "victor",
           "victorNumber": 35
+        },
+        {
+          "userId": 20272827,
+          "username": "Erick71208",
+          "scoreId": 6731559449,
+          "pointsMultiplier": 1,
+          "clearedAt": "2026-05-20T23:00:15Z",
+          "clearRole": "victor",
+          "victorNumber": 36
         }
       ],
       "rank": 726,
@@ -86606,22 +86633,13 @@
           "victorNumber": 6
         },
         {
-          "userId": 19579091,
-          "username": "HDD",
-          "scoreId": 6356174638,
-          "pointsMultiplier": 1,
-          "clearedAt": "2026-03-12T20:47:30Z",
-          "clearRole": "victor",
-          "victorNumber": 7
-        },
-        {
           "userId": 14936897,
           "username": "-Hiikari-",
           "scoreId": 6359522170,
           "pointsMultiplier": 1,
           "clearedAt": "2026-03-13T14:52:52Z",
           "clearRole": "victor",
-          "victorNumber": 8
+          "victorNumber": 7
         },
         {
           "userId": 12110337,
@@ -86630,7 +86648,7 @@
           "pointsMultiplier": 1.26,
           "clearedAt": "2026-03-15T05:30:30Z",
           "clearRole": "victor",
-          "victorNumber": 9
+          "victorNumber": 8
         },
         {
           "userId": 11310423,
@@ -86639,7 +86657,7 @@
           "pointsMultiplier": 1.2,
           "clearedAt": "2026-03-15T12:36:11Z",
           "clearRole": "victor",
-          "victorNumber": 10
+          "victorNumber": 9
         },
         {
           "userId": 23925029,
@@ -86648,7 +86666,7 @@
           "pointsMultiplier": 1.2,
           "clearedAt": "2026-03-16T10:21:38Z",
           "clearRole": "victor",
-          "victorNumber": 11
+          "victorNumber": 10
         },
         {
           "userId": 22771682,
@@ -86657,7 +86675,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2026-03-20T23:42:06Z",
           "clearRole": "victor",
-          "victorNumber": 12
+          "victorNumber": 11
         },
         {
           "userId": 14457718,
@@ -86666,7 +86684,7 @@
           "pointsMultiplier": 1.26,
           "clearedAt": "2026-03-22T22:51:56Z",
           "clearRole": "victor",
-          "victorNumber": 13
+          "victorNumber": 12
         },
         {
           "userId": 14476231,
@@ -86675,7 +86693,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2026-03-24T12:22:07Z",
           "clearRole": "victor",
-          "victorNumber": 14
+          "victorNumber": 13
         },
         {
           "userId": 14715031,
@@ -86684,7 +86702,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2026-03-26T05:09:15Z",
           "clearRole": "victor",
-          "victorNumber": 15
+          "victorNumber": 14
         },
         {
           "userId": 32036751,
@@ -86693,7 +86711,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2026-03-27T00:59:10Z",
           "clearRole": "victor",
-          "victorNumber": 16
+          "victorNumber": 15
         },
         {
           "userId": 11710853,
@@ -86702,7 +86720,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2026-03-31T01:02:01Z",
           "clearRole": "victor",
-          "victorNumber": 17
+          "victorNumber": 16
         },
         {
           "userId": 21177947,
@@ -86711,7 +86729,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2026-04-02T07:09:45Z",
           "clearRole": "victor",
-          "victorNumber": 18
+          "victorNumber": 17
         },
         {
           "userId": 20811939,
@@ -86720,7 +86738,7 @@
           "pointsMultiplier": 1.2,
           "clearedAt": "2026-04-02T21:32:15Z",
           "clearRole": "victor",
-          "victorNumber": 19
+          "victorNumber": 18
         },
         {
           "userId": 11410595,
@@ -86729,7 +86747,7 @@
           "pointsMultiplier": 1.26,
           "clearedAt": "2026-04-05T16:13:57Z",
           "clearRole": "victor",
-          "victorNumber": 20
+          "victorNumber": 19
         },
         {
           "userId": 8217695,
@@ -86738,7 +86756,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2026-04-07T07:17:09Z",
           "clearRole": "victor",
-          "victorNumber": 21
+          "victorNumber": 20
         },
         {
           "userId": 2199427,
@@ -86747,7 +86765,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2026-04-08T11:44:55Z",
           "clearRole": "victor",
-          "victorNumber": 22
+          "victorNumber": 21
         },
         {
           "userId": 8529128,
@@ -86756,7 +86774,7 @@
           "pointsMultiplier": 1.26,
           "clearedAt": "2026-04-08T21:10:43Z",
           "clearRole": "victor",
-          "victorNumber": 23
+          "victorNumber": 22
         },
         {
           "userId": 32364013,
@@ -86765,7 +86783,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2026-04-10T19:56:51Z",
           "clearRole": "victor",
-          "victorNumber": 24
+          "victorNumber": 23
         },
         {
           "userId": 8629003,
@@ -86774,7 +86792,7 @@
           "pointsMultiplier": 1.2,
           "clearedAt": "2026-04-15T06:07:07Z",
           "clearRole": "victor",
-          "victorNumber": 25
+          "victorNumber": 24
         },
         {
           "userId": 7339759,
@@ -86783,7 +86801,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2026-04-23T16:26:43Z",
           "clearRole": "victor",
-          "victorNumber": 26
+          "victorNumber": 25
         },
         {
           "userId": 19971762,
@@ -86792,7 +86810,7 @@
           "pointsMultiplier": 1.05,
           "clearedAt": "2026-04-24T17:40:31Z",
           "clearRole": "victor",
-          "victorNumber": 27
+          "victorNumber": 26
         },
         {
           "userId": 21541003,
@@ -86801,7 +86819,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2026-04-29T15:22:23Z",
           "clearRole": "victor",
-          "victorNumber": 28
+          "victorNumber": 27
         },
         {
           "userId": 32029785,
@@ -86810,7 +86828,7 @@
           "pointsMultiplier": 1.05,
           "clearedAt": "2026-05-01T10:11:56Z",
           "clearRole": "victor",
-          "victorNumber": 29
+          "victorNumber": 28
         },
         {
           "userId": 15279191,
@@ -86819,7 +86837,7 @@
           "pointsMultiplier": 1.2,
           "clearedAt": "2026-05-04T22:11:06Z",
           "clearRole": "victor",
-          "victorNumber": 30
+          "victorNumber": 29
         },
         {
           "userId": 11895642,
@@ -86828,7 +86846,7 @@
           "pointsMultiplier": 1.05,
           "clearedAt": "2026-05-05T17:00:16Z",
           "clearRole": "victor",
-          "victorNumber": 31
+          "victorNumber": 30
         },
         {
           "userId": 12133987,
@@ -86837,7 +86855,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2026-05-08T01:41:20Z",
           "clearRole": "victor",
-          "victorNumber": 32
+          "victorNumber": 31
         },
         {
           "userId": 7133185,
@@ -86846,7 +86864,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2026-05-12T20:19:19Z",
           "clearRole": "victor",
-          "victorNumber": 33
+          "victorNumber": 32
         },
         {
           "userId": 5276218,
@@ -86855,7 +86873,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2026-05-14T02:29:43Z",
           "clearRole": "victor",
-          "victorNumber": 34
+          "victorNumber": 33
         },
         {
           "userId": 10345787,
@@ -86864,7 +86882,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2026-05-14T14:37:53Z",
           "clearRole": "victor",
-          "victorNumber": 35
+          "victorNumber": 34
         },
         {
           "userId": 9708920,
@@ -86872,6 +86890,15 @@
           "scoreId": 6723546930,
           "pointsMultiplier": 1,
           "clearedAt": "2026-05-19T13:48:10Z",
+          "clearRole": "victor",
+          "victorNumber": 35
+        },
+        {
+          "userId": 16358749,
+          "username": "HiHallo124",
+          "scoreId": 6730564382,
+          "pointsMultiplier": 1.2,
+          "clearedAt": "2026-05-20T19:07:47Z",
           "clearRole": "victor",
           "victorNumber": 36
         }
@@ -94462,22 +94489,13 @@
           "victorNumber": 6
         },
         {
-          "userId": 6761714,
-          "username": "Harpy",
-          "scoreId": 1506776474,
-          "pointsMultiplier": 1,
-          "clearedAt": "2022-03-17T20:07:51Z",
-          "clearRole": "victor",
-          "victorNumber": 7
-        },
-        {
           "userId": 11684622,
           "username": "Sh4rq_",
           "scoreId": 1507531291,
           "pointsMultiplier": 1,
           "clearedAt": "2022-03-18T17:30:36Z",
           "clearRole": "victor",
-          "victorNumber": 8
+          "victorNumber": 7
         },
         {
           "userId": 124493,
@@ -94486,7 +94504,7 @@
           "pointsMultiplier": 1.05,
           "clearedAt": "2022-04-08T00:58:07Z",
           "clearRole": "victor",
-          "victorNumber": 9
+          "victorNumber": 8
         },
         {
           "userId": 14290988,
@@ -94495,7 +94513,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2022-07-23T19:06:41Z",
           "clearRole": "victor",
-          "victorNumber": 10
+          "victorNumber": 9
         },
         {
           "userId": 5033077,
@@ -94504,7 +94522,7 @@
           "pointsMultiplier": 1.26,
           "clearedAt": "2022-07-28T16:51:49Z",
           "clearRole": "victor",
-          "victorNumber": 11
+          "victorNumber": 10
         },
         {
           "userId": 4415285,
@@ -94513,7 +94531,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2022-08-09T06:44:32Z",
           "clearRole": "victor",
-          "victorNumber": 12
+          "victorNumber": 11
         },
         {
           "userId": 6304246,
@@ -94522,7 +94540,7 @@
           "pointsMultiplier": 1.2,
           "clearedAt": "2022-08-10T09:08:44Z",
           "clearRole": "victor",
-          "victorNumber": 13
+          "victorNumber": 12
         },
         {
           "userId": 8660293,
@@ -94531,7 +94549,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2022-08-12T14:29:11Z",
           "clearRole": "victor",
-          "victorNumber": 14
+          "victorNumber": 13
         },
         {
           "userId": 12159899,
@@ -94540,7 +94558,7 @@
           "pointsMultiplier": 1.05,
           "clearedAt": "2022-08-17T13:41:59Z",
           "clearRole": "victor",
-          "victorNumber": 15
+          "victorNumber": 14
         },
         {
           "userId": 12083446,
@@ -94549,7 +94567,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2022-08-23T19:03:19Z",
           "clearRole": "victor",
-          "victorNumber": 16
+          "victorNumber": 15
         },
         {
           "userId": 1887616,
@@ -94558,7 +94576,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2022-09-02T20:41:41Z",
           "clearRole": "victor",
-          "victorNumber": 17
+          "victorNumber": 16
         },
         {
           "userId": 7512553,
@@ -94567,7 +94585,7 @@
           "pointsMultiplier": 1.26,
           "clearedAt": "2022-09-13T00:42:12Z",
           "clearRole": "victor",
-          "victorNumber": 18
+          "victorNumber": 17
         },
         {
           "userId": 2558286,
@@ -94576,7 +94594,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2022-11-12T18:10:41Z",
           "clearRole": "victor",
-          "victorNumber": 19
+          "victorNumber": 18
         },
         {
           "userId": 13218204,
@@ -94585,7 +94603,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2022-11-26T20:37:34Z",
           "clearRole": "victor",
-          "victorNumber": 20
+          "victorNumber": 19
         },
         {
           "userId": 11659029,
@@ -94594,7 +94612,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2023-02-12T08:22:31Z",
           "clearRole": "victor",
-          "victorNumber": 21
+          "victorNumber": 20
         },
         {
           "userId": 6661913,
@@ -94603,7 +94621,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2023-03-05T02:41:18Z",
           "clearRole": "victor",
-          "victorNumber": 22
+          "victorNumber": 21
         },
         {
           "userId": 3139364,
@@ -94612,7 +94630,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2023-06-30T13:04:51Z",
           "clearRole": "victor",
-          "victorNumber": 23
+          "victorNumber": 22
         },
         {
           "userId": 10807597,
@@ -94621,7 +94639,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2023-07-30T04:20:05Z",
           "clearRole": "victor",
-          "victorNumber": 24
+          "victorNumber": 23
         },
         {
           "userId": 16817965,
@@ -94630,7 +94648,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2023-08-29T16:48:29Z",
           "clearRole": "victor",
-          "victorNumber": 25
+          "victorNumber": 24
         },
         {
           "userId": 9072586,
@@ -94639,7 +94657,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2023-10-01T14:47:57Z",
           "clearRole": "victor",
-          "victorNumber": 26
+          "victorNumber": 25
         },
         {
           "userId": 6437601,
@@ -94648,7 +94666,7 @@
           "pointsMultiplier": 1.05,
           "clearedAt": "2023-10-13T14:09:25Z",
           "clearRole": "victor",
-          "victorNumber": 27
+          "victorNumber": 26
         },
         {
           "userId": 12408961,
@@ -94657,7 +94675,7 @@
           "pointsMultiplier": 1.05,
           "clearedAt": "2023-10-18T21:26:04Z",
           "clearRole": "victor",
-          "victorNumber": 28
+          "victorNumber": 27
         },
         {
           "userId": 15293080,
@@ -94666,7 +94684,7 @@
           "pointsMultiplier": 1.05,
           "clearedAt": "2023-10-25T04:26:35Z",
           "clearRole": "victor",
-          "victorNumber": 29
+          "victorNumber": 28
         },
         {
           "userId": 18153252,
@@ -94675,7 +94693,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2023-12-25T00:40:42Z",
           "clearRole": "victor",
-          "victorNumber": 30
+          "victorNumber": 29
         },
         {
           "userId": 11234706,
@@ -94684,7 +94702,7 @@
           "pointsMultiplier": 1.2,
           "clearedAt": "2024-01-04T03:44:19Z",
           "clearRole": "victor",
-          "victorNumber": 31
+          "victorNumber": 30
         },
         {
           "userId": 8640970,
@@ -94693,7 +94711,7 @@
           "pointsMultiplier": 1.26,
           "clearedAt": "2024-01-13T15:44:37Z",
           "clearRole": "victor",
-          "victorNumber": 32
+          "victorNumber": 31
         },
         {
           "userId": 16509171,
@@ -94702,7 +94720,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2024-04-04T01:34:47Z",
           "clearRole": "victor",
-          "victorNumber": 33
+          "victorNumber": 32
         },
         {
           "userId": 12378737,
@@ -94711,7 +94729,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2024-08-21T03:31:54Z",
           "clearRole": "victor",
-          "victorNumber": 34
+          "victorNumber": 33
         },
         {
           "userId": 6735738,
@@ -94720,7 +94738,7 @@
           "pointsMultiplier": 1.05,
           "clearedAt": "2024-08-23T11:04:35Z",
           "clearRole": "victor",
-          "victorNumber": 35
+          "victorNumber": 34
         },
         {
           "userId": 18946207,
@@ -94729,7 +94747,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2024-11-21T02:37:58Z",
           "clearRole": "victor",
-          "victorNumber": 36
+          "victorNumber": 35
         },
         {
           "userId": 1492995,
@@ -94738,7 +94756,7 @@
           "pointsMultiplier": 1.05,
           "clearedAt": "2024-12-04T07:53:55Z",
           "clearRole": "victor",
-          "victorNumber": 37
+          "victorNumber": 36
         },
         {
           "userId": 6292501,
@@ -94747,7 +94765,7 @@
           "pointsMultiplier": 1.05,
           "clearedAt": "2025-01-20T16:57:24Z",
           "clearRole": "victor",
-          "victorNumber": 38
+          "victorNumber": 37
         },
         {
           "userId": 4581069,
@@ -94756,7 +94774,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2025-02-12T17:26:19Z",
           "clearRole": "victor",
-          "victorNumber": 39
+          "victorNumber": 38
         },
         {
           "userId": 16870029,
@@ -94765,7 +94783,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2025-04-17T14:55:05Z",
           "clearRole": "victor",
-          "victorNumber": 40
+          "victorNumber": 39
         },
         {
           "userId": 7780605,
@@ -94774,7 +94792,7 @@
           "pointsMultiplier": 1.2,
           "clearedAt": "2025-05-09T19:49:23Z",
           "clearRole": "victor",
-          "victorNumber": 41
+          "victorNumber": 40
         },
         {
           "userId": 6830745,
@@ -94782,6 +94800,15 @@
           "scoreId": 5901305191,
           "pointsMultiplier": 1,
           "clearedAt": "2025-12-14T23:52:40Z",
+          "clearRole": "victor",
+          "victorNumber": 41
+        },
+        {
+          "userId": 11137273,
+          "username": "qyzex",
+          "scoreId": 6731564236,
+          "pointsMultiplier": 1,
+          "clearedAt": "2026-05-20T23:01:41Z",
           "clearRole": "victor",
           "victorNumber": 42
         }
@@ -141972,81 +141999,9 @@
       ]
     },
     {
-      "userId": 15293080,
-      "username": "clafrelys",
-      "totalPoints": 433.4808482521478,
-      "maps": [
-        {
-          "beatmapId": 4862041,
-          "demonRank": 53,
-          "points": 98.613327493283
-        },
-        {
-          "beatmapId": 1172819,
-          "demonRank": 54,
-          "points": 96.37759272817415
-        },
-        {
-          "beatmapId": 845378,
-          "demonRank": 125,
-          "points": 57.22234281007795
-        },
-        {
-          "beatmapId": 1605533,
-          "demonRank": 138,
-          "points": 53.23408521010215
-        },
-        {
-          "beatmapId": 4866801,
-          "demonRank": 163,
-          "points": 48.861610319016215
-        },
-        {
-          "beatmapId": 4393042,
-          "demonRank": 247,
-          "points": 31.702164894764017
-        },
-        {
-          "beatmapId": 875945,
-          "demonRank": 355,
-          "points": 17.480365887791653
-        },
-        {
-          "beatmapId": 792989,
-          "demonRank": 439,
-          "points": 11.985515478107356
-        },
-        {
-          "beatmapId": 3890663,
-          "demonRank": 482,
-          "points": 9.625807276486972
-        },
-        {
-          "beatmapId": 2039845,
-          "demonRank": 660,
-          "points": 3.6461085716798065
-        },
-        {
-          "beatmapId": 5319166,
-          "demonRank": 805,
-          "points": 2.0943724300636823
-        },
-        {
-          "beatmapId": 3036752,
-          "demonRank": 826,
-          "points": 1.5502993524492563
-        },
-        {
-          "beatmapId": 3644487,
-          "demonRank": 887,
-          "points": 1.0872558001516035
-        }
-      ]
-    },
-    {
       "userId": 6646269,
       "username": "1v9",
-      "totalPoints": 431.03074268058305,
+      "totalPoints": 439.96685867083613,
       "maps": [
         {
           "beatmapId": 3704366,
@@ -142119,6 +142074,11 @@
           "points": 10.10114707881395
         },
         {
+          "beatmapId": 5104724,
+          "demonRank": 487,
+          "points": 8.936115990253082
+        },
+        {
           "beatmapId": 4181770,
           "demonRank": 537,
           "points": 6.914929283817621
@@ -142152,6 +142112,78 @@
           "beatmapId": 2365752,
           "demonRank": 870,
           "points": 1.1451870942043314
+        }
+      ]
+    },
+    {
+      "userId": 15293080,
+      "username": "clafrelys",
+      "totalPoints": 433.4808482521478,
+      "maps": [
+        {
+          "beatmapId": 4862041,
+          "demonRank": 53,
+          "points": 98.613327493283
+        },
+        {
+          "beatmapId": 1172819,
+          "demonRank": 54,
+          "points": 96.37759272817415
+        },
+        {
+          "beatmapId": 845378,
+          "demonRank": 125,
+          "points": 57.22234281007795
+        },
+        {
+          "beatmapId": 1605533,
+          "demonRank": 138,
+          "points": 53.23408521010215
+        },
+        {
+          "beatmapId": 4866801,
+          "demonRank": 163,
+          "points": 48.861610319016215
+        },
+        {
+          "beatmapId": 4393042,
+          "demonRank": 247,
+          "points": 31.702164894764017
+        },
+        {
+          "beatmapId": 875945,
+          "demonRank": 355,
+          "points": 17.480365887791653
+        },
+        {
+          "beatmapId": 792989,
+          "demonRank": 439,
+          "points": 11.985515478107356
+        },
+        {
+          "beatmapId": 3890663,
+          "demonRank": 482,
+          "points": 9.625807276486972
+        },
+        {
+          "beatmapId": 2039845,
+          "demonRank": 660,
+          "points": 3.6461085716798065
+        },
+        {
+          "beatmapId": 5319166,
+          "demonRank": 805,
+          "points": 2.0943724300636823
+        },
+        {
+          "beatmapId": 3036752,
+          "demonRank": 826,
+          "points": 1.5502993524492563
+        },
+        {
+          "beatmapId": 3644487,
+          "demonRank": 887,
+          "points": 1.0872558001516035
         }
       ]
     },
@@ -168495,6 +168527,38 @@
       ]
     },
     {
+      "userId": 20272827,
+      "username": "Erick71208",
+      "totalPoints": 46.307804446785156,
+      "maps": [
+        {
+          "beatmapId": 4883674,
+          "demonRank": 276,
+          "points": 26.06650269508516
+        },
+        {
+          "beatmapId": 4896590,
+          "demonRank": 423,
+          "points": 12.382369921226102
+        },
+        {
+          "beatmapId": 4956406,
+          "demonRank": 726,
+          "points": 2.564750809062882
+        },
+        {
+          "beatmapId": 5187400,
+          "demonRank": 734,
+          "points": 2.4563004604393477
+        },
+        {
+          "beatmapId": 5027876,
+          "demonRank": 741,
+          "points": 2.8378805609716675
+        }
+      ]
+    },
+    {
       "userId": 11885405,
       "username": "xan_ly",
       "totalPoints": 46.281927276696464,
@@ -169205,33 +169269,6 @@
       ]
     },
     {
-      "userId": 20272827,
-      "username": "Erick71208",
-      "totalPoints": 43.743053637722284,
-      "maps": [
-        {
-          "beatmapId": 4883674,
-          "demonRank": 276,
-          "points": 26.06650269508516
-        },
-        {
-          "beatmapId": 4896590,
-          "demonRank": 423,
-          "points": 12.382369921226102
-        },
-        {
-          "beatmapId": 5187400,
-          "demonRank": 734,
-          "points": 2.4563004604393477
-        },
-        {
-          "beatmapId": 5027876,
-          "demonRank": 741,
-          "points": 2.8378805609716675
-        }
-      ]
-    },
-    {
       "userId": 39763883,
       "username": "glodays",
       "totalPoints": 43.68846716645891,
@@ -169935,6 +169972,18 @@
           "beatmapId": 4828490,
           "demonRank": 992,
           "points": 0.5569294031648266
+        }
+      ]
+    },
+    {
+      "userId": 39332026,
+      "username": "Deshbroun",
+      "totalPoints": 41.686513148460705,
+      "maps": [
+        {
+          "beatmapId": 3320181,
+          "demonRank": 184,
+          "points": 41.686513148460705
         }
       ]
     },
@@ -177245,6 +177294,28 @@
       ]
     },
     {
+      "userId": 11137273,
+      "username": "qyzex",
+      "totalPoints": 17.350514830672758,
+      "maps": [
+        {
+          "beatmapId": 5206808,
+          "demonRank": 414,
+          "points": 13.609752887823774
+        },
+        {
+          "beatmapId": 3504206,
+          "demonRank": 749,
+          "points": 2.264286369087788
+        },
+        {
+          "beatmapId": 3036752,
+          "demonRank": 826,
+          "points": 1.4764755737611965
+        }
+      ]
+    },
+    {
       "userId": 23280447,
       "username": "hosesan1020",
       "totalPoints": 17.331784663099107,
@@ -178071,23 +178142,6 @@
           "beatmapId": 4908444,
           "demonRank": 965,
           "points": 0.6679449577107963
-        }
-      ]
-    },
-    {
-      "userId": 11137273,
-      "username": "qyzex",
-      "totalPoints": 15.874039256911562,
-      "maps": [
-        {
-          "beatmapId": 5206808,
-          "demonRank": 414,
-          "points": 13.609752887823774
-        },
-        {
-          "beatmapId": 3504206,
-          "demonRank": 749,
-          "points": 2.264286369087788
         }
       ]
     },
@@ -178927,7 +178981,7 @@
     },
     {
       "userId": 2571893,
-      "username": "mithew",
+      "username": "sharpnel",
       "totalPoints": 14.273804877082616,
       "maps": [
         {
@@ -187566,6 +187620,18 @@
       ]
     },
     {
+      "userId": 16358749,
+      "username": "HiHallo124",
+      "totalPoints": 2.422258047276043,
+      "maps": [
+        {
+          "beatmapId": 5367904,
+          "demonRank": 770,
+          "points": 2.422258047276043
+        }
+      ]
+    },
+    {
       "userId": 15011165,
       "username": "[ATOC]",
       "totalPoints": 2.4167370036854643,
@@ -188408,18 +188474,6 @@
     {
       "userId": 13236584,
       "username": "-Jalter",
-      "totalPoints": 2.0185483727300357,
-      "maps": [
-        {
-          "beatmapId": 5367904,
-          "demonRank": 770,
-          "points": 2.0185483727300357
-        }
-      ]
-    },
-    {
-      "userId": 19579091,
-      "username": "HDD",
       "totalPoints": 2.0185483727300357,
       "maps": [
         {
@@ -189421,18 +189475,6 @@
           "beatmapId": 1696136,
           "demonRank": 944,
           "points": 0.7288285380493967
-        }
-      ]
-    },
-    {
-      "userId": 6761714,
-      "username": "Harpy",
-      "totalPoints": 1.4764755737611965,
-      "maps": [
-        {
-          "beatmapId": 3036752,
-          "demonRank": 826,
-          "points": 1.4764755737611965
         }
       ]
     },
