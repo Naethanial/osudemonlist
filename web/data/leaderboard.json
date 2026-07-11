@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T04:29:41.059Z",
+  "generatedAt": "2026-07-11T15:32:29.681Z",
   "criteria": {
     "ruleset": "osu",
     "rankedOnly": true,
@@ -32217,6 +32217,15 @@
           "clearedAt": "2026-06-27T14:15:38Z",
           "clearRole": "victor",
           "victorNumber": 19
+        },
+        {
+          "userId": 15908405,
+          "username": "My Angle Okayu",
+          "scoreId": 7053261998,
+          "pointsMultiplier": 1,
+          "clearedAt": "2026-07-11T06:40:22Z",
+          "clearRole": "victor",
+          "victorNumber": 20
         }
       ],
       "rank": 356,
@@ -107451,6 +107460,15 @@
           "clearedAt": "2026-06-27T14:02:54Z",
           "clearRole": "victor",
           "victorNumber": 13
+        },
+        {
+          "userId": 8472976,
+          "username": "Suyung_",
+          "scoreId": 7053801959,
+          "pointsMultiplier": 1.05,
+          "clearedAt": "2026-07-11T09:01:35Z",
+          "clearRole": "victor",
+          "victorNumber": 14
         }
       ],
       "rank": 926,
@@ -121997,7 +122015,7 @@
     {
       "userId": 8472976,
       "username": "Suyung_",
-      "totalPoints": 2246.9587432073863,
+      "totalPoints": 2247.815966710841,
       "maps": [
         {
           "beatmapId": 4235907,
@@ -122453,6 +122471,11 @@
           "beatmapId": 4501764,
           "demonRank": 878,
           "points": 1.0923986531424608
+        },
+        {
+          "beatmapId": 5147066,
+          "demonRank": 926,
+          "points": 0.857223503454731
         },
         {
           "beatmapId": 3644487,
@@ -141862,6 +141885,93 @@
       ]
     },
     {
+      "userId": 15908405,
+      "username": "My Angle Okayu",
+      "totalPoints": 371.5148364733484,
+      "maps": [
+        {
+          "beatmapId": 4538704,
+          "demonRank": 71,
+          "points": 79.86447514387017
+        },
+        {
+          "beatmapId": 4194071,
+          "demonRank": 124,
+          "points": 57.546150201923766
+        },
+        {
+          "beatmapId": 3989774,
+          "demonRank": 166,
+          "points": 45.803114197860744
+        },
+        {
+          "beatmapId": 4128717,
+          "demonRank": 218,
+          "points": 34.9952028981387
+        },
+        {
+          "beatmapId": 2624022,
+          "demonRank": 234,
+          "points": 32.25425964202739
+        },
+        {
+          "beatmapId": 5074780,
+          "demonRank": 317,
+          "points": 21.18505756067549
+        },
+        {
+          "beatmapId": 4704020,
+          "demonRank": 352,
+          "points": 17.74779846427773
+        },
+        {
+          "beatmapId": 4123080,
+          "demonRank": 356,
+          "points": 17.392113145890452
+        },
+        {
+          "beatmapId": 3214586,
+          "demonRank": 385,
+          "points": 15.016214508997138
+        },
+        {
+          "beatmapId": 5343008,
+          "demonRank": 427,
+          "points": 12.133161210233997
+        },
+        {
+          "beatmapId": 5214103,
+          "demonRank": 492,
+          "points": 8.710509015074573
+        },
+        {
+          "beatmapId": 3917718,
+          "demonRank": 509,
+          "points": 9.581162478859246
+        },
+        {
+          "beatmapId": 3890663,
+          "demonRank": 514,
+          "points": 7.7821992788412215
+        },
+        {
+          "beatmapId": 4903055,
+          "demonRank": 561,
+          "points": 6.110244766023042
+        },
+        {
+          "beatmapId": 3184241,
+          "demonRank": 671,
+          "points": 3.4402259412024025
+        },
+        {
+          "beatmapId": 4869857,
+          "demonRank": 776,
+          "points": 1.952948019452294
+        }
+      ]
+    },
+    {
       "userId": 11481765,
       "username": "RAFUNA",
       "totalPoints": 370.96380716915866,
@@ -142859,88 +142969,6 @@
           "beatmapId": 3007522,
           "demonRank": 1000,
           "points": 0.5017263102850162
-        }
-      ]
-    },
-    {
-      "userId": 15908405,
-      "username": "My Angle Okayu",
-      "totalPoints": 354.12272332745795,
-      "maps": [
-        {
-          "beatmapId": 4538704,
-          "demonRank": 71,
-          "points": 79.86447514387017
-        },
-        {
-          "beatmapId": 4194071,
-          "demonRank": 124,
-          "points": 57.546150201923766
-        },
-        {
-          "beatmapId": 3989774,
-          "demonRank": 166,
-          "points": 45.803114197860744
-        },
-        {
-          "beatmapId": 4128717,
-          "demonRank": 218,
-          "points": 34.9952028981387
-        },
-        {
-          "beatmapId": 2624022,
-          "demonRank": 234,
-          "points": 32.25425964202739
-        },
-        {
-          "beatmapId": 5074780,
-          "demonRank": 317,
-          "points": 21.18505756067549
-        },
-        {
-          "beatmapId": 4704020,
-          "demonRank": 352,
-          "points": 17.74779846427773
-        },
-        {
-          "beatmapId": 3214586,
-          "demonRank": 385,
-          "points": 15.016214508997138
-        },
-        {
-          "beatmapId": 5343008,
-          "demonRank": 427,
-          "points": 12.133161210233997
-        },
-        {
-          "beatmapId": 5214103,
-          "demonRank": 492,
-          "points": 8.710509015074573
-        },
-        {
-          "beatmapId": 3917718,
-          "demonRank": 509,
-          "points": 9.581162478859246
-        },
-        {
-          "beatmapId": 3890663,
-          "demonRank": 514,
-          "points": 7.7821992788412215
-        },
-        {
-          "beatmapId": 4903055,
-          "demonRank": 561,
-          "points": 6.110244766023042
-        },
-        {
-          "beatmapId": 3184241,
-          "demonRank": 671,
-          "points": 3.4402259412024025
-        },
-        {
-          "beatmapId": 4869857,
-          "demonRank": 776,
-          "points": 1.952948019452294
         }
       ]
     },

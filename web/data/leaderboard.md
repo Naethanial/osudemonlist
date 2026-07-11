@@ -1,6 +1,6 @@
 # osu demon list leaderboard
 
-Generated: 2026-07-11T04:29:41.059Z
+Generated: 2026-07-11T15:32:29.681Z
 
 ## Maps (1000)
 
@@ -361,7 +361,7 @@ Generated: 2026-07-11T04:29:41.059Z
 | 353 | 7.91 | Yousei Teikoku — Shinteki Souzou [Divine] | Aireu (verified), Vaxei (victor #1), mrekk (victor #2), badeu (victor #3), Tsuwagi (victor #4), rektygon (victor #5), superCreper (victor #6), -ZooM- (victor #7), angelkanna (victor #8), [RUE]Clamati (victor #9), Shima Rin Dango (victor #10), gnahus (victor #11), skilledez (victor #12), Lolu (victor #13), ruirui (victor #14), decaten (victor #15), MINHOCA LOKA (victor #16), YuuSakku (victor #17), WhiteCat (victor #18 x1.2), Drox (victor #19), Hera_ (victor #20), Teacchyyy (victor #21), Ryzeren (victor #22), MALISZEWSKI (victor #23 x1.1), hexi (victor #24), 6Nusu9 (victor #25 x1.1), Berinjela Chan (victor #26 x1.1), Leroxa (victor #27), Losorto (victor #28) |
 | 354 | 7.91 | Nanahoshi Kangengakudan — Rubik's Cube [Lalarun's Extreme] | worst hr player (verified), EZChamp (victor #1) |
 | 355 | 7.91 | Raphiiel — RoquiRa : Between Life and Death [Fragment of Styx] | MALISZEWSKI (verified) |
-| 356 | 7.91 | Aether Realm — Ravensong [The Tears of the Stars] | sarboggly (verified), Joyi (victor #1), MALISZEWSKI (victor #2 x1.2), NathanRam1918 (victor #3), FINGERLOCK (victor #4), marcel7 (victor #5), Mlaw (victor #6), Binninja (victor #7), Sh4rq_ (victor #8), Pezz (victor #9), WooperFan1 (victor #10), hqshe (victor #11), szedis (victor #12), My Angel Kita (victor #13), z9a (victor #14), bunnylikemoney (victor #15), Tutel (victor #16), Saiyku (victor #17), monte (victor #18), ozy (victor #19) |
+| 356 | 7.91 | Aether Realm — Ravensong [The Tears of the Stars] | sarboggly (verified), Joyi (victor #1), MALISZEWSKI (victor #2 x1.2), NathanRam1918 (victor #3), FINGERLOCK (victor #4), marcel7 (victor #5), Mlaw (victor #6), Binninja (victor #7), Sh4rq_ (victor #8), Pezz (victor #9), WooperFan1 (victor #10), hqshe (victor #11), szedis (victor #12), My Angel Kita (victor #13), z9a (victor #14), bunnylikemoney (victor #15), Tutel (victor #16), Saiyku (victor #17), monte (victor #18), ozy (victor #19), My Angle Okayu (victor #20) |
 | 357 | 7.91 | modlessflash — hopeless quiet [in loneliness alone] | bern1sh (verified), Toy0Ta (victor #1), Hober38 (victor #2), 1v9 (victor #3), WhiteWoofWoolf (victor #4), -Kedama (victor #5 x1.1), Suyung_ (victor #6), Zpinxx (victor #7), MineFrostID (victor #8 x1.2), My Angel Kita (victor #9), NathanRam1918 (victor #10), xoxyl (victor #11), EZChamp (victor #12), EzChock (victor #13), yodeston (victor #14), -IZZY (victor #15) |
 | 358 | 7.91 | MAXIMUM THE HORMONE — A-L-I-E-N [Stop! Stop Winny Upload!!] | rng_ (verified), MALISZEWSKI (victor #1 x1.1), EZChamp (victor #2), EthantrixV3 (victor #3 x1.1) |
 | 359 | 7.90 | irohaRingo feat. flower — Why I hate you [sydnmc's kuyashimagire//Ultra] | MALISZEWSKI (verified) |
@@ -931,7 +931,7 @@ Generated: 2026-07-11T04:29:41.059Z
 | 923 | 7.50 | Erabareshi — Motto, Nee Motto (TV Size) [Fanservice] | bunnylikemoney (verified x1.2), Azertyran (victor #1 x1.2), cove (victor #2 x1.2), Aether Realm (victor #3 x1.2), ChocoPafe (victor #4 x1.3), gakuw (victor #5 x1.2), kaenen (victor #6 x1.2), Toesu (victor #7 x1.2), JabuKa (victor #8 x1.2), Divava (victor #9 x1.2), skuth (victor #10 x1.2), wuk (victor #11 x1.3), eruhar (victor #12 x1.2), Adomeium (victor #13 x1.3), Kyros_ (victor #14 x1.2), Froinks (victor #15 x1.2), Equidimensional (victor #16 x1.2), podlu (victor #17 x1.2), Jarran (victor #18 x1.3), monte (victor #19 x1.2), Umbre (victor #20 x1.3), Aerodite (victor #21 x1.3), Homutan (victor #22 x1.3), Albanian Man (victor #23 x1.2), Mdar (victor #24 x1.2), Turles (victor #25 x1.2), desuqe (victor #26 x1.3), DP285 (victor #27 x1.3), -hiro (victor #28 x1.2), -NoMercy (victor #29 x1.3), centrux (victor #30 x1.2), ozy (victor #31 x1.2), Wxlther (victor #32 x1.3), humane_007 (victor #33 x1.3), DONCARLITOS (victor #34 x1.2), Ice Angel (victor #35 x1.2), wuhua (victor #36 x1.2), Xyloz (victor #37 x1.2), reinum (victor #38 x1.2), evankkk (victor #39 x1.2), FlojoCosmico (victor #40 x1.3) |
 | 924 | 7.50 | Oxalis — Senuere [Sacred Lake] | Flameztear (verified) |
 | 925 | 7.50 | seatrus — efchi [mir's euphoria] | ronipan (verified x1.1), Fleh (victor #1) |
-| 926 | 7.50 | Linkin Park — Guilty All The Same (feat. Rakim) [Full Of Regret & Shame] | Naiwo (verified), yukinasimp (victor #1), penguinplay (victor #2), Bajan Canadian (victor #3), Super Freak (victor #4), Chakerski (victor #5), 6otomakas (victor #6), Alfrah (victor #7 x1.1), AARONGAMER1 (victor #8), gxsty (victor #9), Zentoro (victor #10), savilju (victor #11), huyanh68 (victor #12), Dedosos (victor #13) |
+| 926 | 7.50 | Linkin Park — Guilty All The Same (feat. Rakim) [Full Of Regret & Shame] | Naiwo (verified), yukinasimp (victor #1), penguinplay (victor #2), Bajan Canadian (victor #3), Super Freak (victor #4), Chakerski (victor #5), 6otomakas (victor #6), Alfrah (victor #7 x1.1), AARONGAMER1 (victor #8), gxsty (victor #9), Zentoro (victor #10), savilju (victor #11), huyanh68 (victor #12), Dedosos (victor #13), Suyung_ (victor #14 x1.1) |
 | 927 | 7.50 | Ouse Akira — Sacrifice [Health Education] | MALISZEWSKI (verified x1.1), Tommy315 (victor #1), worst hr player (victor #2 x1.2), Jyuifty (victor #3), Maiaz (victor #4), termi (victor #5), Mathi (victor #6), GET LOVED (victor #7 x1.1), lolol235 (victor #8), A21 (victor #9), Sh4rq_ (victor #10) |
 | 928 | 7.50 | Whispered — Jikininki [Japanese Ghost] | Rafis (verified), Mlaw (victor #1), BTMC (victor #2), mrekk (victor #3 x1.1), im a fancy lad (victor #4), Andros (victor #5), Topoi (victor #6), okinamo (victor #7 x1.1), nicki1324 (victor #8), Raikouhou (victor #9), Gurbzy (victor #10), treyarch (victor #11), rektygon (victor #12 x1.2), gamer228666 (victor #13), ruirui (victor #14), Yuichi (victor #15), bunnylikemoney (victor #16), samuele (victor #17), z10a (victor #18), Tutel (victor #19), Mathi (victor #20), NeliNyan (victor #21), apisedo (victor #22), Reimedd (victor #23), monte (victor #24), mcy4 (victor #25), Mastasz (victor #26), origin_ (victor #27), RAFUNA (victor #28) |
 | 929 | 7.50 | Yousei Teikoku — Kuusou Mesorogiwi [Prophecy] | _Shield (verified), TWOJA STARA (victor #1), Mathi (victor #2), A21 (victor #3), Aoi Kiseki (victor #4), DazzLE_Wind (victor #5), tekkito (victor #6 x1.1), Daisuke Narotan (victor #7 x1.1), big snag (victor #8), lovetap (victor #9), My Angel Anzu (victor #10 x1.1), MegaMK (victor #11), Bajan Canadian (victor #12), Polle (victor #13), Tsuwagi (victor #14), chocomint (victor #15 x1.1), Spektre (victor #16), ZeitFrost (victor #17), Nayro (victor #18), 13roil (victor #19), NovatoKing (victor #20), Fleh (victor #21), wuhua (victor #22 x1.1), Jakson (victor #23), MALISZEWSKI (victor #24 x1.3), monte (victor #25), Mekeyo (victor #26), yodeston (victor #27) |
@@ -1016,7 +1016,7 @@ Generated: 2026-07-11T04:29:41.059Z
 | 3 | EZChamp | 3607.623 |
 | 4 | Raikouhou | 2431.926 |
 | 5 | Kamensh1k | 2374.738 |
-| 6 | Suyung_ | 2246.959 |
+| 6 | Suyung_ | 2247.816 |
 | 7 | [Karcher] | 2115.968 |
 | 8 | NaPiii_ | 1976.159 |
 | 9 | Saiyku | 1941.709 |
@@ -1117,15 +1117,15 @@ Generated: 2026-07-11T04:29:41.059Z
 | 104 | elsi | 380.611 |
 | 105 | sarboggly | 380.312 |
 | 106 | maxim | 376.720 |
-| 107 | RAFUNA | 370.964 |
-| 108 | 315 | 369.993 |
-| 109 | etn | 363.214 |
-| 110 | NINERIK | 360.015 |
-| 111 | Umbre | 358.854 |
-| 112 | yodeston | 355.446 |
-| 113 | Andros | 355.347 |
-| 114 | z10a | 355.322 |
-| 115 | My Angle Okayu | 354.123 |
+| 107 | My Angle Okayu | 371.515 |
+| 108 | RAFUNA | 370.964 |
+| 109 | 315 | 369.993 |
+| 110 | etn | 363.214 |
+| 111 | NINERIK | 360.015 |
+| 112 | Umbre | 358.854 |
+| 113 | yodeston | 355.446 |
+| 114 | Andros | 355.347 |
+| 115 | z10a | 355.322 |
 | 116 | Rizer | 349.895 |
 | 117 | FGSky | 337.086 |
 | 118 | treyarch | 336.664 |
