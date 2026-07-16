@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T04:25:35.081Z",
+  "generatedAt": "2026-07-16T15:24:24.877Z",
   "criteria": {
     "ruleset": "osu",
     "rankedOnly": true,
@@ -96187,22 +96187,13 @@
           "victorNumber": 27
         },
         {
-          "userId": 19696026,
-          "username": "Ndrea",
-          "scoreId": 5998743957,
-          "pointsMultiplier": 1.2,
-          "clearedAt": "2026-01-02T21:30:35Z",
-          "clearRole": "victor",
-          "victorNumber": 28
-        },
-        {
           "userId": 23162589,
           "username": "DP285",
           "scoreId": 6046038488,
           "pointsMultiplier": 1.26,
           "clearedAt": "2026-01-12T06:23:29Z",
           "clearRole": "victor",
-          "victorNumber": 29
+          "victorNumber": 28
         },
         {
           "userId": 13539892,
@@ -96211,7 +96202,7 @@
           "pointsMultiplier": 1.2,
           "clearedAt": "2026-01-21T14:56:46Z",
           "clearRole": "victor",
-          "victorNumber": 30
+          "victorNumber": 29
         },
         {
           "userId": 14848176,
@@ -96220,7 +96211,7 @@
           "pointsMultiplier": 1.2,
           "clearedAt": "2026-02-03T14:40:02Z",
           "clearRole": "victor",
-          "victorNumber": 31
+          "victorNumber": 30
         },
         {
           "userId": 7351448,
@@ -96229,7 +96220,7 @@
           "pointsMultiplier": 1.2,
           "clearedAt": "2026-02-26T02:53:37Z",
           "clearRole": "victor",
-          "victorNumber": 32
+          "victorNumber": 31
         },
         {
           "userId": 11310423,
@@ -96238,7 +96229,7 @@
           "pointsMultiplier": 1.2,
           "clearedAt": "2026-03-05T05:27:43Z",
           "clearRole": "victor",
-          "victorNumber": 33
+          "victorNumber": 32
         },
         {
           "userId": 17099895,
@@ -96247,7 +96238,7 @@
           "pointsMultiplier": 1.2,
           "clearedAt": "2026-03-11T00:20:10Z",
           "clearRole": "victor",
-          "victorNumber": 34
+          "victorNumber": 33
         },
         {
           "userId": 16348690,
@@ -96256,7 +96247,7 @@
           "pointsMultiplier": 1.2,
           "clearedAt": "2026-03-28T14:06:33Z",
           "clearRole": "victor",
-          "victorNumber": 35
+          "victorNumber": 34
         },
         {
           "userId": 13216227,
@@ -96265,7 +96256,7 @@
           "pointsMultiplier": 1.2,
           "clearedAt": "2026-04-03T15:54:30Z",
           "clearRole": "victor",
-          "victorNumber": 36
+          "victorNumber": 35
         },
         {
           "userId": 24879119,
@@ -96274,7 +96265,7 @@
           "pointsMultiplier": 1.2,
           "clearedAt": "2026-04-15T03:38:17Z",
           "clearRole": "victor",
-          "victorNumber": 37
+          "victorNumber": 36
         },
         {
           "userId": 2204373,
@@ -96283,7 +96274,7 @@
           "pointsMultiplier": 1.2,
           "clearedAt": "2026-04-28T22:27:09Z",
           "clearRole": "victor",
-          "victorNumber": 38
+          "victorNumber": 37
         },
         {
           "userId": 10121815,
@@ -96292,7 +96283,7 @@
           "pointsMultiplier": 1.2,
           "clearedAt": "2026-05-03T16:19:57Z",
           "clearRole": "victor",
-          "victorNumber": 39
+          "victorNumber": 38
         },
         {
           "userId": 11320627,
@@ -96301,7 +96292,7 @@
           "pointsMultiplier": 1.26,
           "clearedAt": "2026-05-17T07:55:39Z",
           "clearRole": "victor",
-          "victorNumber": 40
+          "victorNumber": 39
         },
         {
           "userId": 20534843,
@@ -96309,6 +96300,15 @@
           "scoreId": 7031764462,
           "pointsMultiplier": 1.2,
           "clearedAt": "2026-07-07T20:16:42Z",
+          "clearRole": "victor",
+          "victorNumber": 40
+        },
+        {
+          "userId": 17318650,
+          "username": "ZOOM_30",
+          "scoreId": 7089109395,
+          "pointsMultiplier": 1.2,
+          "clearedAt": "2026-07-16T14:05:47Z",
           "clearRole": "victor",
           "victorNumber": 41
         }
@@ -167844,8 +167844,8 @@
       ]
     },
     {
-      "userId": 19696026,
-      "username": "Ndrea",
+      "userId": 24879119,
+      "username": "LittleFede",
       "totalPoints": 0.89713706580432,
       "maps": [
         {
@@ -167856,8 +167856,8 @@
       ]
     },
     {
-      "userId": 24879119,
-      "username": "LittleFede",
+      "userId": 17318650,
+      "username": "ZOOM_30",
       "totalPoints": 0.89713706580432,
       "maps": [
         {

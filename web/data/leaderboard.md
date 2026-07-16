@@ -1,6 +1,6 @@
 # osu demon list leaderboard
 
-Generated: 2026-07-16T04:25:35.081Z
+Generated: 2026-07-16T15:24:24.877Z
 
 ## Maps (1000)
 
@@ -945,7 +945,7 @@ Generated: 2026-07-16T04:25:35.081Z
 | 937 | 7.71 | Kotone — PUNISHMENT (CUT VER.) [Imprisonment] | Deshoou (verified), Berinjela Chan (victor #1 x1.1), Oly9919 (victor #2 x1.1), Ole (victor #3), RiceShower (victor #4), [Karcher] (victor #5 x1.3), hidensryz (victor #6), Ainee (victor #7), tfge (victor #8 x1.1), Mizeree (victor #9), Fleh (victor #10), cute boyfailure (victor #11), wizale (victor #12), mustifafifax (victor #13 x1.1), chasangel (victor #14), _vlad (victor #15), _-Astra-_ (victor #16), Dae (victor #17), JORMU9GAND (victor #18), Dextrol (victor #19), MineFrostID (victor #20), Cupid2 (victor #21), huyanh68 (victor #22) |
 | 938 | 7.71 | ikaruga_nex — gigadelic (m3rkAb4# R3m!x) [k!ll3r] | MALISZEWSKI (verified x1.3), xootynator (victor #1 x1.3), Oly9919 (victor #2), hav (victor #3 x1.1) |
 | 939 | 7.71 | ASA — Assault TAXI [Hey! Taxi!] | bored yes (verified) |
-| 940 | 7.71 | wuk — Sidetracked Day [Maaadbot's Sidetracked Week] | Bae Joohyun (verified x1.3), Rinko Shirokane (victor #1 x1.2), monte (victor #2 x1.2), Toesu (victor #3 x1.2), Aerodite (victor #4 x1.2), Kyros_ (victor #5 x1.2), NaPiii_ (victor #6 x1.2), AstroVnz (victor #7 x1.3), AliceThymefield (victor #8 x1.2), gakuw (victor #9 x1.2), lil bread (victor #10 x1.2), xoxyl (victor #11 x1.2), Kluchen (victor #12 x1.3), WooperFan1 (victor #13 x1.2), Possu (victor #14 x1.3), wuk (victor #15 x1.3), -Kedama (victor #16 x1.3), Victoor (victor #17 x1.2), Saiyku (victor #18 x1.2), zonelouise (victor #19 x1.2), Aerora (victor #20 x1.3), evill (victor #21 x1.3), katalashka son (victor #22 x1.2), Jxir (victor #23 x1.3), SkunkPunk (victor #24 x1.3), [Karcher] (victor #25 x1.3), Akuma no Tenshi (victor #26 x1.3), kyojaku (victor #27 x1.2), Ndrea (victor #28 x1.2), DP285 (victor #29 x1.3), meramin (victor #30 x1.2), Yellow cat (victor #31 x1.2), fedotoff (victor #32 x1.2), ozy (victor #33 x1.2), humane_007 (victor #34 x1.2), Adomeium (victor #35 x1.2), GALNERYUS (victor #36 x1.2), LittleFede (victor #37 x1.2), moon2k (victor #38 x1.2), Deeline (victor #39 x1.2), Bouquetdor (victor #40 x1.3), DONCARLITOS (victor #41 x1.2) |
+| 940 | 7.71 | wuk — Sidetracked Day [Maaadbot's Sidetracked Week] | Bae Joohyun (verified x1.3), Rinko Shirokane (victor #1 x1.2), monte (victor #2 x1.2), Toesu (victor #3 x1.2), Aerodite (victor #4 x1.2), Kyros_ (victor #5 x1.2), NaPiii_ (victor #6 x1.2), AstroVnz (victor #7 x1.3), AliceThymefield (victor #8 x1.2), gakuw (victor #9 x1.2), lil bread (victor #10 x1.2), xoxyl (victor #11 x1.2), Kluchen (victor #12 x1.3), WooperFan1 (victor #13 x1.2), Possu (victor #14 x1.3), wuk (victor #15 x1.3), -Kedama (victor #16 x1.3), Victoor (victor #17 x1.2), Saiyku (victor #18 x1.2), zonelouise (victor #19 x1.2), Aerora (victor #20 x1.3), evill (victor #21 x1.3), katalashka son (victor #22 x1.2), Jxir (victor #23 x1.3), SkunkPunk (victor #24 x1.3), [Karcher] (victor #25 x1.3), Akuma no Tenshi (victor #26 x1.3), kyojaku (victor #27 x1.2), DP285 (victor #28 x1.3), meramin (victor #29 x1.2), Yellow cat (victor #30 x1.2), fedotoff (victor #31 x1.2), ozy (victor #32 x1.2), humane_007 (victor #33 x1.2), Adomeium (victor #34 x1.2), GALNERYUS (victor #35 x1.2), LittleFede (victor #36 x1.2), moon2k (victor #37 x1.2), Deeline (victor #38 x1.2), Bouquetdor (victor #39 x1.3), DONCARLITOS (victor #40 x1.2), ZOOM_30 (victor #41 x1.2) |
 | 941 | 7.70 | DJ SHARPNEL — Mmmmmmm [namriee's Extra] | misha awa (verified x1.1) |
 | 942 | 7.70 | Kano — Walk This Way! (Cut Ver.) [Happiness!] | Librarian (verified), gnahus (victor #1 x1.1), Shima Rin Dango (victor #2), worst hr player (victor #3 x1.1), plambob (victor #4), Untold (victor #5), alideee (victor #6), badeu (victor #7), pomidor0033 (victor #8), xootynator (victor #9 x1.3), -IZZY (victor #10), DarthInvaderZim (victor #11), Bonnet (victor #12), MALISZEWSKI (victor #13 x1.1), jnao (victor #14 x1.1), EZChamp (victor #15), Donny (victor #16), BabyScylla (victor #17 x1.1) |
 | 943 | 7.70 | GALNERYUS — RAISE MY SWORD [A THOUSAND FLAMES] | BTMC (verified x1.2), fieryrage (victor #1 x1.2), Musty (victor #2 x1.1), i love manosaba (victor #3 x1.1), mrekk (victor #4 x1.2), Vaxei (victor #5 x1.2), Reedkatt (victor #6 x1.2), Thundur (victor #7 x1.1), zonelouise (victor #8), Mathi (victor #9 x1.2), -Karu (victor #10 x1.1), [Karcher] (victor #11 x1.2), rektygon (victor #12 x1.2), PLOXARU (victor #13), Hagawobla (victor #14 x1.1), Lukiii (victor #15), argweid (victor #16 x1.2), DaHuJka (victor #17), zubs (victor #18), Xemtin (victor #19 x1.2), EZChamp (victor #20 x1.2), NaPiii_ (victor #21 x1.2), Saiyku (victor #22 x1.2), criller (victor #23 x1.1), Jarran (victor #24), Helfy0 (victor #25), ur cute (victor #26 x1.1), ASecretBox (victor #27 x1.3), mcy4 (victor #28 x1.2), zonamu (victor #29 x1.2), Lightedd (victor #30), RafaMat (victor #31 x1.2) |
@@ -2523,8 +2523,8 @@ Generated: 2026-07-16T04:25:35.081Z
 | 1510 | EmertxE | 0.901 |
 | 1511 | Naylicia | 0.901 |
 | 1512 | AliceThymefield | 0.897 |
-| 1513 | Ndrea | 0.897 |
-| 1514 | LittleFede | 0.897 |
+| 1513 | LittleFede | 0.897 |
+| 1514 | ZOOM_30 | 0.897 |
 | 1515 | Inquisitives | 0.885 |
 | 1516 | Snowy LP | 0.884 |
 | 1517 | Super Freak | 0.874 |
