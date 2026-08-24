@@ -1,6 +1,6 @@
 # osu demon list leaderboard
 
-Generated: 2026-08-24T02:35:52.856Z
+Generated: 2026-08-24T14:05:52.518Z
 
 ## Maps (1000)
 
@@ -432,7 +432,7 @@ Generated: 2026-08-24T02:35:52.856Z
 | 424 | 8.09 | Votch feat. Mitani Nana — Little*Summer Party [Settia's Nya~n] | Mayuri (verified x1.1), Skrowell (victor #1 x1.1), sybau technique (victor #2), Kurumiw (victor #3), tsunagite (victor #4), _Shield (victor #5), desuqe (victor #6 x1.1), Ivaxa (victor #7), 6Nusu9 (victor #8), NathanRam1918 (victor #9), kasuwa (victor #10), -lion (victor #11 x1.1), treyarch (victor #12), shwq (victor #13), 815 (victor #14), MR JEFFERY (victor #15), misha awa (victor #16 x1.1), Satsukiiii (victor #17), 011010119 (victor #18 x1.1), Woolly mammoth (victor #19), FlyingTuna (victor #20 x1.3) |
 | 425 | 8.09 | Down — Kizan [Onimaru Kunitsuna] | MALISZEWSKI (verified x1.1) |
 | 426 | 8.09 | Cansol — Out of Place [Extreme] | Azer (verified x1.1) |
-| 427 | 8.09 | Lady Gaga — The Edge Of Glory [lady gaga motorcycle] | Suyung_ (verified), - Fia - (victor #1), John Aim (victor #2 x1.1), huyanh68 (victor #3) |
+| 427 | 8.09 | Lady Gaga — The Edge Of Glory [lady gaga motorcycle] | Suyung_ (verified), - Fia - (victor #1), John Aim (victor #2 x1.1), huyanh68 (victor #3), rng_ (victor #4) |
 | 428 | 8.09 | TK from Ling tosite sigure — first death [otshelnik] | Suyung_ (verified), [Karcher] (victor #1), mrekk (victor #2), ASecretBox (victor #3) |
 | 429 | 8.08 | WangleLine — Blink and You'll Miss It [Blink] | enri (verified), MALISZEWSKI (victor #1) |
 | 430 | 8.08 | kemu — Kamisama Nejimaki [Wind-up God] | Pezz (verified) |
@@ -1116,10 +1116,10 @@ Generated: 2026-08-24T02:35:52.856Z
 | 103 | BossPlays | 328.484 |
 | 104 | Pezz | 327.942 |
 | 105 | treyarch | 326.848 |
-| 106 | milktea0019 | 314.443 |
-| 107 | trumpatino69 | 311.370 |
-| 108 | gnahus | 310.435 |
-| 109 | rng_ | 303.562 |
+| 106 | rng_ | 315.695 |
+| 107 | milktea0019 | 314.443 |
+| 108 | trumpatino69 | 311.370 |
+| 109 | gnahus | 310.435 |
 | 110 | Mahmood | 300.512 |
 | 111 | sarboggly | 300.028 |
 | 112 | Dreamz | 294.907 |
