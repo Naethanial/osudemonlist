@@ -1,6 +1,6 @@
 # osu demon list leaderboard
 
-Generated: 2026-08-26T14:40:01.613Z
+Generated: 2026-08-27T11:43:14.557Z
 
 ## Maps (1000)
 
@@ -18,7 +18,7 @@ Generated: 2026-08-26T14:40:01.613Z
 | 10 | 9.47 | Raimukun — Icyxis [~Divine Intervention~] | mrekk (verified) |
 | 11 | 9.44 | Crystal Lake — Denial // Rebirth [Burden // Benevolence] | willy0214 (verified), M1nTe4 (victor #1), Jakson (victor #2) |
 | 12 | 9.40 | UNDEAD CORPORATION — The Throne [Banished] | mrekk (verified) |
-| 13 | 9.40 | Lorna Shore — Pain Remains II: After All I've Done, I'll Disappear [In a Sea of Fire] | mrekk (verified), milosz (victor #1) |
+| 13 | 9.40 | Lorna Shore — Pain Remains II: After All I've Done, I'll Disappear [In a Sea of Fire] | milosz (verified) |
 | 14 | 9.38 | Havok — Postmortem/Raining Blood (Slayer cover) [Vengeance] | mrekk (verified) |
 | 15 | 9.37 | Imperial Circus Dead Decadence — Shinbatsu o Tadori Kyoukotsu ni Itaru [Maaadbot's Nakigara] | Saiyku (verified), z9a (victor #1) |
 | 16 | 9.36 | Zenpaku — Enkindle feat. vally.exe [Ignite] | mrekk (verified) |
@@ -41,7 +41,7 @@ Generated: 2026-08-26T14:40:01.613Z
 | 33 | 9.11 | Imperial Circus Dead Decadence — Shinbatsu o Tadori Kyoukotsu ni Itaru [mithew's Himei] | z9a (verified), Fleh (victor #1), aknzx (victor #2), Zylice (victor #3), RafaMat (victor #4), Zyntex (victor #5 x1.1), Cymango (victor #6), NieTheDie (victor #7), KPOBYIIIKA (victor #8) |
 | 34 | 9.09 | UKRampage — Replica feat. mami [Dailycare's Facsimile] | Suyung_ (verified), MALISZEWSKI (victor #1) |
 | 35 | 9.08 | Imperial Circus Dead Decadence — Jashin no Konrei, Gi wa Ai to Shiru. [Zetsubou no Hana] | Saiyku (verified), ASecretBox (victor #1), Rafis (victor #2), VoProSSoFF (victor #3), WindowLife (victor #4), Utami (victor #5), WhiteCat (victor #6), PinkEyeFan2013 (victor #7), Fleh (victor #8), MALISZEWSKI (victor #9), MALTESER (victor #10), MineFrostID (victor #11), EZChamp (victor #12), enri (victor #13), mrekk (victor #14 x1.1) |
-| 36 | 9.07 | DJKurara — Japanese Transformation [Tanoshi Torture] | reimia (verified) |
+| 36 | 9.07 | DJKurara — Japanese Transformation [Tanoshi Torture] | reimia (verified), CyberOni (victor #1) |
 | 37 | 9.06 | Gram vs. Kobaryo — Yggdrasil [Relentlessness] | WhiteCat (verified), EZChamp (victor #1) |
 | 38 | 9.05 | Ne Obliviscaris — As Icicles Fall [Pillars of Monolith and Ice, Laced with Lightning] | ASecretBox (verified) |
 | 39 | 9.05 | Devin Townsend — Genesis [Inception of Chaos] | rektygon (verified) |
@@ -234,8 +234,8 @@ Generated: 2026-08-26T14:40:01.613Z
 | 226 | 8.38 | DragonForce — The Fire Still Burns [Insanity Lives On] | MALISZEWSKI (verified) |
 | 227 | 8.37 | xi — FREEDOM DiVE [Camo's THREE DIMENSIONS] | PikaPwn (verified x1.1), Fleh (victor #1), ZeitFrost (victor #2), desuqe (victor #3) |
 | 228 | 8.37 | WAGAMAMA RAKIA — M [Let me Listen to your Voices] | rng_ (verified) |
-| 229 | 8.37 | Release Hallucination — Chronostasis [Overflowing Darkness] | desuqe (verified x1.1), vljoy209 (victor #1), Mekeyo (victor #2), monte (victor #3), cloppit (victor #4), kyojaku (victor #5), LordGabriel (victor #6), argweid (victor #7), yodeston (victor #8), fedotoff (victor #9), yadon (victor #10), NaPiii_ (victor #11), MineFrostID (victor #12), Umbre (victor #13 x1.1), Frenklee (victor #14), Exxotl (victor #15) |
-| 230 | 8.37 | Laur — A Lasting Promise [Shizurre's MAXIMUM] | Welter (verified x1.1), MineFrostID (victor #1), Zylice (victor #2), Utami (victor #3), Dever (victor #4), Chicony (victor #5 x1.3), Doomsday fanboy (victor #6), r_kt (victor #7), nooneloves (victor #8), Grippeh (victor #9), Swiq (victor #10), velcro shoes (victor #11), ChaiPhukChep (victor #12), [Karcher] (victor #13), Nyura (victor #14), MYKEYBOARD (victor #15), Kamensh1k (victor #16 x1.3) |
+| 229 | 8.37 | Release Hallucination — Chronostasis [Overflowing Darkness] | desuqe (verified x1.1), vljoy209 (victor #1), Mekeyo (victor #2), monte (victor #3), cloppit (victor #4), kyojaku (victor #5), LordGabriel (victor #6), argweid (victor #7), yodeston (victor #8), fedotoff (victor #9), yadon (victor #10), NaPiii_ (victor #11), MineFrostID (victor #12), Umbre (victor #13 x1.1), Frenklee (victor #14), Exxotl (victor #15), Anoranza (victor #16) |
+| 230 | 8.37 | Laur — A Lasting Promise [Shizurre's MAXIMUM] | Welter (verified x1.1), MineFrostID (victor #1), Zylice (victor #2), Utami (victor #3), Dever (victor #4), Chicony (victor #5 x1.3), Doomsday fanboy (victor #6), r_kt (victor #7), nooneloves (victor #8), rngdle (victor #9), Swiq (victor #10), velcro shoes (victor #11), ChaiPhukChep (victor #12), [Karcher] (victor #13), Nyura (victor #14), MYKEYBOARD (victor #15), Kamensh1k (victor #16 x1.3) |
 | 231 | 8.37 | N2 — NULL APOPHENIA [NOUMENON] | worst hr player (verified), desuqe (victor #1), Wanderio (victor #2), yip (victor #3), tfge (victor #4 x1.1), criller (victor #5) |
 | 232 | 8.36 | Obscura — Ekpyrosis [Divine Wrath] | MALISZEWSKI (verified) |
 | 233 | 8.36 | Satyr — Levitator [Extreme] | MALISZEWSKI (verified x1.1) |
@@ -328,14 +328,14 @@ Generated: 2026-08-26T14:40:01.613Z
 | 320 | 8.23 | uma vs. Morimori Atsushi — Re: End of a Dream [Re: Vived] | TTv_UFO (verified), criller (victor #1 x1.1), xootynator (victor #2 x1.1) |
 | 321 | 8.22 | DragonForce — Through the Fire and Flames [Far Beyond Reality] | Mastasz (verified) |
 | 322 | 8.22 | CROSS VEIN — Black Fairytale [Never Ever Dream] | PikaPwn (verified x1.1), MALISZEWSKI (victor #1 x1.1) |
-| 323 | 8.22 | hiroki. — Which one? [?!] | nooneloves (verified), Ivaxa (victor #1 x1.1), GAY BALNER (victor #2 x1.1), Woey (victor #3 x1.1), aspen (victor #4), flowering (victor #5), A21 (victor #6 x1.1), mcy4 (victor #7), ChocoPafe (victor #8 x1.1), MALISZEWSKI (victor #9 x1.1), TTv_UFO (victor #10 x1.1), misha awa (victor #11 x1.1), tfge (victor #12 x1.1), BoshyMan741 (victor #13), FlyingTuna (victor #14 x1.1), mihail pikulev (victor #15) |
+| 323 | 8.22 | hiroki. — Which one? [?!] | nooneloves (verified), Ivaxa (victor #1 x1.1), GAY BALNER (victor #2 x1.1), Woey (victor #3 x1.1), aspen (victor #4), flowering (victor #5), A21 (victor #6 x1.1), mcy4 (victor #7), ChocoPafe (victor #8 x1.1), MALISZEWSKI (victor #9 x1.1), TTv_UFO (victor #10 x1.1), misha awa (victor #11 x1.1), tfge (victor #12 x1.1), BoshyMan741 (victor #13), FlyingTuna (victor #14 x1.1), mihail pikulev (victor #15), Tutel (victor #16) |
 | 324 | 8.22 | SEVEN LIVES — The Bewitching Voice of the Nine-Tailed Fox [The Howl of Ubiquity] | Tebii (verified) |
 | 325 | 8.22 | Ice — Nostalgia Sonatina Op.3 [celerih's Finale] | _Shield (verified), ecca (victor #1), sharytory (victor #2 x1.1), fish barcode (victor #3 x1.1), Akuma no Tenshi (victor #4) |
 | 326 | 8.22 | Neighbour's Blueish Garden (NIWASHI+Aoi) — Deklowaz, the Allchemist [Blacky x Arushii's Immortal Time-Eater] | FlyingTuna (verified) |
 | 327 | 8.21 | Asriel — Kegare Naki Yume [Nasmoeb] | Zentoro (verified) |
 | 328 | 8.21 | Nekomata Master+ — chaos eater -IIDX edition- [LeggendariA] | WhiteCat (verified), xootynator (victor #1 x1.1), MALISZEWSKI (victor #2), Suyung_ (victor #3) |
 | 329 | 8.21 | Imperial Circus Dead Decadence — Yuuaku no Inori - Anima immortalis est. - [Iter Misericordis] | Supernye (verified), vin (victor #1) |
-| 330 | 8.21 | BLANKFIELD — Voyage [Isomir's Extra] | Bubbleman (verified), Minil (victor #1), Raikouhou (victor #2), nightlywind (victor #3), z9a (victor #4), Pezz (victor #5), Srr (victor #6), nooneloves (victor #7), Grippeh (victor #8), ASecretBox (victor #9) |
+| 330 | 8.21 | BLANKFIELD — Voyage [Isomir's Extra] | Bubbleman (verified), Minil (victor #1), Raikouhou (victor #2), nightlywind (victor #3), z9a (victor #4), Pezz (victor #5), Srr (victor #6), nooneloves (victor #7), rngdle (victor #8), ASecretBox (victor #9) |
 | 331 | 8.21 | Tatsh — IMAGE REBORN -DIVINITY- [Throne of the Forsaken -Feel in Image-] | WhiteCat (verified), Tebii (victor #1) |
 | 332 | 8.21 | Linked Horizon — Guren no Yumiya [Titan] | worst hr player (verified) |
 | 333 | 8.21 | Schwank & Tanger — deathwish [CENSOLED's Extravaganza] | MALISZEWSKI (verified x1.1), WindowLife (victor #1) |
@@ -402,7 +402,7 @@ Generated: 2026-08-26T14:40:01.613Z
 | 394 | 8.12 | :) feat. KAFU — Ren'ai Heiki! Lethal Weapon-chan [0ugi's Ultra] | Stinkster (verified) |
 | 395 | 8.12 | DragonForce — Reasons to Live [Reason to Survive] | Trail Mix (verified), Kamensh1k (victor #1) |
 | 396 | 8.12 | Aline Barros — Eu Li Na Biblia (Sped Up & Cut Ver.) [Grite, grite, grite] | Uchirrod (verified x1.1), Jay12310 (victor #1), Anirium (victor #2), -Legoshi- (victor #3 x1.2), bashou (victor #4), fallenbtw (victor #5), CpxG (victor #6), Suyung_ (victor #7 x1.3), parkrat (victor #8), fybeth (victor #9), Ui chan (victor #10), 2391 (victor #11) |
-| 397 | 8.12 | Imperial Circus Dead Decadence — Shinbatsu o Tadori Kyoukotsu ni Itaru [Maiev x choco x Sayuka's Extreme] | Mathi (verified), Kamensh1k (victor #1 x1.3), 1v9 (victor #2), ChaiPhukChep (victor #3), Reimedd (victor #4) |
+| 397 | 8.12 | Imperial Circus Dead Decadence — Shinbatsu o Tadori Kyoukotsu ni Itaru [Maiev x choco x Sayuka's Extreme] | Mathi (verified), Kamensh1k (victor #1 x1.3), 1v9 (victor #2), ChaiPhukChep (victor #3), Reimedd (victor #4), Zylice (victor #5) |
 | 398 | 8.12 | Renard — Rainbow Dash Likes Girls (Stay Gay Pony Girl) [Holy Shit! It's Rainbow Dash... Again!!] | EZChamp (verified), mrekk (victor #1 x1.2), criller (victor #2) |
 | 399 | 8.11 | Camellia — Arche [Vertex] | criller (verified), MALISZEWSKI (victor #1) |
 | 400 | 8.11 | Lusumi — /data_eraser.wav [/hehefunny_404.osu] | Ivaxa (verified x1.1) |
@@ -414,7 +414,7 @@ Generated: 2026-08-26T14:40:01.613Z
 | 406 | 8.11 | Camellia feat. Nanahira — Shakunetsu Candle Master Tomoshii [Moe Moe FIRE!] | MALISZEWSKI (verified x1.1), zivxare (victor #1), FlyingTuna (victor #2) |
 | 407 | 8.10 | NegaRen — OCTOBER STARLIGHT 4EVER! SIDE B (pt. 3) [nohtaraM] | Bubbleman (verified) |
 | 408 | 8.10 | Genkaku Aria feat. KOKOMI — Whiteout [Devotee to All That Is Barren] | mrekk (verified x1.1) |
-| 409 | 8.10 | Foreground Eclipse — Truths, Ironies, The Secret Lyrics [Don't Stop 'Cause This Party's All We've Got] | MALISZEWSKI (verified), Varvalian (victor #1), _Shield (victor #2), Viveliam (victor #3), Mathi (victor #4), argweid (victor #5), [Karcher] (victor #6), Bubbleman (victor #7), nicki1324 (victor #8), justman (victor #9), bsm (victor #10), -pare (victor #11 x1.1), Umbre (victor #12 x1.1), lolol233 (victor #13), Thundur (victor #14 x1.1), choke enough (victor #15), MrNobady (victor #16), Mastasz (victor #17), Raikouhou (victor #18), Abyssal (victor #19), BTMC (victor #20), Pablohh (victor #21), bunnylikemoney (victor #22), xootynator (victor #23 x1.1), Cocali (victor #24), Gigi8974 (victor #25), Aireu (victor #26), Ekoro (victor #27), Red_Pixel (victor #28), EZChamp (victor #29), okinamo (victor #30 x1.1), Yellow cat (victor #31), SL1PER (victor #32), elsi (victor #33), monte (victor #34), maxbireo (victor #35), Thuya (victor #36), Unexpected (victor #37), wuhua (victor #38 x1.1), bananachi (victor #39), Maiaz (victor #40), Kyros_ (victor #41), nevergrace (victor #42), Woofel (victor #43), lil bread (victor #44), Hifkil (victor #45), Jxir (victor #46 x1.1), imissher (victor #47 x1.1), Saiyku (victor #48 x1.2) |
+| 409 | 8.10 | Foreground Eclipse — Truths, Ironies, The Secret Lyrics [Don't Stop 'Cause This Party's All We've Got] | MALISZEWSKI (verified), Varvalian (victor #1), _Shield (victor #2), Viveliam (victor #3), Mathi (victor #4), argweid (victor #5), [Karcher] (victor #6), Bubbleman (victor #7), nicki1324 (victor #8), justman (victor #9), -pare (victor #10 x1.1), Umbre (victor #11 x1.1), lolol233 (victor #12), Thundur (victor #13 x1.1), choke enough (victor #14), MrNobady (victor #15), Mastasz (victor #16), Raikouhou (victor #17), Abyssal (victor #18), BTMC (victor #19), Pablohh (victor #20), bunnylikemoney (victor #21), xootynator (victor #22 x1.1), Cocali (victor #23), Gigi8974 (victor #24), Aireu (victor #25), Ekoro (victor #26), Red_Pixel (victor #27), EZChamp (victor #28), okinamo (victor #29 x1.1), Yellow cat (victor #30), SL1PER (victor #31), elsi (victor #32), monte (victor #33), maxbireo (victor #34), Thuya (victor #35), Unexpected (victor #36), wuhua (victor #37 x1.1), bananachi (victor #38), Maiaz (victor #39), Kyros_ (victor #40), nevergrace (victor #41), Woofel (victor #42), lil bread (victor #43), Hifkil (victor #44), Jxir (victor #45 x1.1), imissher (victor #46 x1.1), Saiyku (victor #47 x1.2), yodeston (victor #48) |
 | 410 | 8.10 | Camellia — werewolf howls. ["Growling" Long ver.] [OUTRAGE] | thaibuy (verified), Bubbleman (victor #1), Tsuwagi (victor #2), iamVill (victor #3), Hakui Koyori (victor #4 x1.1), MALISZEWSKI (victor #5 x1.1), xootynator (victor #6 x1.3), Pezz (victor #7), Hifkil (victor #8), Mike Tyson (victor #9), ur cute (victor #10 x1.1) |
 | 411 | 8.10 | Revo — Chihei o Kurau Hebi [Ouroboros] | mrekk (verified) |
 | 412 | 8.10 | xi — Glorious Crown [Chizu's Another] | MineFrostID (verified), willy0214 (victor #1), ruirui (victor #2), z9a (victor #3) |
@@ -489,13 +489,13 @@ Generated: 2026-08-26T14:40:01.613Z
 | 481 | 8.04 | Paramore — Anklebiters [Expert] | WhiteCat (verified), Bubbleman (victor #1), badeu (victor #2), worst hr player (victor #3), xootynator (victor #4 x1.1) |
 | 482 | 8.04 | Yooh — Road To The LegenD, [Victory RoaD,] | Suyung_ (verified), Tutel (victor #1) |
 | 483 | 8.04 | Killswitch Engage — In Due Time [Believe in Redemption] | badeu (verified), desuqe (victor #1) |
-| 484 | 8.04 | Arash — Temptation (feat. Rebecca) (Nightcore Mix) [Tylerderp's Extreme] | Alfrah (verified x1.1), splenty (victor #1), rng_ (victor #2), Unexpected (victor #3), John Aim (victor #4), slapshot (victor #5), ikuyokita (victor #6 x1.1), Mathi (victor #7), bung wung (victor #8 x1.2), fallenbtw (victor #9 x1.2), -Legoshi- (victor #10 x1.2), Lyeli (victor #11), parkrat (victor #12), elituqinn (victor #13), chivauva (victor #14) |
+| 484 | 8.04 | Arash — Temptation (feat. Rebecca) (Nightcore Mix) [Tylerderp's Extreme] | Alfrah (verified x1.1), splenty (victor #1), rng_ (victor #2), Unexpected (victor #3), John Aim (victor #4), slapshot (victor #5), ikuyokita (victor #6 x1.1), Mathi (victor #7), bung wung (victor #8 x1.2), fallenbtw (victor #9 x1.2), -Legoshi- (victor #10 x1.2), Lyeli (victor #11), parkrat (victor #12), elituqinn (victor #13), chivauva (victor #14), Lefy (victor #15) |
 | 485 | 8.04 | Umeboshi Chazuke — AJITAMA Adventure OST [Egg Quest] | desuqe (verified) |
 | 486 | 8.04 | Aiobahn feat. KOTOKO — INTERNET YAMERO [ILJAAZ'S INTERNET B****] | MALISZEWSKI (verified x1.1), Wanderio (victor #1) |
 | 487 | 8.04 | Hige Driver join. SELEN — Dadadadadadadadadada [aaeky's Special] | EthantrixV3 (verified x1.1), FlyingTuna (victor #1 x1.1) |
 | 488 | 8.04 | Sleeping Pola — kuuchuubunkai [YaMaDarknesss' Ultra] | FlyingTuna (verified) |
 | 489 | 8.03 | kanemiko — comet casting capsule ("catching celestial clusters" Long Ver.) [cosmic crystal cascade] | enri (verified), Rafugapu (victor #1) |
-| 490 | 8.03 | Sunless Rise — Awakening [Untruth] | Bubbleman (verified x1.2), Jakson (victor #1), kazamabc (victor #2 x1.1), Rupertion (victor #3 x1.1), etn (victor #4 x1.2), enri (victor #5 x1.1), Viveliam (victor #6 x1.2), dench (victor #7 x1.2), Utami (victor #8 x1.3), Varvalian (victor #9 x1.2), Norlain (victor #10 x1.1), PikaPwn (victor #11 x1.1), puppy (victor #12 x1.2), [Karcher] (victor #13 x1.2), Mlaw (victor #14 x1.2), Intercambing (victor #15 x1.2), clafrelys (victor #16), Topoi (victor #17 x1.3), nicki1324 (victor #18 x1.2), rektygon (victor #19 x1.2), VoProSSoFF (victor #20 x1.2), Ryugia (victor #21), Mac (victor #22), Tim Kackner (victor #23 x1.2), Fleh (victor #24 x1.2), Stoof (victor #25 x1.2), luciano (victor #26 x1.2), Mathi (victor #27 x1.2), NYASH (victor #28 x1.2), zonelouise (victor #29 x1.2), ricoel (victor #30 x1.1), Mahmood (victor #31 x1.2), Swiq (victor #32 x1.2), Pezz (victor #33), MineFrostID (victor #34), lolol233 (victor #35 x1.2), ZeitFrost (victor #36 x1.2), OmegaOrigins (victor #37), Welter (victor #38 x1.1), Kamensh1k (victor #39 x1.3), monte (victor #40 x1.2), nooneloves (victor #41), KPOBYIIIKA (victor #42) |
+| 490 | 8.03 | Sunless Rise — Awakening [Untruth] | Bubbleman (verified x1.2), Jakson (victor #1), kazamabc (victor #2 x1.1), Rupertion (victor #3 x1.1), etn (victor #4 x1.2), enri (victor #5 x1.1), Viveliam (victor #6 x1.2), dench (victor #7 x1.2), Utami (victor #8 x1.3), Varvalian (victor #9 x1.2), Norlain (victor #10 x1.1), PikaPwn (victor #11 x1.1), puppy (victor #12 x1.2), [Karcher] (victor #13 x1.2), Mlaw (victor #14 x1.2), Intercambing (victor #15 x1.2), clafrelys (victor #16), Topoi (victor #17 x1.3), nicki1324 (victor #18 x1.2), rektygon (victor #19 x1.2), VoProSSoFF (victor #20 x1.2), Ryugia (victor #21), Mac (victor #22), Tim Kackner (victor #23 x1.2), Fleh (victor #24 x1.2), Stoof (victor #25 x1.2), luciano (victor #26 x1.2), Mathi (victor #27 x1.2), NYASH (victor #28 x1.2), zonelouise (victor #29 x1.2), ricoel (victor #30 x1.1), Mahmood (victor #31 x1.2), Swiq (victor #32 x1.2), MineFrostID (victor #33), lolol233 (victor #34 x1.2), ZeitFrost (victor #35 x1.2), OmegaOrigins (victor #36), Welter (victor #37 x1.1), Kamensh1k (victor #38 x1.3), monte (victor #39 x1.2), nooneloves (victor #40), KPOBYIIIKA (victor #41), Joyi (victor #42 x1.2) |
 | 491 | 8.03 | Ekcle — Crafted In Ice [CENSOLED's Extravaganza] | MALISZEWSKI (verified x1.1) |
 | 492 | 8.03 | BULANOVA — NE PLACH' [fate] | PikaPwn (verified x1.1), tgnalice (victor #1), apisedo (victor #2), Joyi (victor #3 x1.1), eruhar (victor #4), yary (victor #5 x1.1), Martair (victor #6), mads (victor #7), Ivanix (victor #8), gamer228666 (victor #9 x1.2), NaPiii_ (victor #10 x1.2), xoxyl (victor #11), Tonnisdk (victor #12), MiMiTooU (victor #13), 1v9 (victor #14), z9a (victor #15), Zelths (victor #16), TetraDoge (victor #17), marzey (victor #18), Nekkid (victor #19 x1.1), Turles (victor #20), -database- (victor #21), willy0214 (victor #22), meramin (victor #23), Ace on osu (victor #24), Gurbzy (victor #25), Lemuze (victor #26), humane_007 (victor #27), Toesu (victor #28), zonelouise (victor #29), Persona John (victor #30), BossPlays (victor #31), Scyfyyy (victor #32), Akuma no Tenshi (victor #33 x1.1), cr4shz1 (victor #34), FlipRopiik (victor #35), Toy0Ta (victor #36), RafaMat (victor #37 x1.2), Azertyran (victor #38), Mr_Plex (victor #39), Binninja (victor #40), worst th player (victor #41), Nakrobsayhi (victor #42), LyeRR (victor #43), Kiskai (victor #44), xside365 (victor #45), frozyxd (victor #46), Bae Joohyun (victor #47), Ben Man56 (victor #48) |
 | 493 | 8.03 | DJ Raisei — T.R.A.P. [Halgoh's Vesperal Singularity] | MALISZEWSKI (verified x1.1), WindowLife (victor #1), desuqe (victor #2), Allegrissimo (victor #3), criller (victor #4), Mastasz (victor #5), Suyung_ (victor #6), NathanRam1918 (victor #7), Skrowell (victor #8), xootynator (victor #9 x1.1), Swiq (victor #10), Vaxei (victor #11), mcy4 (victor #12 x1.1), NeliNyan (victor #13), Kosiarek (victor #14) |
@@ -519,7 +519,7 @@ Generated: 2026-08-26T14:40:01.613Z
 | 511 | 8.01 | Imperial Circus Dead Decadence — Uta [Leftover Soul] | bunnylikemoney (verified), PikaPwn (victor #1 x1.1), LordGabriel (victor #2), Xaver (victor #3), Raikouhou (victor #4), lil bread (victor #5), Zentoro (victor #6), Lefy (victor #7), Tebii (victor #8), Mekeyo (victor #9), Rebo (victor #10) |
 | 512 | 8.01 | Ito Kanako — Sky of Twilight [Ascend] | Nezzar (verified), Welter (victor #1), Darthh (victor #2), HikkaSka (victor #3), permiss (victor #4), elituqinn (victor #5), Furamun (victor #6), yodeston (victor #7), XenoPenguino (victor #8), Mekeyo (victor #9), Namotzu (victor #10), Dumb-Andy (victor #11), splenty (victor #12) |
 | 513 | 8.01 | Down — Ekoro [DeviousPanda's Extravaganza] | NathanRam1918 (verified), Aotoleen (victor #1), mcy4 (victor #2), Ekoro (victor #3), mrekk (victor #4 x1.3), Skrowell (victor #5), Chicony (victor #6 x1.2), minefieldsurfer (victor #7), FlasTEH (victor #8), worst hr player (victor #9 x1.1), bsm (victor #10), FGSky (victor #11 x1.1), criller (victor #12), BATBALL (victor #13), dench (victor #14), Coreanmaluco (victor #15), tfge (victor #16 x1.1), HeyItzShane (victor #17), MALISZEWSKI (victor #18 x1.1), rektygon (victor #19 x1.2), Utami (victor #20 x1.3), juujep (victor #21), leny (victor #22), GAO HAO (victor #23), yadon (victor #24), TTv_UFO (victor #25), Vaxei (victor #26), enri (victor #27), Kamensh1k (victor #28 x1.3), LoidKun (victor #29), yary (victor #30), desuqe (victor #31), Goold (victor #32), -aico (victor #33) |
-| 514 | 8.01 | Twilight Force — Valley Of The Vale [Mystical] | Kotsik (verified), elsi (victor #1) |
+| 514 | 8.01 | Twilight Force — Valley Of The Vale [Mystical] | Kotsik (verified), elsi (victor #1), vljoy209 (victor #2) |
 | 515 | 8.01 | nao — Towa naru Kizuna to Omoi no Kiseki [1112's Extra] | Bartek22830 (verified), resto druid (victor #1), gnahus (victor #2 x1.1), wuhua (victor #3) |
 | 516 | 8.01 | Falcom Sound Team jdk — The Azure Arbitrator [Chrono Collapse] | idke (verified), Vaxei (victor #1), Abyssal (victor #2), rafal (victor #3), bsm (victor #4), criller (victor #5), Tsuwagi (victor #6), mcy4 (victor #7), MALISZEWSKI (victor #8 x1.1), Suyung_ (victor #9), yencis (victor #10), Hifkil (victor #11), Dawnwing (victor #12), Flameztear (victor #13), Moonlit111 (victor #14) |
 | 517 | 8.01 | Nekomimi Mahoutsukai — LittlE HearTs [GOD] | Fleh (verified) |
@@ -528,7 +528,7 @@ Generated: 2026-08-26T14:40:01.613Z
 | 520 | 8.01 | wuk — Sidetracked Day [Uri's Tyranny] | Jxir (verified x1.1), Arakii (victor #1), Kyros_ (victor #2), dimchik (victor #3), [Karcher] (victor #4), willy0214 (victor #5), NaPiii_ (victor #6 x1.2), Victoor (victor #7), Saiyku (victor #8 x1.2), cr4shz1 (victor #9), Niali (victor #10 x1.1), katalashka son (victor #11), NYASH (victor #12), AstroVnz (victor #13), SIDETRACKEDDAY (victor #14), saewon (victor #15), Akuma no Tenshi (victor #16 x1.1), evankkk (victor #17), meramin (victor #18), Turles (victor #19), MiMiTooU (victor #20 x1.2), EZChamp (victor #21 x1.2), she gon pay me (victor #22), xside365 (victor #23), Kluchen (victor #24 x1.2), tortelliniii (victor #25), will smith (victor #26), monte (victor #27), lolol233 (victor #28 x1.2), Azertyran (victor #29), wuk (victor #30 x1.1), respektive (victor #31), gamer228666 (victor #32 x1.2), JeadIng (victor #33), Ravene (victor #34), zeroly (victor #35), N I K I T A (victor #36), Bouquetdor (victor #37), ozy (victor #38), onokari123 (victor #39), ASecretBox (victor #40 x1.3), Zoomeree (victor #41), Alyra (victor #42 x1.1), zyanishu (victor #43), gusrua123 (victor #44 x1.1) |
 | 521 | 8.01 | orangentle — OEFHEBEN [Furioso] | Suyung_ (verified), Tutel (victor #1) |
 | 522 | 8.01 | Falcom Sound Team jdk — GENS D'ARMES [CONQUEROR] | xootynator (verified x1.1), MALISZEWSKI (victor #1), mrekk (victor #2), Raikouhou (victor #3) |
-| 523 | 8.00 | Aitsuki Nakuru — Presenter* [Gift] | Skydiver (verified), tekkito (victor #1 x1.1), yamss (victor #2 x1.1), Dumii (victor #3), GoldenMine (victor #4 x1.1), rairiku (victor #5), _Shield (victor #6), Bubbleman (victor #7), Mathi (victor #8 x1.1), Zydan (victor #9), bocchicookie (victor #10 x1.1), Rupertion (victor #11 x1.1), lightingloyz (victor #12), -Dreamless (victor #13), hexi (victor #14 x1.1), MegaMK (victor #15), Oosha (victor #16), VoProSSoFF (victor #17), Lesperry (victor #18), chocomint (victor #19 x1.1), Another Guy (victor #20), F2X (victor #21), zonelouise (victor #22), Sherbet (victor #23 x1.1), Vagabond (victor #24), Tim Kackner (victor #25), luzny (victor #26), Uchirrod (victor #27 x1.1), Chicony (victor #28), vljoy209 (victor #29), Loosay (victor #30 x1.1), Slenderman (victor #31 x1.2), flubb (victor #32), Lewis Hamilton (victor #33), tomadoi (victor #34 x1.1), decaten (victor #35), Saiyku (victor #36), lil bread (victor #37), Mastasz (victor #38), brayan56 (victor #39 x1.1), -aico (victor #40), Seamie (victor #41) |
+| 523 | 8.00 | Aitsuki Nakuru — Presenter* [Gift] | Skydiver (verified), tekkito (victor #1 x1.1), yamss (victor #2 x1.1), Dumii (victor #3), GoldenMine (victor #4 x1.1), rairiku (victor #5), _Shield (victor #6), Bubbleman (victor #7), Mathi (victor #8 x1.1), Zydan (victor #9), bocchicookie (victor #10 x1.1), Rupertion (victor #11 x1.1), lightingloyz (victor #12), -Dreamless (victor #13), hexi (victor #14 x1.1), MegaMK (victor #15), Oosha (victor #16), VoProSSoFF (victor #17), Lesperry (victor #18), chocomint (victor #19 x1.1), Another Guy (victor #20), F2X (victor #21), zonelouise (victor #22), Sherbet (victor #23 x1.1), Tim Kackner (victor #24), luzny (victor #25), Uchirrod (victor #26 x1.1), Chicony (victor #27), vljoy209 (victor #28), Loosay (victor #29 x1.1), Slenderman (victor #30 x1.2), flubb (victor #31), Lewis Hamilton (victor #32), tomadoi (victor #33 x1.1), decaten (victor #34), Saiyku (victor #35), lil bread (victor #36), Mastasz (victor #37), brayan56 (victor #38 x1.1), -aico (victor #39), Seamie (victor #40) |
 | 524 | 8.00 | Shade feat. Katakiri Rekka — The Last Edge [Final Strike] | Tommy315 (verified), trigon (victor #1) |
 | 525 | 8.00 | UNDEAD CORPORATION — Flowering Night Fever [Flowering] | Dumii (verified), im a fancy lad (victor #1), enri (victor #2), treyarch (victor #3), Kamensh1k (victor #4 x1.2), Welter (victor #5), CircleClick (victor #6), minefieldsurfer (victor #7), z9a (victor #8), tsunagite (victor #9), Stinkster (victor #10), Pezz (victor #11 x1.2), vljoy209 (victor #12), Antolions (victor #13), 9I DePeBO (victor #14), Saiyku (victor #15 x1.2) |
 | 526 | 8.00 | xi — Halcyon (Long Ver.) [Aetherial] | Raikouhou (verified) |
@@ -812,7 +812,7 @@ Generated: 2026-08-26T14:40:01.613Z
 | 804 | 7.80 | Kabocha — Draw me a map, Let me feel the tap [Extreme] | MALISZEWSKI (verified x1.1), badeu (victor #1), willy0214 (victor #2), Dumb-Andy (victor #3) |
 | 805 | 7.80 | 1914 — FN .380 ACP#19074 [DOBRODOSLI U SARAJEVO] | BTMC (verified x1.2), Gurbzy (victor #1 x1.2), Raspigaous (victor #2), mrekk (victor #3 x1.2), nobully (victor #4), Jesse Pinkman (victor #5), [ Zane ] (victor #6 x1.2), Mlaw (victor #7 x1.2), Risiing (victor #8), Winfly (victor #9), Mac (victor #10), gamer228666 (victor #11 x1.2), NaPiii_ (victor #12 x1.2), ASecretBox (victor #13 x1.3), bunnylikemoney (victor #14 x1.2), Spacus (victor #15), hvke (victor #16), Norlain (victor #17), Ryugia (victor #18), IcyBoat (victor #19 x1.1), ratbutbuff (victor #20), sarboggly (victor #21 x1.2), _Twent (victor #22), pupusa (victor #23), xep (victor #24), Saiyku (victor #25 x1.2), Bajan Canadian (victor #26), maxim (victor #27), Aerora (victor #28 x1.1), Joyi (victor #29), Azertyran (victor #30 x1.2), 1v9 (victor #31), WooperFan1 (victor #32), MineFrostID (victor #33 x1.2), yary (victor #34 x1.2), gusrua123 (victor #35 x1.1) |
 | 806 | 7.80 | Kawada Mami — Serment [DepthFlame's Eternal Blaze] | Tommy315 (verified), Tile (victor #1), savilju (victor #2), [Karcher] (victor #3), A21 (victor #4 x1.1), Doomsday fanboy (victor #5), ywd (victor #6), Ebutenim (victor #7), MALISZEWSKI (victor #8 x1.1) |
-| 807 | 7.80 | ONE OK ROCK — American Girls (Juztan Remix) [Mekadon's American Girl Fantasy] | VerreDeCafe (verified x1.2), manosaba (victor #1 x1.1), danib0k (victor #2 x1.1), Ichinose-Honami (victor #3), fallenbtw (victor #4 x1.3), MALISZEWSKI (victor #5 x1.3), Alfrah (victor #6 x1.3), 3uma (victor #7 x1.1), Forsit (victor #8 x1.1), Plosmo (victor #9), PCMK (victor #10 x1.1), SilvDoge (victor #11), Chechill (victor #12 x1.1), Kumeri (victor #13 x1.1), Carbone (victor #14 x1.3), DecoysIsBored (victor #15 x1.3), BobrowyDealer (victor #16 x1.1), -Legoshi- (victor #17 x1.2), huyanh68 (victor #18 x1.2), ianski (victor #19 x1.1), splenty (victor #20 x1.3), -Rigel- (victor #21 x1.1), Fadi (victor #22 x1.2), Atsacity (victor #23 x1.3), See (victor #24 x1.1), CFGiel (victor #25 x1.3), -Spec (victor #26 x1.1), treyarch (victor #27 x1.1), kolic (victor #28 x1.1), Cafea_ (victor #29 x1.2), ikuyokita (victor #30 x1.3), thu4der (victor #31 x1.1) |
+| 807 | 7.80 | ONE OK ROCK — American Girls (Juztan Remix) [Mekadon's American Girl Fantasy] | VerreDeCafe (verified x1.2), manosaba (victor #1 x1.1), danib0k (victor #2 x1.1), Ichinose-Honami (victor #3), fallenbtw (victor #4 x1.3), MALISZEWSKI (victor #5 x1.3), Alfrah (victor #6 x1.3), 3uma (victor #7 x1.1), Forsit (victor #8 x1.1), Plosmo (victor #9), PCMK (victor #10 x1.1), SilvDoge (victor #11), Chechill (victor #12 x1.1), Kumeri (victor #13 x1.1), Carbone (victor #14 x1.3), DecoysIsBored (victor #15 x1.3), BobrowyDealer (victor #16 x1.1), -Legoshi- (victor #17 x1.2), huyanh68 (victor #18 x1.2), ianski (victor #19 x1.1), splenty (victor #20 x1.3), -Rigel- (victor #21 x1.1), Fadi (victor #22 x1.2), Atsacity (victor #23 x1.3), See (victor #24 x1.1), CFGiel (victor #25 x1.3), -Spec (victor #26 x1.1), treyarch (victor #27 x1.1), kolic (victor #28 x1.1), Cafea_ (victor #29 x1.2), ikuyokita (victor #30 x1.3), thu4der (victor #31 x1.1), 300mm (victor #32 x1.2) |
 | 808 | 7.80 | DragonForce — Cry Thunder [Unholy Darkness] | Mlaw (verified), follon (victor #1), Wakson (victor #2), idke (victor #3 x1.2), Aireu (victor #4), Umbre (victor #5), Karuna (victor #6), Intercambing (victor #7), etn (victor #8), xootynator (victor #9 x1.1), PotJohn Nutella (victor #10 x1.1), gamer228666 (victor #11), Zydan (victor #12), Viveliam (victor #13), Thundur (victor #14 x1.1), Rebo (victor #15), wuhua (victor #16 x1.1), luciano (victor #17), ruirui (victor #18), -pare (victor #19 x1.1), bunnylikemoney (victor #20), _Twent (victor #21), synoxa (victor #22), [Karcher] (victor #23 x1.2), Vivaru (victor #24), worst hr player (victor #25), rektygon (victor #26 x1.2), Sunwraith (victor #27), Bazingasdead (victor #28), deit (victor #29 x1.1), runnysunny (victor #30), Nekoyase (victor #31 x1.1), somethingcooll (victor #32), fireblaze3028 (victor #33), bocchicookie (victor #34 x1.1), Petirabi (victor #35), MALISZEWSKI (victor #36 x1.2), Lantic (victor #37), orngoos (victor #38 x1.2), ASecretBox (victor #39 x1.3), chicken_67 (victor #40), WooperFan1 (victor #41), Rinko Shirokane (victor #42), Anoranza (victor #43), tomadoi (victor #44) |
 | 809 | 7.80 | ELFENSJoN — Gensou wa Aoki Tsuki to Narite [Luminus] | eruhar (verified), Chicony (victor #1), Sh4rq_ (victor #2), Saiyku (victor #3), Smarteyy (victor #4) |
 | 810 | 7.80 | Rish feat. Choko — Punai Punai Gensou ~Punai Punai in Wonderland~ [Punai Punai] | Mathi (verified), Varvalian (victor #1), Doomsday fanboy (victor #2), PinkEyeFan2013 (victor #3), Lineu (victor #4), Melvr (victor #5), misha awa (victor #6 x1.1), lolol233 (victor #7) |
@@ -853,7 +853,7 @@ Generated: 2026-08-26T14:40:01.613Z
 | 845 | 7.79 | DragonForce — Soldiers of the Wasteland [Legend] | Abyssal (verified), BTMC (victor #1), nicki1324 (victor #2), im a fancy lad (victor #3), Aoi Kiseki (victor #4), Saymel (victor #5), gamer228666 (victor #6), DazzLE_Wind (victor #7), [Karcher] (victor #8), lolol233 (victor #9), Viveliam (victor #10), _Kaczek_ (victor #11), MegaMK (victor #12), bunnylikemoney (victor #13), ChillierPear (victor #14), MrNobady (victor #15), marcel7 (victor #16), Sh4rq_ (victor #17), criller (victor #18 x1.1), elsi (victor #19), NOUMEN BREAK (victor #20), Suyong_ (victor #21), NathanRam1918 (victor #22), MineFrostID (victor #23), Juicy (victor #24), wuhua (victor #25 x1.1), EZChamp (victor #26) |
 | 846 | 7.78 | Teminite & MDK — Space Invaders [Dimensional Virtual Arcade] | Zeklewa (verified), WhiteCat (victor #1 x1.1), badeu (victor #2), a12456 (victor #3), MoeYandere (victor #4), rektygon (victor #5), Tsuwagi (victor #6), -Masta- (victor #7), SrChispa (victor #8 x1.1), Akolibed (victor #9 x1.1), tsumiya (victor #10), bunnylikemoney (victor #11), criller (victor #12), what about me (victor #13), yencis (victor #14), Ghossert (victor #15), Kosiarek (victor #16), xootynator (victor #17), mrekk (victor #18) |
 | 847 | 7.78 | Pratanallis feat. Tsuyuri Karin — Ren'ai Fantasy [Illusion] | Librarian (verified), shion (victor #1), Meniwa (victor #2), Lolu (victor #3), 6Nusu9 (victor #4), Kurumiw (victor #5), MALISZEWSKI (victor #6 x1.3), rng_ (victor #7), PikaPwn (victor #8 x1.1), Mathi (victor #9), Wanderio (victor #10), HeyCat_ (victor #11), EzChock (victor #12) |
-| 848 | 7.78 | BLANKFIELD — THE WORLD REVOLVING [Ultimate] | _Shield (verified), willy0214 (victor #1), Dugyy (victor #2), -Solar- (victor #3), mcy4 (victor #4 x1.2), RiceShower (victor #5), anjroo (victor #6), sephy (victor #7), HYUNG JOO (victor #8), z9a (victor #9), David Seymour (victor #10), Hibiki (victor #11 x1.1), LogiDASH (victor #12), -Mahiro (victor #13), mats on osu (victor #14), Namotzu (victor #15), Bajan Canadian (victor #16), Chakrami (victor #17), pr1mary (victor #18), Name94 (victor #19), Fmi (victor #20), Bubbleman (victor #21), Netsuz (victor #22), bananachi (victor #23 x1.1), JeadIng (victor #24), Kamensh1k (victor #25 x1.3), MblLO (victor #26), Typeddiamond (victor #27), Adrean (victor #28), pizzouilleee (victor #29), Joyi (victor #30), ProPlaysForMe (victor #31), sareemaa (victor #32), SlicedAvocado (victor #33), Reimedd (victor #34), paxyh (victor #35), Alfiu (victor #36) |
+| 848 | 7.78 | BLANKFIELD — THE WORLD REVOLVING [Ultimate] | _Shield (verified), willy0214 (victor #1), Dugyy (victor #2), -Solar- (victor #3), mcy4 (victor #4 x1.2), RiceShower (victor #5), anjroo (victor #6), sephy (victor #7), HYUNG JOO (victor #8), z9a (victor #9), David Seymour (victor #10), Hibiki (victor #11 x1.1), LogiDASH (victor #12), -Mahiro (victor #13), mats on osu (victor #14), Namotzu (victor #15), Bajan Canadian (victor #16), Chakrami (victor #17), pr1mary (victor #18), Name94 (victor #19), Fmi (victor #20), Bubbleman (victor #21), Netsuz (victor #22), bananachi (victor #23 x1.1), JeadIng (victor #24), Kamensh1k (victor #25 x1.3), MblLO (victor #26), Typeddiamond (victor #27), Adrean (victor #28), pizzouilleee (victor #29), Joyi (victor #30), ProPlaysForMe (victor #31), sareemaa (victor #32), SlicedAvocado (victor #33), Reimedd (victor #34), paxyh (victor #35), Alfiu (victor #36), Mahmood (victor #37) |
 | 849 | 7.78 | Asriel — Raison D'etre [EXist] | puppy (verified), xootynator (victor #1 x1.1), Shima Rin Dango (victor #2), bsm (victor #3), MALISZEWSKI (victor #4 x1.1) |
 | 850 | 7.78 | Imperial Circus Dead Decadence — Danzai No Honoo To Koibito-Tachi No Rondo [Someday they will meet again.] | Mizeree (verified), Kluchen (victor #1), parkrat (victor #2), Rizer (victor #3), shouponpon (victor #4), i love manosaba (victor #5 x1.1), ozy (victor #6), Musty (victor #7 x1.1), marcel7 (victor #8), yodeston (victor #9), HikkaSka (victor #10), Meower (victor #11), GodRoPoNiKa (victor #12) |
 | 851 | 7.78 | Kalmah — Swamphell [Possession] | worst hr player (verified), EZChamp (victor #1) |
@@ -874,2421 +874,3701 @@ Generated: 2026-08-26T14:40:01.613Z
 | 866 | 7.77 | ShinRa-Bansho — Dramatic Hizakurige [Athy's Endless Dream] | Vaxei (verified), Bubbleman (victor #1), DazzLE_Wind (victor #2), [Karcher] (victor #3), MALISZEWSKI (victor #4 x1.1), Mathi (victor #5), SL1PER (victor #6), EzChock (victor #7), Melvr (victor #8), Tutel (victor #9) |
 | 867 | 7.77 | Suzaku vs. Genbu — Himiko [Makii's BLACK ANOTHER+] | everless (verified) |
 | 868 | 7.77 | Sakuzyo — Lantagraph [Impressionism] | criller (verified) |
-| 869 | 7.77 | BABYMETAL — Road of Resistance [Determined] | ASecretBox (verified x1.1), Mathi (victor #1), etn (victor #2), Umbre (victor #3), Rupertion (victor #4), MrNobady (victor #5), Risiing (victor #6), justman (victor #7), Varvalian (victor #8), KyoouN (victor #9), nicki1324 (victor #10), Reedkatt (victor #11), Pablohh (victor #12), dench (victor #13), MALISZEWSKI (victor #14 x1.1), aimbotcone (victor #15), AxewB (victor #16 x1.1), Thundur (victor #17 x1.1), Warinn (victor #18), Mastasz (victor #19), Mlaw (victor #20), bunnylikemoney (victor #21), -Karu (victor #22 x1.1), taro (victor #23), rektygon (victor #24 x1.2), VoProSSoFF (victor #25), [Karcher] (victor #26 x1.2), PikaPwn (victor #27 x1.1), bocchicookie (victor #28 x1.1), Stoof (victor #29), Tim Kackner (victor #30), Arakii (victor #31), Xemtin (victor #32), NeliNyan (victor #33), fireblaze3028 (victor #34), Exxotl (victor #35), wuhua (victor #36 x1.1), yodeston (victor #37), TheNexusGamer (victor #38), zonelouise (victor #39), bananachi (victor #40), Rebo (victor #41), uatzap (victor #42), monte (victor #43), RAFUNA (victor #44), lil bread (victor #45) |
-| 870 | 7.77 | Mrs. GREEN APPLE — Ao to Natsu (katagiri Bootleg) (Sped Up Ver.) [quantumvortex's Extreme] | yencis (verified), splenty (victor #1), Leasurex (victor #2), Ruyaya (victor #3), exen47 (victor #4), Bajan Canadian (victor #5), fallenbtw (victor #6 x1.2), Nymphe (victor #7) |
-| 871 | 7.77 | -45 — Kuina [When They Cry] | xootynator (verified x1.3), yencis (victor #1), HandsomeMe (victor #2) |
-| 872 | 7.77 | Camellia — Exit This Earth's Atomosphere [Evolution] | worst hr player (verified), mcy4 (victor #1), badeu (victor #2), EZChamp (victor #3), MALISZEWSKI (victor #4 x1.1) |
-| 873 | 7.77 | Street — Hestia [Mir's Pyrtaneum] | chocomint (verified x1.1), im a fancy lad (victor #1), enri (victor #2 x1.1), MALISZEWSKI (victor #3 x1.1), Tsuwagi (victor #4), mcy4 (victor #5), yumenoshima (victor #6), Chicony (victor #7), Allegrissimo (victor #8), HandsomeMe (victor #9), 6Nusu9 (victor #10), ruyu (victor #11 x1.1), k4rnu1 (victor #12), Alfiu (victor #13 x1.1), badeu (victor #14), trigon (victor #15), misha awa (victor #16), criller (victor #17), noncycle (victor #18) |
-| 874 | 7.77 | Mutsuhiko Izumi — Tengoku to Jigoku [Ultra] | EZChamp (verified) |
-| 875 | 7.77 | BABYMETAL — Arkadia [Extreme] | [Karcher] (verified x1.2), Adomeium (victor #1), Umbre (victor #2 x1.1), elsi (victor #3), Exarch (victor #4 x1.1), Vespirit (victor #5), sarboggly (victor #6), PikaPwn (victor #7 x1.1), Sh4rq_ (victor #8 x1.2), NaPiii_ (victor #9 x1.2), Ekoro (victor #10), Yoo Da Hee (victor #11 x1.1), NathanRam1918 (victor #12 x1.1), samuele (victor #13), Nev- (victor #14 x1.1), bunnylikemoney (victor #15 x1.2), Sturvos (victor #16), _Twent (victor #17), clafrelys (victor #18 x1.1), Toma 2 (victor #19), BlancPur (victor #20 x1.2), Suyung_ (victor #21 x1.2), DonnieGG (victor #22), minefieldsurfer (victor #23), maxbireo (victor #24), pawb (victor #25), MALISZEWSKI (victor #26 x1.1), bocchicookie (victor #27 x1.1), lil bread (victor #28), mcy4 (victor #29 x1.3), Tutel (victor #30 x1.2), 4 Fun Gaymer (victor #31 x1.1), WooperFan1 (victor #32), rlsc1109 (victor #33), Saymel (victor #34 x1.2), monte (victor #35 x1.2), uatzap (victor #36), 13roil (victor #37), ASecretBox (victor #38 x1.3), MALESHEVSKI (victor #39), Impowster (victor #40 x1.1) |
-| 876 | 7.77 | Camellia ft. Yukacco — Be Wild [Inspiration] | Raikouhou (verified) |
-| 877 | 7.76 | Yousei Teikoku — Kuusou Mesorogiwi [Prophecy] | _Shield (verified), TWOJA STARA (victor #1), Mathi (victor #2), A21 (victor #3), Aoi Kiseki (victor #4), DazzLE_Wind (victor #5), tekkito (victor #6 x1.1), Daisuke Narotan (victor #7 x1.1), big snag (victor #8), lovetap (victor #9), My Angel Anzu (victor #10 x1.1), MegaMK (victor #11), Bajan Canadian (victor #12), Polle (victor #13), Tsuwagi (victor #14), chocomint (victor #15 x1.1), Spektre (victor #16), ZeitFrost (victor #17), Nayro (victor #18), 13roil (victor #19), NovatoKing (victor #20), Fleh (victor #21), wuhua (victor #22 x1.1), Jakson (victor #23), MALISZEWSKI (victor #24 x1.3), monte (victor #25), Mekeyo (victor #26), yodeston (victor #27), WiggleCalt (victor #28), ka1rskiy (victor #29) |
-| 878 | 7.76 | Laser Imouto — Prismatix [Angelic Beauty] | PikaPwn (verified x1.1), fedoragoose (victor #1 x1.1), mcy4 (victor #2 x1.3), bunnylikemoney (victor #3 x1.2), Nekkid (victor #4 x1.1), fragranceofpage (victor #5 x1.2), Oguri Cap (victor #6 x1.1), ASecretBox (victor #7 x1.3), tsumiya (victor #8 x1.2), Niali (victor #9 x1.1), mrekk (victor #10 x1.3), etn (victor #11 x1.2), misha awa (victor #12 x1.1), Midarna (victor #13 x1.1), EZChamp (victor #14 x1.2), Saskatchewan (victor #15 x1.1), Saymel (victor #16 x1.2), Alfrah (victor #17 x1.1), wuhua (victor #18 x1.3), papercandle (victor #19 x1.2), NaPiii_ (victor #20 x1.2), Rebo (victor #21 x1.2), chaotic_turtle (victor #22 x1.2), gusrua123 (victor #23 x1.1), Vvn (victor #24 x1.1), orngoos (victor #25 x1.2), monte (victor #26 x1.2), smozhen (victor #27 x1.2), z9a (victor #28 x1.2), Suyung_ (victor #29 x1.2), LordGabriel (victor #30 x1.2), MineFrostID (victor #31 x1.2), MALISZEWSKI (victor #32 x1.3), Raikouhou (victor #33 x1.2), Mahmood (victor #34 x1.2), Hifkil (victor #35 x1.2), Jxir (victor #36 x1.1), runnysunny (victor #37 x1.3), Fleh (victor #38 x1.2), Chipori (victor #39 x1.2), ChocoPafe (victor #40 x1.3), GALNERYUS (victor #41 x1.2), def (victor #42 x1.2), killer2007 (victor #43 x1.2), Alyra (victor #44 x1.1), Exxotl (victor #45 x1.2), Umbre (victor #46 x1.3), Aerora (victor #47 x1.1), argweid (victor #48 x1.2) |
-| 879 | 7.76 | Unleash The Archers — Soulbound [Inseverable] | Umbre (verified), Sh4rq_ (victor #1), Skellers (victor #2), XenoPenguino (victor #3), Suyung_ (victor #4 x1.2) |
-| 880 | 7.76 | Chroma — Destroy, Destroy, Destroy The Happy End [...] | Intercambing (verified), MALISZEWSKI (victor #1 x1.1) |
-| 881 | 7.76 | Imperial Circus Dead Decadence — Hyakki Yakou -Pandemonic Night Parade- [Youkai] | mcy4 (verified), Saymel (victor #1), toon (victor #2), AdonisXVIII (victor #3), Tutel (victor #4), Rammu (victor #5 x1.1), Tebii (victor #6), Orkay (victor #7), NOUMEN BREAK (victor #8), misha awa (victor #9 x1.1), Zentoro (victor #10), -Solar- (victor #11) |
-| 882 | 7.76 | Ado — USSEEWA [?] | _Shield (verified), Red_Pixel (victor #1), Woey (victor #2 x1.1), tsunagite (victor #3), Suyung_ (victor #4), Bonk (victor #5 x1.2), L4plus1 (victor #6), willy0214 (victor #7), mcy4 (victor #8), Daf0nz (victor #9), worst hr player (victor #10 x1.1), MALISZEWSKI (victor #11 x1.3), Vivaru (victor #12), A21 (victor #13 x1.1), SinqHD (victor #14), Alfiu (victor #15) |
-| 883 | 7.76 | RD-Sounds feat. Meramipop — enemy of the society [Sin] | Bubbleman (verified), xootynator (victor #1 x1.1), fedoragoose (victor #2) |
-| 884 | 7.76 | tn-shi — the wind's final wish [Crescendo] | Saiyku (verified x1.2), ozy (victor #1), Victoor (victor #2), Rinyeki (victor #3), Rinko Shirokane (victor #4), Hifkil (victor #5), [Karcher] (victor #6 x1.2), uatzap (victor #7), lil bread (victor #8), ASecretBox (victor #9 x1.3), Mekeyo (victor #10), Sunwraith (victor #11 x1.1), zfire (victor #12), Kotsik (victor #13), bunnylikemoney (victor #14), monte (victor #15), Bry (victor #16), konjihi (victor #17), Gurbzy (victor #18), -Hatsune Miku (victor #19), Minecraft s (victor #20), Dumb-Andy (victor #21) |
-| 885 | 7.76 | steelplus — Skywired Beatscape [Alteristia (ft. Megafan)] | JackPaX (verified), MALISZEWSKI (victor #1 x1.1), FlyingTuna (victor #2) |
-| 886 | 7.76 | kamome sano Electric Orchestra — FIN4LE ~Shuushisen no Kanata e~ [AyyLazy's GR4VITY] | Bubbleman (verified), enri (victor #1 x1.1), waste- (victor #2), MALISZEWSKI (victor #3 x1.1), Twilight (victor #4) |
-| 887 | 7.76 | TEARS OF TRAGEDY — Epitaph [Poem] | bunnylikemoney (verified), nicki1324 (victor #1), SL1PER (victor #2), wuhua (victor #3 x1.1), Pablohh (victor #4), MALISZEWSKI (victor #5 x1.1), MineFrostID (victor #6), Zpinxx (victor #7), KOCT9H (victor #8) |
-| 888 | 7.76 | Falcom Sound Team jdk — Belief [LMT's Extra] | NathanRam1918 (verified) |
-| 889 | 7.76 | naotyu- — Her Majesty [Majesty] | ncrohawk (verified), MALISZEWSKI (victor #1 x1.1) |
-| 890 | 7.76 | t+pazolite — Gumbarlzo! [Don't mind her, she is a bit silly] | Suyung_ (verified), NeliNyan (victor #1), desuqe (victor #2 x1.1), GabberSS (victor #3) |
-| 891 | 7.76 | PinocchioP — Reincarnation Apple feat. Hatsune Miku [Horsace's Favorite Apple] | gnahus (verified x1.1), puppy (victor #1), fragranceofpage (victor #2), Raikouhou (victor #3), Allegrissimo (victor #4), Plasma (victor #5) |
-| 892 | 7.75 | Camellia — Stealth-Dash [Expanse] | MALISZEWSKI (verified) |
-| 893 | 7.75 | Kokoko Hachikyu — Chocooo [Extreme] | yadon (verified), z9a (victor #1), argweid (victor #2), MiMiTooU (victor #3), Jerma985 (victor #4), Exxotl (victor #5), JackPaX (victor #6), MineFrostID (victor #7), Akolibed (victor #8 x1.1), NeliNyan (victor #9 x1.1), milosz kitten (victor #10), Zralf (victor #11), Moonlit111 (victor #12), Intercambing (victor #13 x1.2) |
-| 894 | 7.75 | xi — Ascension to Heaven [Before the Final Moment] | FreeDom (verified), _Twent (victor #1), Risiing (victor #2), Aoi Kiseki (victor #3), Mathi (victor #4), Utami (victor #5 x1.1), MrPotato (victor #6), Varvalian (victor #7), BoshyMan741 (victor #8), Rizer (victor #9), Woofel (victor #10), wuhua (victor #11 x1.1), Zpinxx (victor #12), sarboggly (victor #13), zonelouise (victor #14), -Karu (victor #15 x1.1), Victoor (victor #16), decaten (victor #17), TWOJA STARA (victor #18), Ryugia (victor #19), PikaPwn (victor #20 x1.1), dench (victor #21 x1.1), LoidKun (victor #22 x1.1), -Ke15 (victor #23), Rinko Shirokane (victor #24), ssubinism (victor #25), Raidd (victor #26), MALISZEWSKI (victor #27 x1.1), Gurbzy (victor #28), Stecki (victor #29), nobully (victor #30), monte (victor #31), vljoy209 (victor #32), fedoragoose (victor #33) |
-| 895 | 7.75 | Oxalis — Senuere [Sacred Lake] | Flameztear (verified) |
-| 896 | 7.75 | GALNERYUS — HEAVENLY PUNISHMENT [ETERNAL DAMNATION] | Umbre (verified), Viveliam (victor #1), theez (victor #2), Varvalian (victor #3), Thundur (victor #4 x1.1), etn (victor #5), BoshyMan741 (victor #6), mrekk (victor #7 x1.2), Mathi (victor #8), MALISZEWSKI (victor #9), choke enough (victor #10), Rebo (victor #11), mniminwoo (victor #12), [Karcher] (victor #13 x1.2), Rizer (victor #14), Lexalia (victor #15), marcel7 (victor #16), Xemtin (victor #17), worst hr player (victor #18), Tutel (victor #19 x1.2), rektygon (victor #20 x1.2), -Karu (victor #21 x1.1), Cheyne (victor #22 x1.2), everless (victor #23), Remyuu (victor #24), sarboggly (victor #25), bunnylikemoney (victor #26 x1.2), vljoy209 (victor #27), Sh4rq_ (victor #28), Gurbzy (victor #29), Saiyku (victor #30 x1.2), Kosiarek (victor #31), Dessiderium (victor #32), Sobu (victor #33), mcy4 (victor #34 x1.2), yip (victor #35), Alice Carroll (victor #36) |
-| 897 | 7.75 | Camellia — #1f1e33 (#00102g version) [Violetta] | Michni (verified), Suyung_ (victor #1), mcy4 (victor #2), Azer (victor #3 x1.1) |
-| 898 | 7.75 | penoreri — Reverenced Flower [lu^3's VIVID] | Trail Mix (verified) |
-| 899 | 7.75 | Kuroneko Dungeon — Lilieze to Enryuu Laevateinn [Melltigedig] | Welter (verified), MineFrostID (victor #1), _Twent (victor #2), Bubbleman (victor #3), Rebo (victor #4), enri (victor #5 x1.1), Kamensh1k (victor #6) |
-| 900 | 7.75 | TUYU — Daemonisch [Cacodemon] | willy0214 (verified), criller (victor #1 x1.1), BoshyMan741 (victor #2), Aricin (victor #3), Varvalian (victor #4), suntanCTM (victor #5 x1.1), chocomint (victor #6 x1.1), LaBron Jayms (victor #7), Kariyu (victor #8), NathanRam1918 (victor #9), Zeisen Udongein (victor #10 x1.1), Npoolyim (victor #11), Hakui Koyori (victor #12 x1.1), Razei (victor #13 x1.1), razorfruit (victor #14 x1.2), Wanderio (victor #15), MALISZEWSKI (victor #16 x1.3), Bronya (victor #17), -Petar (victor #18), AllyrD (victor #19), Guyan (victor #20), zmecha (victor #21), NOUMEN BREAK (victor #22), KevDawg (victor #23), hexi (victor #24), lizzzil (victor #25), marcel7 (victor #26) |
-| 901 | 7.75 | litmus* — Dizzolve [nivis] | worst hr player (verified x1.1), WindowLife (victor #1), MALISZEWSKI (victor #2) |
-| 902 | 7.75 | gmtn. (witch's slave) — furioso melodia [Wrath] | chocomint (verified x1.3), firebat92 (victor #1), im a fancy lad (victor #2), kablaze (victor #3), Intercambing (victor #4), A21 (victor #5), BTMC (victor #6), wudci (victor #7), bsm (victor #8), [Karcher] (victor #9), Dustice (victor #10), Failing (victor #11), okinamo (victor #12 x1.1), MegaMK (victor #13), EZChamp (victor #14), MALISZEWSKI (victor #15 x1.1), Swiq (victor #16), NathanRam1918 (victor #17), Nongsa (victor #18 x1.1), mcy4 (victor #19), 6Nusu9 (victor #20), CharleLee (victor #21), Lesperry (victor #22), Kamensh1k (victor #23 x1.1), Raikouhou (victor #24), EthantrixV3 (victor #25 x1.1), rng_ (victor #26), JGLF (victor #27), yencis (victor #28), NeliNyan (victor #29), PikaPwn (victor #30 x1.1), Mahmood (victor #31), desuqe (victor #32), fragranceofpage (victor #33 x1.2), ordinary (victor #34), RafaMat (victor #35), Alfiu (victor #36 x1.1) |
-| 903 | 7.75 | Release Hallucination — Chronostasis [Vibrant Petals Flutter in The Air] | desuqe (verified x1.1), bocchicookie (victor #1 x1.1), mcy4 (victor #2 x1.1) |
-| 904 | 7.75 | Linkin Park — A Line In The Sand [Betrayal] | MALISZEWSKI (verified x1.1), GamerPro3000 (victor #1), Hardstcukc (victor #2) |
-| 905 | 7.75 | AAAA — Hazukashigariya no Toy Soldier [Brave Toy Soldier] | lovetap (verified), mcy4 (victor #1), Kingling (victor #2), conradmittn (victor #3), MALISZEWSKI (victor #4 x1.1), Lightningfox (victor #5), Welter (victor #6), xymbii (victor #7), TTv_UFO (victor #8 x1.1), [Karcher] (victor #9), -Kedama (victor #10 x1.1) |
-| 906 | 7.75 | Jea — snows ~Soshite Kiseki~ [Last Regrets] | Mathi (verified), A N T O N I O (victor #1 x1.1), RageMuffin (victor #2), willy0214 (victor #3), Yuichi (victor #4), Pablohh (victor #5), zubs (victor #6 x1.1), ozy (victor #7), RAFUNA (victor #8), misha awa (victor #9 x1.1), Gurbzy (victor #10), spray- (victor #11), MALISZEWSKI (victor #12 x1.2), SL1PER (victor #13), Mastasz (victor #14), Xemtin (victor #15), ASecretBox (victor #16 x1.3), mcy4 (victor #17 x1.3), fedoragoose (victor #18), tsumiya (victor #19), criller (victor #20 x1.1), Homutan (victor #21), Welter (victor #22), ur cute (victor #23 x1.1), fruit cup (victor #24), lil bread (victor #25), killer2007 (victor #26 x1.1), Hagawobla (victor #27 x1.1), AlexusChristus (victor #28), Arz3 (victor #29), GodRoPoNiKa (victor #30), yutro (victor #31), yadon (victor #32 x1.1), Darnix (victor #33), ricoel (victor #34 x1.1), puffonxe (victor #35 x1.1), Hober38 (victor #36), Thundur (victor #37 x1.1), Rizer (victor #38), KEKW_ (victor #39), -lion (victor #40), AstroVnz (victor #41 x1.1) |
-| 907 | 7.75 | Ado — Show [Minna de Utai ma Show!!] | lovetap (verified), Tsuwagi (victor #1), criller (victor #2 x1.1), HikkaSka (victor #3), fragranceofpage (victor #4 x1.1), CharleLee (victor #5), Michni (victor #6), AllyrD (victor #7), Stixe (victor #8), nicebroccoli (victor #9), -anastasia (victor #10), Jitterish (victor #11), Srr (victor #12), ILX (victor #13), shwq (victor #14), flowering (victor #15) |
-| 908 | 7.75 | Cranky — R176 [Short Edit] [ULTRA] | BoshyMan741 (verified), MALISZEWSKI (victor #1) |
-| 909 | 7.75 | Getty vs. DJ DiA — Ops:Code -Rapture- [Stealth Operation] | Karuna (verified), ruyu (victor #1 x1.1), AllyrD (victor #2), HandsomeMe (victor #3), FlyingTuna (victor #4 x1.1) |
-| 910 | 7.75 | Camellia — Kono Hoshi de.... (20th Anniversary Remake) [Loli's Extreme] | ZaNy_ (verified x1.1) |
-| 911 | 7.74 | Ouse Akira — Sacrifice [After Checkmate] | [Karcher] (verified x1.2), Regou (victor #1), seegii (victor #2), Alfrah (victor #3 x1.1), rektygon (victor #4 x1.2), Varvalian (victor #5), MALISZEWSKI (victor #6 x1.2), i love manosaba (victor #7 x1.1), Rupertion (victor #8 x1.3), Kariyu (victor #9), Sieu Phan Dong (victor #10), lifeline (victor #11), Rlsc (victor #12), minefieldsurfer (victor #13), -pare (victor #14 x1.1), MetaBee (victor #15), _Shield (victor #16), Crystal (victor #17), AllyrD (victor #18 x1.1), LoidKun (victor #19 x1.1), Ahrome (victor #20), Tespa (victor #21), bocchicookie (victor #22 x1.1), Suyung_ (victor #23 x1.2), Tommy315 (victor #24 x1.2), Clarity (victor #25), calebshucks (victor #26 x1.1), Hellotomlol225 (victor #27), tfge (victor #28 x1.1), Mathi (victor #29 x1.1), Nayro (victor #30), Niali (victor #31 x1.1), Sh4rq_ (victor #32 x1.2), monte (victor #33), yadon (victor #34), KagaSumire (victor #35), Sherbet (victor #36 x1.1), justman (victor #37 x1.2), bunnylikemoney (victor #38), AmaoTchoupi (victor #39), Mornis (victor #40), rumii (victor #41 x1.1), ricoel (victor #42 x1.1), Rizer (victor #43), Tikkanen (victor #44), Tutel (victor #45 x1.2) |
-| 912 | 7.74 | BUTAOTOME — Trauma Recorder [Pain] | MALISZEWSKI (verified x1.1), toybot (victor #1 x1.1), manosaba (victor #2 x1.1), suntanCTM (victor #3 x1.1), Mathi (victor #4), BruhMoment (victor #5 x1.1), Suyung_ (victor #6 x1.2), Teacchyyy (victor #7), EthantrixV3 (victor #8 x1.1), Zucchiniii (victor #9 x1.1), rng_ (victor #10 x1.3), Yuichi (victor #11), Dugyy (victor #12), yencis (victor #13 x1.1), hidden on osu (victor #14 x1.1), OceanMan28 (victor #15), Tim Kackner (victor #16), Alfiu (victor #17 x1.1), criller (victor #18 x1.1), Moonlit111 (victor #19), Sh4rq_ (victor #20 x1.1), Allegrissimo (victor #21), kr__ (victor #22), Lex_Al (victor #23), blobnom (victor #24), Lawndred (victor #25) |
-| 913 | 7.74 | The Flashbulb — Chik Habit [Inhuman] | TrickyPugster (verified), bunnylikemoney (victor #1), CRIMEA (victor #2), tomadoi (victor #3 x1.1), Alyra (victor #4), -Shrek (victor #5), Mastasz (victor #6), Hober38 (victor #7), ChaiPhukChep (victor #8) |
-| 914 | 7.74 | philo — God-ish [brain exe's Extreme] | Mike Tyson (verified), Intercambing (victor #1), EthantrixV3 (victor #2 x1.1), LoidKun (victor #3) |
-| 915 | 7.74 | GALNERYUS — RAISE MY SWORD [A THOUSAND SWORDS] | sybau technique (verified), Exalon (victor #1), Raidd (victor #2), Rinko Shirokane (victor #3), Lightedd (victor #4), Def3nderFV (victor #5), MiMiTooU (victor #6), Wez (victor #7), gamer228666 (victor #8 x1.2), Rebo (victor #9), ASecretBox (victor #10 x1.3), paulthebest (victor #11), GodRoPoNiKa (victor #12), Spacus (victor #13), -Hatsune Miku (victor #14), fireblaze3028 (victor #15), bunnylikemoney (victor #16), RAFUNA (victor #17), Gurbzy (victor #18), bobiak (victor #19), AstroVnz (victor #20), Ryuzaki (victor #21), ChocoPafe (victor #22 x1.1), Meraxei (victor #23), Zanzabar (victor #24), SLOVAKTRUCKER (victor #25), Zever (victor #26), Tayco (victor #27), qexing (victor #28), Remyuu (victor #29), zfire (victor #30), Nekkid (victor #31 x1.1), Rizer (victor #32), Gulerod (victor #33), Zonii (victor #34), NaPiii_ (victor #35 x1.2), [Karcher] (victor #36 x1.2), Froinks (victor #37), SadnessWillSear (victor #38), bocchicookie (victor #39 x1.1), Duklet (victor #40), nty1 (victor #41), will smith (victor #42) |
-| 916 | 7.74 | ShinRa-Bansho — Pink Kurage to, Sotto, Kiss o Shita. [I gently kissed the pink jellyfish.] | Rizer (verified), Flask (victor #1), i love manosaba (victor #2 x1.1), 4a463a77de8f1b5 (victor #3 x1.1), Thorfinn (victor #4), El Condor Pasa (victor #5), Mathi (victor #6), Big Z (victor #7), AstroFP (victor #8), Saymel (victor #9), chocomint (victor #10 x1.1), wuhua (victor #11 x1.1), DazzLE_Wind (victor #12), Chrona 4G (victor #13), MALISZEWSKI (victor #14 x1.1), Razei (victor #15), mcy4 (victor #16), Enumi (victor #17), Sh4rq_ (victor #18), criller (victor #19 x1.1), resto druid (victor #20), [Karcher] (victor #21 x1.2), worst hr player (victor #22 x1.2), Tsuwagi (victor #23), Nekoyase (victor #24 x1.1), Riquiria (victor #25), rng_ (victor #26), Rammu (victor #27 x1.1), Nekkid (victor #28 x1.1), NeliNyan (victor #29), toybot (victor #30 x1.1), yukinasimp (victor #31), EthantrixV3 (victor #32 x1.1), Jakson (victor #33), Freak Fantome (victor #34 x1.1), Mahmood (victor #35), puffonxe (victor #36 x1.1), Ruyaya (victor #37), misha awa (victor #38 x1.1), marcel7 (victor #39), Moonlit111 (victor #40) |
-| 917 | 7.74 | yax03 — 17 yo silly EDM artist from Japan vs. the World [19 yo silly osu! mapper from Canada vs. the World] | MALISZEWSKI (verified x1.1), FlyingTuna (victor #1 x1.1) |
-| 918 | 7.74 | Fractal Dreamers — Songs Compilation [Empyreal Dreamland] | Mastasz (verified) |
-| 919 | 7.74 | MYUKKE. — Mach Roger [Maharaja] | EthantrixV3 (verified x1.1), MALISZEWSKI (victor #1 x1.3), mcy4 (victor #2), Chicony (victor #3), badeu (victor #4), mrekk (victor #5 x1.1), GabberSS (victor #6), tfge (victor #7 x1.1), ZaNy_ (victor #8 x1.1), skia1 (victor #9 x1.1), shwq (victor #10), Trail Mix (victor #11 x1.1) |
-| 920 | 7.74 | TEARS OF TRAGEDY — Epitaph [Elegy] | Mastasz (verified x1.2), sophills (victor #1 x1.2), bunnylikemoney (victor #2 x1.2), Raikouhou (victor #3 x1.2), rektygon (victor #4 x1.2), Reedkatt (victor #5 x1.2), runnysunny (victor #6 x1.2), EZChamp (victor #7 x1.2), mrekk (victor #8 x1.3), desuqe (victor #9 x1.2), nicki1324 (victor #10 x1.2), Suyong_ (victor #11 x1.2), argweid (victor #12 x1.2), NaPiii_ (victor #13 x1.2), sarboggly (victor #14 x1.2), Utami (victor #15 x1.2), Camberos (victor #16 x1.2), Andros (victor #17 x1.2), ASecretBox (victor #18 x1.3), MALISZEWSKI (victor #19 x1.2), LordGabriel (victor #20 x1.2), orngoos (victor #21 x1.2), gamer228666 (victor #22 x1.2), Saiyku (victor #23 x1.2), mcy4 (victor #24 x1.3), [Bau] (victor #25 x1.1), Tutel (victor #26 x1.2), NYASH (victor #27 x1.2), [Karcher] (victor #28 x1.3), Fobxx (victor #29 x1.2), Homutan (victor #30 x1.2), MineFrostID (victor #31 x1.2), RafaMat (victor #32 x1.2), Mike Tyson (victor #33 x1.2), kyojaku (victor #34 x1.2), MoJIHu9I_MaKcuM (victor #35 x1.2), monte (victor #36 x1.2), Adomeium (victor #37 x1.2), Tikkanen (victor #38 x1.2), Exxotl (victor #39 x1.2) |
-| 921 | 7.74 | Demetori — Native Faith ~ Memory of a Free Festival [Extra Stage] | Sh4rq_ (verified), MALISZEWSKI (victor #1 x1.1) |
-| 922 | 7.74 | penoreri — Everlasting Message [FINAL] | Reimu-Desu (verified), okinamo (victor #1 x1.1), Abyssal (victor #2 x1.1), sonix (victor #3), Umbre (victor #4 x1.1), TWOJA STARA (victor #5), criller (victor #6 x1.1), Arnold24x24 (victor #7 x1.1), Mathi (victor #8 x1.1), justman (victor #9), MALISZEWSKI (victor #10 x1.1), WhiteCat (victor #11 x1.2), scylla (victor #12 x1.1), ruirui (victor #13), etn (victor #14), rezendeevil (victor #15 x1.1), zubs (victor #16 x1.1), lolol234 (victor #17), DazzLE_Wind (victor #18 x1.1), Hunter Thompson (victor #19 x1.1), -Kedama (victor #20 x1.1), minefieldsurfer (victor #21), Mastasz (victor #22), tfge (victor #23 x1.1), queue (victor #24 x1.1), LoidKun (victor #25 x1.1), Naigo (victor #26 x1.1), Eunha (victor #27), Murzikk (victor #28 x1.1), Sobu (victor #29 x1.1), hexi (victor #30 x1.1), dewy (victor #31 x1.1), Bonk (victor #32 x1.3), Mahmood (victor #33 x1.2), Alfiu (victor #34 x1.1), lolol233 (victor #35 x1.1), Atsacity (victor #36 x1.1), NelicMies322 (victor #37), KevDawg (victor #38), EZChamp (victor #39), misha awa (victor #40 x1.1), Ivaxa (victor #41 x1.1), Nekkid (victor #42 x1.1), Darnix (victor #43 x1.1), NeliNyan (victor #44), gheanfoil (victor #45 x1.1), teffek (victor #46 x1.1) |
-| 923 | 7.74 | Utsu-P — I thought I was an angel [Ultra] | BTMC (verified), justman (victor #1), Varvalian (victor #2), xootynator (victor #3 x1.3), Hakui Koyori (victor #4 x1.1), Suyung_ (victor #5 x1.1), seegii (victor #6), Jordan The Bear (victor #7 x1.1), Frane (victor #8 x1.1), gnahus (victor #9 x1.1), Sh4rq_ (victor #10 x1.1), Hagawobla (victor #11 x1.1), Teacchyyy (victor #12 x1.1), ming0328ming (victor #13), Enumi (victor #14), marcel7 (victor #15), nyrino (victor #16 x1.1), baoo (victor #17), Tommy315 (victor #18), Rammu (victor #19 x1.1), AdonisXVIII (victor #20), Hibiki (victor #21 x1.1), Hera_ (victor #22 x1.1), Mathi (victor #23), - Phantasma - (victor #24), Lesperry (victor #25), WiggleCalt (victor #26), lolol235 (victor #27 x1.1), tsunagite (victor #28), Hober38 (victor #29), Aoi Kiseki (victor #30), yadon (victor #31 x1.1), northsign (victor #32), zeta (victor #33), Chicony (victor #34), Miisted (victor #35), kaoshii (victor #36), Rebo (victor #37), yary (victor #38 x1.1), yodeston (victor #39) |
-| 924 | 7.74 | Hotori Misaki (CV: Koharu Nagi) — Wakuwaku Tabemono Land [Gluttony] | wuhua (verified x1.1), MALISZEWSKI (victor #1 x1.1), Snakeq (victor #2), mcy4 (victor #3), Mathi (victor #4) |
-| 925 | 7.74 | SON OF KICK — Hours feat. Lady Leshurr & Paigey Cakey (Cut Ver.) [Plasma's Gangsta+] | EZChamp (verified) |
-| 926 | 7.73 | Zekk — Sugary Daydream [flake's Coup de grace] | MALISZEWSKI (verified x1.1) |
-| 927 | 7.73 | WAGAMAMA RAKIA — SURVIVE [DIE] | Zpinxx (verified), Tsfury (victor #1), PikaPwn (victor #2 x1.1), Intercambing (victor #3), Woodzy (victor #4), lolol233 (victor #5 x1.1), Sherbet (victor #6 x1.1), Nongsa (victor #7 x1.1), Varvalian (victor #8), LordGabriel (victor #9), ikuyokita (victor #10), Mastasz (victor #11), -pare (victor #12 x1.1), Mizeree (victor #13), defii (victor #14), VizerX (victor #15 x1.1), CRACK FIEND (victor #16), AlfredTheSalmon (victor #17), Lesperry (victor #18), origin_ (victor #19), Yoo Da Hee (victor #20 x1.1), Clarity (victor #21), twennity (victor #22), bsm (victor #23), Suyung_ (victor #24 x1.2), monte (victor #25), Sparkxei (victor #26), argweid (victor #27), ruyu (victor #28 x1.1), madeinkr (victor #29), BadAimBoi (victor #30), Kamensh1k (victor #31 x1.1), Traz (victor #32), SinqHD (victor #33), ming0328ming (victor #34), Lefy (victor #35), SL1PER (victor #36), Kucheryavyy (victor #37) |
-| 928 | 7.73 | Zebrahead — Falling Apart [The Perfect Crime] | EvilGamings (verified), Wanderio (victor #1), MALISZEWSKI (victor #2 x1.1) |
-| 929 | 7.73 | Nanahoshi Kangengakudan — Sainou Shredder [Azrulk's Extreme] | exen47 (verified) |
-| 930 | 7.73 | ZAQ — Classroom of the Elite OP Compilation [Checkmate] | A21 (verified) |
-| 931 | 7.73 | MASAKI (ZUNTATA) — Touhou Kijinretsu [Extra Stage] | chocomint (verified x1.1), Rizer (victor #1), Rlsc (victor #2), Ephix (victor #3 x1.2), dench (victor #4 x1.2), Ekoro (victor #5), Chzaron (victor #6), Apostol (victor #7 x1.2), Burtpi (victor #8), okinamo (victor #9 x1.1), AlmightyDoor (victor #10), -Ke15 (victor #11), Dustice (victor #12 x1.2), Doomsday fanboy (victor #13 x1.2), lolol233 (victor #14 x1.2), _Shield (victor #15 x1.2), willy0214 (victor #16 x1.2), DonnieGG (victor #17), samuele (victor #18), Cocali (victor #19), lystia (victor #20 x1.1), rektygon (victor #21 x1.2), Ryugia (victor #22), Pancho (victor #23), Another Guy (victor #24), Jazzercize (victor #25), unhappykuro (victor #26), MALISZEWSKI (victor #27 x1.1), thank you (victor #28), A N T O N I O (victor #29), Hagawobla (victor #30 x1.1), stupid dog (victor #31 x1.1), ChaiPhukChep (victor #32), saewon (victor #33), SparxieFan059 (victor #34 x1.1), MR JEFFERY (victor #35) |
-| 932 | 7.73 | rN feat. eili — Enneagrammatos [Orkay's VIII] | Rizer (verified), mcy4 (victor #1 x1.1), Hober38 (victor #2), nejzha (victor #3), gusrua123 (victor #4 x1.1), Niali (victor #5 x1.1), 8581210 (victor #6), Raikouhou (victor #7), SLOVAKTRUCKER (victor #8), NeliNyan (victor #9), Suyung_ (victor #10), Artsy (victor #11), Philly Cheese (victor #12), ChaiPhukChep (victor #13) |
-| 933 | 7.73 | Acathexis — Stillborn // Isolate [Abomination] | bunnylikemoney (verified), fedotoff (victor #1), elsi (victor #2) |
-| 934 | 7.73 | rN feat. eili — Enneagrammatos [IX] | 1v9 (verified), EZChamp (victor #1), MineFrostID (victor #2), xoxyl (victor #3), My Angle Okayu (victor #4), lil bread (victor #5 x1.2), Kyros_ (victor #6), yadon (victor #7), Saiyku (victor #8), RageMuffin (victor #9), decaten (victor #10) |
-| 935 | 7.73 | LIQU@. — Yotogibanashi no Kamikakushi [Miryokuteki na Shijuu Kekkai] | Rafis (verified x1.2), Varvalian (victor #1 x1.2), Karthy (victor #2 x1.3), Freezd (victor #3 x1.2), puppy (victor #4 x1.3), Intercambing (victor #5 x1.2), Dustice (victor #6 x1.2), etn (victor #7 x1.2), chocomint (victor #8 x1.3), Utami (victor #9 x1.3), Arnold24x24 (victor #10 x1.3), Doomsday fanboy (victor #11 x1.2), milktea0019 (victor #12 x1.3), rektygon (victor #13 x1.2), Topoi (victor #14 x1.2), criller (victor #15 x1.3), _Shield (victor #16 x1.2), AxewB (victor #17 x1.3), Rupertion (victor #18 x1.3), Ephix (victor #19 x1.2), taro (victor #20 x1.2), Daisuke Narotan (victor #21 x1.3), wudci (victor #22 x1.3), yadon (victor #23 x1.3), LoidKun (victor #24 x1.3), Tartis (victor #25 x1.2), sharytory (victor #26 x1.3), hihihaha142 (victor #27 x1.2), UselessJohn (victor #28 x1.3), willy0214 (victor #29 x1.2), F2X (victor #30 x1.3), RomanTheFUKER (victor #31 x1.3), MALTESER (victor #32 x1.2), Aerora (victor #33 x1.1), okinamo (victor #34 x1.3), tekkito (victor #35 x1.2), Kamensh1k (victor #36 x1.3), fragranceofpage (victor #37 x1.3), Flemes (victor #38 x1.2), z9a (victor #39 x1.3), wukioh (victor #40 x1.2), ronipan (victor #41 x1.3), NYASH (victor #42 x1.2), MR JEFFERY (victor #43 x1.3), kannyaws (victor #44 x1.2), Slenderman (victor #45 x1.3), eddy (victor #46 x1.2), ChillierPear (victor #47 x1.2) |
-| 936 | 7.73 | sokoninaru — Lament moment [PaRaDogi's Ex_Death] | Gasha (verified), Daisuke Narotan (victor #1 x1.1), Suyung_ (victor #2), R1cho (victor #3), baoo (victor #4), Mornis (victor #5), Bronya (victor #6), Hellotomlol225 (victor #7), Lunasa (victor #8 x1.1), aquaDOR_ (victor #9), Yuichi (victor #10), Mahmood (victor #11), SinqHD (victor #12), Akolibed (victor #13), Zucchiniii (victor #14 x1.1), Mr Wang (victor #15) |
-| 937 | 7.73 | youman feat. GUMI — Worst Regret (Sped Up Ver.) [Ducky-'s Extreme] | jahkon (verified) |
-| 938 | 7.73 | Imperial Circus Dead Decadence — FUBUKI (Cut Ver.) [Voyage to the Silent and Warmhearted Sea] | criller (verified x1.1), Tsfury (victor #1), elsi (victor #2), bunnylikemoney (victor #3), bocchicookie (victor #4 x1.1), AstroFP (victor #5), rafal (victor #6), runnysunny (victor #7), NOUMEN BREAK (victor #8), -pare (victor #9 x1.1), [RyuTell] (victor #10), nicki1324 (victor #11), Mastasz (victor #12), DataUser (victor #13), Hellotomlol225 (victor #14), _Twent (victor #15), Chuckasinbeef (victor #16), Zpinxx (victor #17), Arakii (victor #18), Mathi (victor #19), Raikouhou (victor #20), Kippz (victor #21), okinamo (victor #22 x1.1), lil bread (victor #23), Persona John (victor #24), durex (victor #25), InBefore (victor #26), MR JEFFERY (victor #27), z9a (victor #28), SinqHD (victor #29), Ivaxa (victor #30 x1.1), zoomiee (victor #31), Deeline (victor #32) |
-| 939 | 7.73 | Camellia — epimerization [J1 x Frontier's Equatorial] | MAREK MARUCHA (verified), rektygon (victor #1), MALISZEWSKI (victor #2 x1.1) |
-| 940 | 7.73 | Thousand Leaves — Darkest night [Collab Extra Stage] | MALISZEWSKI (verified x1.1) |
-| 941 | 7.73 | Kagetora. vs. ikaruga_nex — Gott der Apokalypse [Enthullungen] | MALISZEWSKI (verified), Dumb-Andy (victor #1) |
-| 942 | 7.73 | F-777 — Airborne Robots [Aerial] | Crystal (verified x1.1), emilia (victor #1 x1.1), -Machine- (victor #2 x1.1), _Shield (victor #3), tfge (victor #4 x1.1), Mathi (victor #5), Vaxei (victor #6), MALISZEWSKI (victor #7 x1.1), suntanCTM (victor #8), MegaMK (victor #9), xootynator (victor #10 x1.3), Toyota Wellman (victor #11), Dumb-Andy (victor #12), AllyrD (victor #13 x1.1) |
-| 943 | 7.73 | Foreground Eclipse — Songs Compilation [I Won't Say "Farewell"; Someday, We'll Meet Again] | Wakson (verified), Varvalian (victor #1), idke (victor #2 x1.2), ThePooN (victor #3), kablaze (victor #4), WhiteCat (victor #5 x1.1), i love manosaba (victor #6 x1.1), elsi (victor #7), nicki1324 (victor #8), MrNobady (victor #9), mrekk (victor #10 x1.2), wuhua (victor #11 x1.1), Raikouhou (victor #12), Jesse Pinkman (victor #13), Viveliam (victor #14), [Karcher] (victor #15 x1.2), Stravez0r (victor #16 x1.1), bunnylikemoney (victor #17), autumntheninth (victor #18), luciano (victor #19), zonelouise (victor #20), Rebo (victor #21), AwesomeBrewski (victor #22 x1.1), toay (victor #23), PikaPwn (victor #24 x1.1), SadnessWillSear (victor #25), NYASH (victor #26), vljoy209 (victor #27), lil bread (victor #28), _Twent (victor #29), Threegs (victor #30), Lightedd (victor #31), monte (victor #32), 4 Fun Gaymer (victor #33 x1.1), FUNKYKONG (victor #34), Rizer (victor #35), _kioshi (victor #36) |
-| 944 | 7.73 | isonosuke — Baka Tsuushin (feat. Chis-A) [sb] | MALISZEWSKI (verified x1.1), EthantrixV3 (victor #1 x1.1), yencis (victor #2), 6Nusu9 (victor #3) |
-| 945 | 7.73 | Calliope Mori x Gawr Gura x DECO*27 — Q [Q] | Topoi (verified x1.2), NeruNeru (victor #1), SadnessWillSear (victor #2), Neta (victor #3), -Myhra (victor #4), Kulche (victor #5), i love manosaba (victor #6 x1.1), TinyPark (victor #7), GabiBoltZ (victor #8), Masox (victor #9), MYKEYBOARD (victor #10), Sparkxei (victor #11), Teejay (victor #12), BoshyMan741 (victor #13 x1.3), Pangetism (victor #14), bibidibabidiboo (victor #15), ArFunG (victor #16 x1.1), Kingling (victor #17), Leasurex (victor #18), willy0214 (victor #19 x1.2), Wanderio (victor #20), Dumb-Andy (victor #21), Hana buys milk (victor #22 x1.2), Hakumo Shiro (victor #23), Lesperry (victor #24), getenrou (victor #25 x1.1), Reedkatt (victor #26), Anroyz (victor #27), puffonxe (victor #28 x1.1), talala (victor #29), WiggleCalt (victor #30), ArkShadow (victor #31), My Angel Bronya (victor #32), Jitterish (victor #33) |
-| 946 | 7.72 | onoken — P8107 [CHALLENGING] | Bubbleman (verified) |
-| 947 | 7.72 | TAROLIN feat. Katakiri Rekka — Cardinal Rave [Landed in the Dogwood] | im a fancy lad (verified), Vitya1437 (victor #1), badeu (victor #2), xootynator (victor #3 x1.1), Mathi (victor #4), Dropinx (victor #5), Eagle5324 (victor #6), NathanRam1918 (victor #7), decaten (victor #8), MALISZEWSKI (victor #9 x1.3), Tsuwagi (victor #10), treyarch (victor #11), criller (victor #12 x1.1), BlankTap (victor #13), Rafis (victor #14), fragranceofpage (victor #15), NeliNyan (victor #16), TrickyPugster (victor #17), Crestive (victor #18), blobnom (victor #19 x1.1), rtx (victor #20), Musty (victor #21), misha awa (victor #22 x1.1), hidden on osu (victor #23) |
-| 948 | 7.72 | Aether Realm — Craft and the Creator [Krackaben's Ormen Lange] | nobully (verified), Exarch (victor #1 x1.1), Mastasz (victor #2), bunnylikemoney (victor #3), MALISZEWSKI (victor #4 x1.1), Donut_fgc (victor #5), Antaanar (victor #6) |
-| 949 | 7.72 | Camellia — Diastrophism [OUTRAGE] | ThePooN (verified), okinamo (victor #1 x1.1), Wakson (victor #2), _Shield (victor #3), etn (victor #4), Varvalian (victor #5), rektygon (victor #6), Arnold24x24 (victor #7 x1.1), Vaxei (victor #8), VilaZ (victor #9), Aoi Kiseki (victor #10), EmertxE (victor #11), Woofel (victor #12), Rlsc (victor #13), Bubbleman (victor #14 x1.2), haruchi (victor #15), matcha (victor #16), Jakson (victor #17), heikneuter (victor #18), wudci (victor #19), ChaiPhukChep (victor #20), Naylicia (victor #21), MALISZEWSKI (victor #22 x1.1), Chipori (victor #23), zonelouise (victor #24), MegaMK (victor #25), AxewB (victor #26 x1.1), Rafis (victor #27), big snag (victor #28), 13roil (victor #29), Rizer (victor #30), Raikouhou (victor #31), Ryugia (victor #32), NOUMEN BREAK (victor #33), RafaMat (victor #34), Twilight (victor #35), bunnylikemoney (victor #36), unhappykuro (victor #37), Hagawobla (victor #38 x1.1), InBefore (victor #39), nooneloves (victor #40), lil bread (victor #41), Kamensh1k (victor #42 x1.1), z9a (victor #43), Jitterish (victor #44) |
-| 950 | 7.72 | II-L — LEVEL-DOWN [IKAENIA MODE] | Ekoro (verified) |
-| 951 | 7.72 | BABYMETAL — Road of Resistance [The Path of Tomorrow] | idke (verified), Aristia (victor #1), Soba Noodles (victor #2), MineFrostID (victor #3), worst hr player (victor #4), oPixay (victor #5), yodeston (victor #6) |
-| 952 | 7.72 | mezClA (Evatan & Mecotan) — Azul Remix [Muya's LEGGENDARIA] | NathanRam1918 (verified), Rlsc (victor #1), chocomint (victor #2 x1.1), worst hr player (victor #3), Ekoro (victor #4), Ryugia (victor #5), RageMuffin (victor #6), 6Nusu9 (victor #7), AlmightyDoor (victor #8 x1.1), MegaMK (victor #9), tsunagite (victor #10), Inquisitives (victor #11), enri (victor #12 x1.1), treyarch (victor #13 x1.2), yadon (victor #14), Vaxei (victor #15), EZChamp (victor #16), jahkon (victor #17), Tikkanen (victor #18), tsumiya (victor #19), Bouquetdor (victor #20), [Karcher] (victor #21 x1.2) |
-| 953 | 7.72 | Camellia — Feelin Sky (Camellia's "200step" Self-remix) [Zero Gravity] | FlyingTuna (verified), thaibuy (victor #1), BTMC (victor #2), Reedkatt (victor #3), Mathi (victor #4), MALISZEWSKI (victor #5 x1.1), Meniwa (victor #6), Bartek22830 (victor #7), fragranceofpage (victor #8), bunnylikemoney (victor #9), Isak- (victor #10), Alfiu (victor #11 x1.1) |
-| 954 | 7.72 | Linkin Park — Guilty All The Same (feat. Rakim) [Full Of Regret & Shame] | Naiwo (verified), yukinasimp (victor #1), penguinplay (victor #2), Bajan Canadian (victor #3), Super Freak (victor #4), Chakerski (victor #5), 6otomakas (victor #6), Alfrah (victor #7 x1.1), AARONGAMER1 (victor #8), gxsty (victor #9), Zentoro (victor #10), savilju (victor #11), huyanh68 (victor #12), Dedosos (victor #13), Suyung_ (victor #14 x1.1), adiguwno (victor #15), Yoo Da Hee (victor #16 x1.1) |
-| 955 | 7.72 | UNDEAD CORPORATION — Uzu [Extra Stage] | MALISZEWSKI (verified x1.1), Shamoui (victor #1) |
-| 956 | 7.72 | tarolabo — eth ken [down's extreme] | NathanRam1918 (verified), Ryugia (victor #1), NINERIK (victor #2), suntanCTM (victor #3), maxim (victor #4), velcro shoes (victor #5), hav (victor #6 x1.1), ZaNy_ (victor #7 x1.1), fish barcode (victor #8 x1.1), haga1115 (victor #9 x1.1), WolfBoi (victor #10), Dever (victor #11), TTv_UFO (victor #12) |
-| 957 | 7.72 | Paul Bazooka — DrunkenSteiN [Ayaya's rea,k] | badeu (verified), 315 (victor #1), MALISZEWSKI (victor #2 x1.1), Aotoleen (victor #3), JackPaX (victor #4 x1.1) |
-| 958 | 7.72 | Polyphia, Will Stetson — Inferno [Repent] | Sh4rq_ (verified), lifeline (victor #1), _Shield (victor #2), DazzLE_Wind (victor #3), Rupertion (victor #4), elsi (victor #5), MALISZEWSKI (victor #6 x1.3), EZChamp (victor #7), Suyung_ (victor #8), -Ke15 (victor #9), NeliNyan (victor #10 x1.1), Mathi (victor #11), Trail Mix (victor #12), MR JEFFERY (victor #13), -Petar (victor #14), Yukixo (victor #15), Tutel (victor #16), bored yes (victor #17 x1.1), leny (victor #18), MineFrostID (victor #19), Anoranza (victor #20), Jitterish (victor #21) |
-| 959 | 7.72 | Powerless feat. kakichoco — If [Bitter] | mcy4 (verified) |
-| 960 | 7.72 | Rish feat. Choko — Punai Punai Taisou [Usapyon's Punai Punai] | okinamo (verified x1.1), lovetap (victor #1), kazamabc (victor #2), MALISZEWSKI (victor #3 x1.3), Minil (victor #4), gilraen (victor #5), BadAimBoi (victor #6), MineFrostID (victor #7), BusinessGoose05 (victor #8), Hagawobla (victor #9 x1.1), Danini (victor #10), calebshucks (victor #11 x1.1), CIash of Clans (victor #12), Nailer (victor #13 x1.1), Mathi (victor #14), moar (victor #15), hexi (victor #16), Bubbleman (victor #17), Aotoleen (victor #18), 815 (victor #19), Snowy LP (victor #20 x1.1), -Karu (victor #21 x1.1), SanyaVsunya (victor #22), z9a (victor #23), saewon (victor #24), Alumetri (victor #25), choke enough (victor #26), cryshina (victor #27), Rafis (victor #28) |
-| 961 | 7.72 | umu. — humanly [MirashMyMommy Collab] | FlyingTuna (verified x1.1), tekkito (victor #1 x1.1), MAREK MARUCHA (victor #2), badeu (victor #3 x1.1), tsunagite (victor #4), Utami (victor #5 x1.1), Kamensh1k (victor #6), Tsuwagi (victor #7), EthantrixV3 (victor #8 x1.1), MALISZEWSKI (victor #9 x1.1), suntanCTM (victor #10 x1.1), yencis (victor #11), Nongsa (victor #12 x1.1), Exxotl (victor #13) |
-| 962 | 7.72 | Amuro vs. Killer — Mei [LEGGENDARIA] | mcy4 (verified x1.2) |
-| 963 | 7.72 | BlackY — PANAGIA [Wispy's Extreme] | Vaxei (verified) |
-| 964 | 7.72 | Never Dull — Gypsy In My Mind (Disco Rave Edit 2022) (Sped Up & Cut Ver.) [Evil Kama's No one's around to help.] | yencis (verified), MALISZEWSKI (victor #1 x1.3), Stinkster (victor #2), CallMeRed (victor #3), ZaNy_ (victor #4 x1.1), hexi (victor #5), skia1 (victor #6 x1.1), runnysunny (victor #7) |
-| 965 | 6.03 | Sou — Sekai o Inuite (TV Size) [Phynta's Extra] | cosmospice (verified), LLIaBKa (victor #1 x1.3), calculus (victor #2), qdz0 (victor #3), bocchicookie (victor #4 x1.1), Query (victor #5), RestInSlime (victor #6), -Wyren- (victor #7), MALISZEWSKI (victor #8 x1.3), NichoIas (victor #9), Maklovitz (victor #10), Juicy (victor #11 x1.2), Welter (victor #12 x1.3), UniserverCommon (victor #13), corvus- (victor #14), ghostholding (victor #15 x1.1), Atsorko (victor #16) |
-| 966 | 6.03 | Whispered — Jikininki [MKL's Another] | Shiox (verified x1.1), EEEEEEEEEEEEEEE (victor #1), respektive (victor #2), Duskyui (victor #3 x1.1), Magma (victor #4), Defex (victor #5 x1.3), uee (victor #6), Waffle- (victor #7 x1.3), Rlsc (victor #8), MetaBee (victor #9), Izomraktar (victor #10 x1.3), _Shield (victor #11), dyl (victor #12 x1.3), Fejlan (victor #13), Wilchq (victor #14 x1.1), Frabedajeje (victor #15), Saftohr (victor #16 x1.2), Nev- (victor #17 x1.1), Chilluno (victor #18), Bouquetdor (victor #19 x1.3), Arz3 (victor #20), up44 (victor #21), pawb (victor #22 x1.3), Maxkem (victor #23), NeoPixel201 (victor #24), Lightedd (victor #25), RoVnDaskE (victor #26), Kingling (victor #27), Maopo (victor #28 x1.1), Lilian (victor #29), LewusekX44 (victor #30 x1.1), Weeve (victor #31 x1.1), ocularr (victor #32), Joyi (victor #33 x1.3), ozy (victor #34 x1.2), Netsuz (victor #35 x1.2), Refrum (victor #36), BoinkyDoinker (victor #37 x1.3), [-Pure Ruby-] (victor #38 x1.1), megalodon151 (victor #39), Zanzabar (victor #40), Blonk_ (victor #41) |
-| 967 | 6.03 | FLOW — BURN [Extra] | Jamoues (verified), Rizer (victor #1), Mushkaee (victor #2 x1.1), Will Stetson (victor #3 x1.1), Mister Lore (victor #4), Furina- (victor #5), up44 (victor #6), Marquez (victor #7), calculus (victor #8), bocchicookie (victor #9 x1.1) |
-| 968 | 6.03 | L.A.O.S. — I'm Alive (Helsinki II) [228's Extra] | badplayer817 (verified), savilju (victor #1), Wez (victor #2), i drop sliders (victor #3), mannheim (victor #4 x1.1), nkz (victor #5), garab1k (victor #6 x1.1), milr_ (victor #7 x1.1), Darkxide (victor #8 x1.1), Typeddiamond (victor #9), AWhitePhoenix (victor #10 x1.3), lestapekka67 (victor #11 x1.1), Jokupoika24 (victor #12 x1.1), Mori Calliope (victor #13 x1.1), TOCTEP (victor #14 x1.1), aiyern (victor #15), E-why (victor #16), samdaman (victor #17), Maklovitz (victor #18 x1.1), friedbagels (victor #19), MARSHINHA (victor #20), Felrion (victor #21 x1.1) |
-| 969 | 6.03 | a_hisa — Alexithymia [Extreme] | believer_i (verified), RESU (victor #1 x1.1), A J R (victor #2), Risea (victor #3), chungis (victor #4), Kemonoshift (victor #5), bibidibabidiboo (victor #6), up44 (victor #7), rizu (victor #8), aquaria_ (victor #9), juan736 (victor #10), Ace4896 (victor #11), badplayer817 (victor #12), NeoUser (victor #13), Nacrus (victor #14), 1miss_rita (victor #15), EEEEEEEEEEEEEEE (victor #16), impurity (victor #17), Woey (victor #18 x1.1), wobsterL (victor #19), tani (victor #20), hallowatcher (victor #21 x1.3), ozy (victor #22 x1.2), Spaek (victor #23 x1.1), [SHK]qazoop (victor #24), LittleMCBoy5860 (victor #25), Lynua (victor #26), j6mafia (victor #27), SanTisy (victor #28), Arithmophobie (victor #29), Leq_y (victor #30) |
-| 970 | 6.03 | HOYO-MiX — Blossoms of Summer Night [Hanabi] | Si514ka (verified), -Spartan (victor #1 x1.1), See (victor #2 x1.1), Cris- (victor #3 x1.1), Rinne Ohara (victor #4 x1.1), Hakumo Shiro (victor #5), Nepyutsu (victor #6), Crystal (victor #7), held (victor #8 x1.1), king_duckling (victor #9), sriracha rice (victor #10 x1.3), NaRiTA TaiShiN (victor #11), Sirek (victor #12), zoomiee (victor #13 x1.1), WorstTechPlayer (victor #14), Jossfr (victor #15), badplayer817 (victor #16), JackPaX (victor #17 x1.1), Devrimon (victor #18), nki (victor #19), PostScr1pt (victor #20), - BankSLZ - (victor #21 x1.1), nero1030 (victor #22), Skylineok (victor #23), Fanty (victor #24), Freak Fantome (victor #25 x1.1), O_Resona (victor #26 x1.1), Billupwind (victor #27), Maxe191 (victor #28 x1.1), pixiv Player (victor #29 x1.1) |
-| 971 | 6.03 | Primary — Keep Changing [Laurier's Extra] | Arakii (verified), Marquez (victor #1), WiMpN (victor #2), Rizer (victor #3 x1.3), perich (victor #4), pedeko (victor #5 x1.3), Kan (victor #6), Strete (victor #7), pupperronii (victor #8), Hammer (victor #9), DinglingChen (victor #10), Kuwoneko (victor #11 x1.1), Inimint (victor #12 x1.1), lixsidixsi (victor #13), 0v0 (victor #14), Marchen (victor #15), Neun_ (victor #16), CIick (victor #17), Ayasaki Nanoka (victor #18), _Dan (victor #19) |
-| 972 | 6.03 | shiho — Shiori [Petal] | y0c (verified x1.3), Garden (victor #1 x1.2), DazzLE_Wind (victor #2 x1.3), kokiton (victor #3 x1.3), Shigeru22 (victor #4 x1.3), NeruNeru (victor #5 x1.2), SKY9487 (victor #6 x1.3), Sn34Ky_ (victor #7 x1.3), apeach (victor #8 x1.3), nana7shi (victor #9 x1.2), Viena (victor #10 x1.2), plumerihne (victor #11 x1.3), Atri - (victor #12 x1.2), More (victor #13 x1.3), Shizuru- (victor #14 x1.3), Mokha (victor #15 x1.3), KyZzo (victor #16 x1.3), SoraRyow (victor #17 x1.3), ICallHerMommy (victor #18 x1.2), Tong Zi (victor #19 x1.3), Instagator (victor #20 x1.3), wamu (victor #21 x1.3), Graguan (victor #22 x1.2), Furamun (victor #23 x1.2), Evrazija (victor #24 x1.3), Eagle5324 (victor #25 x1.3), aerith1025 (victor #26 x1.2), Mochio1 (victor #27 x1.3), SteIIa (victor #28 x1.3), Anpan dayo (victor #29 x1.2), ozy (victor #30 x1.3), mx10000 (victor #31 x1.3), RAFUNA (victor #32 x1.3), punikidesu- (victor #33 x1.2), Massimo99 (victor #34 x1.3), dnomyar (victor #35 x1.1), Amuro (victor #36 x1.2), 6otomakas (victor #37 x1.3), Baltea (victor #38 x1.2), [LAMY] (victor #39 x1.3), Recia (victor #40 x1.3), Misono MikaXD (victor #41 x1.3), Peruere (victor #42 x1.2), ifox (victor #43 x1.3) |
-| 973 | 6.03 | dj TAKA — quaver [NiNo's Extra] | DazzLE_Wind (verified x1.3), sut_son (victor #1 x1.3), ELNabhan (victor #2 x1.3), Radusek (victor #3 x1.3), inchanpiyu (victor #4 x1.3), DJ Rinickulous (victor #5 x1.3), Shikkesora (victor #6 x1.3), LUq (victor #7 x1.3), Ev1dent (victor #8 x1.3), Dzyre (victor #9 x1.3), Jxrdan (victor #10 x1.3), Batmann248 (victor #11 x1.3), rezendeevil (victor #12 x1.3), TheML69 (victor #13 x1.3), Salazarino (victor #14 x1.3), Jet- (victor #15 x1.3), Craezyman (victor #16 x1.3), bocchicookie (victor #17 x1.3), Herbayse (victor #18 x1.3), 1nput (victor #19 x1.3), rubi (victor #20 x1.3), Cocoamallows (victor #21 x1.3), -Tzerk (victor #22 x1.3), Anatolij1941 (victor #23 x1.3), Rulyz (victor #24 x1.3), [-Dany-] (victor #25 x1.3), HubuCakes (victor #26 x1.3), vAgue57 (victor #27 x1.3), Threegs (victor #28 x1.3), Katixiya (victor #29 x1.3), Acillac (victor #30 x1.3), ThuNguyen Grape (victor #31 x1.3), ESCRUPULILLO (victor #32 x1.3), -- Waffle -- (victor #33 x1.3), LaplusMyMommy (victor #34 x1.3), Sadredstone (victor #35 x1.3), joan flowaim (victor #36 x1.3), cai0 (victor #37 x1.3), testie (victor #38 x1.3), Lantis (victor #39 x1.3), cyberbunny3 (victor #40 x1.3), Liumiya (victor #41 x1.3), site0121 (victor #42 x1.3) |
-| 974 | 6.03 | Se-U-Ra — Qlifact -another- [Icekalt's Extra] | LolForest (verified), EEEEEEEEEEEEEEE (victor #1), _Shield (victor #2), huue (victor #3 x1.1), justman (victor #4 x1.2), -raizen- (victor #5 x1.2), VROUM CV VITE (victor #6 x1.2), Rlsc (victor #7), Envy_ss (victor #8 x1.1), Kingling (victor #9 x1.3), Shizaki Kanon (victor #10 x1.2), wessel_osu2 (victor #11), FLAVEN (victor #12 x1.2), Ruchika (victor #13), _kaie (victor #14 x1.1), Diaostrophism (victor #15 x1.2), Grantorio (victor #16), minefieldsurfer (victor #17 x1.2), up44 (victor #18), DazzLE_Wind (victor #19 x1.1), Deppyforce (victor #20 x1.3), AlmightyDoor (victor #21 x1.2), ericqdog (victor #22 x1.1), -TwiHD (victor #23 x1.1), Gurbzy (victor #24 x1.2), taro (victor #25 x1.2), Arakii (victor #26), funky enough (victor #27), umii (victor #28), LoidKun (victor #29 x1.1), KRZY (victor #30 x1.2), lolol235 (victor #31), scylla (victor #32 x1.1), danielq987 (victor #33), stellasu (victor #34 x1.3), Chzaron (victor #35 x1.1), FelixSosa (victor #36 x1.3), Alfrah (victor #37 x1.3), Asiate_ (victor #38), m t g (victor #39), Maxe191 (victor #40 x1.1), badplayer817 (victor #41), Levesile (victor #42), cheeeeto (victor #43), _Chonker (victor #44 x1.3) |
-| 975 | 6.03 | Kumagai Eri (CV: Seto Asami) — Winteright [Timeless] | WubWoofWolf (verified x1.3), big snag (victor #1 x1.2), Ventus (victor #2), Rlsc (victor #3), up44 (victor #4), eerie (victor #5), Kulche (victor #6), Wispy (victor #7 x1.1) |
-| 976 | 6.03 | Camellia feat. Nanahira — You Make My Life 1UP (x127 Long Ver.) [3-2-1UP!] | Dolilozzz (verified), Soyuha (victor #1), blobnom (victor #2 x1.1), Zuness (victor #3 x1.1), badplayer817 (victor #4), W A R P A T H (victor #5), Fleofl (victor #6), Marquez (victor #7), - Jeem - (victor #8), Kyaringan (victor #9), beeco (victor #10), vuan (victor #11), Bonnie Abadeer (victor #12), devilzhy (victor #13), x1999- (victor #14), [ Yozzied ] (victor #15), Vvn (victor #16), shadevr (victor #17 x1.1), oh brother (victor #18), EZDT (victor #19 x1.1), Lysao (victor #20), -Nenu- (victor #21 x1.2), genshinplayer67 (victor #22), BurgerKing (victor #23 x1.1), pNode (victor #24), TheRecu321 (victor #25), Wez (victor #26), zzzbored (victor #27 x1.2), age (victor #28) |
-| 977 | 6.03 | Feed Me Jack — Knight Fork [ririn's Expert] | hivno (verified x1.1), -Eiju- (victor #1), creeperXP (victor #2), NO37 (victor #3 x1.1), MilkyBio (victor #4 x1.1), Rizer (victor #5 x1.3), Sayama Kaede (victor #6), badplayer817 (victor #7), femboy irl (victor #8 x1.1), Dear Diary (victor #9), Maklovitz (victor #10), Kuchiki Rukia (victor #11 x1.1), lgn is babe (victor #12), lenasailer (victor #13), Colinear (victor #14), daddywaffle (victor #15 x1.1), Kitaisuim (victor #16), suenzy (victor #17 x1.3) |
-| 978 | 6.03 | Sizuk feat. AYAME (from AliA) — Dystopia (TV Size) [Butterfly Effect] | Jayyhk (verified), ChronoTrig (victor #1 x1.3), Deleted_User401 (victor #2), Wez (victor #3 x1.1), jem888 (victor #4), [ Cinoche ] (victor #5), umii (victor #6 x1.1), Marquez (victor #7), Hare_ (victor #8 x1.3), Sirek (victor #9 x1.1), SeeL (victor #10 x1.3), kosota (victor #11), Maklovitz (victor #12 x1.3), Dsan (victor #13 x1.3), Cors (victor #14), 1Max (victor #15 x1.3), Jolly Ranchers (victor #16), Chaoslitz (victor #17), lala3131331 (victor #18), Calin365 (victor #19), WorstTechPlayer (victor #20), - Alice (victor #21), -[Mesaki]- (victor #22), -Spartan (victor #23 x1.1), zSmoxKe (victor #24), bazzyy (victor #25), Tigere007 (victor #26), Julskills (victor #27), chiliawa52 (victor #28), chertcobachii (victor #29), P3RS3X (victor #30), badplayer817 (victor #31), 970 (victor #32 x1.2), RAFUNA (victor #33 x1.3), Rupertion (victor #34 x1.3), zipated (victor #35 x1.1), pt0 (victor #36) |
-| 979 | 6.03 | DJ SPIZDIL — Malo Tebya (Cut Ver.) [Sorrow] | klappy1 (verified x1.3), DoIon (victor #1), Zhyich (victor #2 x1.1), Kyllyx (victor #3 x1.2), its0ver (victor #4 x1.1), H4rdzik (victor #5 x1.1), 1v9 (victor #6 x1.1), NO37 (victor #7 x1.1), TOCTEP (victor #8 x1.3), -Nenu- (victor #9 x1.2), player03 (victor #10 x1.3), Maxkem (victor #11 x1.1), AlexXerox (victor #12 x1.1), Lunar_ (victor #13), Wez (victor #14), _kioshi (victor #15 x1.3), LLIaBKa (victor #16 x1.3), Evgesh_ochka (victor #17 x1.1), leinady (victor #18), Darkxide (victor #19 x1.1), Purest (victor #20), Benton (victor #21 x1.1), Azvameth (victor #22 x1.1), BBRMA (victor #23 x1.1), Razekon (victor #24 x1.1), platinuwaa (victor #25), blobnom (victor #26 x1.3), Massimo99 (victor #27 x1.1), sho (victor #28), OnniS6 (victor #29 x1.1), haiiso (victor #30), soupyhya (victor #31 x1.1), ozy (victor #32 x1.3), Ralmbry (victor #33 x1.3), Lawndred (victor #34 x1.3), snowfort (victor #35), Oly9919 (victor #36 x1.3), Zuness (victor #37 x1.1), Fanty (victor #38), oax (victor #39), Maklovitz (victor #40 x1.1), zoomiee (victor #41 x1.3), Nov4- (victor #42), 32kb (victor #43 x1.1), yodeston (victor #44 x1.3) |
-| 980 | 6.03 | Sariyajin — Ao no Senritsu [Extra] | Raydric (verified x1.3), Recia (victor #1 x1.3), Homura- (victor #2 x1.3), Gokuri (victor #3 x1.3), talala (victor #4 x1.3), Mercurius (victor #5 x1.3), Melt3dCheeze (victor #6 x1.3), Kairi (victor #7 x1.3), Rohulk (victor #8 x1.3), 5231_Kinoko (victor #9 x1.3), _---__old (victor #10 x1.3), muchy (victor #11 x1.3), Musty (victor #12 x1.3), WubWoofWolf (victor #13 x1.3), Yuh (victor #14 x1.3), Pijokash (victor #15 x1.3), wessel_osu2 (victor #16 x1.3), CrtReXn (victor #17 x1.3), Wilchq (victor #18 x1.3), Worne (victor #19 x1.3), Meiph (victor #20 x1.3), Yellowl (victor #21 x1.3), oOFrostOo (victor #22 x1.3), helix (victor #23 x1.3), Area (victor #24 x1.3), Amuro (victor #25 x1.3), Ceja (victor #26 x1.3), BROCKHAMPTON (victor #27 x1.3), Xilver15 (victor #28 x1.3), MioMilo (victor #29 x1.3), Darrile (victor #30 x1.3), MeaAngel (victor #31 x1.3), BoT-Shirt (victor #32 x1.3), Akakuro (victor #33 x1.3), Aerxia (victor #34 x1.3), AstroFP (victor #35 x1.3), Elzbieta (victor #36 x1.3), minus (victor #37 x1.3), Miguel Mella (victor #38 x1.3), ToshiroKen (victor #39 x1.3), Infectonator (victor #40 x1.3), Twintail (victor #41 x1.3), Jafeto_99 (victor #42 x1.3), im gay (victor #43 x1.3), Brown Guy 1 (victor #44 x1.3), YMD (victor #45 x1.3), STH531 (victor #46 x1.3), Alice Carroll (victor #47 x1.3), Evgesh_ochka (victor #48 x1.3), still bummed (victor #49 x1.3) |
-| 981 | 6.03 | Tadokoro Azusa — Unmei Dilemma [Resolve] | piklopedia (verified x1.2), DJ Rinickulous (victor #1 x1.2), Tetla (victor #2 x1.3), [ Hyung ] (victor #3 x1.3), Jordan The Bear (victor #4 x1.3), Rizer (victor #5 x1.3), Chiu (victor #6 x1.2), 872316468 (victor #7 x1.3), Varvalian (victor #8 x1.2), Asahi (victor #9 x1.3), SadnessWillSear (victor #10 x1.3), Leiv (victor #11 x1.3), ReaL motion (victor #12 x1.3), MioMilo (victor #13 x1.3), Tsuwagi (victor #14 x1.3), Soba Noodles (victor #15 x1.3), sriracha rice (victor #16 x1.3), qtz (victor #17 x1.3), yeou_ (victor #18 x1.3), theez (victor #19 x1.3), Nue Houjuu (victor #20 x1.2), Swiq (victor #21 x1.3), Tyrfin (victor #22 x1.3), melancholia (victor #23 x1.3), Big Mugi Fan (victor #24 x1.3), -Kanji (victor #25 x1.2), Poipoi (victor #26 x1.3), morix (victor #27 x1.3), puppy (victor #28 x1.3), shoyeu (victor #29 x1.3), Remilo (victor #30 x1.2), Vall (victor #31 x1.3), JILUNGIE (victor #32 x1.3), ukasoh (victor #33 x1.3), kirby mix (victor #34 x1.3), Qrestu (victor #35 x1.3), dyl (victor #36 x1.3), X1ANGLING (victor #37 x1.3), ryufeseed (victor #38 x1.3), LUq (victor #39 x1.3), KyZzo (victor #40 x1.3), Enigmatic (victor #41 x1.3), Evrazija (victor #42 x1.3), yodeston (victor #43 x1.3), Homutan (victor #44 x1.3), Pokuo (victor #45 x1.3) |
-| 982 | 6.03 | Camellia — d:for the DELTA [Delirium] | Wilchq (verified x1.3), Dustice (victor #1 x1.2), -raizen- (victor #2 x1.2), ReaL motion (victor #3 x1.2), Rohulk (victor #4 x1.3), Rafis (victor #5 x1.3), Piggey (victor #6 x1.3), Ventus (victor #7 x1.2), VROUM CV VITE (victor #8 x1.2), hallowatcher (victor #9 x1.3), SlimeDrippy (victor #10 x1.3), DanyL (victor #11 x1.3), SadnessWillSear (victor #12 x1.3), Nameless Player (victor #13 x1.3), Denk (victor #14 x1.2), DigitalHypno (victor #15 x1.1), DJ Rinickulous (victor #16 x1.2), deruz (victor #17 x1.3), 1Max (victor #18 x1.3), Amuro (victor #19 x1.3), Ji2zie (victor #20 x1.3), TheKid217 (victor #21 x1.2), rarebostonian (victor #22 x1.3), Stravez0r (victor #23 x1.3), PemiX (victor #24 x1.3), Trail Mix (victor #25 x1.3), -Nenu- (victor #26 x1.2), NHarmonia (victor #27 x1.3), bze (victor #28 x1.3), Belfast (victor #29 x1.3), Akamatsu (victor #30 x1.3), Jo Yuri (victor #31 x1.2), ozy (victor #32 x1.2), NeTsune (victor #33 x1.2), Luck3r (victor #34 x1.3), REFANTAZIO (victor #35 x1.3), Beafowl (victor #36 x1.3), jms8721 (victor #37 x1.2), Remyuu (victor #38 x1.2), Kiino (victor #39 x1.2), azaz08967565 (victor #40 x1.3), Gommish (victor #41 x1.3), RESU (victor #42 x1.1), Paato (victor #43 x1.2), Seat Ibiza TDI (victor #44 x1.3), DragonCroc (victor #45 x1.1), -Kamy (victor #46 x1.2), Karo (victor #47 x1.1) |
-| 983 | 6.03 | LiSA — Thrill, Risk, Heartless [Meg's Extra] | DraguinZZ (verified x1.3), _Degenerate (victor #1 x1.3), Dylson (victor #2 x1.3), Kurogami (victor #3 x1.3), Geryy (victor #4 x1.3), xaxreid (victor #5 x1.3), Knalli (victor #6 x1.3), - Slice - (victor #7 x1.3), Reishara (victor #8 x1.3), ELNabhan (victor #9 x1.3), Mentalol (victor #10 x1.3), Valdyr (victor #11 x1.3), Wimsy (victor #12 x1.3), Jet- (victor #13 x1.3), kurume (victor #14 x1.3), zxeroxz (victor #15 x1.3), intenseGoat (victor #16 x1.3), domplayer (victor #17 x1.3), - Kataomoi - (victor #18 x1.3), Rizer (victor #19 x1.3), Yuumi (victor #20 x1.3), Belfast (victor #21 x1.3), CHALLYY (victor #22 x1.3), calKU (victor #23 x1.3), Garage du Lac (victor #24 x1.3), badfranky- (victor #25 x1.3), Kuukoisbestgirl (victor #26 x1.3), VilaZ (victor #27 x1.3), KaZuoo (victor #28 x1.3), nobuchi (victor #29 x1.3), KyZzo (victor #30 x1.3), dark on osu (victor #31 x1.3), Ascens (victor #32 x1.3), -Jibril- (victor #33 x1.3), Yamiezi (victor #34 x1.3), Shiho desu (victor #35 x1.3), Sn34Ky_ (victor #36 x1.3), Sigewinne (victor #37 x1.3), yah (victor #38 x1.3), [ Yozzied ] (victor #39 x1.3), Wido (victor #40 x1.3), Trail Mix (victor #41 x1.3), Disposable (victor #42 x1.3), Zinkon (victor #43 x1.3), DAGESTHANOS (victor #44 x1.3), Comatose (victor #45 x1.3) |
-| 984 | 6.03 | Mrs. GREEN APPLE — Inferno (TV Size) [Sirens] | Kluchen (verified x1.3), respektive (victor #1 x1.3), Rizer (victor #2 x1.3), Hallsu (victor #3 x1.1), GLASSY (victor #4), Trail Mix (victor #5 x1.1), Eugoon (victor #6 x1.1), Nagi Seishiro (victor #7 x1.1), WHYHELLOTHERE69 (victor #8 x1.2), Wispy (victor #9 x1.1), Skhyze (victor #10 x1.1), beeco (victor #11), WiMpN (victor #12), Orbi988 (victor #13 x1.3), Tonka Truck (victor #14 x1.1), kottEy (victor #15), EPIC FROST (victor #16 x1.1), Kevelia (victor #17), Maklovitz (victor #18 x1.3), Shinjizy (victor #19 x1.1), ericqdog (victor #20 x1.1), -Snoweve- (victor #21 x1.1), KPOBYIIIKA (victor #22 x1.1), Machako (victor #23), gullibi (victor #24 x1.1), Sagisawa Arisa (victor #25 x1.1), Jet- (victor #26 x1.3), Mentalol (victor #27 x1.3), MarthXT (victor #28 x1.1), bocchicookie (victor #29 x1.1), JeadIng (victor #30), peroro (victor #31), -JustCallMeMK- (victor #32), up44 (victor #33), SgtCataclyst (victor #34 x1.1), K_Clap (victor #35 x1.1), rockrick (victor #36 x1.1), Lantis (victor #37 x1.1), RESU (victor #38 x1.3), Abidodol (victor #39 x1.1), hivno (victor #40 x1.1), gasanww (victor #41), northsign (victor #42), Chi ki (victor #43 x1.1), pelsta (victor #44 x1.1) |
-| 985 | 6.03 | Jisho Sonzai name-less — Jishou Terrorism [O K U's Ex] | Cao Tien Minh (verified), Unibrick (victor #1 x1.1), RESU (victor #2 x1.1), WiMpN (victor #3), fajga (victor #4), Rizer (victor #5 x1.3), Ugin (victor #6 x1.1), Atsacity (victor #7 x1.3), lucky3210 (victor #8 x1.2), Stinkster (victor #9), cwutchy (victor #10), Kuchiki Rukia (victor #11 x1.1), Leon31 (victor #12), Octagon (victor #13), SuperMegaT (victor #14), HamBruhger (victor #15) |
-| 986 | 6.03 | Akki — Tatoebanohanashi (feat. Megu) [Is it just me or are Tenma Saki and Ems looking "extra" cute today.] | badplayer817 (verified), Darkxide (victor #1 x1.1), Wez (victor #2), creeperXP (victor #3), Rizer (victor #4 x1.3), Tomoe (victor #5), - Hotaru - (victor #6), aiyern (victor #7), FlickerZz (victor #8), hainguyn (victor #9), yeetis_prime (victor #10) |
-| 987 | 6.03 | DECO*27 — Mannequin feat. Hatsune Miku [Extra] | M e o w - (verified), up44 (victor #1), Maxkem (victor #2 x1.3), chungis (victor #3), pruKD (victor #4 x1.1), Rover (victor #5 x1.1), YowaUnagi (victor #6), Prophet (victor #7 x1.2), believer_i (victor #8), Neia (victor #9), YMD (victor #10 x1.3), Chiu (victor #11), Maklovitz (victor #12 x1.1), Hello2026 (victor #13), sho_o (victor #14), marclor (victor #15), Bubbasam1 (victor #16 x1.1), Kingling (victor #17 x1.3), Salty-Water (victor #18 x1.2), dolburi (victor #19), Miyabi (victor #20 x1.2), RABBIT1 (victor #21 x1.2), Bouquetdor (victor #22), xMikalox (victor #23), zSmoxKe (victor #24), Asobase (victor #25 x1.1), Boba Cone (victor #26), AnyaShy (victor #27 x1.1), Yato Kukuru (victor #28), Rittoru (victor #29 x1.1), diamond79 (victor #30), ozy (victor #31 x1.2), ps1 hagrid (victor #32 x1.3), baka gavin (victor #33 x1.3), Rikuhachima Aru (victor #34), Finmi (victor #35), GitahMuttan (victor #36 x1.3), AlpiAz (victor #37 x1.1), lilybannanas9 (victor #38 x1.1), badplayer817 (victor #39), Hydregon (victor #40), cfe (victor #41), - Alice (victor #42 x1.1), Shadowww (victor #43) |
-| 988 | 6.03 | HoneyWorks feat. HaKoniwalily — Ninkoro Dance (TV Size) [Nin nin nin] | Vlaadi (verified), Mighty Paws (victor #1 x1.3), badplayer817 (victor #2), northsign (victor #3), 6otomakas (victor #4), TUYU (victor #5 x1.3), youchan (victor #6), swagger (victor #7), Squink (victor #8), TOCTEP (victor #9 x1.1), ice9 (victor #10), YuugureUmi (victor #11), AquaRua (victor #12), [ Mystic ] (victor #13 x1.3), EZDT (victor #14), yodeston (victor #15 x1.3), ThangGaming (victor #16), wamu (victor #17 x1.3), See (victor #18 x1.1), Furamun (victor #19 x1.2), Wez (victor #20), Iucany (victor #21), Spinesnight (victor #22 x1.3), TsG (victor #23), -Spartan (victor #24 x1.1), Omegaweaponn (victor #25), AlpiAz (victor #26 x1.1), vogvog321 (victor #27), M4X_ (victor #28), cryptile (victor #29 x1.1), KumoCat (victor #30), misha awa (victor #31 x1.3), Machest (victor #32), Kuchiki Rukia (victor #33 x1.1), lilybannanas9 (victor #34 x1.1), I love Emilia (victor #35 x1.1), Satoruc97 (victor #36), Huxinn (victor #37) |
-| 989 | 6.03 | TERRA — EDEN [Another] | Skill (verified x1.3), Worne (victor #1 x1.3), blednak (victor #2 x1.3), Emperorpenguin83 (victor #3 x1.3), Koba (victor #4 x1.3), Specksan (victor #5 x1.3), - Kataomoi - (victor #6 x1.3), Summer Solstice (victor #7 x1.3), Radusek (victor #8 x1.2), GfMRT (victor #9 x1.3), Valdyr (victor #10 x1.3), Rizer (victor #11 x1.3), kirby mix (victor #12 x1.3), Thorfinn (victor #13 x1.3), kurume (victor #14 x1.3), SowAA (victor #15 x1.3), morix (victor #16 x1.3), theez (victor #17 x1.3), Senetix (victor #18 x1.3), Hare_ (victor #19 x1.3), FrenZ (victor #20 x1.3), 1Max (victor #21 x1.3), Zur4x (victor #22 x1.3), Jet- (victor #23 x1.3), FishFutaba (victor #24 x1.3), seby (victor #25 x1.3), Darrile (victor #26 x1.3), Rupertion (victor #27 x1.2), Ritsu Tainaka (victor #28 x1.3), Nicoru Otone (victor #29 x1.3), -Spartan (victor #30 x1.3), Salvotore (victor #31 x1.3), Gygs (victor #32 x1.3), inahokaizuka16 (victor #33 x1.3), ikasu (victor #34 x1.3), Curvely (victor #35 x1.3), xEAvi (victor #36 x1.3), Kasuga Ichiban (victor #37 x1.3), Misagi (victor #38 x1.3), mcrb (victor #39 x1.3), -Sizzle- (victor #40 x1.3), KyZzo (victor #41 x1.3), Azvameth (victor #42 x1.3), RESU (victor #43 x1.3), BoredBlaby (victor #44 x1.3) |
-| 990 | 6.03 | neochi. — LI(F)E [Resolve] | Repo (verified), Furina- (victor #1 x1.1), Wei Ru (victor #2), Sturvos (victor #3), Belfast (victor #4 x1.3), Frostium (victor #5), Arraxey (victor #6), WiMpN (victor #7), Hranolka (victor #8 x1.1), superuser (victor #9), respektive (victor #10), Markrum (victor #11 x1.1), wessel_osu2 (victor #12 x1.2), Enari (victor #13), Tomou (victor #14), Koide (victor #15), Zelq (victor #16 x1.3), lexa on osu (victor #17), autumntheninth (victor #18), ampy (victor #19), Zeroya (victor #20), Arakii (victor #21), Nelli (victor #22), bnu (victor #23 x1.1), Clutch (victor #24), AlfredTheSalmon (victor #25), Bayleef (victor #26 x1.1), Meek007 (victor #27), Adrastea (victor #28 x1.3), StellaFox (victor #29), SgtCataclyst (victor #30 x1.1), Keke Tang (victor #31 x1.1), GG_com2016 (victor #32), up44 (victor #33), wreket (victor #34 x1.2), Bouquetdor (victor #35 x1.1), Deleted_User401 (victor #36), _Dan (victor #37), 13roil (victor #38 x1.3), Lilium (victor #39), ogey rrat (victor #40 x1.1), yoshibox (victor #41), anthony321x (victor #42), -CiYing- (victor #43), wishcave (victor #44 x1.1), danissima (victor #45 x1.1), NEET Alice (victor #46), kyatorro (victor #47) |
-| 991 | 6.03 | Unlucky Morpheus — Majotachi no Shanikusai [Expert] | SoraElohim (verified x1.2), Regi (victor #1 x1.3), kirby mix (victor #2 x1.3), x NJNJ x (victor #3 x1.3), Zoont (victor #4), -mira (victor #5), My Angel Anzu (victor #6 x1.1), Sakurauchi Riko (victor #7 x1.3), Neatral (victor #8 x1.3), ozy (victor #9 x1.2), [-Pure Ruby-] (victor #10 x1.3), lolol235 (victor #11), shawn (victor #12 x1.3), stupid dog (victor #13 x1.1), GAO HAO (victor #14 x1.1), mcy4 (victor #15 x1.3) |
-| 992 | 6.03 | ONE OK ROCK feat. Koie from Crossfaith, MAH from SiM, Masato from coldrain — Skyfall (Cut Ver.) [Collapse] | KyZzo (verified x1.3), cfunkyy (victor #1 x1.3), Hare_ (victor #2 x1.3), Yato Kukuru (victor #3 x1.3), yodeston (victor #4 x1.3), Ares Stark (victor #5 x1.3), Enigmatic (victor #6 x1.3), ZiinHG (victor #7 x1.3), Tyrfin (victor #8 x1.3), _js (victor #9 x1.3), bocchicookie (victor #10 x1.3) |
-| 993 | 6.03 | Yooh — Ice Angel [Saint] | Recia (verified x1.3), Rohulk (victor #1 x1.3), MrBooM (victor #2 x1.3), Toy (victor #3 x1.3), Mystia (victor #4 x1.3), hallowatcher (victor #5 x1.3), kablaze (victor #6 x1.3), LoidKun (victor #7 x1.3), Knalli (victor #8 x1.3), Woey (victor #9 x1.3), Umbre (victor #10 x1.3), Karthy (victor #11 x1.3), Exarch (victor #12 x1.3), Xilver15 (victor #13 x1.3), -raizen- (victor #14 x1.3), i love manosaba (victor #15 x1.3), Nameless Player (victor #16 x1.3), Haadez (victor #17 x1.3), Malolat (victor #18 x1.3), Viveliam (victor #19 x1.3), Kingling (victor #20 x1.3), stacker (victor #21 x1.3), Fobxx (victor #22 x1.3), Rebo (victor #23 x1.3), kyle (victor #24 x1.3), Utami (victor #25 x1.3), Miloshka (victor #26 x1.3), Pablohh (victor #27 x1.3), arbusion (victor #28 x1.3), SadnessWillSear (victor #29 x1.3), -pare (victor #30 x1.3), zubs (victor #31 x1.3), Krai (victor #32 x1.3), argweid (victor #33 x1.3), KomachiBaka (victor #34 x1.3), lolol233 (victor #35 x1.3), -lion (victor #36 x1.3), yodeston (victor #37 x1.3), fajga (victor #38 x1.3), PLOXARU (victor #39 x1.3), REFANTAZIO (victor #40 x1.3), Thuya (victor #41 x1.3), Mariano (victor #42 x1.3), Sharpsight (victor #43 x1.3), PotJohn Nutella (victor #44 x1.3), Cheyne (victor #45 x1.3) |
-| 994 | 6.03 | Hechizeros Band x Koji Kondo — El Sonidito x Athletic Theme (DitzyFlama Mashup) [Fatfan's SQUARE-THEMED CAT] | Be Strong (verified x1.3), VoiD_Matterr (victor #1 x1.3), Possu (victor #2 x1.3), Maru (victor #3 x1.3), MALISZEWSKI (victor #4 x1.3), Razekon (victor #5 x1.3), nenoriu (victor #6 x1.3), yodeston (victor #7 x1.3), mxu (victor #8 x1.3), Winky Face (victor #9 x1.3), YMD (victor #10 x1.3), Quinten (victor #11 x1.3), Tfx Nexus (victor #12 x1.3), Diiiooon (victor #13 x1.3), silverfishy (victor #14 x1.3), neymar (victor #15 x1.3), Neatral (victor #16 x1.3), Wario (victor #17 x1.3), movement (victor #18 x1.3), plumerihne (victor #19 x1.3), peroro (victor #20 x1.3), flag (victor #21 x1.3), Eaves (victor #22 x1.3), KRYPTOS DK (victor #23 x1.3), REFANTAZIO (victor #24 x1.3), Vinsent (victor #25 x1.3), Komi Shouko (victor #26 x1.3), Goose1723 (victor #27 x1.3), falu (victor #28 x1.3), everless (victor #29 x1.3), Naan-E (victor #30 x1.3), inequal2x (victor #31 x1.3), Akko The Rock (victor #32 x1.3), nawhbody (victor #33 x1.3), BOSNIATRUCKER13 (victor #34 x1.3), Uranium (victor #35 x1.3), Yezman (victor #36 x1.3), iForgor86 (victor #37 x1.3), [-GRIFFIN-] (victor #38 x1.3), Netsuz (victor #39 x1.3), Nov4- (victor #40 x1.3), dokitori (victor #41 x1.3), FORTNITEMASTER (victor #42 x1.3), TheDustOfTimes (victor #43 x1.3), RexDIEL (victor #44 x1.3) |
-| 995 | 6.03 | Laur — Metamorphose [Expert] | 0120 (verified x1.1), Wispy (victor #1), MokkoriRyo (victor #2 x1.1), Garden (victor #3), Rlsc (victor #4), SKaiBlue (victor #5), waste- (victor #6), Fleh (victor #7), Woey (victor #8 x1.1), k4rnu1 (victor #9 x1.1), shion (victor #10 x1.1), DaHuJka (victor #11), A N T O N I O (victor #12 x1.1), Allegrissimo (victor #13 x1.1), AJT (victor #14 x1.1), telehops (victor #15), Aotoleen (victor #16), Levesile (victor #17), -Arko (victor #18), big snag (victor #19 x1.2), POMAH (victor #20 x1.1), Misono MikaXD (victor #21) |
-| 996 | 6.03 | Risa Yuzuki — Yumemiru Milky Way feat. Aitsuki Nakuru [Stardust] | Trail Mix (verified), Uchirrod (victor #1 x1.1), kottEy (victor #2), Unibrick (victor #3 x1.1), zzzbored (victor #4 x1.2), Wez (victor #5), bakachungus (victor #6), believer_i (victor #7), xlnt (victor #8), Ubernarwhal (victor #9), Yorunaga (victor #10 x1.1), EZDT (victor #11 x1.1), Rizer (victor #12 x1.3), Sirek (victor #13), Tzero (victor #14 x1.1), Maklovitz (victor #15 x1.1), DigitalHypno (victor #16 x1.1), elsi (victor #17 x1.1), CoLouRed GlaZeE (victor #18), Usumachi (victor #19 x1.1), Moaji (victor #20 x1.1), default-1 (victor #21 x1.1), - Ephemeral - (victor #22 x1.1), - Flandre - (victor #23 x1.3), Foxy (victor #24), H i S a G i (victor #25 x1.3), mx10000 (victor #26 x1.3), J4cX (victor #27 x1.1), Dsan (victor #28 x1.3), Nnaoi (victor #29), fancy - you (victor #30 x1.1), Tsuwagi (victor #31 x1.3), pruKD (victor #32 x1.1), Washakwil (victor #33 x1.1), Massimo99 (victor #34 x1.1), Dazzle (victor #35 x1.1), ERA Pheon (victor #36 x1.1), Misono MikaXD (victor #37 x1.3), - Ciel - (victor #38 x1.3), pexium (victor #39 x1.1), [LAMY] (victor #40 x1.3), Baiterzz (victor #41), [SHK]wings_wacr (victor #42 x1.1), AltApprentice (victor #43), Anpeng (victor #44) |
-| 997 | 6.03 | Yumeno Yuki — BWLAUTE BEIRRD [Delis' Extra] | Rizer (verified x1.3), Duskyui (victor #1 x1.1), Lege (victor #2), CoLouRed GlaZeE (victor #3), Regou (victor #4 x1.2), Flask (victor #5 x1.3), kkflandre (victor #6 x1.1), NatsuHara (victor #7), Delis (victor #8 x1.2), Woey (victor #9 x1.1), Kaguya_1096 (victor #10 x1.3), domplayer (victor #11 x1.3), big snag (victor #12 x1.2), araran (victor #13), JackPaX (victor #14), Dada (victor #15 x1.1), thacer (victor #16 x1.1), Hare_ (victor #17 x1.3), Silver Striver (victor #18 x1.2), Spork Lover (victor #19 x1.1), paradaisu (victor #20 x1.1), bocchicookie (victor #21 x1.1), Risea (victor #22), penfifteen (victor #23), Bomilk (victor #24 x1.2), Shigeru22 (victor #25 x1.3), respektive (victor #26), Kudou Chitose (victor #27), GRR SNARL GROWL (victor #28 x1.1), up44 (victor #29), Darkmatter (victor #30 x1.3), hjaltetd (victor #31), Furina- (victor #32 x1.1), Emerald Ages (victor #33 x1.1), Elscar (victor #34), Nepyutsu (victor #35), Sympli (victor #36), Rum1a (victor #37), JupiterGD (victor #38), badplayer817 (victor #39), EternalFirework (victor #40), YAMADAAAAAAAAAA (victor #41 x1.3) |
-| 998 | 6.03 | kessoku band — Guitar to Kodoku to Aoi Hoshi (TV Size) [Omekyu's Extra] | Himeri (verified x1.1), bocchicookie (victor #1 x1.3), Mia- (victor #2 x1.1), Columbinaa (victor #3 x1.3), Zhen Ji (victor #4 x1.3), Kudou Chitose (victor #5 x1.1), KyZzo (victor #6 x1.3), Zhyich (victor #7 x1.1), mxu (victor #8 x1.3), Yato Kukuru (victor #9 x1.3), zhuzhu19 (victor #10 x1.1), Spaek (victor #11 x1.1), -Spartan (victor #12 x1.1), 815 (victor #13 x1.3), Omekyu (victor #14 x1.3), Nepyutsu (victor #15 x1.1), AkioZeT30 (victor #16), [chaS] (victor #17 x1.2), Agochi (victor #18 x1.2), Elena- (victor #19 x1.2), Bluwok (victor #20 x1.2), HonokaKousakaTV (victor #21 x1.1), Nume704 (victor #22), AlpiAz (victor #23), - w (victor #24 x1.1), Asobase (victor #25 x1.1), Glurak (victor #26 x1.3), GerMusic (victor #27 x1.1), eternal- (victor #28 x1.3), ahirukg (victor #29 x1.2), KNa- (victor #30 x1.2), JeffGamingYT (victor #31 x1.2), filipsonsky123 (victor #32), Azvameth (victor #33 x1.3), Silent Rock (victor #34 x1.2), krb (victor #35 x1.1), 1Mursik1 (victor #36 x1.3), yee001 (victor #37 x1.1), dongdongben (victor #38 x1.3), Comatose (victor #39 x1.1), Eunha (victor #40 x1.3), Enenra (victor #41 x1.1) |
-| 999 | 6.03 | Skrillex, Noisia, josh pan & Dylan Brady — Supersonic (My Existence) [My Existence] | -Karu (verified x1.1), A N T O N I O (victor #1 x1.2), Rlsc (victor #2), telehops (victor #3), waste- (victor #4), Markrum (victor #5 x1.1), a-k-u (victor #6), Ev1dent (victor #7), Tina (victor #8), -Nenu- (victor #9), Regou (victor #10), timq (victor #11), Guppy2k (victor #12), Peti (victor #13), Will Stetson (victor #14 x1.1), uatzap (victor #15), GRR SNARL GROWL (victor #16 x1.1), onyaga (victor #17 x1.1), Alanko (victor #18), Arraxey (victor #19), SzefRon (victor #20), Woey (victor #21 x1.3), Trail Mix (victor #22 x1.3), ARTIZIA (victor #23 x1.1), scylla (victor #24 x1.1), Buzzy (victor #25), Dejw27 (victor #26), Suome (victor #27 x1.1), VierjaPaz (victor #28), Kalanluu (victor #29), monte (victor #30), AJT (victor #31 x1.1), lucker (victor #32), Asaka (victor #33), up44 (victor #34), I AM FUKUKITARU (victor #35 x1.1), everless (victor #36), Aireu (victor #37), Kanabis (victor #38), sxl (victor #39 x1.1), fisskill (victor #40 x1.3), araran (victor #41), KiryuMiya (victor #42) |
-| 1000 | 6.03 | TrySail — adrenaline!!! [Rush] | Megure (verified), GfMRT (victor #1 x1.1), badeu (victor #2), mythsu (victor #3), waywern2012 (victor #4), Malolat (victor #5 x1.1), WubWoofWolf (victor #6 x1.3), JESSMI2 (victor #7), [ Hyung ] (victor #8), Saya-Honmei (victor #9), Dsan (victor #10), lolol235 (victor #11), Ariu (victor #12), BTMC (victor #13), Denk (victor #14 x1.2), Loslite (victor #15), flansl (victor #16), Ventus (victor #17), Xilver15 (victor #18), [Karcher] (victor #19 x1.1), Mortal (victor #20), bocchicookie (victor #21 x1.1), Joyi (victor #22), Furina- (victor #23), Santa69 (victor #24), SIMONETRAPANI (victor #25), Ruvava (victor #26), striFE36 (victor #27), garab1k (victor #28 x1.1), rosemary (victor #29), Binninja (victor #30), Heavymetal4life (victor #31) |
+| 869 | 7.49 | UNDEAD CORPORATION — Embraced by the Flame [Extreme] | yodeston (verified x1.2), ratbutbuff (victor #1), NOUMEN BREAK (victor #2 x1.2), Sh4rq_ (victor #3 x1.2), NaPiii_ (victor #4 x1.2), RafaMat (victor #5), up44 (victor #6), Jakson (victor #7), Chubery (victor #8), Raikouhou (victor #9), Zpinxx (victor #10), polski1 (victor #11 x1.2), Lilily (victor #12), Tutel (victor #13 x1.2), gakuw (victor #14 x1.2), Clutch (victor #15 x1.2), J1x (victor #16 x1.1), Sobu (victor #17 x1.2), Melvr (victor #18 x1.2), Zever (victor #19), velcro shoes (victor #20), sarboggly (victor #21 x1.2), Yoo Da Hee (victor #22 x1.1), Anphans (victor #23), marcel7 (victor #24 x1.2), monte (victor #25 x1.2), mcy4 (victor #26 x1.3), Marjus (victor #27), tsumiya (victor #28 x1.2), Testeron (victor #29), Hana buys milk (victor #30 x1.2), Kueelizzz (victor #31), Evernight (victor #32), Zooble (victor #33 x1.1), 1v9 (victor #34 x1.3), AMR17 (victor #35), Jageko (victor #36 x1.2), brayan56 (victor #37 x1.1), gusrua123 (victor #38 x1.3), jahkon (victor #39), doxxsan_ (victor #40) |
+| 870 | 6.47 | Camellia — Kono Hoshi de.... (20th Anniversary Remake) [Vivy's Extra] | respektive (verified), Glacc (victor #1), MetaBee (victor #2), TOCTEP (victor #3), Freak Fantome (victor #4 x1.1), manosaba (victor #5 x1.1), Sherbet (victor #6 x1.3), Ansol (victor #7), TUYU (victor #8 x1.2), Maklovitz (victor #9), Bitiksquid (victor #10 x1.3), yutro (victor #11), Zucchiniii (victor #12 x1.1) |
+| 871 | 6.47 | Ayalis — Ai o Chikaishi Hime Kazari [wMw's Extra] | badplayer817 (verified), yodeston (victor #1 x1.3), woiester (victor #2 x1.1), PostScr1pt (victor #3), bocchicookie (victor #4 x1.1), nuggetchama (victor #5), Frem (victor #6), [Hatsune Miku] (victor #7), 970 (victor #8 x1.2) |
+| 872 | 6.43 | THE ORAL CIGARETTES — 5150 [dog food's expert] | NathanRam1918 (verified), awawa (victor #1), -Karu (victor #2 x1.1), Zentoro (victor #3), bing bong (victor #4), LimeTwist (victor #5), Wilchq (victor #6 x1.1), peroro (victor #7), dench (victor #8 x1.3), bocchicookie (victor #9 x1.1), nerau (victor #10 x1.1), sreal (victor #11) |
+| 873 | 6.43 | Sheena Ringo — Kouzen no Himitsu [Vanya's Extra] | Nyang (verified), -Hatsune Miku (victor #1), Woey (victor #2 x1.1), faze-dank (victor #3), -Koda (victor #4 x1.1), Bouquetdor (victor #5), zSidd (victor #6), xymbii (victor #7 x1.3), Porifore (victor #8), - Ciel - (victor #9 x1.3), aaront (victor #10), Zentoro (victor #11) |
+| 874 | 6.20 | Sou — Sekai o Inuite (TV Size) [Deppy's NEW Expert] | choke (verified), bocchicookie (victor #1 x1.1), MALISZEWSKI (victor #2 x1.3), perich (victor #3), UniserverCommon (victor #4) |
+| 875 | 6.20 | Poppin'Party — Light Delight [Extreme] | krtixd (verified), P r a h (victor #1), Syfrax (victor #2), badplayer817 (victor #3), RESU (victor #4 x1.1), gotcalculated (victor #5), KaPPaStorm (victor #6 x1.1), Himeri (victor #7 x1.1), luvlxckdown (victor #8), Mentalina (victor #9), UniserverCommon (victor #10), emile- (victor #11), Deleted_User401 (victor #12), Darkxide (victor #13), SanTisy (victor #14), Gokhau (victor #15 x1.1), Comatose (victor #16 x1.1), mooshiros (victor #17 x1.1), Tanjirina (victor #18) |
+| 876 | 6.01 | Camellia feat. Nanahira — Hakuraku [Expert] | RESU (verified x1.1), up44 (victor #1), Yankie (victor #2), Stormur (victor #3), Uchirrod (victor #4 x1.1), Hammer (victor #5), believer_i (victor #6 x1.1), Deramok (victor #7 x1.1), Ansh1n (victor #8), AnteG1201 (victor #9), Arakii (victor #10), Stinkster (victor #11), DerpyX_X (victor #12 x1.1), AlexBelea (victor #13 x1.2), stellasu (victor #14 x1.2), Latale (victor #15 x1.2), davequin (victor #16), P r a h (victor #17 x1.2), yallasm (victor #18 x1.3), PikaPwn (victor #19 x1.3), Noty (victor #20 x1.3), Diegod (victor #21), uhm_ (victor #22), noobvoctoFISHtw (victor #23), forer222 (victor #24), Wessup05 (victor #25), PineFugger (victor #26), MelDAY (victor #27) |
+| 877 | 6.01 | System Of A Down — Vicinity Of Obscenity [Lasse's Expert] | Sirek (verified), moonpoint (victor #1), Nongsa (victor #2 x1.1), getenrou (victor #3 x1.1), Doomsday (victor #4), VierjaPaz (victor #5 x1.2), SecretlyShiro (victor #6 x1.3), volition (victor #7 x1.1), Joyi (victor #8 x1.3), wessel_osu1 (victor #9 x1.1), Fuwawa (victor #10), Shircals (victor #11 x1.1), bocchicookie (victor #12 x1.1), Zayenn (victor #13), ghostholding (victor #14 x1.1), WiMpN (victor #15), Weeder (victor #16 x1.3), ASaltyBunion (victor #17 x1.2), Misagi (victor #18 x1.3), Zhamso (victor #19 x1.3), lamenting alice (victor #20 x1.1), Def3nderFV (victor #21 x1.2), smh_annie (victor #22), dogeosu (victor #23 x1.1), slapshot (victor #24), NichoIas (victor #25), Dr Manhattan (victor #26), Kuzik (victor #27 x1.2), korzei (victor #28 x1.2) |
+| 878 | 6.01 | Camellia — Shun no Seafood o Ikashita Curry Fuumi Paella ~808 Chef no Twerk to Trap Jitate~ [Silver & Hectic's Extra Spicy] | _Shield (verified), waste- (victor #1), Woey (victor #2 x1.2), [MY]error_exe (victor #3), WaShoy (victor #4), Rikuima (victor #5), Anze (victor #6 x1.1), Dragbit 5 (victor #7 x1.1), Wispy (victor #8 x1.3), Hydrangea_ (victor #9 x1.1), Pale Citrus (victor #10 x1.1), Sponk- (victor #11), Geag (victor #12), Furina- (victor #13), Rammu (victor #14 x1.1), go525 (victor #15 x1.1), ZenithFlare (victor #16), Vidrogue (victor #17), septembre-02 (victor #18 x1.3), winz (victor #19), BlonderDennis (victor #20), -Nino Nakano (victor #21 x1.1), [ Yozzied ] (victor #22), IcyBoat (victor #23 x1.1), Shiny Froakie (victor #24), Twisted_Chimera (victor #25 x1.1), thelolone (victor #26), - Asriel - (victor #27), Quinten (victor #28), Cheesy (victor #29 x1.1), Kookie- (victor #30), luxSal (victor #31), P r a h (victor #32), W A R P A T H (victor #33), pixiv Player (victor #34 x1.1), MachineGirl (victor #35), Entarkanio (victor #36 x1.1), serumanoo (victor #37), Zhabka123 (victor #38) |
+| 879 | 6.01 | NAKISO feat. Kaai Yuki — AMATTARU [^^^^^^^^^^] | onetabby (verified), Lightningfox (victor #1), CallMeRed (victor #2), YokesPai (victor #3), spray- (victor #4), ZaNy_ (victor #5 x1.1), NoWifi (victor #6 x1.2), _demo (victor #7 x1.3), Suyung_ (victor #8), -mira (victor #9), -Kamy (victor #10 x1.2), 3uma (victor #11) |
+| 880 | 6.01 | AAAA vs. Frums — beepbit * futures [extra] | Wispy (verified x1.3), haga1115 (victor #1 x1.3), Marquez (victor #2), boterham (victor #3 x1.2), Quinten (victor #4 x1.2), sulfa (victor #5 x1.2), Atri - (victor #6 x1.2), TUYU (victor #7 x1.2), Geag (victor #8), PostScr1pt (victor #9), Lolsniper (victor #10), Juicy (victor #11 x1.2), LilyMone (victor #12 x1.2), Saskatchewan (victor #13 x1.1), Peti (victor #14 x1.2), Bubon_ (victor #15 x1.1), Mr C B (victor #16), thelolone (victor #17), KiryuMiya (victor #18), tani (victor #19 x1.2), Qumania (victor #20), FAW (victor #21 x1.3), TESTERPIWA (victor #22 x1.2), Trolloli (victor #23 x1.2), DAGESTHANOS (victor #24 x1.3), Lightedd (victor #25 x1.1), dsa (victor #26 x1.2), barryp (victor #27 x1.1), nxtgn (victor #28), worst ht player (victor #29 x1.2), Goose King (victor #30), See (victor #31 x1.1), Ascaveth (victor #32 x1.3), megalodon151 (victor #33), Spev (victor #34), Mayoka223 (victor #35), schneggie (victor #36), hzl (victor #37 x1.1), Stythiii (victor #38 x1.3) |
+| 881 | 6.01 | Periphery — Garden In The Bones [Raise Me Up In My Throes] | _kioshi (verified x1.2), Woey (victor #1 x1.1) |
+| 882 | 6.01 | Ueda Reina — Literature [Promenade] | mashed potatoes (verified x1.1), Trail Mix (victor #1 x1.3), -Xia- (victor #2 x1.1), Rizer (victor #3 x1.3), GfMRT (victor #4 x1.3), Azali (victor #5 x1.3), Belfast (victor #6 x1.3), Yurino Ayumi (victor #7 x1.1), LaiR (victor #8 x1.1), iToxicShadow (victor #9 x1.1), Shigeru22 (victor #10 x1.3), Petit (victor #11 x1.3), RABBIT1 (victor #12 x1.1), Watson Amelia (victor #13 x1.1), bnu (victor #14 x1.1), sriracha rice (victor #15 x1.3), RenaDesu (victor #16 x1.1), lolol233 (victor #17 x1.3), imagaK (victor #18 x1.1), Dagoth Ur (victor #19 x1.1), vekt0r (victor #20 x1.1), bocchicookie (victor #21 x1.1), Forgetest (victor #22 x1.1), Eryth (victor #23), Moegi (victor #24 x1.1), GLBETA (victor #25 x1.3), Zechariah (victor #26 x1.1), Natsuki Kaguya (victor #27 x1.1), zerkala (victor #28 x1.2), 4a463a77de8f1b5 (victor #29 x1.1), Vararaup (victor #30 x1.3), Genjitsu (victor #31 x1.1), Illyamywife (victor #32 x1.3), seegii (victor #33), Lissaru (victor #34 x1.1), MithiChang (victor #35 x1.3), enkiduu (victor #36 x1.1), Sagisawa Arisa (victor #37 x1.1), 001thefish (victor #38 x1.1), c4w (victor #39 x1.1), zaul (victor #40 x1.2), PaintedKoala (victor #41 x1.2), pelsta (victor #42 x1.1), Saya-Honmei (victor #43 x1.1), Freak Fantome (victor #44 x1.1), Furamun (victor #45 x1.1), Moyyba (victor #46 x1.3) |
+| 883 | 6.01 | San-Z — ReDreaming Angel [Kyuuchie's Extra] | Eirra (verified), sxl (victor #1 x1.3) |
+| 884 | 6.01 | krage — request [lyvai's extra] | YMD (verified x1.3), Phel (victor #1 x1.2), Maklovitz (victor #2), Rucker (victor #3) |
+| 885 | 6.01 | EMA — Kaichuu Michishirube [-] | Maxkem (verified), Sirek (victor #1), Luminiscental (victor #2), Trail Mix (victor #3 x1.1), StylishBBA (victor #4), telehops (victor #5), xayoto (victor #6), Hakumo Shiro (victor #7), Kudou Chitose (victor #8), big snag (victor #9 x1.2), Duskyui (victor #10 x1.1), Hellstorm (victor #11), Belfast (victor #12 x1.3), KogumaX (victor #13), JHC_ (victor #14), Leehi (victor #15 x1.1), Maklovitz (victor #16), up44 (victor #17), Miracle (victor #18), Desire (victor #19), Jehn (victor #20), Chiful (victor #21), Zacatel (victor #22), MissOne (victor #23), Zayenn (victor #24), bibidibabidiboo (victor #25), Rheos (victor #26), Arutairu (victor #27), My Angel-Aki (victor #28), PFFFFFFFFFFFFFT (victor #29 x1.1), -Nenu- (victor #30), HuKuTa_4ePeI7 (victor #31), Amuro (victor #32), Alencia (victor #33), TheAverageLoser (victor #34), Peti (victor #35), Jeff Fuchsional (victor #36), [SHK]chanliuko (victor #37), WiMpN (victor #38), ZaBoo (victor #39), delusionalk (victor #40), Petit (victor #41 x1.3), badplayer817 (victor #42), Tsuwagi (victor #43), Deleted_User401 (victor #44), ZestyTea (victor #45 x1.1), JA1DIN1 (victor #46), SnowyNight (victor #47) |
+| 886 | 6.01 | kemu — Ikasama Life Game [Joker] | rrtyui (verified x1.2), serea (victor #1), mukachu (victor #2 x1.1), ThickDust (victor #3), EmertxE (victor #4 x1.2), Sheba (victor #5 x1.2), Crystal- (victor #6 x1.1), Zinkon (victor #7), WubWoofWolf (victor #8 x1.3), Save Me (victor #9 x1.3), DigitalHypno (victor #10 x1.1), piklopedia (victor #11 x1.2), Dylson (victor #12 x1.2), NuHaru (victor #13 x1.2), Wilchq (victor #14 x1.1), Sever (victor #15 x1.3), Frostlin (victor #16 x1.1), Leiv (victor #17 x1.3), est (victor #18 x1.1), Xilver15 (victor #19 x1.3), Chiu (victor #20 x1.1), layne (victor #21 x1.1), Manasoy (victor #22 x1.2), elii (victor #23), Terandr (victor #24 x1.3), Tecnosh Gordao (victor #25 x1.2), Dsan (victor #26 x1.3), Darrile (victor #27 x1.3), Captain (victor #28), fripSide (victor #29 x1.1), Kingling (victor #30 x1.3), Dunn (victor #31), miki2003pl (victor #32 x1.1), Vordi (victor #33 x1.3), Lilily (victor #34 x1.3), sdd2cxz (victor #35 x1.1), Ace4896 (victor #36), m t g (victor #37 x1.1), mrekk114514 (victor #38), unseen (victor #39 x1.2), Heilia (victor #40 x1.1), frameZ1 (victor #41 x1.3), Willy (victor #42 x1.2), Loosay (victor #43 x1.1) |
+| 887 | 6.01 | Asaka — I believe what you said [Yudragen's Expert] | _Shield (verified), Maklovitz (victor #1), Garden (victor #2), Kuromiau (victor #3), Deppyforce (victor #4 x1.1), EzChock (victor #5), bocchicookie (victor #6 x1.1), DaHuJka (victor #7), Krilex (victor #8), Trail Mix (victor #9 x1.1), Linennight (victor #10), richp2k (victor #11 x1.1), duke (victor #12), Ryuvee (victor #13), Humsterlol (victor #14), badplayer817 (victor #15), uatzap (victor #16), Tenyusha (victor #17), Loreriv (victor #18) |
+| 888 | 6.01 | DECO*27 — Relationship Scramble feat. Hatsune Miku [404's Extra] | yawarakai (verified x1.1), Duskyui (victor #1 x1.1), jehlp (victor #2 x1.3), teashoe (victor #3 x1.1), Knalli (victor #4 x1.1), Saryi (victor #5 x1.3), Skydiver (victor #6 x1.2), Karuna (victor #7 x1.1), Swishi (victor #8 x1.1), Feraza (victor #9 x1.1), Sil (victor #10 x1.1), arbusion (victor #11 x1.3), Dsan (victor #12 x1.3), Nagi Seishiro (victor #13 x1.1), shadow modico (victor #14 x1.1), Sheeaper (victor #15 x1.2), GfMRT (victor #16 x1.3), Valtz (victor #17 x1.3), sub_WHISTLE (victor #18 x1.1), rusher_808 (victor #19 x1.1), KotobukiTsumugi (victor #20 x1.1), NHarmonia (victor #21 x1.3), SourMongoose (victor #22 x1.1), Entarkanio (victor #23 x1.1), Rusty af (victor #24 x1.1), Zefkiel (victor #25 x1.1), calKU (victor #26 x1.3), morix (victor #27 x1.3), Koide (victor #28 x1.3), Seox (victor #29 x1.1), ToxicBulbasaur (victor #30 x1.1), eiry (victor #31 x1.2), Saskatchewan (victor #32 x1.1), memry (victor #33 x1.1), ianski (victor #34 x1.1), richp2k (victor #35 x1.3), EZDT (victor #36 x1.1), Worsl (victor #37 x1.1), Kuchiki Rukia (victor #38 x1.3), [ Couch ] (victor #39 x1.1), hubbawubba (victor #40 x1.1), Atom_IX (victor #41 x1.3), Razei (victor #42 x1.3), Soroic (victor #43 x1.1), sarondres (victor #44 x1.3), Laestadian (victor #45 x1.3) |
+| 889 | 6.01 | Mitsukiyo — Future Bossa [Welcome to Kivotos, Sensei!] | yencis (verified x1.1), Trail Mix (victor #1 x1.1), -Karu (victor #2 x1.1), Uchirrod (victor #3 x1.1), mint breeze (victor #4 x1.1), schlafen (victor #5 x1.1), SeeL (victor #6), y0c (victor #7 x1.3), LUNAISTABBY (victor #8 x1.1), retot (victor #9 x1.1), Shio (victor #10 x1.1), Lesperry (victor #11 x1.1), Blendra (victor #12 x1.1), -TwiHD (victor #13 x1.1), Maxe191 (victor #14 x1.1), Aikyuu-Chan (victor #15 x1.1), AWhitePhoenix (victor #16 x1.3), Maklovitz (victor #17 x1.1), Natsuki Kaguya (victor #18 x1.1), Akamatsu (victor #19 x1.1), Stormur (victor #20 x1.1), richp2k (victor #21 x1.1), steamhappy (victor #22 x1.1), SkyArrow (victor #23 x1.3), Ends (victor #24 x1.2), MiguisXD (victor #25 x1.1), Ween wao (victor #26 x1.1), iraozm (victor #27 x1.1), ChupaChups (victor #28 x1.1), TUYU (victor #29 x1.3), -Spartan (victor #30 x1.1), Gonito (victor #31 x1.1), Bouquetdor (victor #32 x1.1), [ Nano ] (victor #33 x1.3), Allegrissimo (victor #34 x1.2), ChiefCFL (victor #35 x1.1), Whenimazombie (victor #36 x1.1), Entarkanio (victor #37 x1.1), ArtoriaMyAngel (victor #38 x1.1), peroro (victor #39 x1.1), Goose1723 (victor #40), Oryn (victor #41 x1.1), Salvotore (victor #42 x1.1), xysuki (victor #43 x1.1), gato hongo (victor #44 x1.3), lilybannanas9 (victor #45 x1.1), Artsy (victor #46 x1.1), Vyxico (victor #47 x1.1) |
+| 890 | 6.01 | Demetori — Yuuga ni Sakase, Sumizome no Sakura ~ Border of Life [Extra] | senadina (verified x1.1), bwa (victor #1 x1.3), GLASSY (victor #2 x1.3), Arakii (victor #3), Imuwashi (victor #4 x1.1), 846553767646068 (victor #5 x1.1), Wayakuyee (victor #6 x1.1), badplayer817 (victor #7), perich (victor #8), Touhou Project (victor #9 x1.3), AThree (victor #10 x1.2), Wez (victor #11), Massimo99 (victor #12 x1.3), Lefafel (victor #13), Terciusz (victor #14 x1.2), nki (victor #15), Ventus (victor #16), EEEEEEEEEEEEEEE (victor #17), fajga (victor #18 x1.3), Buzdygan (victor #19 x1.3), vur (victor #20 x1.1), yoshibox (victor #21), WiMpN (victor #22), Oguri Cap (victor #23 x1.1), 1Max (victor #24 x1.3), Bubbleman (victor #25), Tazz (victor #26 x1.3), _Dan (victor #27), emile- (victor #28 x1.2), Krosis (victor #29), Giants_105 (victor #30), Diiiooon (victor #31 x1.3), McK (victor #32), x1nyu (victor #33 x1.1), Crossie (victor #34 x1.1), Maklovitz (victor #35), 4329111 (victor #36), Comatose (victor #37 x1.1), Minpz (victor #38 x1.3), up44 (victor #39), Flow- (victor #40), ozy (victor #41 x1.3), Terriama (victor #42) |
+| 891 | 6.01 | onoken feat. Natsukawa Yoko — Sakimori Souka [Master] | Rlsc (verified), Snow Ripple (victor #1), Spinesnight (victor #2), DazzLE_Wind (victor #3 x1.1), Frane (victor #4), Noredn (victor #5), Shiina Noriko (victor #6 x1.1), Leftoverss (victor #7), Remyuu (victor #8), seegii (victor #9 x1.1), Woey (victor #10 x1.1), L4plus1 (victor #11 x1.1), lolol235 (victor #12), Flask (victor #13 x1.1), Zigzagoon (victor #14), Haydosu (victor #15), Freak Fantome (victor #16 x1.1), GfMRT (victor #17 x1.1), AstonFrenchWine (victor #18) |
+| 892 | 6.01 | Paramore — Anklebiters [Expert Collab] | Toy (verified x1.3), Recia (victor #1 x1.3), ponpokorin (victor #2 x1.1), PizzaLovers007 (victor #3 x1.1), little Agile (victor #4 x1.1), puppy (victor #5 x1.3), piklopedia (victor #6 x1.2), P1u70 (victor #7 x1.2), OPJames (victor #8 x1.3), In Sane (victor #9 x1.3), Spork Lover (victor #10 x1.3), Crystal (victor #11 x1.3), Koba (victor #12 x1.2), daanit (victor #13 x1.2), Karuna (victor #14), Zanik (victor #15 x1.2), Andythebest (victor #16 x1.3), Mavs (victor #17 x1.3), Senetix (victor #18 x1.3), Felrion (victor #19 x1.3), Trail Mix (victor #20 x1.3), LaLmL (victor #21 x1.3), fooooooood (victor #22 x1.1), kyle (victor #23 x1.3), Buszek (victor #24 x1.2), minus (victor #25 x1.2), Liswiera (victor #26 x1.1), Legend_OZ (victor #27 x1.3), hivno (victor #28 x1.1), PeteX (victor #29 x1.2), Cytusine (victor #30 x1.1), Wez (victor #31), Kingling (victor #32 x1.3), See (victor #33 x1.1), stanol (victor #34 x1.1), Wilchq (victor #35 x1.1), RESU (victor #36 x1.1), everless (victor #37 x1.1) |
+| 893 | 6.01 | Camellia feat. Nanahira — Tsukitourou [Nyquill's Extra] | ReaL motion (verified x1.3), ponpokorin (victor #1 x1.1), Rizer (victor #2 x1.3), Dylson (victor #3 x1.3), favela (victor #4 x1.2), Sheba (victor #5 x1.2), GSBlank (victor #6 x1.3), Firstus (victor #7 x1.2), gusrua123 (victor #8 x1.3), [ AeonLust ] (victor #9 x1.3), Toy (victor #10 x1.2), _Degenerate (victor #11 x1.3), boleks (victor #12 x1.3), namewithnumber9 (victor #13 x1.2), Cres (victor #14 x1.2), qqale1 (victor #15 x1.3), yykkrr (victor #16 x1.3), VicoTeen (victor #17 x1.3), ---- (victor #18 x1.2), Gryzus24 (victor #19 x1.3), WOJT (victor #20 x1.1), striFE36 (victor #21 x1.2), theez (victor #22 x1.3), KaZuoo (victor #23 x1.3), dark on osu (victor #24 x1.3), Stravez0r (victor #25 x1.3), bubblecat (victor #26 x1.1), Metal Pipe (victor #27 x1.3), Prade (victor #28 x1.1), Clubby (victor #29 x1.3), ymmm6 (victor #30 x1.3), Phasius (victor #31 x1.3), big snag (victor #32 x1.2), Atri - (victor #33 x1.2), Rafugapu (victor #34 x1.3), Zarkyi (victor #35 x1.3), KriO-O (victor #36 x1.3), pepe996 (victor #37 x1.3), Aerora (victor #38 x1.3), St3kiii (victor #39 x1.1), Evrazija (victor #40 x1.3), Wez (victor #41 x1.3), GitahMuttan (victor #42 x1.3), Dainsleif (victor #43 x1.3) |
+| 894 | 6.01 | t+pazolite — cheatreal [Ldnz's Expert] | Moyyba (verified x1.1), Cristobal1324 (victor #1), _ajsem (victor #2 x1.2), squarerot (victor #3), zzzbored (victor #4 x1.2), Darkxide (victor #5 x1.1), an3 (victor #6 x1.1), Wez (victor #7), Damoclesss (victor #8), TOCTEP (victor #9 x1.1), aconite (victor #10), marclor (victor #11 x1.1), -Agent (victor #12 x1.1), Porifore (victor #13), Hefalumph (victor #14), Razekon (victor #15 x1.1), Wilchq (victor #16 x1.1), OnlyJacob (victor #17 x1.3), Forw3n (victor #18 x1.1), MarianCap [AR] (victor #19 x1.3), KatFood (victor #20 x1.2), ARedButton (victor #21), davequin (victor #22), astr0nomic (victor #23), trancemegamix (victor #24 x1.3), Blipblo (victor #25), -Nenu- (victor #26 x1.2), rAng_E (victor #27 x1.1), lip (victor #28), Real Meower (victor #29), 3p0x (victor #30), Massimo99 (victor #31 x1.1), Arakii (victor #32), M e o w - (victor #33), Flashback9 (victor #34 x1.1), lestapekka67 (victor #35 x1.1), Stoneybeans (victor #36), aiyern (victor #37), Towdie (victor #38), KETTEX (victor #39), 1v9 (victor #40 x1.3), pomppp (victor #41), Rizer (victor #42 x1.3), MisaraToT (victor #43), Levesile (victor #44) |
+| 895 | 6.01 | Blend A — Bon Appetit S (TV Size ver) [We are Stile!] | Yuuki-chan (verified x1.1), Woey (victor #1 x1.1), Rucker (victor #2 x1.1), sonix (victor #3 x1.1), Malolat (victor #4 x1.3), Kinoro (victor #5 x1.1), Hellotomlol225 (victor #6 x1.1), GfMRT (victor #7 x1.3), Toy (victor #8 x1.3), NO37 (victor #9 x1.1), El Condor Pasa (victor #10 x1.2), TeNero_ (victor #11 x1.1), qtz (victor #12 x1.3), NeliNyan (victor #13 x1.1), Haadez (victor #14 x1.3), Tanaka Hime (victor #15 x1.2), gusrua123 (victor #16 x1.1), Teirin (victor #17 x1.3), bocchicookie (victor #18 x1.1), Deazir (victor #19 x1.3), Trail Mix (victor #20 x1.3), CutPaper (victor #21 x1.1), Dafonz (victor #22 x1.2), [KOR]Kosaki (victor #23 x1.1), TheWaterBottle (victor #24 x1.1), Kluchen (victor #25 x1.3), bsm (victor #26 x1.3), Gyrados (victor #27 x1.3), Wynner (victor #28 x1.3), Entarkanio (victor #29 x1.1), Paracat (victor #30 x1.1), Kehest (victor #31 x1.3), Sagisawa Arisa (victor #32 x1.1), Just2Gud (victor #33 x1.3), Maopo (victor #34 x1.1), OctopuSSX (victor #35 x1.1), Dsan (victor #36 x1.3), Tsuwagi (victor #37 x1.3), alfie_yo (victor #38 x1.1), RESU (victor #39 x1.1), Furamun (victor #40 x1.2), richp2k (victor #41 x1.3), Kriatix (victor #42 x1.1), Worsl (victor #43 x1.1), Laestadian (victor #44 x1.3), Jabba (victor #45 x1.1), bwa (victor #46 x1.1) |
+| 896 | 6.01 | Ichika Nito — Lumina [Doge's Extra] | dogeosu (verified x1.1), -Gigi- (victor #1 x1.1), femboy irl (victor #2 x1.1), Porifore (victor #3), Linennight (victor #4), Ketsui (victor #5), QuisTiX (victor #6), Maklovitz (victor #7), davequin (victor #8), SPADESH (victor #9), ghostholding (victor #10 x1.1), scoyro (victor #11), - Alice (victor #12), Optimus (victor #13), MelDAY (victor #14), _Chris (victor #15), misha awa (victor #16 x1.1) |
+| 897 | 6.01 | FELT — Goodbye [Sayonara] | elsi (verified), Neet Sama (victor #1), Kingling (victor #2 x1.2), Firika (victor #3 x1.1), Woey (victor #4 x1.1), SourMongoose (victor #5 x1.1), wuhua (victor #6), -Kedama (victor #7 x1.1), Deppyforce (victor #8 x1.3), platinuwaa (victor #9) |
+| 898 | 6.01 | Toyama Nao — FLOWER [Hitomi's Extra] | CoLouRed GlaZeE (verified), up44 (victor #1), WiMpN (victor #2), Maklovitz (victor #3), Petirabi (victor #4), ukasoh (victor #5 x1.3), GfMRT (victor #6 x1.3), setori (victor #7), moyamoyano_sa (victor #8 x1.3), Eaves (victor #9 x1.3), AccMoment (victor #10 x1.1), Viena (victor #11 x1.2), Trail Mix (victor #12 x1.3), Splenden (victor #13), okapi (victor #14 x1.1), B L A C K Y (victor #15 x1.2), IIIIVIXRVHB (victor #16 x1.1), Nagaiyume (victor #17 x1.1), AmphibiousBean (victor #18), Arakii (victor #19), Fastestmaster (victor #20 x1.1), Dark PHOENIX (victor #21), king_duckling (victor #22), Duskyui (victor #23 x1.1), KonKoniLou (victor #24), Rizer (victor #25 x1.3), Chisayo (victor #26 x1.1), shadevr (victor #27 x1.1), M e o w - (victor #28), Nilson (victor #29), s e n (victor #30), Furyfish (victor #31), Mornis (victor #32), CrtReXn (victor #33), nitystarex (victor #34), wreket (victor #35 x1.2), believer_i (victor #36 x1.1), Guyan (victor #37), Seth MacFarlane (victor #38), smashcae (victor #39 x1.3), Paydro (victor #40), Candina (victor #41), Kilgar (victor #42), jacj (victor #43 x1.1), Massimo99 (victor #44 x1.1), Mori Calliope (victor #45 x1.1), tayeon (victor #46 x1.1), CakeStuff (victor #47) |
+| 899 | 6.01 | ARForest — Qesia [Extra] | Ideal (verified x1.3), reonyan (victor #1 x1.3), _Shield (victor #2 x1.3), heikneuter (victor #3 x1.3), Rizer (victor #4 x1.3), StiKsy (victor #5 x1.3), [ Nano ] (victor #6 x1.3), zeris (victor #7 x1.3), Coreanmaluco (victor #8 x1.3), sut_son (victor #9 x1.3), DazzLE_Wind (victor #10 x1.3), TheRealAman (victor #11 x1.3), kodama (victor #12 x1.3), YesTak (victor #13 x1.3), rarebostonian (victor #14 x1.3), KyZzo (victor #15 x1.3), [ MiSa YuKa ] (victor #16 x1.3), Zucchiniii (victor #17 x1.3), Risea (victor #18 x1.3), wick (victor #19 x1.3), xCrazy (victor #20 x1.3), Eaves (victor #21 x1.3), Shaper (victor #22 x1.3), Bostinha Games (victor #23 x1.3), Buzdygan (victor #24 x1.3), Yukime (victor #25 x1.3), KiryuMiya (victor #26 x1.3), Arav (victor #27 x1.3), PaweroX (victor #28 x1.3), Illyamywife (victor #29 x1.3), Sn34Ky_ (victor #30 x1.3), bluezenithgames (victor #31 x1.3), Downsy (victor #32 x1.3), _yogu (victor #33 x1.3), Yuhuyo (victor #34 x1.3), yodeston (victor #35 x1.3), Whiffy (victor #36 x1.3), WujuBlade (victor #37 x1.3), Andrew osu (victor #38 x1.3), PreDexine (victor #39 x1.3), Plate (victor #40 x1.3), Naan-E (victor #41 x1.3), mozza_ (victor #42 x1.3), opensand (victor #43 x1.3), Tori no Uta (victor #44 x1.3), Flashback9 (victor #45 x1.3), Sky_Delta (victor #46 x1.3), abinsan (victor #47 x1.3) |
+| 900 | 6.01 | DJ SHARPNEL — Pacific girls [jumpstream] | Ween wao (verified x1.1), Willy (victor #1 x1.2), skylily (victor #2 x1.3), nero1kami (victor #3 x1.2), -Nenu- (victor #4 x1.2), site0121 (victor #5 x1.3), LoidKun (victor #6 x1.1), JeadIng (victor #7 x1.2), kirby mix (victor #8 x1.3), Borzilla (victor #9 x1.3), xinrr (victor #10 x1.2), kaver (victor #11 x1.3), Atri - (victor #12 x1.2), vdc (victor #13 x1.1), Josee is my luv (victor #14 x1.2), pregnant (victor #15 x1.2), Anime (victor #16 x1.3), ozy (victor #17 x1.3), bocchicookie (victor #18 x1.1), [-Pure Ruby-] (victor #19 x1.3), Don t forget me (victor #20 x1.3), ekub0 (victor #21 x1.3), Rayeku (victor #22 x1.2), de_skitzofrenia (victor #23 x1.2), deGLe (victor #24 x1.1), pkhg (victor #25 x1.1), turbo_igor_777 (victor #26 x1.1) |
+| 901 | 6.01 | KOTOKO — Light My Fire (TV Size) [P A N's XtrA] | umii (verified), pottomotto22 (victor #1), Trail Mix (victor #2 x1.1), Wez (victor #3), Duskyui (victor #4 x1.1), terrax (victor #5), Restroom (victor #6), bocchicookie (victor #7 x1.1), Davidozzo (victor #8 x1.1), Marks2K (victor #9), SL1PER (victor #10), F2X (victor #11 x1.3), Rizer (victor #12 x1.2), GGBY (victor #13), moar (victor #14), X_TAMAO_X (victor #15 x1.1), bru0p (victor #16), Pinossaur (victor #17), WhatsApp (victor #18), Toha- (victor #19), Technicalbruh (victor #20), oTwinkle (victor #21), tamespy (victor #22), PupperKun (victor #23), r3connect (victor #24), Petirabi (victor #25), Suyung_ (victor #26 x1.3), badplayer817 (victor #27), Emerald Ages (victor #28 x1.1), Illuminatrix (victor #29), Junkmaniac (victor #30), TinyPark (victor #31), makarupa (victor #32), _kaie (victor #33 x1.1), nerau (victor #34 x1.1), I love Emilia (victor #35 x1.1), SechsZahl (victor #36), aoofbop (victor #37), le pauvre bil (victor #38 x1.3), Garage du Lac (victor #39 x1.3), Tabris (victor #40), paprunia (victor #41) |
+| 902 | 6.01 | Lovejoy — One Day [honne's Extra] | Kingling (verified), G I V Z Z (victor #1), WorstTechPlayer (victor #2), [Lin] (victor #3 x1.1), Woey (victor #4 x1.1), lestapekka67 (victor #5 x1.1), nonentity (victor #6), EPIC MONKEY 69 (victor #7), Maklovitz (victor #8 x1.3), Stormur (victor #9), Wispy (victor #10 x1.3), nomokona (victor #11 x1.3), TheWaterBottle (victor #12), Bouquetdor (victor #13 x1.1), CurrentlyOsu (victor #14), Stravez0r (victor #15 x1.3), Bingo6 (victor #16 x1.1), KnightC0re (victor #17 x1.1), -Des (victor #18), arm foot (victor #19 x1.3), fancy - you (victor #20 x1.1), stinker (victor #21), Sirek (victor #22 x1.1), -Majo- (victor #23 x1.1), upheaval (victor #24), CryCatG (victor #25 x1.1), up44 (victor #26), Tazz (victor #27 x1.1), -slim- (victor #28), Tam- (victor #29), Zoopasaurus (victor #30 x1.3), AThree (victor #31), doofus (victor #32), PawzMyGame (victor #33), tamespy (victor #34 x1.1), Panda Bear (victor #35 x1.3), snow leopard (victor #36), cykaman0411 (victor #37), paprunia (victor #38), Mystoline (victor #39 x1.1), Rolhalovich (victor #40 x1.1), pregnant (victor #41), Ssan1xx (victor #42 x1.1), PotjeNutella (victor #43 x1.1), CodeNyaggies (victor #44 x1.1), GreenMelonX (victor #45), Utzie (victor #46) |
+| 903 | 6.01 | Reol — Q? [Mir's Extra] | Maklovitz (verified), waste- (victor #1), EEEEEEEEEEEEEEE (victor #2), -Karu (victor #3 x1.1), Hiten (victor #4 x1.2), Melodia (victor #5), Cawolo (victor #6), -raizen- (victor #7 x1.2), honbae (victor #8), Trail Mix (victor #9 x1.3), iRedi (victor #10), up44 (victor #11), Sdot (victor #12 x1.2), YGOkid8 (victor #13 x1.1), Tam- (victor #14), luvouva (victor #15 x1.1), Zarkyi (victor #16 x1.1), breaktime (victor #17 x1.1), fartMONSTER5000 (victor #18 x1.1), Diaostrophism (victor #19), Wilchq (victor #20 x1.1), Valtz (victor #21 x1.1), - Asriel - (victor #22), Spinesnight (victor #23 x1.1), Jagester (victor #24 x1.3), Tina (victor #25), Splacten (victor #26 x1.1), Vvn (victor #27), Uchirrod (victor #28 x1.1), [ Yozzied ] (victor #29), Jiuchu (victor #30 x1.2) |
+| 904 | 6.01 | Mili — Paper Bouquet (TV Size) [Dullun katre n'a sol solle flare-esta] | TESTERPIWA (verified), iRedi (victor #1), Rizer (victor #2 x1.3), y0c (victor #3 x1.3), ru lai (victor #4), Mitsuru- (victor #5 x1.1), NaRiTA TaiShiN (victor #6), [LAMY] (victor #7 x1.1), -pare (victor #8 x1.3), emilia (victor #9 x1.3), Ascaveth (victor #10), Belfast (victor #11 x1.3), Maklovitz (victor #12 x1.1), Seox (victor #13 x1.1), platinuwaa (victor #14), Tabby Bee (victor #15), Tzero (victor #16 x1.1), Gilletteguy (victor #17), everstagnating (victor #18 x1.1), Rlsc (victor #19), Sagisawa Arisa (victor #20 x1.1), Stravez0r (victor #21 x1.1), PapaGunch (victor #22 x1.2), Chi ki (victor #23 x1.1), Dsan (victor #24 x1.3), Dnwings (victor #25 x1.1), Lunacy_ (victor #26 x1.1), Emerald Ages (victor #27 x1.1), Cors (victor #28 x1.1), scuri (victor #29 x1.1), up44 (victor #30), wreket (victor #31 x1.2), Felrion (victor #32 x1.1), Wido (victor #33 x1.3), hivno (victor #34 x1.1), milpa (victor #35 x1.1), Stinkster (victor #36), reisa (victor #37 x1.3), MALISZEWSKI (victor #38 x1.3), shadevr (victor #39 x1.1), kemdaosa (victor #40 x1.1), dracoria (victor #41 x1.1), Seamob (victor #42 x1.2), Koide (victor #43 x1.1), eclipse11 (victor #44), Kataru (victor #45), non_accuracy (victor #46 x1.1) |
+| 905 | 6.01 | Knife Party & Tom Morello — Battle Sirens (RIOT Remix) [Noble] | Rizer (verified x1.3), elsi (victor #1 x1.3), hallowatcher (victor #2 x1.3), BarkingMadDog (victor #3 x1.1), bocchicookie (victor #4 x1.1), yawarakai (victor #5 x1.1), Swishi (victor #6 x1.1), Karthy (victor #7 x1.1), sriracha rice (victor #8 x1.1), Praxeology (victor #9 x1.1), Tomasz Gimaggi (victor #10 x1.1), Texats (victor #11 x1.2), wick (victor #12 x1.3), Shizaki Kanon (victor #13 x1.1), azaz08967565 (victor #14 x1.3), Volcanism (victor #15 x1.1), PemiX (victor #16 x1.3), Ween wao (victor #17 x1.1), Rimbe (victor #18 x1.1), LosPedros (victor #19 x1.1), DragonCroc (victor #20 x1.3), Wilchq (victor #21 x1.1), User XXII (victor #22 x1.1), Stravez0r (victor #23 x1.3), LN-Larks (victor #24 x1.1), krh (victor #25 x1.1), Vlad (victor #26 x1.1), EndmeKov (victor #27 x1.1), CutPaper (victor #28 x1.1), Trail Mix (victor #29 x1.3), Miinn_ (victor #30 x1.1), Sekiz (victor #31 x1.1), Spinesnight (victor #32 x1.1), Jokupoika24 (victor #33 x1.1), Aeflar (victor #34 x1.1), DouGGlas (victor #35 x1.1), Teini (victor #36 x1.1), teaminhtg (victor #37 x1.1), Rohulk (victor #38 x1.3), SadnessWillSear (victor #39 x1.3), Tsumikiri (victor #40 x1.1), still bummed (victor #41 x1.3), Aerora (victor #42 x1.1), Massimo99 (victor #43 x1.1), Schoki (victor #44 x1.1), Crankii (victor #45 x1.1), -Hatsune Miku (victor #46 x1.1), est (victor #47 x1.1), 123123 (victor #48 x1.1) |
+| 906 | 6.01 | tokiwa — Syuou Sange [Mir's Expert] | _Shield (verified), Maklovitz (victor #1), Garden (victor #2), Viveliam (victor #3 x1.1), ThunderBird2678 (victor #4), WorstTechPlayer (victor #5), Moshu (victor #6 x1.3), Bruley (victor #7 x1.1), Koide (victor #8 x1.1), Altom (victor #9 x1.1), tilda (victor #10), richp2k (victor #11 x1.1), Kondi (victor #12 x1.1), Ween wao (victor #13 x1.1), Hunxin (victor #14), yuiko122 (victor #15), wanderloop (victor #16 x1.1), wessel_osu2 (victor #17), breaktime (victor #18), Alexaaro (victor #19), OG Merami (victor #20), VORIONTT (victor #21 x1.1), Orangeholic (victor #22 x1.1), ericqdog (victor #23 x1.1), K_Clap (victor #24 x1.1), iraozm (victor #25 x1.1), OTWGE (victor #26), t ony (victor #27 x1.2), Sand-Star (victor #28 x1.1), Miori Celesta (victor #29 x1.1), Hazuki Sendai (victor #30), Bouquetdor (victor #31 x1.1), up44 (victor #32), Melifaro (victor #33 x1.1), Sayuuu_ (victor #34 x1.1), Memesical (victor #35 x1.1), Weebs Suck (victor #36), NEW GOD (victor #37 x1.2), - Asriel - (victor #38), sxl (victor #39 x1.3), Exotica (victor #40 x1.1), Seox (victor #41 x1.1), Heil__ (victor #42), kyniia (victor #43), Ameshima (victor #44), - Alice (victor #45 x1.2), BlessKM (victor #46 x1.2), Rizer (victor #47 x1.3), Koenig_Michi (victor #48) |
+| 907 | 6.01 | Isekai Joucho — Shin'en feat. Kaf [Abyss feat. climb] | Potato9756 (verified), respektive (victor #1), Garden (victor #2), Cesilia (victor #3 x1.1), Duck Wings (victor #4), AAA (victor #5), -Koda (victor #6 x1.1), bogdanski (victor #7), Rucker (victor #8), WaShoy (victor #9), _kaie (victor #10 x1.1), Narathan (victor #11 x1.1), gamer228666 (victor #12 x1.2), MokkoriRyo (victor #13 x1.1), yuanun (victor #14), A21 (victor #15 x1.3), Shizaki Kanon (victor #16), -esfuerzo- (victor #17), WiMpN (victor #18), Rum1a (victor #19 x1.1), Homutan (victor #20 x1.3), Geag (victor #21) |
+| 908 | 6.01 | HOYO-MiX — Domineer [Onegai's EX] | Wispy (verified x1.1), Szshwrik (victor #1), -Spartan (victor #2 x1.1), umii (victor #3), amea (victor #4 x1.1), Quinten (victor #5), 16544 (victor #6), Ascaveth (victor #7), Wez (victor #8), Repo (victor #9), Duskyui (victor #10 x1.1), NO37 (victor #11 x1.1), -Des (victor #12), Rizer (victor #13), Saruei (victor #14), Verxina (victor #15), SeeL (victor #16), Maklovitz (victor #17 x1.1), Rhabdomilowo (victor #18 x1.3), perich (victor #19), Pommi (victor #20), Iamcooked (victor #21 x1.1), N i s u (victor #22), woojungx4 (victor #23 x1.3), Dianth (victor #24), Ketsui (victor #25), Loathed (victor #26), -Yucke (victor #27), -Whitedog- (victor #28), Lancien (victor #29 x1.1), Eagle5324 (victor #30 x1.2), AThree (victor #31), awhi (victor #32), Nidasimno (victor #33), up44 (victor #34), Normanise (victor #35), ChiefCFL (victor #36 x1.1), alsper05 (victor #37), LuihGi (victor #38), astrin (victor #39 x1.1), John Coltrane (victor #40), EEEEEEEEEEEEEEE (victor #41), rewmiqa (victor #42), DAZQ (victor #43), tilda (victor #44), reisa (victor #45 x1.1), Uchirrod (victor #46 x1.1), LiseQi (victor #47), dnomyar (victor #48 x1.1) |
+| 909 | 6.01 | Aqours — Kimeta yo Hand in Hand [Sotarks' Ultimate] | CXu (verified x1.3), Rohulk (victor #1 x1.3), Meltina (victor #2 x1.3), [ Lili ] (victor #3 x1.3), Psycopath- (victor #4 x1.3), Sebu (victor #5 x1.3), Hakurai (victor #6 x1.3), FarQ_ (victor #7 x1.3), Timowoof (victor #8 x1.3), Sakurauchi Riko (victor #9 x1.3), Raindrop (victor #10 x1.3), Crystal (victor #11 x1.3), puppy (victor #12 x1.3), Dungeon (victor #13 x1.3), -Electro- (victor #14 x1.3), Worne (victor #15 x1.3), Jup3KW (victor #16 x1.3), hallowatcher (victor #17 x1.3), Swishi (victor #18 x1.3), A5uka (victor #19 x1.3), [ Larssen ] (victor #20 x1.3), Feyyy (victor #21 x1.3), [ Hyung ] (victor #22 x1.3), Vandabe (victor #23 x1.3), leina (victor #24 x1.3), CeilingWaffle (victor #25 x1.3), Carbone (victor #26 x1.3), Liliana (victor #27 x1.3), 1Max (victor #28 x1.3), jixxi (victor #29 x1.3), TheKid217 (victor #30 x1.3), Reira (victor #31 x1.3), KyZzo (victor #32 x1.3), Razei (victor #33 x1.3), Rupertion (victor #34 x1.3), theez (victor #35 x1.3), Tsukishima Riho (victor #36 x1.3), falu (victor #37 x1.3), Devolter (victor #38 x1.3), MyAngel428 (victor #39 x1.3), TheNexusGamer (victor #40 x1.3), Recia (victor #41 x1.3), Netsuz (victor #42 x1.3), pepe996 (victor #43 x1.3), RESU (victor #44 x1.3), NHarmonia (victor #45 x1.3), MALISZEWSKI (victor #46 x1.3), Tsumetai Tenshi (victor #47 x1.3) |
+| 910 | 6.01 | Tsukuyomi — Nightjar (TV Size) [Scatter Beautifully] | Marquez (verified), anykit2005 (victor #1), Mloah (victor #2 x1.3), Wez (victor #3), mindmaster107 (victor #4), sriracha rice (victor #5 x1.3), yencis (victor #6), Saya-Honmei (victor #7), pedeko (victor #8 x1.3), BG eggman (victor #9), anhnhatbui (victor #10 x1.3), yodeston (victor #11 x1.3), Tsuki-Yomi (victor #12), Retixia (victor #13), Maklovitz (victor #14 x1.1), GfMRT (victor #15 x1.3), Choco001 (victor #16 x1.3), kasikomi (victor #17), tayeon (victor #18 x1.1), Junkmaniac (victor #19), MordeyMay (victor #20), badplayer817 (victor #21) |
+| 911 | 6.01 | Helblinde — Rewrite Nightmare [Collab Experiment] | 921206025887 (verified x1.1), Sampo (victor #1 x1.1), Tzero (victor #2), Kabonkers (victor #3), Maklovitz (victor #4), amefuri (victor #5), robloxxa (victor #6 x1.2), Pristine (victor #7), kablaze (victor #8), Pezudos (victor #9 x1.3), Antaanar (victor #10 x1.3), Lohovo Vepete (victor #11), ghostholding (victor #12 x1.1), Naigo (victor #13 x1.3), GalaxyGaming (victor #14), AThree (victor #15), ozy (victor #16 x1.2), dyl (victor #17 x1.3), milr_ (victor #18 x1.1), -Nenu- (victor #19 x1.2), Slay (victor #20 x1.1), glass2wave7 (victor #21), Arakii (victor #22), Mori Calliope (victor #23 x1.1), Wittepoes (victor #24) |
+| 912 | 6.01 | DJ Noriken — Elektrick U-Phoria(Extended Mix) [Illuminate] | AtHeoN (verified x1.3), Wilchq (victor #1 x1.3), Xilver15 (victor #2 x1.2), Toy (victor #3 x1.3), Rohulk (victor #4 x1.3), ChristieBell (victor #5 x1.3), Neta (victor #6 x1.3), Sablestars (victor #7 x1.3), MiruHong (victor #8 x1.3), WubWoofWolf (victor #9 x1.3), Nameless Player (victor #10 x1.3), Emperorpenguin83 (victor #11 x1.3), ReaL motion (victor #12 x1.3), Monko2k (victor #13 x1.3), Firebool (victor #14 x1.3), SadnessWillSear (victor #15 x1.3), Insanity7 (victor #16 x1.3), xaxreid (victor #17 x1.3), TB 358 (victor #18 x1.3), domplayer (victor #19 x1.3), kodama (victor #20 x1.3), Pure Ruby (victor #21 x1.3), umineko (victor #22 x1.3), Suome (victor #23 x1.3), Amuro (victor #24 x1.3), mahloola (victor #25 x1.3), Momoko Mizumi (victor #26 x1.2), Belfast (victor #27 x1.3), Gryzus24 (victor #28 x1.3), Teirin (victor #29 x1.3), xep (victor #30 x1.3), wick (victor #31 x1.3), EndingNote (victor #32 x1.3), Lixarious (victor #33 x1.3), PotJohn Nutella (victor #34 x1.3), waste- (victor #35 x1.3), calKU (victor #36 x1.3), Another Guy (victor #37 x1.3), eclessia (victor #38 x1.3), Yuhuyo (victor #39 x1.3), Skill (victor #40 x1.2), Venture (victor #41 x1.3), KiryuMiya (victor #42 x1.3), Coreanmaluco (victor #43 x1.3), Flashback9 (victor #44 x1.3), Crankii (victor #45 x1.3), Massimo99 (victor #46 x1.3), pepe996 (victor #47 x1.3), gusrua123 (victor #48 x1.3) |
+| 913 | 6.01 | Yuni (CV: Kohara Konomi), Chieru (CV: Sakura Ayane), Chloe (CV: Tanezaki Atsumi) — Nakayoshi Sensation [Critical] | Lunacy_ (verified x1.1), Garden (victor #1 x1.1), Samsmas (victor #2 x1.1), Yumia (victor #3 x1.1), Deppyforce (victor #4 x1.3), emile- (victor #5 x1.1), Dsan (victor #6 x1.3), Kafuu Chino (victor #7 x1.1), Soups (victor #8 x1.1), sriracha rice (victor #9 x1.3), IcyIce (victor #10 x1.1), bze (victor #11 x1.1), GfMRT (victor #12 x1.1), Duskyui (victor #13 x1.1), Flask (victor #14 x1.1), Belfast (victor #15 x1.3), Dagoth Ur (victor #16 x1.1), nuthing (victor #17), Miinn_ (victor #18 x1.1), miiarad (victor #19 x1.1), NaRiTA TaiShiN (victor #20 x1.2), N i s u (victor #21 x1.1), Nekoyase (victor #22 x1.1), macabea (victor #23 x1.1), toybot (victor #24 x1.1), Nameless Player (victor #25 x1.3), SurvivorX4 (victor #26 x1.2), Greninja (victor #27 x1.1), TinyPark (victor #28 x1.1), Pelmeenid (victor #29 x1.1), [LAMY] (victor #30 x1.1), Zenith (victor #31 x1.1), -Koda (victor #32 x1.1), pelsta (victor #33 x1.1), Lolsniper (victor #34 x1.1), bocchicookie (victor #35 x1.1), Sucralosa (victor #36 x1.1), Eat Natto (victor #37 x1.1), BTMC (victor #38 x1.1), Syaro (victor #39 x1.1), Petit (victor #40 x1.3), kirei_ (victor #41), -TwiHD (victor #42 x1.1), Joyi (victor #43 x1.1), arm foot (victor #44 x1.1), ADoorNob (victor #45 x1.1), Bototo (victor #46) |
+| 914 | 6.01 | THE ORAL CIGARETTES — Monster Effect [Gaze] | gusrua123 (verified x1.1), Spektre (victor #1 x1.1), Duskyui (victor #2 x1.1), Wilchq (victor #3 x1.1), Umbre (victor #4 x1.1), -Kazeshi (victor #5 x1.1), Miguel Mella (victor #6 x1.3), Sampo (victor #7 x1.1), WorstTechPlayer (victor #8 x1.1), Notpyon (victor #9 x1.3), Lunacy_ (victor #10 x1.1), Spinesnight (victor #11 x1.3), MegaMK (victor #12 x1.2), six seven (victor #13 x1.1), sriracha rice (victor #14 x1.3), Natsuki Kaguya (victor #15 x1.1), Stravez0r (victor #16 x1.3), chikato (victor #17 x1.1), Senzek (victor #18 x1.1), Maklovitz (victor #19 x1.1), Lazygantengz (victor #20 x1.3), Trail Mix (victor #21 x1.1), XernX (victor #22 x1.1), Sherbet (victor #23 x1.1), Lewiz (victor #24 x1.1), Jet- (victor #25 x1.3), I love Emilia (victor #26 x1.1), Uchirrod (victor #27 x1.1), MyAngelBoshyMan (victor #28 x1.1), Unibrick (victor #29 x1.1), nerau (victor #30 x1.1), his puppy (victor #31 x1.1), kirby mix (victor #32 x1.3), Azvameth (victor #33 x1.1), Leehi (victor #34 x1.1), Hide in room (victor #35 x1.1), Kuchiki Rukia (victor #36 x1.1), Himeri (victor #37 x1.1), PoYuTo (victor #38 x1.3), Exxotl (victor #39 x1.3), NewbieFirst (victor #40 x1.1), Comatose (victor #41 x1.1), Stealer-kun (victor #42 x1.1) |
+| 915 | 6.01 | PSYQUI — Hikari no Hou e feat. Such [Primonix x tellmico's Resonating Heartbeats] | arctice (verified x1.1), Arakii (victor #1), palr (victor #2 x1.3), See (victor #3 x1.1), Maklovitz (victor #4), badplayer817 (victor #5) |
+| 916 | 6.01 | Petit Rabbit's — No Poi! (nenpulse bootleg remix) [Amamiya Momoko's Collab] | Xilver15 (verified x1.3), Seouless (victor #1 x1.3), Recia (victor #2 x1.3), Emperorpenguin83 (victor #3 x1.3), Cinia Pacifica (victor #4 x1.1), Wilchq (victor #5 x1.3), Tetla (victor #6 x1.3), Rampax (victor #7 x1.2), Sheba (victor #8 x1.2), favela (victor #9 x1.2), Rizer (victor #10 x1.3), Korilak (victor #11 x1.3), hallowatcher (victor #12 x1.3), Corim (victor #13 x1.2), Truc (victor #14 x1.3), ReaL motion (victor #15 x1.3), DudsonZ (victor #16 x1.2), kodama (victor #17 x1.3), LittleDan (victor #18 x1.3), Demonical (victor #19 x1.3), [ Hyung ] (victor #20 x1.3), Villdjack (victor #21 x1.2), -raizen- (victor #22 x1.3), CeilingWaffle (victor #23 x1.3), - Kataomoi - (victor #24 x1.3), Loslite (victor #25 x1.3), Skyme (victor #26 x1.2), Eryth (victor #27 x1.3), Belfast (victor #28 x1.3), wuhua (victor #29 x1.3), R1cho (victor #30 x1.3), Tzero (victor #31 x1.3), a hotdog (victor #32 x1.3), Tigerek386 (victor #33 x1.3), [ Nano ] (victor #34 x1.3), RESU (victor #35 x1.3), pepe996 (victor #36 x1.3), Zonii (victor #37 x1.3), NichoIas (victor #38 x1.3), Petirabi (victor #39 x1.2), Dayvudd (victor #40 x1.1) |
+| 917 | 6.01 | Aoki Chihiro — Kodou [MMMMMMMMaster!!!!!!] | PAJWOJ (verified), Tetla (victor #1), Tiger Claw (victor #2 x1.3), TheOmyNomy (victor #3), Cerkie (victor #4), badeu (victor #5 x1.3), NatChan (victor #6 x1.1), Haida (victor #7), Vitya1437 (victor #8), Vivace (victor #9), Jordan The Bear (victor #10 x1.3), Pioter00000 (victor #11 x1.1), im a fancy lad (victor #12 x1.1), [RanYakumo] (victor #13 x1.2), Zaqlev (victor #14 x1.1), egg nog (victor #15 x1.2), Voss (victor #16 x1.3), hexi (victor #17 x1.1), Felrion (victor #18), NHarmonia (victor #19 x1.3), Beard (victor #20), kippy (victor #21), JackPaX (victor #22), yadon (victor #23 x1.2), bocchicookie (victor #24 x1.1), xootynator (victor #25 x1.3), justman (victor #26), Coreanmaluco (victor #27 x1.2), Uchirrod (victor #28 x1.1), Rinnu (victor #29), Chiyuu (victor #30), Pristine (victor #31), -AJ (victor #32), RafaMat (victor #33 x1.3), Ghossert (victor #34 x1.3) |
+| 918 | 6.01 | DJ SHARPNEL — BLUE ARMY [EXTRA] | RESU (verified x1.1), Wengen (victor #1 x1.1), Petirabi (victor #2 x1.2), _Kasaezic (victor #3 x1.1), joan flowaim (victor #4 x1.3), brujconqueror71 (victor #5 x1.3), Sympli (victor #6 x1.2), Diiiooon (victor #7 x1.3), Pillows (victor #8 x1.1), Luck3r (victor #9 x1.3), viet soin tech (victor #10 x1.1), S Cantoniensis (victor #11 x1.1), Nepyutsu (victor #12 x1.1), Wilchq (victor #13 x1.1), MemeMachine21 (victor #14 x1.1), Mr C B (victor #15 x1.1), bocchicookie (victor #16 x1.1), Oguri Cap (victor #17 x1.3), ozy (victor #18 x1.3), Aerora (victor #19 x1.1), John ethken (victor #20), Hinshi Raito (victor #21), don_chan (victor #22 x1.2), PIANOAPOLOGIST6 (victor #23 x1.3), Wez (victor #24), Ace4896 (victor #25), kirby mix (victor #26 x1.3), daitsuku (victor #27 x1.1), Jaguar (victor #28 x1.3), Massimo99 (victor #29 x1.1), Tosen Jordan (victor #30 x1.2), Darrile (victor #31 x1.3), femboy irl (victor #32 x1.1), Illinear (victor #33 x1.2), Slay_conceit (victor #34 x1.3), -Nenu- (victor #35 x1.2), [-Pure Ruby-] (victor #36 x1.1), NikoN1nja (victor #37), kt09- (victor #38 x1.1), TheChaozEmperor (victor #39), Juicy (victor #40 x1.2) |
+| 919 | 6.01 | Ryokuoushoku Shakai — Shout Baby (TV Size) [aqil's Forever] | Plextora (verified), SurvivorX4 (victor #1 x1.2), See (victor #2 x1.1), Ruhe07_ (victor #3 x1.1), Trail Mix (victor #4 x1.3), Amnesia Haze (victor #5), Rinne Ohara (victor #6 x1.1), Chibi (victor #7), Klappy (victor #8), Mak Kau Hijau (victor #9), believer_i (victor #10), Ricardo93 (victor #11 x1.1), WiMpN (victor #12), KCS2 (victor #13), Armada (victor #14 x1.1), SCHG1N (victor #15), GreLyy_ (victor #16 x1.1), MrXenox (victor #17 x1.1), -Spartan (victor #18 x1.1), Seox (victor #19 x1.1), simmerVN (victor #20), pacolism (victor #21), Cizz (victor #22 x1.3), Imuya (victor #23), Mema (victor #24 x1.1), bogdanski (victor #25 x1.1), Harumiii (victor #26 x1.1), sho (victor #27), Eterno (victor #28), Uchirrod (victor #29 x1.3), chata- (victor #30), yutro (victor #31 x1.1), Zetako (victor #32 x1.1), Dvzezda (victor #33), Kanabis (victor #34), tripppo (victor #35), AlpiAz (victor #36 x1.3), Dazzle (victor #37 x1.1) |
+| 920 | 6.01 | FLAVOR FOLEY — WEIWARD ROMANCE [BEIJING EXPERT] | TOCTEP (verified), W A R P A T H (victor #1 x1.2), virtuoso (victor #2 x1.1), DoomsdayKitty (victor #3), - Alice (victor #4), Moyyba (victor #5 x1.3), Rizer (victor #6 x1.3), bocchicookie (victor #7 x1.1), ozy (victor #8 x1.2), Laestadian (victor #9 x1.1), MrNeasel (victor #10 x1.1), abbye (victor #11 x1.1), Poonz (victor #12 x1.3), stennu (victor #13 x1.3), Ketsui (victor #14 x1.1), lindo2 (victor #15 x1.3), Maklovitz (victor #16 x1.3), 846553767646068 (victor #17 x1.1), Tynkky (victor #18), Misono MikaXD (victor #19 x1.3), ShiroNai (victor #20 x1.2), IsonamiPL (victor #21), mam0nt (victor #22), beeco (victor #23), noskaia (victor #24), FishySquidMan (victor #25 x1.1), Tina (victor #26), badplayer817 (victor #27 x1.2), SaeedKz (victor #28 x1.1), marclor (victor #29), Elexy- (victor #30), TheDustOfTimes (victor #31 x1.3) |
+| 921 | 6.01 | Hierograph — Kaikou [Extra Stage] | chocomint (verified x1.1), CoLouRed GlaZeE (victor #1), big snag (victor #2 x1.2), Hardstuck 2 (victor #3), Maxe191 (victor #4), Exarch (victor #5 x1.3), scuoa (victor #6), miageto (victor #7), Humsterlol (victor #8), Zucchiniii (victor #9), Syaro (victor #10), Coreanmaluco (victor #11) |
+| 922 | 6.01 | TwoThirds — Bring it Back [Collab] | perich (verified), moonpoint (victor #1), Sowisty (victor #2), Duskyui (victor #3 x1.1), Falco (victor #4), criller (victor #5 x1.1), PawzMyGame (victor #6), EEEEEEEEEEEEEEE (victor #7), Wez (victor #8), Wilchq (victor #9 x1.1), up44 (victor #10), l1mi (victor #11), Flashback9 (victor #12 x1.1), Stravez0r (victor #13 x1.3), Metal Pipe (victor #14 x1.3), respektive (victor #15), Maklovitz (victor #16), flubb (victor #17 x1.1), Dessiderium (victor #18), Maxkem (victor #19), Zacatel (victor #20), Exarch (victor #21 x1.1), MrPotato (victor #22), Prophet (victor #23), badplayer817 (victor #24), RESU (victor #25 x1.1), WiMpN (victor #26), Hammer (victor #27), KatFood (victor #28) |
+| 923 | 6.01 | Tia — Deal with the devil [Aeril's Expert] | Cappu (verified x1.1), ddm (victor #1 x1.1), El Condor Pasa (victor #2), Exarch (victor #3 x1.1), chileno (victor #4 x1.1), Fuma (victor #5), Sagisawa Arisa (victor #6 x1.1), Suyung_ (victor #7), Woey (victor #8 x1.1), _demo (victor #9 x1.3), -Dreamless (victor #10), 5joshi (victor #11 x1.1), scylla (victor #12 x1.1), Dagoth Ur (victor #13 x1.1), Hakui Koyori (victor #14 x1.1), TiRa (victor #15 x1.1), CutPaper (victor #16 x1.1), bocchicookie (victor #17 x1.1), AstroFP (victor #18), Markden (victor #19), Suome (victor #20 x1.1), Aaaaaaalex (victor #21), hivno (victor #22 x1.1), inequal2x (victor #23 x1.1), Raspigaous (victor #24 x1.1), Furina- (victor #25), lestapekka67 (victor #26 x1.1), Pezz (victor #27 x1.1), xXChokgamerXx (victor #28 x1.1), everless (victor #29), J1x (victor #30 x1.1), Repo (victor #31), LoidKun (victor #32 x1.1), Osage-chan (victor #33), hidden on osu (victor #34 x1.1), F2X (victor #35 x1.3), gakuw (victor #36 x1.2), up44 (victor #37), Captain (victor #38), RESU (victor #39 x1.1), DragonMaster666 (victor #40), TOCTEP (victor #41), Miinn_ (victor #42 x1.1), towren (victor #43 x1.1), Alice Carroll (victor #44 x1.1) |
+| 924 | 6.01 | PSY — That That (prod. & feat. SUGA of BTS) [CAN YOU FILLET] | Omaru Polka (verified x1.1), dlwlrma- (victor #1 x1.3), LUNAISTABBY (victor #2 x1.1), Emerald Ages (victor #3 x1.1), Shannon (victor #4 x1.1), Felrion (victor #5 x1.3), macabea (victor #6 x1.1), -Nino Nakano (victor #7 x1.1), falu (victor #8 x1.1), Inquisitives (victor #9 x1.3), lifetime (victor #10 x1.3), bibidibabidiboo (victor #11 x1.3), Hecatia (victor #12 x1.3), Jet- (victor #13 x1.3), mokia- (victor #14 x1.2), Eagle5324 (victor #15 x1.3), Iamcooked (victor #16 x1.1), Neoh (victor #17 x1.1), FishySquidMan (victor #18), uatzap (victor #19 x1.3), astrin (victor #20 x1.3), Madaraha (victor #21 x1.2), Meowshiii (victor #22 x1.1), manosaba (victor #23 x1.1), Crestive (victor #24 x1.2), temporag (victor #25 x1.2), Pristine (victor #26 x1.1), bwa (victor #27 x1.1), ghostholding (victor #28 x1.1), mrow (victor #29 x1.1), xidorn (victor #30 x1.1), stupid dog (victor #31 x1.1), Scaryz (victor #32 x1.2), [Lin] (victor #33 x1.1), tsunagite (victor #34 x1.1), Lirumin (victor #35 x1.1), Gary Eats (victor #36 x1.3), abbye (victor #37 x1.1), RED40 (victor #38 x1.2), bocchicookie (victor #39 x1.1), Simabuco (victor #40 x1.1) |
+| 925 | 6.01 | 25-ji, Nightcord de. x Hatsune Miku — I am you [Expert] | Neatral (verified x1.1), Patra (victor #1), Furyfish (victor #2 x1.3), Wez (victor #3), Duskyui (victor #4 x1.1), Repo (victor #5), Atri - (victor #6 x1.2), BruhMoment (victor #7 x1.1), Foussilin (victor #8 x1.1), zerkala (victor #9 x1.2), l1mi (victor #10), Badewanne3 (victor #11 x1.1), Ruhe07_ (victor #12), bru0p (victor #13), Lunacy_ (victor #14 x1.1), Unibrick (victor #15 x1.1), Desire (victor #16), ThangGaming (victor #17), Saisasaucesalsa (victor #18 x1.1), Srr (victor #19 x1.2), Dsan (victor #20 x1.3), Tzero (victor #21 x1.1), Azvameth (victor #22 x1.1), Yankie (victor #23), TUYU (victor #24 x1.3), GalaxyGaming (victor #25 x1.1), Sayuuu_ (victor #26), up44 (victor #27), -Spartan (victor #28 x1.1), DerpyX_X (victor #29 x1.1), _Not_M4ti (victor #30), barryp (victor #31 x1.1), Es Kepok (victor #32), ghostholding (victor #33 x1.1), LightsOut (victor #34 x1.1), - Alice (victor #35), StellaFox (victor #36), calculus (victor #37), Soups (victor #38 x1.1), megalodon151 (victor #39), fluvry (victor #40 x1.1), Himeri (victor #41 x1.1), srezon1 (victor #42), luvlxckdown (victor #43 x1.1), RGRTG (victor #44) |
+| 926 | 6.01 | Ryokuoushoku Shakai — inori [pray] | misha awa (verified x1.1), SpikedJackson (victor #1), danissima (victor #2 x1.1), Bouquetdor (victor #3), fish barcode (victor #4 x1.1) |
+| 927 | 6.01 | MELT-BANANA — Vertigo Game [SQUIRRELP'S PATHOS ANOTHER] | a bat (verified), 1103 (victor #1), Bouquetdor (victor #2 x1.1), Leebs (victor #3), Woey (victor #4 x1.1) |
+| 928 | 6.01 | kessoku band — Guitar to Kodoku to Aoi Hoshi [gazimal's Another] | Lawndred (verified x1.3), amea (victor #1 x1.1), gecseboti (victor #2 x1.3), nekz (victor #3 x1.3), Rizer (victor #4 x1.3), Snow Ripple (victor #5), Kyouyama Kazusa (victor #6 x1.3), Bouquetdor (victor #7 x1.1), Minecraft570 (victor #8 x1.1), Flashback9 (victor #9 x1.1), Humberto-tan (victor #10 x1.2), mihidayo (victor #11 x1.3), emile- (victor #12 x1.3), Tms_Est (victor #13 x1.3), pepe996 (victor #14 x1.3), Nanashi- (victor #15 x1.3), seby (victor #16 x1.3), bocchicookie (victor #17 x1.1), -Yucke (victor #18 x1.3), GitahMuttan (victor #19 x1.3), nomokona (victor #20 x1.3), sdd2cxz (victor #21 x1.3), Amaiyun (victor #22 x1.2), opensand (victor #23 x1.3), Asobase (victor #24 x1.1), zelda101 (victor #25 x1.2), HeartNo (victor #26 x1.2), Sn34Ky_ (victor #27 x1.3), Wido (victor #28 x1.3), kirby mix (victor #29 x1.3), khyda (victor #30 x1.3), Karo (victor #31 x1.1), City Girl (victor #32 x1.2), Vixera (victor #33 x1.2), Andrew osu (victor #34 x1.3), 1v9 (victor #35 x1.1), Vellana (victor #36 x1.3), Zarkyi (victor #37 x1.1), kirei_ (victor #38 x1.3), RAGINGDASHIEje (victor #39 x1.3), nonerori (victor #40 x1.2), FuwaFuwaCake (victor #41 x1.3), Kuchiki Rukia (victor #42 x1.3), Massimo99 (victor #43 x1.3), TitioProerd (victor #44 x1.3), Nairda_ (victor #45 x1.3) |
+| 929 | 6.01 | Wakeshima Kanon — World's End, Girl's Rondo (Asterisk DnB Remix) [I wish you don't cry] | Shiho desu (verified x1.3), bocchicookie (victor #1 x1.1), Sil (victor #2 x1.1), Trail Mix (victor #3 x1.3), -Croissant (victor #4 x1.1), Arue (victor #5 x1.3), momijixi (victor #6 x1.1), Orbi988 (victor #7 x1.1), gnahus (victor #8 x1.2), qazplm79 (victor #9 x1.3), Rizer (victor #10 x1.2), LolForest (victor #11 x1.3), O_pen (victor #12 x1.2), Zexylian (victor #13 x1.1), NanoiteX (victor #14 x1.1), kirby mix (victor #15 x1.3), zzzbored (victor #16 x1.2), Wilchq (victor #17 x1.1), Redap (victor #18 x1.2), Duskyui (victor #19 x1.1), Jehn (victor #20 x1.2), -Karu (victor #21 x1.1), Darrile (victor #22 x1.3), 1v9 (victor #23 x1.3), y0c (victor #24 x1.3), Toma 1 (victor #25 x1.1), SkyArrow (victor #26 x1.3), KyZzo (victor #27 x1.3), Fixr (victor #28 x1.3), honey (victor #29 x1.2), distant_waves (victor #30 x1.3), Luck3r (victor #31 x1.3), Amaiyun (victor #32 x1.2), marclor (victor #33 x1.1), Bouquetdor (victor #34 x1.1), nyouso (victor #35 x1.3), Basherman (victor #36 x1.1), Pillows (victor #37 x1.1), REFANTAZIO (victor #38 x1.3) |
+| 930 | 6.01 | Plini — Paper Moon [The End of Everything] | Toy (verified), Coreanmaluco (victor #1), Woey (victor #2 x1.1), badeu (victor #3), Tsuwagi (victor #4), Furina- (victor #5), HiroM (victor #6), Arakii (victor #7), everless (victor #8), Dafonz (victor #9), Juicy (victor #10) |
+| 931 | 6.01 | Toyama Nao — Gunjou Infinity [dahkjdas' Extra] | EEEEEEEEEEEEEEE (verified), adoragirl (victor #1 x1.1), Duskyui (victor #2 x1.1), Linai (victor #3 x1.1), go525 (victor #4 x1.1), Asobase (victor #5 x1.1), AccMoment (victor #6 x1.1), Rizer (victor #7 x1.3), Maklovitz (victor #8 x1.1), up44 (victor #9), Mystic_goat (victor #10 x1.1), Mikata (victor #11 x1.1), Sosim (victor #12 x1.1), respektive (victor #13), Lunacy_ (victor #14 x1.1), Ahrilngmalakas (victor #15 x1.1), Seina (victor #16 x1.3), X W Z (victor #17 x1.1), moyamoyano_sa (victor #18 x1.3), Massimo99 (victor #19 x1.1), twinks (victor #20), St3kiii (victor #21 x1.1), Ma Yuyu (victor #22), Karo (victor #23 x1.1), Dsan (victor #24 x1.3), smol dolfin (victor #25 x1.1), [Lucky] (victor #26), Bouquetdor (victor #27 x1.1), yoshironya (victor #28 x1.1), Sn34Ky_ (victor #29 x1.3), Mcflrry (victor #30 x1.1), WiMpN (victor #31), Teiukun (victor #32 x1.1), controlledHive (victor #33 x1.1), Nepyutsu (victor #34 x1.1), lychee boba (victor #35), hats (victor #36), WhiteKat (victor #37 x1.1), KatFood (victor #38 x1.1) |
+| 932 | 6.01 | Sheena Ringo — Kouzen no Himitsu [Nymphe's Extra] | WiMpN (verified), hivno (victor #1 x1.1), Stythiii (victor #2 x1.2), Orkay (victor #3), stone_bream (victor #4 x1.1), Dawnwing (victor #5 x1.1), Freak Fantome (victor #6 x1.1), -Koda (victor #7 x1.3), Ievi- (victor #8), Furamun (victor #9 x1.1), Stormur (victor #10 x1.1), Drestau (victor #11), Dri3x (victor #12 x1.1), CallMeRed (victor #13 x1.1), My Angel Kita (victor #14), GAO HAO (victor #15 x1.1), mcy4 (victor #16 x1.1) |
+| 933 | 6.01 | Ueda Reina — Literature [L1gHT & Ame's Reunion] | 2 and eight (verified), Saymel (victor #1), Tzero (victor #2), mort (victor #3), y0c (victor #4), Razak_ (victor #5 x1.1), Saya-Honmei (victor #6), sriracha rice (victor #7 x1.3), CoLouRed GlaZeE (victor #8), chocomint (victor #9 x1.1), NeruNeru (victor #10 x1.2), Reimu- (victor #11 x1.1), WiMpN (victor #12), iRedi (victor #13), DeathHydra (victor #14), Maklovitz (victor #15), volition (victor #16 x1.1), Eroubf (victor #17), Shiho desu (victor #18), Eugoon (victor #19), -Des (victor #20), chocopun (victor #21 x1.1), Deleted_User401 (victor #22), yutro (victor #23), Bubon_ (victor #24), zerkala (victor #25 x1.2), DazzLE_Wind (victor #26 x1.1), up44 (victor #27), -Kino Himari- (victor #28 x1.2), Marquez (victor #29), Myonpasu (victor #30 x1.1), nekoflask (victor #31 x1.1), Dark PHOENIX (victor #32), Mori Calliope (victor #33 x1.1), LightsOut (victor #34), A21 (victor #35 x1.1), PaintedKoala (victor #36), Cint (victor #37), ChiefCFL (victor #38 x1.1), bocchicookie (victor #39 x1.1), Hekiru (victor #40 x1.1), c4w (victor #41), pexium (victor #42 x1.1) |
+| 934 | 6.01 | Drop — Granat [Akali's Extreme] | waaiiru (verified x1.3), kablaze (victor #1 x1.1), Aikyuu-Chan (victor #2 x1.1), La Valse (victor #3 x1.2), Crissa (victor #4 x1.1), Ayakura Mei (victor #5 x1.1), Happy New Year (victor #6 x1.3), favela (victor #7 x1.2), -SoMoE- (victor #8 x1.3), Landegre- (victor #9 x1.3), NHarmonia (victor #10 x1.3), Emilie- (victor #11 x1.3), Tina (victor #12 x1.2), Rupertion (victor #13 x1.3), -Mirai- (victor #14 x1.3), Freak Fantome (victor #15 x1.3), Quag (victor #16 x1.3), NiuCriu (victor #17 x1.2), Haadez (victor #18 x1.3), Syndi (victor #19 x1.3), Denk (victor #20 x1.2), rflood (victor #21 x1.3), Chrona 4G (victor #22 x1.3), MALISZEWSKI (victor #23 x1.1), Zeezus (victor #24 x1.2), YAMADAAAAAAAAAA (victor #25 x1.3), POMAH (victor #26 x1.3), giulio (victor #27 x1.2), idiothoved (victor #28 x1.3), Untold (victor #29 x1.3), chantat (victor #30 x1.1), CutPaper (victor #31 x1.3), sriracha rice (victor #32 x1.3), bocchicookie (victor #33 x1.3), Aze x3 (victor #34 x1.3), Allegrissimo (victor #35 x1.3), Laydau (victor #36 x1.3), Victoor (victor #37 x1.2), zoomiee (victor #38 x1.3), Frostium (victor #39 x1.2), tyrizzle (victor #40 x1.2), Zexylian (victor #41 x1.3), CFGiel (victor #42 x1.3), Distracted (victor #43 x1.3), this_cord1985 (victor #44 x1.3) |
+| 935 | 6.01 | ZUTOMAYO — Truth in Lies [maot's expert] | Hobeeyz (verified), Baymax 3Ha (victor #1), Maklovitz (victor #2), deflateddolphin (victor #3), sulfa (victor #4), arctice (victor #5 x1.1) |
+| 936 | 6.01 | 96neko — Buriki no Dance [Expert] | hotcat190 (verified x1.2), emile- (victor #1 x1.1), Omeguii (victor #2 x1.1), Skellers (victor #3 x1.3), beaw (victor #4 x1.1), Arue (victor #5 x1.3), big snag (victor #6 x1.3), Mitchi (victor #7 x1.2), Mentalol (victor #8 x1.3), Ween wao (victor #9 x1.1), bocchicookie (victor #10 x1.1), Kudou Chitose (victor #11 x1.1), Toumei Dragon (victor #12 x1.3), KyZzo (victor #13 x1.3), Cypherno (victor #14 x1.3), cyo (victor #15 x1.3), domplayer (victor #16 x1.3), Mutantrabies (victor #17 x1.3), GodKei (victor #18 x1.3), hard to freeze (victor #19 x1.3), Rizer (victor #20 x1.2), Pablohh (victor #21 x1.3), Chiharu (victor #22 x1.3), ericqdog (victor #23 x1.1), DeZpair (victor #24 x1.1), Darrile (victor #25 x1.3), kyle (victor #26 x1.3), Zur4x (victor #27 x1.3), Duskyui (victor #28 x1.1), Corim (victor #29 x1.3), mxu (victor #30 x1.3), -[ Dreepy ]- (victor #31 x1.3), Shircals (victor #32 x1.1), everstagnating (victor #33 x1.1), See (victor #34 x1.1), Chickenka (victor #35 x1.3), Shide (victor #36 x1.1), Lulzees (victor #37 x1.2), Rin Tezuka (victor #38 x1.3), Wilchq (victor #39 x1.1), Jaguar (victor #40 x1.3), TUYU (victor #41 x1.3), Alcadia (victor #42 x1.3), ozy (victor #43 x1.3), Leyley (victor #44 x1.1) |
+| 937 | 6.01 | Shimotsuki Haruka, Chata, Katakiri Rekka — Suishou ni Utsuru Himegimi [Serenity] | Beleth (verified), SlichBane (victor #1), Maklovitz (victor #2), Diebo_ (victor #3), SeeL (victor #4), [Vito] (victor #5), cubelrti (victor #6), xMatrix382 (victor #7 x1.1), Jaeky (victor #8), up44 (victor #9), Chickenka (victor #10 x1.3), MrPotato (victor #11), pruKD (victor #12 x1.1), Slariux (victor #13), DepressedLife (victor #14), NikoN1nja (victor #15) |
+| 938 | 6.01 | Hanazawa Kana, Maeno Tomoaki, Ono Daisuke, Inoue Kikuko — Mission! Kenkou Dai Ichi (TV Size) [Anone Anone] | Nagi Seishiro (verified x1.1), BarkingMadDog (victor #1 x1.1), Rupertion (victor #2 x1.1), R Y A N (victor #3 x1.3), little Agile (victor #4 x1.1), Passara (victor #5 x1.2), elsi (victor #6 x1.3), GfMRT (victor #7 x1.3), Reedkatt (victor #8 x1.2), GSBlank (victor #9 x1.2), Abraham (victor #10 x1.3), NHarmonia (victor #11 x1.3), Deppyforce (victor #12 x1.1), wuhua (victor #13 x1.3), Koltay (victor #14 x1.3), dtd (victor #15 x1.1), M I L E S (victor #16 x1.3), Felop (victor #17 x1.1), Cappu (victor #18 x1.1), [ Hyung ] (victor #19 x1.3), Dragons (victor #20 x1.3), Flask (victor #21 x1.3), Dsan (victor #22 x1.2), ArFunG (victor #23 x1.3), -Inazuma- (victor #24 x1.3), sxl (victor #25 x1.1), Timowoof (victor #26 x1.3), LunaFox (victor #27 x1.3), Rayq (victor #28 x1.1), MrXenox (victor #29 x1.3), vAgue57 (victor #30 x1.3), Runkku (victor #31 x1.2), Carbone (victor #32 x1.3), pany511 (victor #33 x1.3), RafaelXDP (victor #34 x1.3), Tsumetai Tenshi (victor #35 x1.3), Untold (victor #36 x1.3), cIementine (victor #37 x1.3), TacosCordoba (victor #38 x1.2), MagnarWiecki (victor #39 x1.3), bocchicookie (victor #40 x1.3), Einja (victor #41 x1.3), TheRandomGuy (victor #42 x1.1), Mozzarella (victor #43 x1.1), mxu (victor #44 x1.3), AstroFP (victor #45 x1.1), I love Emilia (victor #46 x1.1) |
+| 939 | 6.01 | Shibayan feat. yana — Fall in the Dark [Extra Stage] | _Shield (verified), Maxe191 (victor #1), Deppyforce (victor #2 x1.1), Aotoleen (victor #3), MALISZEWSKI (victor #4), NathanRam1918 (victor #5), criller (victor #6), Wanderio (victor #7), Jakson (victor #8), Konetto (victor #9), Tebii (victor #10), Raikouhou (victor #11), Antaanar (victor #12) |
+| 940 | 6.01 | Camellia — Routing [Amateurre's Redirection] | PFFFFFFFFFFFFFT (verified x1.1), _Shield (victor #1), Viveliam (victor #2 x1.1), waste- (victor #3), quaternary (victor #4), Rammu (victor #5 x1.1), Kulche (victor #6), rarebostonian (victor #7), Robro47 (victor #8), tsunagite (victor #9 x1.3), StayMusical (victor #10 x1.1), big snag (victor #11 x1.2), welt (victor #12 x1.1), neant (victor #13), Jiuchu (victor #14 x1.2), walle (victor #15 x1.2), Lilily (victor #16), lestapekka67 (victor #17), bwa (victor #18 x1.1), astrin (victor #19 x1.1), Stravez0r (victor #20 x1.3), Chichobi (victor #21 x1.1), up44 (victor #22), Just2Gud (victor #23 x1.1), Weebs Suck (victor #24), Uchirrod (victor #25 x1.1), cyo (victor #26 x1.3), ozy (victor #27 x1.2), Dumii (victor #28 x1.3), Y u w a n (victor #29 x1.1), shortpotato (victor #30), Maxe191 (victor #31 x1.1), Dsan (victor #32 x1.3), wtfitshard (victor #33), runnysunny (victor #34 x1.3), manosaba (victor #35 x1.1), lamenting alice (victor #36 x1.1), luxSal (victor #37), [ Luka ] (victor #38 x1.1), Borzilla (victor #39 x1.1), Silent Rock (victor #40 x1.1), fish barcode (victor #41 x1.1), ZenithFlare (victor #42), - Alice (victor #43), ImTrashYT (victor #44), Cheesy (victor #45 x1.1) |
+| 941 | 6.01 | Chikuwa — Jinsei Matatabi [Dalou's Extra] | randomizer89 (verified x1.3), theez (victor #1 x1.3), Closure (victor #2 x1.3), Lixarious (victor #3 x1.3), Tuon (victor #4 x1.3), mcy4 (victor #5 x1.3), Gryzus24 (victor #6 x1.3), domplayer (victor #7 x1.3), argweid (victor #8 x1.3), laroxPL NoForm (victor #9 x1.3), Garden (victor #10 x1.3), [Karcher] (victor #11 x1.3), awawa (victor #12 x1.3), Lemaire (victor #13 x1.3), SKaiBlue (victor #14 x1.3), ryufeseed (victor #15 x1.3), DaHuJka (victor #16 x1.3), scylla (victor #17 x1.3), CeilingWaffle (victor #18 x1.3), Shiho desu (victor #19 x1.3), wohooooooo (victor #20 x1.3), Zur4x (victor #21 x1.3), Jet- (victor #22 x1.3), Vandabe (victor #23 x1.3), ThunderBird2678 (victor #24 x1.3), Jafeto_99 (victor #25 x1.3), [Soju_Desu] (victor #26 x1.3), Maxy- (victor #27 x1.3), TomoChen (victor #28 x1.3), Luck3r (victor #29 x1.3), MakiBlank (victor #30 x1.3), bahoopla (victor #31 x1.3), spoonrager (victor #32 x1.3), Radny (victor #33 x1.3), VowsTheFool (victor #34 x1.3), Rum1a (victor #35 x1.3), S3Mango (victor #36 x1.3), Ren_ (victor #37 x1.3), veryasian (victor #38 x1.3), Wido (victor #39 x1.3), Blank- (victor #40 x1.3), minus (victor #41 x1.2) |
+| 942 | 6.01 | Taishi — Aviator in the Soul [Endurance] | ddm (verified x1.1), Viveliam (victor #1 x1.1), Rohulk (victor #2 x1.3), lolol235 (victor #3 x1.1), Wilchq (victor #4 x1.1), Koltay (victor #5 x1.1), Guminis (victor #6 x1.1), Will Stetson (victor #7 x1.1), mrzomb (victor #8 x1.1), karott90 (victor #9 x1.1), RyuuBei (victor #10 x1.3), Vararaup (victor #11 x1.1), [ Nano ] (victor #12 x1.1), elsi (victor #13 x1.2), Vinswag (victor #14 x1.2), witchi (victor #15 x1.2), yawarakai (victor #16 x1.1), bocchicookie (victor #17 x1.1), i love manosaba (victor #18 x1.1), ObedG45 (victor #19 x1.1), 5joshi (victor #20 x1.1), Homete (victor #21 x1.2), EzChock (victor #22 x1.1), -LucidDream- (victor #23 x1.2), Ceja (victor #24 x1.3), 1Max (victor #25 x1.3), Belfast (victor #26 x1.3), VowsTheFool (victor #27 x1.3), mahjong (victor #28 x1.2), Prade (victor #29 x1.1), Wispy (victor #30 x1.1), kirby mix (victor #31 x1.3), Julia_1439 (victor #32 x1.1), KriO-O (victor #33 x1.3), YoshiLover456 (victor #34 x1.1), lolol233 (victor #35 x1.3), [ Tetris ] (victor #36 x1.1), -Nino Nakano (victor #37 x1.1), Tina (victor #38 x1.1), Omaru Polka (victor #39 x1.1), RESU (victor #40 x1.1), Massimo99 (victor #41 x1.1), Wutever (victor #42 x1.1), Jaguar (victor #43 x1.3), Yuhuyo (victor #44 x1.3), Zarkyi (victor #45 x1.1), Arithmophobie (victor #46 x1.2), Alcadia (victor #47 x1.3), Koide (victor #48 x1.1) |
+| 943 | 6.01 | Yusuke — V (TV SIZE) [New Horizons] | WhySavage (verified), NewSystem (victor #1), Ubernarwhal (victor #2), Mizuha_ (victor #3 x1.3), makarupa (victor #4), dsay (victor #5), gayugebo (victor #6), SunFesta (victor #7 x1.1), Soyuha (victor #8 x1.3), Braza974 (victor #9), LuvAnhNgot (victor #10), bocchicookie (victor #11 x1.1), Rizer (victor #12 x1.3), luvmint (victor #13), Wez (victor #14), pelty (victor #15), Miracle (victor #16), flyerx1234 (victor #17), Jerrrzy (victor #18), Umekoo (victor #19), Basensorex (victor #20), Remyuu (victor #21), Phantrix (victor #22), TasTyFanBoy (victor #23 x1.1), cIementine (victor #24), Perfect Time (victor #25), Lynn_ (victor #26), Yansilas (victor #27), suchsmoke (victor #28), Zinen (victor #29 x1.1), cudii (victor #30), LoeStarLawyers (victor #31), FrozenTune (victor #32), Rokari (victor #33), Karyl-Azusa (victor #34) |
+| 944 | 6.01 | MOMOIRO CLOVER Z — Renacer Serenade (TV Size) [Dungeon March] | Jayyhk (verified), wamu (victor #1 x1.3), Trail Mix (victor #2 x1.1), WiMpN (victor #3), Lothjon (victor #4), RESU (victor #5 x1.1), xMeno (victor #6), Shio (victor #7), NaRiTA TaiShiN (victor #8), Saya-Honmei (victor #9 x1.1), duke (victor #10), ikyo (victor #11 x1.1), YuugureUmi (victor #12), Suwami (victor #13), Spinesnight (victor #14 x1.1), Maneki (victor #15), [-HONORIN-] (victor #16), Selaph (victor #17 x1.3), epicercaner (victor #18 x1.1), viiolet_wasp (victor #19 x1.1), Ronk (victor #20 x1.1), lorenzo101122 (victor #21 x1.1), NeoPixel201 (victor #22 x1.1), Towleyyy (victor #23 x1.1), defreeyay (victor #24), ohshitweeb (victor #25 x1.2), yegg (victor #26 x1.1), raimu123 (victor #27), baeify (victor #28), darfler (victor #29 x1.1), badplayer817 (victor #30), Videl (victor #31), Dephynia (victor #32), BR00KLYN (victor #33 x1.1), SoDosha (victor #34), ItGoing (victor #35), Hideko0 (victor #36), Potato9756 (victor #37), met_0 (victor #38 x1.1), Mashima Himeko (victor #39 x1.1), godmorgen (victor #40), Blitzhagel (victor #41), CalCulqtor (victor #42), AlpiAz (victor #43 x1.1), [-ExO-] (victor #44), GanyuMyBeloved (victor #45 x1.1), Shadra (victor #46), Raiwww (victor #47 x1.3), Yansilas (victor #48) |
+| 945 | 6.01 | M2U — Myosotis [Expert] | Mathyu (verified x1.3), Ahmnesia (victor #1 x1.1), Viveliam (victor #2 x1.1), reflection (victor #3 x1.3), [ Nano ] (victor #4), kodama (victor #5 x1.3), WubWoofWolf (victor #6 x1.3), bocchicookie (victor #7 x1.1), Dada (victor #8), Hikiezi (victor #9 x1.1), SKaiBlue (victor #10), Zodark (victor #11 x1.1), DazzLE_Wind (victor #12 x1.1), Sever (victor #13 x1.1), PAJWOJ (victor #14), Aireu (victor #15), Raby (victor #16 x1.1), Rucker (victor #17), Misery-_- (victor #18 x1.1), Spazza17 (victor #19 x1.2), Regou (victor #20), -Koda (victor #21 x1.1), Desumond (victor #22 x1.1), FastoFreezu (victor #23 x1.1), rektygon (victor #24 x1.1), Barometz (victor #25 x1.1), Heatherfield (victor #26), Markden (victor #27), Lilily (victor #28 x1.3), marwin (victor #29 x1.3), Rlsc (victor #30), Aeril (victor #31), Badewanne3 (victor #32 x1.1), Furina- (victor #33 x1.1), konawiki (victor #34), Pein (victor #35 x1.1), bnu (victor #36 x1.1), LN-Larks (victor #37 x1.1), scuri (victor #38 x1.1), Radial (victor #39), Empax (victor #40), John Coltrane (victor #41 x1.1), Naigo (victor #42 x1.3), Rolniczy (victor #43 x1.3), Ace4896 (victor #44), Fallen_HK (victor #45 x1.1), RESU (victor #46 x1.1) |
+| 946 | 6.01 | IOSYS — Qualia [Lunatic] | _Shield (verified x1.2), lestapekka67 (victor #1 x1.1), argweid (victor #2 x1.1), F2X (victor #3 x1.3), deit (victor #4 x1.1), Kinoro (victor #5), schlafen (victor #6 x1.1), Zogria (victor #7 x1.1), Garden (victor #8), lazypear (victor #9 x1.1), sekireaaw (victor #10), NeNe_GoShyuJiN (victor #11 x1.1), Maru (victor #12), Cohue (victor #13 x1.1), Entarkanio (victor #14), tellmico (victor #15), sriracha rice (victor #16 x1.3), Deppyforce (victor #17 x1.3), Markden (victor #18), vFlan (victor #19), everstagnating (victor #20 x1.1), Gness (victor #21), WaShoy (victor #22), Leebs (victor #23), Uchirrod (victor #24 x1.1), Kingling (victor #25 x1.3), Tzero (victor #26 x1.1), KRZY (victor #27 x1.1), miComet (victor #28 x1.1), -Peachii (victor #29 x1.1), Flask (victor #30 x1.1), Dsan (victor #31 x1.3), I love Emilia (victor #32 x1.1), Kaikirou (victor #33), Zeralis (victor #34 x1.1), Threegs (victor #35), Suicune3 (victor #36 x1.1), Alexaaro (victor #37), AHotDawg (victor #38 x1.3), Mashima Himeko (victor #39 x1.1), lilybannanas9 (victor #40 x1.1), Aerora (victor #41 x1.1), VonaAteSandwich (victor #42 x1.1), LouisD (victor #43 x1.1), kablaze (victor #44), Seamie (victor #45 x1.3), hzl (victor #46 x1.1) |
+| 947 | 6.01 | D-D-Dice feat. Tsukino — I.M.I [sho's Extra] | zhuzhu19 (verified x1.1), tatiuo256 (victor #1 x1.1), Rizer (victor #2 x1.3), Gommish (victor #3 x1.3), Sayama Kaede (victor #4), 7ava (victor #5 x1.1), Wau (victor #6), Hakumo Ai (victor #7), Deleted_User401 (victor #8 x1.1), Orluv77 (victor #9), YtAlbin0 (victor #10 x1.1), Zucchiniii (victor #11 x1.2), Risea (victor #12), argweid (victor #13 x1.2), Mashir0 (victor #14), sho_o (victor #15), M7ST (victor #16), zzZoxer (victor #17 x1.1), Zacatel (victor #18), marclor (victor #19 x1.1), Mikhaik (victor #20), Repo (victor #21), Cres (victor #22), Kana (victor #23), CrabbStick (victor #24 x1.1), Orn_nyi (victor #25), 3Deviant (victor #26), KumoCat (victor #27), makarupa (victor #28), yodeston (victor #29 x1.3), azhaiAk1 (victor #30), PFFFFFFFFFFFFFT (victor #31), Izaris (victor #32), ShiroPenguin (victor #33), Kuchiki Rukia (victor #34 x1.1), Hanamaru_ (victor #35), goatballer (victor #36), up44 (victor #37), [MY]error_exe (victor #38), Yunotone (victor #39), MySQI (victor #40), badplayer817 (victor #41), PestoBois (victor #42), Furamun (victor #43 x1.1), Netizz (victor #44) |
+| 948 | 6.01 | THE ORAL CIGARETTES — Daikirai [Hate] | dejiz (verified), emilia (victor #1 x1.1), SadnessWillSear (victor #2 x1.1), lolol235 (victor #3 x1.1), Crystal (victor #4 x1.1), MyAngelMiku (victor #5 x1.1), Woey (victor #6 x1.3), kaimuu (victor #7 x1.1), Kardet (victor #8 x1.1), i love manosaba (victor #9 x1.3), Markrum (victor #10 x1.1), Mejiro McQueen (victor #11 x1.1), xl Nyan caxX lx (victor #12 x1.1), Nagi Seishiro (victor #13 x1.1), Vivace (victor #14 x1.3), -Machine- (victor #15 x1.3), deit (victor #16 x1.1), PotatoBoy123 (victor #17 x1.1), Bomilk (victor #18 x1.1), Letor (victor #19), RYPSON (victor #20 x1.1), Maxkem (victor #21), TabletBoii (victor #22 x1.1), Hagawobla (victor #23 x1.1), Storm (victor #24 x1.1), -Karu (victor #25 x1.1), GeneralSharkk (victor #26), bogdanski (victor #27 x1.1), lestapekka67 (victor #28 x1.1), [Mocha] (victor #29), FakeToy (victor #30 x1.1), Rosaitty (victor #31 x1.1), Stickmano (victor #32 x1.1), juliancala (victor #33 x1.3), manosaba (victor #34 x1.1), J1x (victor #35 x1.1), TiRa (victor #36 x1.1), Chiyuu (victor #37 x1.3), Lunacy_ (victor #38 x1.1), nekoshi (victor #39 x1.3), Neatral (victor #40 x1.1), up44 (victor #41), wick (victor #42 x1.1), gasanww (victor #43), whalee (victor #44), Lantis (victor #45 x1.1), Comatose (victor #46 x1.1), extraMRX (victor #47), ebn5 (victor #48) |
+| 949 | 6.01 | CustomiZ — COOLEST (TV Size) [VERY COOL] | randomizer89 (verified x1.3), RABBIT1 (victor #1), thaibuy (victor #2 x1.3), gtfo (victor #3), AlexXerox (victor #4 x1.1), Stoney (victor #5 x1.1), xasuma (victor #6 x1.1), Duskyui (victor #7 x1.1), WubWoofWolf (victor #8 x1.3), EmertxE (victor #9 x1.2), Hallsu (victor #10 x1.1), Asobase (victor #11 x1.1), Ruchika (victor #12 x1.2), Rlsc (victor #13), Dylson (victor #14 x1.2), Balto (victor #15), NHarmonia (victor #16 x1.3), wreket (victor #17 x1.2), Hecatia (victor #18 x1.1), gnahus (victor #19 x1.1), gasanww (victor #20), [Crz]Makii (victor #21 x1.1), Rizer (victor #22 x1.3), [Karcher] (victor #23 x1.3), i slider broke (victor #24 x1.1), Shiho desu (victor #25 x1.3), bocchicookie (victor #26 x1.1), -Wum- (victor #27 x1.3), Frinode (victor #28 x1.1), B L A C K Y (victor #29 x1.2), WHYHELLOTHERE69 (victor #30 x1.2), Delette (victor #31 x1.1), Mr Oops (victor #32), cIementine (victor #33 x1.3), 1v9 (victor #34), Furina- (victor #35), Jet- (victor #36 x1.3), Oichi Nouhime (victor #37 x1.1), Venumi (victor #38 x1.1), everstagnating (victor #39 x1.1), micne (victor #40 x1.1), methadone24 (victor #41 x1.1), Stealer-kun (victor #42 x1.1), [ O Y O] baa (victor #43), 4pm tea (victor #44 x1.1), pepe996 (victor #45 x1.3), Comatose (victor #46 x1.1) |
+| 950 | 6.01 | Skrillex & Diplo — To U ft AlunaGeorge [Neil & schoolboy Extra] | Rohulk (verified x1.3), Wilchq (victor #1 x1.1), VRainbow (victor #2 x1.1), ddm (victor #3 x1.1), bocchicookie (victor #4 x1.1), Viveliam (victor #5 x1.1), Krimsu (victor #6 x1.1), onyaga (victor #7 x1.1), piklopedia (victor #8 x1.2), Flask (victor #9 x1.2), Dupamin (victor #10 x1.1), KomachiBaka (victor #11 x1.2), tekkito (victor #12 x1.1), -Tynamo (victor #13 x1.1), gusrua123 (victor #14 x1.1), Shigeru22 (victor #15 x1.1), loveleft (victor #16 x1.1), moosepi (victor #17 x1.1), Barometz (victor #18 x1.1), _gt (victor #19 x1.1), Spev (victor #20 x1.1), choke enough (victor #21 x1.2), Nameless Player (victor #22 x1.1), nyrino (victor #23 x1.1), Big Gulp (victor #24 x1.1), PemiX (victor #25 x1.1), oOFrostOo (victor #26 x1.1), [Foxu] (victor #27 x1.1), Ween wao (victor #28 x1.1), Coreanmaluco (victor #29 x1.1), Koob (victor #30 x1.1), eclessia (victor #31 x1.1), Amuro (victor #32 x1.2), Mixer (victor #33 x1.1), Kootek (victor #34 x1.1), yip (victor #35 x1.1), GfMRT (victor #36 x1.3), AlexXerox (victor #37 x1.1), Pioter00000 (victor #38 x1.1), Eagle5324 (victor #39 x1.3), Cappu (victor #40 x1.1), rektygon (victor #41 x1.2), MALISZEWSKI (victor #42 x1.3), scylla (victor #43 x1.1), Tsokoz (victor #44 x1.1), zAlfredo (victor #45 x1.1), RESU (victor #46 x1.1), Laestadian (victor #47 x1.1), PFFFFFFFFFFFFFT (victor #48 x1.1) |
+| 951 | 6.01 | TJ.Hangneil — Kamui [dksslqj Style] | fartownik (verified x1.3), Mercurius (victor #1 x1.3), azger (victor #2 x1.3), yandri (victor #3 x1.3), FeriOP (victor #4 x1.3), -Kanzaki (victor #5 x1.3), Exarch (victor #6 x1.3), Wucki (victor #7 x1.3), Conyoh (victor #8 x1.3), Bartek22830 (victor #9 x1.3), Sorixx (victor #10 x1.3), VilaZ (victor #11 x1.2), katatakatata (victor #12 x1.3), Mawksee (victor #13 x1.2), hinami-chi (victor #14 x1.2), Gryzus24 (victor #15 x1.3), iberius (victor #16 x1.3), MeaAngel (victor #17 x1.3), Aerolustly (victor #18 x1.3), ronipan (victor #19 x1.3), AndreDubs (victor #20 x1.3), Vespirit (victor #21 x1.3), pewdekz (victor #22 x1.3), Jagester (victor #23 x1.3), Ayya Novak (victor #24 x1.3), Fangzy (victor #25 x1.3), Seat Ibiza TDI (victor #26 x1.3), waste- (victor #27 x1.3), Darrile (victor #28 x1.3), autmn (victor #29 x1.3), Nanashi- (victor #30 x1.3), Marco Poio (victor #31 x1.3), Ignas (victor #32 x1.3), cristian- (victor #33 x1.2), MartinCan (victor #34 x1.2), gusrua123 (victor #35 x1.3), ieu- (victor #36 x1.3), Dainsleif (victor #37 x1.3), PIANOAPOLOGIST6 (victor #38 x1.3), Willy (victor #39 x1.3), scug (victor #40 x1.3), Lateralist (victor #41 x1.3), Diamond PVP (victor #42 x1.3) |
+| 952 | 6.01 | LeaF — MEPHISTO [Extra] | thelewa (verified x1.3), Gokuri (victor #1 x1.3), kablaze (victor #2 x1.3), 239hachiman (victor #3 x1.3), Tetla (victor #4 x1.3), Rohulk (victor #5 x1.3), Wucki (victor #6 x1.3), Xilver15 (victor #7 x1.3), Midslayer (victor #8 x1.3), PotJohn Nutella (victor #9 x1.3), dectopia (victor #10 x1.3), thaibuy (victor #11 x1.3), Warrock (victor #12 x1.3), Musty (victor #13 x1.3), Viveliam (victor #14 x1.3), 4mpy (victor #15 x1.3), hallowatcher (victor #16 x1.3), Darkmaster (victor #17 x1.3), kodama (victor #18 x1.3), Kingling (victor #19 x1.3), Amuro (victor #20 x1.3), Big Z (victor #21 x1.3), Karthy (victor #22 x1.3), oOFrostOo (victor #23 x1.3), Qetto (victor #24 x1.3), SKaiBlue (victor #25 x1.3), umineko (victor #26 x1.3), FeeDyy (victor #27 x1.3), Kokuban (victor #28 x1.3), Vespirit (victor #29 x1.3), PAJWOJ (victor #30 x1.3), Leftie (victor #31 x1.3), Pancho (victor #32 x1.3), Tsokoz (victor #33 x1.3), Saryi (victor #34 x1.3), Mathyu (victor #35 x1.3), Dinh (victor #36 x1.3), bwa (victor #37 x1.3), Epiphany (victor #38 x1.3), Nameless Player (victor #39 x1.3), Wario (victor #40 x1.3), Alfiu (victor #41 x1.3), scuoa (victor #42 x1.3), Avmeth (victor #43 x1.3), ahmad (victor #44 x1.3), Petirabi (victor #45 x1.3) |
+| 953 | 6.01 | ke-ji feat. Nanahira — Ange du Blanc Pur [Collab Extra] | mipmip (verified), Rainox (victor #1), badplayer817 (victor #2), Atsorko (victor #3), Wez (victor #4), Saya-Honmei (victor #5 x1.3), 1v9 (victor #6 x1.3), OnniS6 (victor #7 x1.1), Saryi (victor #8 x1.3), yeetersteeters (victor #9), toastloading (victor #10), ImTrashYT (victor #11), Qmaster278 (victor #12 x1.1), Gold Ship (victor #13 x1.3), ZidaneTheFox (victor #14), ROMIPOG (victor #15), Geraldy (victor #16), GalaxySloth (victor #17 x1.3), [Toni] (victor #18 x1.1), Snow-_ (victor #19), DT3 (victor #20 x1.2), kirby mix (victor #21 x1.3), Jairod (victor #22), Vipidz (victor #23), Blipblo (victor #24), Leo_beo (victor #25 x1.1), Yomu_ (victor #26 x1.1), Bocchers (victor #27), Shibuya Kanon (victor #28), - Alice (victor #29 x1.1), Xidiah (victor #30), Kingling (victor #31), fadi dz (victor #32 x1.1), dekay (victor #33) |
+| 954 | 6.01 | Zips feat. Kagamine Len — Outlaw no Shoushin [Kazuha's Extra] | Haadez (verified x1.3), Nagi Seishiro (victor #1 x1.1), Wez (victor #2), Kingling (victor #3), SS is hard (victor #4 x1.1), perich (victor #5), beeco (victor #6), wamu (victor #7 x1.3), ameponzu (victor #8), up44 (victor #9), Kn1 (victor #10 x1.1), Sipwin (victor #11), _Sira (victor #12 x1.1), Mozeebra (victor #13), VLADYSLAV (victor #14 x1.1), C4L3BT (victor #15 x1.1), Tacobaco (victor #16 x1.1), wreket (victor #17 x1.2), Lunacy_ (victor #18 x1.1), liliancho (victor #19), Zlck (victor #20 x1.1), Fledin (victor #21 x1.2), LoteM (victor #22), DylanNB (victor #23), memry (victor #24 x1.1), Kryptik1998 (victor #25), paper clouds (victor #26), [Queencard] (victor #27 x1.2), ohmanlauren (victor #28 x1.1), Gaspi (victor #29 x1.3), Shaiden Rogue (victor #30), svaysvay (victor #31), Arakii (victor #32), HoodBoB (victor #33), imgrandmaster (victor #34), Kokuban (victor #35), nard (victor #36 x1.1), Lust4Bust (victor #37 x1.1), MALISZEWSKI (victor #38 x1.3), jixn (victor #39), KRZY (victor #40 x1.2), zhuzhu19 (victor #41 x1.1), Mori Calliope (victor #42 x1.1), Wassu (victor #43), Glimmer_Miku (victor #44) |
+| 955 | 6.01 | Sasuke Haraguchi feat. Kasane Teto — Igaku [,I' ,I' ,I' ,I'] | bored yes (verified x1.3), ozy (victor #1 x1.2), kt09- (victor #2 x1.1), Furamun (victor #3 x1.2), stone_bream (victor #4 x1.1), stupid dog (victor #5 x1.1), hollowknees (victor #6), ded24lol (victor #7 x1.1), juliancala (victor #8 x1.2), -Karu (victor #9 x1.3), YMD (victor #10 x1.3), uatzap (victor #11), razorfruit (victor #12), YokesPai (victor #13 x1.1), vin (victor #14 x1.3), Aheo (victor #15 x1.3), ricoel (victor #16 x1.1), Umaruuuu (victor #17 x1.2), MALISZEWSKI (victor #18 x1.3), Ramizel (victor #19), oni (victor #20 x1.3), -TwiHD (victor #21), [SHK]oliwakami (victor #22), totiruocco0 (victor #23) |
+| 956 | 6.01 | Linkin Park — One Step Closer [To The Edge] | NO37 (verified x1.1), Haida (victor #1), Nyartin (victor #2), [ Nano ] (victor #3), Woey (victor #4 x1.1), kablaze (victor #5 x1.3), Oldman60 (victor #6), Pengzy (victor #7 x1.1), Mystia (victor #8 x1.3), ShotgunApe (victor #9 x1.1), DualAkira (victor #10 x1.1), Crystal (victor #11 x1.1), PotatoBoy123 (victor #12 x1.1), moonpoint (victor #13), Rekinaja (victor #14 x1.1), Getsuyoubi (victor #15 x1.1), Sakurauchi Riko (victor #16), Freak Fantome (victor #17 x1.3), Rlsc (victor #18), Kevelia (victor #19), _Shield (victor #20), SKaiBlue (victor #21 x1.1), [Nii-san] (victor #22 x1.1), Kaku (victor #23), Saryi (victor #24 x1.3), Ev1dent (victor #25), Maxkem (victor #26 x1.1), -Wolfy- (victor #27), Fjell (victor #28), [ Senji ] (victor #29), Arraxey (victor #30), Thelock (victor #31 x1.1), Untold (victor #32 x1.3), AstroFP (victor #33 x1.1), Jtcantwell (victor #34), kaimuu (victor #35 x1.1), lestapekka67 (victor #36 x1.1), savilju (victor #37 x1.1), MALISZEWSKI (victor #38 x1.3), Hallsu (victor #39 x1.1), YomiO (victor #40), Wispy (victor #41 x1.1), DragonCroc (victor #42 x1.1), -Kemsyt (victor #43 x1.1) |
+| 957 | 6.01 | Pierce The Veil — King For A Day (feat. Kellin Quinn) [Extra] | Rammu (verified x1.1), dirty sprite (victor #1 x1.2), Kevelia (victor #2 x1.2), Darkmaster (victor #3), A N T O N I O (victor #4 x1.3), Hecatia (victor #5 x1.1), lovetap (victor #6 x1.1), KingArt (victor #7 x1.1), theez (victor #8 x1.1), Trail Mix (victor #9 x1.1), Fangzy (victor #10 x1.3), welt (victor #11 x1.1), stupid dog (victor #12 x1.1), Aphrodi (victor #13 x1.1), Zeeno (victor #14 x1.3), Seamie (victor #15 x1.2), Kekai (victor #16 x1.1), sangoose (victor #17), Wilchq (victor #18 x1.1), Rlsc (victor #19), Vordi (victor #20 x1.3), 1ncert (victor #21 x1.3), arm foot (victor #22 x1.1), ShaneLiang (victor #23 x1.3), calKU (victor #24 x1.3), perfectfree (victor #25 x1.1), Avmeth (victor #26 x1.3), big snag (victor #27 x1.3), Chiu (victor #28), rusher_808 (victor #29 x1.1), amea (victor #30 x1.1), Gwelawyr (victor #31 x1.2), moyamoyano_sa (victor #32 x1.3), Pregnancy (victor #33 x1.1), Karo (victor #34 x1.1), Folf (victor #35 x1.1), hunneko (victor #36 x1.2), MALISZEWSKI (victor #37 x1.3), ps1 hagrid (victor #38 x1.3), LinOurS (victor #39), kitty irl (victor #40), ICallHerMommy (victor #41 x1.2), darfler (victor #42) |
+| 958 | 6.01 | Ouse Akira — Hiyoku no Sakura (Cut Ver.) [Left & Garden's Extra] | pizdunzaebal (verified x1.3), Hichinoro (victor #1 x1.1), Skill (victor #2 x1.3), WAF24 (victor #3 x1.1), y0c (victor #4 x1.3), Tzero (victor #5 x1.1), Saya-Honmei (victor #6 x1.1), Chills (victor #7 x1.1), NeruNeru (victor #8 x1.2), badfranky- (victor #9 x1.1), Skhyze (victor #10 x1.1), DazzLE_Wind (victor #11 x1.1), Zogria (victor #12 x1.1), ImWarrior (victor #13 x1.1), Maklovitz (victor #14 x1.3), IasiS (victor #15 x1.1), gusrua123 (victor #16 x1.3), setori (victor #17 x1.1), Luris (victor #18 x1.1), Eat Natto (victor #19 x1.1), manosaba (victor #20 x1.1), Seikosei (victor #21 x1.1), Samsmas (victor #22 x1.3), Yue_neko (victor #23 x1.1), Chickenka (victor #24 x1.3), MidC (victor #25 x1.3), RABBIT1 (victor #26 x1.2), wamu (victor #27 x1.3), Tokisaki (victor #28 x1.3), paruuu (victor #29 x1.1), Wido (victor #30 x1.3), Stormur (victor #31 x1.1), Dsan (victor #32 x1.3), Midiru (victor #33 x1.1), Arhythmix (victor #34 x1.1), Yamineko (victor #35 x1.1), aknazar (victor #36 x1.3), Heil__ (victor #37 x1.1), pruKD (victor #38 x1.1), GitahMuttan (victor #39 x1.1), THE IDOLMASTER (victor #40 x1.1), [ Emi ] (victor #41 x1.1), Kaguya_1096 (victor #42 x1.3), Alacartx (victor #43 x1.2), TinyPark (victor #44 x1.1) |
+| 959 | 6.01 | sabi — true DJ MAG top ranker's song Zenpen (katagiri Remix) [Senseabel's Extra] | Vvn (verified x1.1), Kingling (victor #1 x1.3), dolpshing (victor #2), Furina- (victor #3), BadWolfi (victor #4), spreadnuts (victor #5), Rizer (victor #6), Sakurauchi Riko (victor #7), TutriS (victor #8), Wispy (victor #9 x1.1), GfMRT (victor #10 x1.1), SmurfQT (victor #11), Lilily (victor #12), TomoChen (victor #13 x1.1), GAO HAO (victor #14 x1.1), Mentalol (victor #15), Weebs Suck (victor #16), Sabakan (victor #17), Trail Mix (victor #18 x1.1), myhan3 (victor #19), Arz3 (victor #20), Woey (victor #21 x1.1), kottEy (victor #22), vdc (victor #23 x1.1), yimi (victor #24), Alu (victor #25 x1.1), synchromic (victor #26), wessel_osu2 (victor #27), Zarkyi (victor #28 x1.1), miral (victor #29), richp2k (victor #30 x1.1), Nangong Yu (victor #31 x1.1), miageto (victor #32 x1.1), davequin (victor #33), Rafugapu (victor #34 x1.3), oPixay (victor #35), Luris (victor #36 x1.1), Kasuzu (victor #37), kwotaq (victor #38 x1.1), Tsuwagi (victor #39), -Koda (victor #40 x1.1), Voisync (victor #41), tung (victor #42), Icy3534 (victor #43) |
+| 960 | 6.01 | Imaginary Shame Daimajin 50 — BOCCHI ROCK [Expert] | misha awa (verified x1.3), Cesilia (victor #1 x1.1), Hare_ (victor #2 x1.3), elsi (victor #3 x1.3), Colgate Enjoyer (victor #4 x1.1), umii (victor #5 x1.2), Trail Mix (victor #6 x1.1), y0c (victor #7 x1.3), wamu (victor #8 x1.3), Repo (victor #9 x1.1), RABBIT1 (victor #10 x1.2), Sirek (victor #11 x1.1), Belfast (victor #12 x1.3), nyouso (victor #13 x1.3), Mentalol (victor #14 x1.3), Paia (victor #15 x1.1), khyda (victor #16 x1.3), zoomiee (victor #17 x1.1), Jet- (victor #18 x1.3), Atri - (victor #19 x1.2), Fledin (victor #20 x1.2), Senetix (victor #21 x1.3), Maklovitz (victor #22 x1.1), pepe996 (victor #23 x1.3), imtiredfromthis (victor #24 x1.3), ozy (victor #25 x1.2), Suwanicoco (victor #26 x1.1), bocchicookie (victor #27 x1.1), Vlauz (victor #28 x1.1), JUZO (victor #29 x1.2), PXZz (victor #30 x1.3), RED40 (victor #31 x1.3), IcyBoat (victor #32 x1.1), arm foot (victor #33 x1.3), B L A C K Y (victor #34 x1.2), kirei_ (victor #35 x1.3), Gold Ship (victor #36 x1.3), baldeu (victor #37 x1.2), Naan-E (victor #38 x1.3), Duskyui (victor #39 x1.1), Quinten (victor #40 x1.3), AThree (victor #41 x1.3), TUYU (victor #42 x1.3), Twisted_Chimera (victor #43 x1.2), rigellroy (victor #44 x1.1), Ziny (victor #45 x1.3), NewbieFirst (victor #46 x1.1), Rizer (victor #47 x1.3), [-Pure Ruby-] (victor #48 x1.1) |
+| 961 | 6.01 | Yorushika — Deep Indigo [Nonexistence] | chezbananas (verified x1.1), theez (victor #1 x1.3), Garden (victor #2), WiMpN (victor #3), FlasvinhoxD (victor #4 x1.2), Belfast (victor #5 x1.3), Rinne Ohara (victor #6 x1.1), Yazone (victor #7 x1.2), Boggles (victor #8), Ronrico (victor #9), PinkNightmares (victor #10 x1.1), CoLouRed GlaZeE (victor #11), Jet- (victor #12 x1.3), emile- (victor #13 x1.2), chiv (victor #14 x1.2), Suicune3 (victor #15 x1.1), Shizaki Kanon (victor #16 x1.2), Maiaz (victor #17), bogdanski (victor #18), Marquez (victor #19), [Juan] (victor #20 x1.3), Xilver15 (victor #21), MrPotato (victor #22 x1.3), Hayasaka Ai (victor #23 x1.3), Fujiwara Mokou (victor #24), False Nine (victor #25), Furina- (victor #26), thepersonwhodie (victor #27), SoraRyow (victor #28 x1.3), pepe996 (victor #29 x1.3), BTG4 (victor #30 x1.1), Hakui Koyori (victor #31 x1.1), Pezudos (victor #32 x1.3), Arakii (victor #33), Maxe191 (victor #34 x1.1), perich (victor #35), TinyPark (victor #36), suiss (victor #37 x1.2) |
+| 962 | 6.01 | Mrs. GREEN APPLE — Kusushiki (TV Size) [New Chapter (feat. CC)] | Hakumo Shiro (verified), marwin (victor #1 x1.3), reptier (victor #2 x1.3), Freak Fantome (victor #3 x1.1), kaminogi (victor #4 x1.3), Mloah (victor #5), Rayzent (victor #6), Wez (victor #7), Risea (victor #8), wamu (victor #9 x1.3), paulthebest (victor #10), Razekon (victor #11 x1.1), elsi (victor #12), Frogsi (victor #13 x1.3), Phel (victor #14 x1.2), EZDT (victor #15 x1.3), y0c (victor #16 x1.3), Fireburner (victor #17 x1.3), NaRiTA TaiShiN (victor #18), Harumiii (victor #19 x1.1), believer_i (victor #20), KCS2 (victor #21), Moewagon (victor #22), Ilmay (victor #23 x1.3), Dawnwing (victor #24 x1.3), Yazone (victor #25 x1.2), Lewiz (victor #26 x1.3), texia10521 (victor #27 x1.3), Sauce Cake (victor #28 x1.3), Scaryz (victor #29), krb (victor #30 x1.1), Rtyzen (victor #31 x1.2), Ares Stark (victor #32 x1.3), Entarkanio (victor #33 x1.1), Eliv (victor #34), RiceballUwU (victor #35 x1.1), Regedit (victor #36 x1.3), Xydiap (victor #37 x1.3), Shima Rin Dango (victor #38 x1.3), -[Kirara]- (victor #39 x1.1), NichoIas (victor #40 x1.3), Eagle5324 (victor #41 x1.3), Buzdygan (victor #42 x1.3), Eugoon (victor #43 x1.3) |
+| 963 | 6.01 | Miracle Chimpanzee — Mabataki (TV Size) [Blink] | Dustinati (verified x1.1), NinjaFish (victor #1), Trail Mix (victor #2 x1.3), Garden (victor #3), NeruNeru (victor #4 x1.2), Nosiume (victor #5), Zacatel (victor #6), Nagi Seishiro (victor #7 x1.1), Coreanmaluco (victor #8 x1.3), Gbomb2215 (victor #9 x1.1), Chubery (victor #10), Vespanuche (victor #11), Uchirrod (victor #12 x1.1), FAW (victor #13 x1.1), distant_waves (victor #14), bananaman533 (victor #15), Cors (victor #16), yencis (victor #17 x1.1), Flask (victor #18), witchi (victor #19), Zavarka (victor #20 x1.1), up44 (victor #21), Tam- (victor #22), viiolet_wasp (victor #23 x1.1), badplayer817 (victor #24) |
+| 964 | 6.01 | Ayaka Ohashi — Wagamama MIRROR HEART [Extra] | Chiu (verified x1.2), bocchicookie (victor #1 x1.1), Ween wao (victor #2 x1.1), chungis (victor #3), Nagi Seishiro (victor #4 x1.1), mint breeze (victor #5 x1.1), naria (victor #6 x1.1), Prade (victor #7 x1.1), pruKD (victor #8 x1.1), mofuries (victor #9 x1.1), Rinne Ohara (victor #10 x1.1), koyo (victor #11 x1.1), Kudou Chitose (victor #12 x1.1), MALISZEWSKI (victor #13 x1.3), yodeston (victor #14 x1.3), rety (victor #15 x1.2), NeruNeru (victor #16 x1.2), Ququlu (victor #17), kemdaosa (victor #18 x1.1), Heimin (victor #19 x1.1), Maklovitz (victor #20 x1.1), EEEEEEEEEEEEEEE (victor #21), Gibkiy (victor #22 x1.1), Greninja (victor #23 x1.1), Raeyco (victor #24), Spaek (victor #25 x1.1), minecrafter (victor #26 x1.2), Goryou Nagusa (victor #27 x1.1), [Steven] (victor #28 x1.2), Markysharky24 (victor #29 x1.1), Arakii (victor #30), irfys (victor #31 x1.1), met_0 (victor #32 x1.1), _Ran (victor #33 x1.1), Massimo99 (victor #34 x1.1), Alcadia (victor #35 x1.3), krb (victor #36 x1.1), A21 (victor #37 x1.3), erothique (victor #38 x1.1), _kaie (victor #39 x1.1) |
+| 965 | 6.01 | KanoeRana — Irodori [Jellyfish] | Marquez (verified), RABBIT1 (victor #1), Lantis (victor #2 x1.1), kemdaosa (victor #3 x1.3), Arakii (victor #4), Vello (victor #5), dimp1 (victor #6), Airis (victor #7), zhuzhu19 (victor #8 x1.1), electrostrike (victor #9 x1.1), Chaoslitz (victor #10), kottEy (victor #11), badplayer817 (victor #12), Sirek (victor #13), Sheba (victor #14), Fanty (victor #15), Pkups (victor #16), YMD (victor #17 x1.3), Ma Yuyu (victor #18), TheyTookAshe (victor #19), Virgo (victor #20), [Karina] (victor #21), DeathHydra (victor #22 x1.1), Take_Yutaka (victor #23), Okayu (victor #24), PostScr1pt (victor #25 x1.1), Ksaki (victor #26), Furamun (victor #27 x1.1), Lilium (victor #28), GLBETA (victor #29 x1.3), Rikka Taichou (victor #30), auhueu (victor #31), -Lily (victor #32), Cors (victor #33), pruKD (victor #34 x1.1), Maklovitz (victor #35 x1.1), hollowknees (victor #36), Spinesnight (victor #37 x1.3), cocotm (victor #38), Zeeno (victor #39 x1.1), Hallsu (victor #40 x1.1), sxl (victor #41 x1.3), Shironami (victor #42), impurity (victor #43 x1.1) |
+| 966 | 6.01 | Machico — Million Smile [Fantasy] | Samsmas (verified x1.1), NeruNeru (victor #1 x1.2), GalaxySkys (victor #2 x1.1), Unibrick (victor #3 x1.1), Hotshark (victor #4 x1.1), Miinn_ (victor #5 x1.1), Adomeium (victor #6 x1.1), DH02 (victor #7 x1.3), Recia (victor #8 x1.3), Rizer (victor #9 x1.3), okapi (victor #10 x1.1), Moaji (victor #11 x1.1), Mikizi (victor #12 x1.1), Shircals (victor #13 x1.1), zzzbored (victor #14 x1.2), saarland gaming (victor #15), Akuuuuuukin (victor #16), Ceiza (victor #17 x1.1), Gordon Ramsey (victor #18 x1.2), up44 (victor #19), Petirabi (victor #20 x1.2), AuroraPhasmata (victor #21 x1.1), ytk (victor #22 x1.1), kottEy (victor #23), Spaek (victor #24 x1.1), Ayayk (victor #25 x1.1), Dsan (victor #26 x1.1), krio (victor #27), Sevenns (victor #28), Prade (victor #29 x1.1), NeoPixel201 (victor #30 x1.1), epicercaner (victor #31 x1.1), mcy4 (victor #32 x1.3), Aizu- (victor #33 x1.1), spensll (victor #34 x1.1), 232333 (victor #35 x1.2), Massimo99 (victor #36 x1.1), bobbycyl (victor #37), solasi (victor #38 x1.3), -Whitedog- (victor #39 x1.3), AlpiAz (victor #40 x1.1), marclor (victor #41 x1.1), P r a h (victor #42 x1.2) |
+| 967 | 6.01 | Yu-Peng Chen @HOYO-MiX — Nimble as Lightning [Trulla Cementarii] | Sluggo (verified x1.1), Galedrifter (victor #1 x1.1), Shio (victor #2 x1.3), Librarian (victor #3 x1.3), Topoi (victor #4 x1.3), KevstracK (victor #5 x1.1), ShaBae (victor #6 x1.1), Nessy (victor #7 x1.1), Uchirrod (victor #8 x1.1), Rinne Ohara (victor #9 x1.1), [Crz]Makii (victor #10 x1.1), -Plubby- (victor #11 x1.1), JackPaX (victor #12 x1.1), _AfterWind (victor #13 x1.3), bocchicookie (victor #14 x1.1), Takaichi (victor #15 x1.1), seegii (victor #16 x1.1), Arav (victor #17 x1.3), marwin (victor #18 x1.3), Altrax (victor #19 x1.3), -Karu (victor #20 x1.1), Zavarka (victor #21 x1.1), Duskyui (victor #22 x1.1), Sky_Delta (victor #23 x1.1), Hatted (victor #24 x1.3), Dagoth Ur (victor #25 x1.1), MiguisXD (victor #26 x1.1), cIementine (victor #27 x1.1), Alfrah (victor #28 x1.3), hlanden (victor #29 x1.3), Cocoamallows (victor #30 x1.1), Stravez0r (victor #31 x1.3), CutPaper (victor #32 x1.3), [Reflection] (victor #33 x1.1), Tonnisdk (victor #34 x1.1), Potla (victor #35 x1.3), Wiseboy (victor #36 x1.1), NO37 (victor #37 x1.1), ChaiPhukChep (victor #38 x1.3), Massimo99 (victor #39 x1.1), Musa (victor #40 x1.1), amea (victor #41 x1.1), Leasurex (victor #42 x1.3), kris on osu (victor #43 x1.1), Supernye (victor #44 x1.1), sxl (victor #45 x1.3), Crystal (victor #46 x1.3), Mekeyo (victor #47 x1.3) |
+| 968 | 6.01 | ZODIACSYNDICATE — Astraea no Soubei [AngelHoney's ExtrA] | Xilver15 (verified x1.3), Tetla (victor #1 x1.1), talala (victor #2 x1.1), Bartek22830 (victor #3 x1.1), Azer (victor #4 x1.1), ddm (victor #5 x1.1), Chaoslitz (victor #6), -N a n a k o- (victor #7), _WinRAWR (victor #8 x1.1), Saunamaisteri (victor #9), reflection (victor #10 x1.2), TWOJA STARA (victor #11 x1.2), conradmittn (victor #12 x1.3), Zetera (victor #13), Flask (victor #14 x1.3), Rlsc (victor #15), nanawo (victor #16 x1.2), rinkon (victor #17 x1.2), boleks (victor #18 x1.3), toybot (victor #19 x1.1), Belfast (victor #20 x1.3), cihp (victor #21), Kingling (victor #22 x1.3), 0120 (victor #23 x1.1), Hakui Koyori (victor #24 x1.3), Emezys (victor #25 x1.1), Take no Hana (victor #26 x1.1), kirby mix (victor #27 x1.3), [ baka 3b ] (victor #28 x1.3), Furina- (victor #29 x1.1), memry (victor #30 x1.1), criller (victor #31 x1.1), Nekkid (victor #32 x1.1), RodrihBruh (victor #33 x1.2), mosvannen (victor #34 x1.3), milr_ (victor #35 x1.1), Vararaup (victor #36 x1.1), DJ EBAN (victor #37 x1.2), Santeri (victor #38), asta is cute (victor #39 x1.1), Woey (victor #40 x1.1), EVIL BALNER (victor #41 x1.3), 846553767646068 (victor #42 x1.1), Lee Jung Hyun (victor #43 x1.1), fiqa (victor #44 x1.2), kodama (victor #45 x1.3) |
+| 969 | 6.01 | ASCA — RESISTER (TV Size) [ESUTAROSA'S EXTRA] | Haadez (verified x1.3), perich (victor #1), y0c (victor #2 x1.3), SacredShrine (victor #3 x1.1), Soups (victor #4 x1.1), Harumiii (victor #5 x1.1), SurvivorX4 (victor #6 x1.2), Rizer (victor #7 x1.3), xMayo (victor #8 x1.1), Azvameth (victor #9 x1.1), comm899 (victor #10), DazzLE_Wind (victor #11 x1.3), Furina- (victor #12 x1.1), Micchi (victor #13 x1.1), EEEEEEEEEEEEEEE (victor #14), Ethan559 (victor #15), KU_ (victor #16 x1.1), I Have Ligma (victor #17), ZumzertoZan B18 (victor #18), Mqka (victor #19 x1.1), _gnim_ (victor #20), Deleted_User401 (victor #21), dollarww (victor #22), Furudo Erika (victor #23), Martin23 (victor #24), falu (victor #25 x1.1), TeGaLeX15 (victor #26), Znaid (victor #27), Aikyan (victor #28), BlankAbyss (victor #29), superchayce (victor #30), St3kiii (victor #31), up44 (victor #32), corvus- (victor #33), Ace4896 (victor #34), WiMpN (victor #35), burgerapoc (victor #36 x1.1), 1v9 (victor #37), JeffGamingYT (victor #38), badplayer817 (victor #39), pepe996 (victor #40 x1.3), Maxe191 (victor #41 x1.1), Goose King (victor #42), CakeStuff (victor #43) |
+| 970 | 6.01 | Days N' Daze — Misanthropic Drunken Loner [Extreme] | Recia (verified x1.3), Toy (victor #1 x1.3), Piggey (victor #2 x1.3), hallowatcher (victor #3 x1.3), kazamabc (victor #4 x1.3), Vaxei (victor #5 x1.3), Rohulk (victor #6 x1.3), ReaL motion (victor #7 x1.3), maikuroPoni (victor #8 x1.3), Viveliam (victor #9 x1.3), SadnessWillSear (victor #10 x1.3), Umbre (victor #11 x1.3), _Degenerate (victor #12 x1.3), Doginator (victor #13 x1.3), Daichi (victor #14 x1.3), ElMick13 (victor #15 x1.3), piklopedia (victor #16 x1.2), Mystia (victor #17 x1.3), Kingling (victor #18 x1.3), Aver (victor #19 x1.3), Zeklewa (victor #20 x1.2), thaibuy (victor #21 x1.3), Kiipuri (victor #22 x1.3), Eminem (victor #23 x1.3), Rekkke (victor #24 x1.3), Spazza17 (victor #25 x1.2), Fzechen (victor #26 x1.3), Enumi (victor #27 x1.2), melancholia (victor #28 x1.3), Trail Mix (victor #29 x1.3), M I L E S (victor #30 x1.3), un perro (victor #31 x1.3), IonJ (victor #32 x1.3), Darkmatter (victor #33 x1.3), Dear Leader (victor #34 x1.3), alkalde (victor #35 x1.3), -Mirai- (victor #36 x1.3), kirby mix (victor #37 x1.3), Hunteriwi (victor #38 x1.3), nomokona (victor #39 x1.3), Luck3r (victor #40 x1.3), Tikef (victor #41 x1.3), RESU (victor #42 x1.3), PLOXARU (victor #43 x1.3), Hopeful (victor #44 x1.3), alimentaire (victor #45 x1.3), 0reo (victor #46 x1.3), Rizer (victor #47 x1.3), Joyi (victor #48 x1.3) |
+| 971 | 6.01 | NANAOAKARI — MURI MURI EVOLUTION (TV Size) [zekk's Extra] | TOCTEP (verified x1.1), Garden (victor #1), Junkmaniac (victor #2 x1.3), badplayer817 (victor #3), noederu (victor #4), -TwiHD (victor #5 x1.1), pregnant (victor #6), Maklovitz (victor #7), naru (victor #8), sxl (victor #9 x1.3), Prophet (victor #10 x1.2), mcy4 (victor #11 x1.3), Delete (victor #12 x1.2), Joyi (victor #13), Teirin (victor #14 x1.3) |
+| 972 | 6.01 | tomaiosai, Tatan — cara de modelo (nightcore mix) [experto de tatan] | [SHK]SARRTY_awa (verified x1.3), Cristobal1324 (victor #1 x1.3), Songque (victor #2), Wez (victor #3), luukas (victor #4 x1.3), LincKor (victor #5 x1.3), marshignon (victor #6 x1.2), BBBiANCO (victor #7 x1.2), Rizer (victor #8 x1.3), Keotiik (victor #9 x1.2), Ayanami (victor #10), Angle_NorFy (victor #11 x1.3), Rudrii (victor #12), badplayer817 (victor #13), Sadworker (victor #14), kathars (victor #15), Wattka (victor #16 x1.2), ylitkas (victor #17 x1.3), J1x (victor #18 x1.3), goza (victor #19 x1.3), Carebare (victor #20 x1.3), Akarli (victor #21 x1.2), Yzako (victor #22 x1.2), Mikume (victor #23 x1.3), jate_valery (victor #24), Gergo1213 (victor #25 x1.2), Low Tier God (victor #26), fiwon123 (victor #27 x1.3), wayesiks (victor #28 x1.3), spatanna (victor #29 x1.3), Rtnt- (victor #30), Kuroi Kenshi (victor #31), Zayenn (victor #32 x1.3), 1571 (victor #33 x1.2), NotKryo (victor #34 x1.2), Flurble (victor #35 x1.2), zSmoxKe (victor #36 x1.3), L Ragnarok (victor #37 x1.2), nofka_ (victor #38 x1.3) |
+| 973 | 6.01 | yuzen — Ouka Ryouran [Extra] | hvick225 (verified x1.3), thelewa (victor #1 x1.3), mekaeriko (victor #2 x1.1), Alumetorz (victor #3 x1.2), Xilver15 (victor #4 x1.3), Rafis (victor #5 x1.3), _iV_ (victor #6 x1.3), talala (victor #7 x1.1), WubWoofWolf (victor #8 x1.3), Wario (victor #9 x1.3), bratan (victor #10 x1.2), xaxreid (victor #11 x1.3), rinkon (victor #12 x1.3), Coreanmaluco (victor #13 x1.3), Doomsday (victor #14 x1.2), DigitalHypno (victor #15 x1.1), xMedi (victor #16 x1.3), Seat Ibiza TDI (victor #17 x1.3), HardLifeNH (victor #18 x1.2), Mudflap (victor #19 x1.3), Vampirina (victor #20 x1.3), dsco (victor #21 x1.3), [ baka 3b ] (victor #22 x1.3), Willy (victor #23 x1.2), Epiphany (victor #24 x1.3), matyk0 (victor #25 x1.3), BossWang (victor #26 x1.3), Junjou (victor #27 x1.3), Distracted (victor #28 x1.3), luvouva (victor #29 x1.3), stacker (victor #30 x1.3), DJ EBAN (victor #31 x1.2), Plumeria (victor #32 x1.2), Zoopasaurus (victor #33 x1.2), Diiiooon (victor #34 x1.3), Sympli (victor #35 x1.2), fajga (victor #36 x1.3), don_chan (victor #37 x1.2), Smarteyy (victor #38 x1.2), yadon (victor #39 x1.3), 9iq (victor #40 x1.3), frameZ1 (victor #41 x1.3) |
+| 974 | 6.01 | CoMETIK — Kudaranai ya [bunny feather's 427] | Marquez (verified), RESU (victor #1 x1.1), Kudou Chitose (victor #2 x1.1), Pkups (victor #3), WiMpN (victor #4), Mashir0 (victor #5), Cao Tien Minh (victor #6), Uchirrod (victor #7 x1.3), skyscarlett (victor #8), Sorozu (victor #9), badplayer817 (victor #10), Vinhkhut (victor #11), Flylux (victor #12 x1.1), Inency (victor #13), Maklovitz (victor #14 x1.1), ANiEKo_ (victor #15), ozy (victor #16 x1.3), chuma221 (victor #17), Wei Ru (victor #18 x1.2), riIey (victor #19), Nyameronnn (victor #20), slowwin223 (victor #21), Haruka___ (victor #22), Dawnwing (victor #23 x1.3), Massimo99 (victor #24 x1.1), ghlst (victor #25), ForeverRiolet (victor #26 x1.1), 1nstant (victor #27), Kuroneko0111 (victor #28), CakeStuff (victor #29), KladVomzin01 (victor #30), zhuzhu19 (victor #31 x1.1), akalias (victor #32), Loreal Paris (victor #33), THE IDOLMASTER (victor #34 x1.3), Hachikuji Mayoi (victor #35), Marlene (victor #36), salmonlord (victor #37), kasikomi (victor #38), Netizz (victor #39), D1veva (victor #40) |
+| 975 | 6.01 | ELECTROCUTICA feat. Luschka — #006F86 [REVERSUS] | DeadZoNeD (verified), _Shield (victor #1), big snag (victor #2 x1.3), riku (victor #3 x1.1), xep (victor #4), Garden (victor #5), dasdwqdf (victor #6 x1.1), gilherme boulos (victor #7), L4plus1 (victor #8), CoLouRed GlaZeE (victor #9), quaternary (victor #10), KogumaX (victor #11), EEEEEEEEEEEEEEE (victor #12), Alarielle (victor #13), Will Stetson (victor #14 x1.1), depressedclouds (victor #15), Vixera (victor #16), bananaman533 (victor #17), Jiuchu (victor #18), ampamaita (victor #19), LightNemesis (victor #20), Ditch_ (victor #21), Furina- (victor #22), telehops (victor #23), ayel (victor #24), [Hatsune Miku] (victor #25), Varler (victor #26 x1.2), nokenz (victor #27), Cerkie (victor #28), Cohue (victor #29), PIANOAPOLOGIST6 (victor #30), IssaKun_ (victor #31), Xephis (victor #32), grkn7 (victor #33) |
+| 976 | 6.01 | kamome sano — </emotional> [<devotion type="kisata" />] | Duskyui (verified x1.1), l1mi (victor #1), Furina- (victor #2 x1.1), CookieYoshi (victor #3), Flashback9 (victor #4 x1.1), Maklovitz (victor #5 x1.1), Wispy (victor #6), a r y a (victor #7), ymee (victor #8), McNonal (victor #9), calKU (victor #10 x1.3), up44 (victor #11), KriO-O (victor #12 x1.3), CMeFly (victor #13), Aunn Komano (victor #14), kuuti (victor #15), Fumear (victor #16), Nacrus (victor #17), Zerint (victor #18), Ace4896 (victor #19), Arakii (victor #20), MrPotato (victor #21), Juicy (victor #22), Query (victor #23), Chiu (victor #24), BlackTexture (victor #25 x1.1), [SHK]T_T (victor #26 x1.1), Toileri (victor #27), perich (victor #28), Stormur (victor #29), Lilian (victor #30), Cytusine (victor #31 x1.1), wtfitshard (victor #32), Marquez (victor #33), RESU (victor #34 x1.1), Levesile (victor #35), Tenyusha (victor #36), koiishi (victor #37), Goose King (victor #38), Lilily (victor #39), Wilchq (victor #40 x1.1), sdd2cxz (victor #41 x1.1), pancakespk (victor #42 x1.1) |
+| 977 | 6.01 | Ryokuoushoku Shakai — Hana ni Natte [Yudragen's Expert] | adiguwno (verified), WiMpN (victor #1), perich (victor #2), Azvameth (victor #3 x1.1), Rizer (victor #4 x1.3), Maxe191 (victor #5 x1.1), Purest (victor #6), HANAMi FT (victor #7), kotomori_ (victor #8 x1.1), big snag (victor #9 x1.2), Wez (victor #10), Ma Yuyu (victor #11), BryceTK (victor #12), Kinomoto Sakura (victor #13), Ryxel (victor #14), Garden (victor #15), [Akemi Homura] (victor #16), comm899 (victor #17), MisakiNakahara (victor #18), nihuramu (victor #19), ube halaya (victor #20), dekay (victor #21), ForeverRiolet (victor #22 x1.1), Maklovitz (victor #23), Maitre-Oogway (victor #24), megalodon151 (victor #25), Nepyutsu (victor #26), Mcflrry (victor #27 x1.1), [MY]error_exe (victor #28), Ilmay (victor #29 x1.3), finalbang4 (victor #30), patos (victor #31 x1.1), SanTisy (victor #32), N i s u (victor #33 x1.3), LouisD (victor #34 x1.3), FonKNower (victor #35), Firrenere (victor #36), Cyanara (victor #37), Mentchan (victor #38), guigounes (victor #39), Zyrix (victor #40), [SHK]Mihits (victor #41), Lawndred (victor #42), snowflake- (victor #43) |
+| 978 | 6.01 | KISIDA KYODAN & THE AKEBOSI ROCKETS — EGOISTIC HERO [LIYUU x WEN'S EXTRA] | Ssan1xx (verified x1.1), Wez (victor #1), 0v0 (victor #2), ddline (victor #3 x1.3), GhostApple (victor #4 x1.1), tayeon (victor #5 x1.3), Rizer (victor #6 x1.3), Rokari (victor #7), tatiuo256 (victor #8), sbot (victor #9), Arakii (victor #10), garab1k (victor #11 x1.1), badplayer817 (victor #12), Arithmophobie (victor #13), masssy (victor #14), Zayenn (victor #15), LonelyGamer (victor #16), Nikita78873 (victor #17) |
+| 979 | 6.01 | Tia — Deal with the devil (TV Size) [Extra] | chezbananas (verified x1.1), Lilily (victor #1 x1.3), piklopedia (victor #2 x1.2), Skystar (victor #3 x1.1), Kano (victor #4), Chaoslitz (victor #5), Yuuki-chan (victor #6 x1.1), Cerillion (victor #7 x1.3), GfMRT (victor #8 x1.3), little Agile (victor #9 x1.1), tekkito (victor #10 x1.1), Coreanmaluco (victor #11 x1.1), Sagisawa Arisa (victor #12 x1.1), zxeroxz (victor #13 x1.3), Crystal (victor #14), Spazza17 (victor #15 x1.2), skyrex (victor #16 x1.1), JackPaX (victor #17 x1.1), Garch (victor #18 x1.3), kyle (victor #19 x1.3), taku (victor #20), art (victor #21 x1.1), shadow modico (victor #22 x1.1), FDX (victor #23 x1.2), Hatted (victor #24 x1.3), Shiox (victor #25 x1.1), Mitsuru- (victor #26 x1.1), Odiz (victor #27 x1.3), Samsmas (victor #28 x1.1), Neoh (victor #29), Seamie (victor #30 x1.2), Tina (victor #31), Ancenthe (victor #32 x1.1), lifeline (victor #33 x1.3), VicoTeen (victor #34 x1.1), Furina- (victor #35 x1.1), Homutan (victor #36 x1.3), emilia (victor #37 x1.3), Paskuin (victor #38 x1.2), LN-Larks (victor #39 x1.1), sekireaaw (victor #40), Karo (victor #41 x1.1), xSnejx (victor #42 x1.1), Rail (victor #43 x1.3), Squid Game (victor #44 x1.3), bocchicookie (victor #45 x1.1), beaw (victor #46 x1.1), ImMyyrh (victor #47 x1.1), Dragon20942 (victor #48 x1.1) |
+| 980 | 6.01 | Rise Against — Injection [Extra] | Worne (verified x1.2), Splinter572 (victor #1 x1.3), Astana (victor #2 x1.2), GSBlank (victor #3 x1.2), Recia (victor #4 x1.3), K_N (victor #5 x1.2), Kulezi (victor #6 x1.3), ClawViper (victor #7 x1.3), DaDobster (victor #8 x1.2), Wonder (victor #9 x1.2), Lulek (victor #10 x1.3), Emula (victor #11 x1.2), Verse (victor #12 x1.3), Rizer (victor #13 x1.3), Garch (victor #14 x1.3), Exarch (victor #15 x1.3), - Rosemary - (victor #16 x1.3), Cremation (victor #17 x1.3), badeu (victor #18 x1.3), SlimeDrippy (victor #19 x1.3), xFluffyo (victor #20 x1.3), papika (victor #21 x1.3), MrBooM (victor #22 x1.2), Elscar (victor #23 x1.3), Blobby3000 (victor #24 x1.3), Sigmund Fraud (victor #25 x1.3), domplayer (victor #26 x1.3), Teirin (victor #27 x1.3), Nathaniel (victor #28 x1.3), AstroFP (victor #29 x1.3), Gryzus24 (victor #30 x1.3), Viscania (victor #31 x1.3), Junjou (victor #32 x1.3), BTG4 (victor #33 x1.3), VaniGori (victor #34 x1.3), Foussilin (victor #35 x1.3), Tutel (victor #36 x1.2), still bummed (victor #37 x1.3), Luck3r (victor #38 x1.3), Sharfik (victor #39 x1.3), RESU (victor #40 x1.1), ColdTooth (victor #41 x1.1), Karo (victor #42 x1.1), Kayamori Ruka (victor #43 x1.3), minus (victor #44 x1.3), HiroM (victor #45 x1.3) |
+| 981 | 6.01 | Camellia — Chirality [Kashima's Extra] | Woey (verified x1.1), fedoragoose (victor #1 x1.3), Crystal (victor #2), Karuna (victor #3), [Hatsune Miku] (victor #4), lolol235 (victor #5), papika (victor #6), Moegi (victor #7), DJ Rinickulous (victor #8), Ansol (victor #9), Dada (victor #10), ign (victor #11), Wilchq (victor #12 x1.1), Lyne (victor #13), Ruchika (victor #14), ddm (victor #15 x1.3), kodama (victor #16 x1.3), chankoma (victor #17), Darkmaster (victor #18), corm (victor #19 x1.1), JackPaX (victor #20), Skellers (victor #21), minus (victor #22), Cao Mi Le (victor #23), idiothoved (victor #24), SurvivorX4 (victor #25), Wispy (victor #26 x1.1), up44 (victor #27), wanderloop (victor #28 x1.1), PFFFFFFFFFFFFFT (victor #29 x1.1), False Nine (victor #30 x1.1), BELLOFIGO (victor #31), nonpro22 (victor #32), Coreyellow (victor #33), Lilily (victor #34), leonov3a (victor #35), Chamosiala (victor #36), Kenny (victor #37), Razei (victor #38 x1.1), Quinten (victor #39), 1v9 (victor #40), Crazy_RU (victor #41 x1.1), Natsuki Kaguya (victor #42 x1.1), RESU (victor #43 x1.1), Never1Forgotten (victor #44), lightstars (victor #45), Rikuima (victor #46) |
+| 982 | 6.01 | ASCA — RESISTER (TV Size) [RESILIENCE] | Ma Yuyu (verified), Harumiii (victor #1 x1.1), AlpiAz (victor #2 x1.1), Wez (victor #3), Darkxide (victor #4), Deleted_User401 (victor #5), -Cherry- (victor #6), YMD (victor #7 x1.3), Amnesia Haze (victor #8), Sampo (victor #9), MadLad (victor #10), erothique (victor #11 x1.1), Pau (victor #12 x1.1), MrTerror (victor #13), zhuzhu19 (victor #14 x1.1), perich (victor #15), comm899 (victor #16), makarupa (victor #17), yuanun (victor #18), Rizer (victor #19 x1.1), wamu (victor #20 x1.3), Saya-Honmei (victor #21), SanTisy (victor #22 x1.2), lewkiss_ (victor #23), pepe996 (victor #24 x1.3), Furamun (victor #25 x1.2), Ryxel (victor #26), badplayer817 (victor #27), met_0 (victor #28 x1.1), Flonka (victor #29), F1exandr (victor #30), ifox (victor #31 x1.1), Maklovitz (victor #32), le pauvre bil (victor #33 x1.3), 1v9 (victor #34), 2Icy (victor #35), kuzu222 (victor #36 x1.1), Ares Stark (victor #37 x1.3), prevxzzy (victor #38), Comatose (victor #39 x1.3), Space_Official (victor #40 x1.1) |
+| 983 | 6.01 | sasakure.UK — Little Cry of The Abyss feat. Toki Asako [Three Roses] | big snag (verified x1.2), Nopekjk (victor #1), - Phantasma - (victor #2), LoidKun (victor #3), Jyuifty (victor #4), 6Nusu9 (victor #5), Zenith (victor #6), origin_ (victor #7) |
+| 984 | 6.01 | KORDHELL x ANAR — JUNBI [OKAY?!] | Michni (verified x1.3), alimentaire (victor #1 x1.3), MALISZEWSKI (victor #2 x1.3), Jiuchu (victor #3 x1.2), mcy4 (victor #4), Lantis (victor #5 x1.1), Sunda (victor #6 x1.1), Timpower (victor #7), Cuckweezy (victor #8 x1.3), desuqe (victor #9 x1.3), MarthXT (victor #10 x1.3), -Karu (victor #11 x1.3), free cookies (victor #12 x1.1), EvilGamings (victor #13), DualAkira (victor #14 x1.2), NaPiii_ (victor #15 x1.2), NaRiTA TaiShiN (victor #16), EZChamp (victor #17), teaminhtg (victor #18), Akani (victor #19), azger (victor #20), csaba21123 (victor #21 x1.1), Niali (victor #22 x1.1), lil bread (victor #23 x1.2), Loulou (victor #24 x1.1), WaShoy (victor #25), lacto (victor #26), Rucker (victor #27), Wew (victor #28 x1.3), TheWaterBottle (victor #29 x1.1), leam (victor #30), KAAAL (victor #31 x1.1), MACJIEHbIU DUMA (victor #32), Furudo Erika (victor #33), [SHK]oliwakami (victor #34 x1.3), vin (victor #35 x1.3), Mqte (victor #36 x1.1), Ralmbry (victor #37 x1.2), Miguelonh2O (victor #38 x1.1) |
+| 985 | 6.01 | Nene Kusanagi & NeneRobo x Mikudayo & Kagamine Len & KAITO — Tokugawa Cup Noodle Kinshirei [Drop's Extra] | EEEEEEEEEEEEEEE (verified), bemp (victor #1), perich (victor #2), Wez (victor #3), beeco (victor #4), SharCookie (victor #5 x1.1), elsi (victor #6 x1.2), Prophet (victor #7), Eiko Tokura (victor #8 x1.1), Radiownd (victor #9), Chill_Noodle_ (victor #10), kumig (victor #11), Maklovitz (victor #12), EVA FAN (victor #13), M e o w - (victor #14), viiolet_wasp (victor #15), m-cloud (victor #16), Chiful (victor #17), Repo (victor #18), 57HatsuneMiku (victor #19), up44 (victor #20), Trail Mix (victor #21 x1.1), NeliNyan (victor #22), peroro (victor #23), Ace4896 (victor #24), Quinten (victor #25), Nacrus (victor #26), lizzzil (victor #27), Flask (victor #28), Fr0zT (victor #29), distressed (victor #30), ThangGaming (victor #31), Dsan (victor #32), Any Questions (victor #33), utta (victor #34), Furudo Erika (victor #35), Worsl (victor #36 x1.1), Emerald Ages (victor #37 x1.1), juckport (victor #38), Seox (victor #39 x1.1), calculus (victor #40), Tina (victor #41), ozy (victor #42 x1.2), N i s u (victor #43), MarthXT (victor #44 x1.3), Kiino (victor #45 x1.2), Tsuwagi (victor #46), - Alice (victor #47), _Kaczek_ (victor #48), badplayer817 (victor #49) |
+| 986 | 6.01 | May'n — graphite/diamond (TV Size) [3-4] | misiekreksio (verified), chezbananas (victor #1 x1.1), Davidozzo (victor #2), ShaBae (victor #3 x1.1), wick (victor #4 x1.3), Chubery (victor #5 x1.1), falu (victor #6 x1.1), kth180591 (victor #7), sriracha rice (victor #8 x1.3), Saya-Honmei (victor #9 x1.2), Snow Ripple (victor #10), Reimu- (victor #11 x1.1), Rizer (victor #12 x1.2), Zogria (victor #13 x1.1), Sampo (victor #14), TheKid217 (victor #15), Fixr (victor #16 x1.3), EEEEEEEEEEEEEEE (victor #17), Xyloz (victor #18 x1.2), Gandalphf (victor #19), Pareo (victor #20 x1.1), NanoiteX (victor #21 x1.1), Teirin (victor #22 x1.1), FAW (victor #23 x1.1), BriqueDeThon (victor #24), Moegi (victor #25 x1.1), [ baka 3b ] (victor #26 x1.3), autmn (victor #27), Take no Hana (victor #28 x1.1), Reimu-Pafi (victor #29), mimi917 (victor #30), iraozm (victor #31 x1.3), bhnhjbv (victor #32), Qrestu (victor #33 x1.3), Armada (victor #34), zXLeOoXz (victor #35), Thelock (victor #36 x1.1), Choksad (victor #37), Arakii (victor #38), bocchicookie (victor #39 x1.1), PekorAshire (victor #40), zubs (victor #41 x1.1), DouGGlas (victor #42 x1.1), Coreyellow (victor #43), BakaChiChi (victor #44), Stormu (victor #45), srezon1 (victor #46), NeruNeru (victor #47 x1.2) |
+| 987 | 6.01 | Ogura Yui — Dramatic! [Yuumocharen's Farewell] | Kereminho (verified), kyle (victor #1), go525 (victor #2 x1.3), AIXI1519YIXI (victor #3 x1.1), StellaFox (victor #4), badplayer817 (victor #5), believer_i (victor #6 x1.1), iotashin (victor #7), Yankie (victor #8), zzzbored (victor #9 x1.2), Snowfait (victor #10 x1.1), Hammer (victor #11), jacky514 (victor #12 x1.1), dasdwqdf (victor #13 x1.1), toybot (victor #14 x1.1), Spaek (victor #15 x1.1), Uchirrod (victor #16 x1.1), chungis (victor #17), Amnesia Haze (victor #18), zSmoxKe (victor #19), Fancy2p (victor #20), Chilluno (victor #21), Yureichii (victor #22), Wido (victor #23 x1.3), Ame-- (victor #24), Undead131 (victor #25 x1.1), Ringtext (victor #26), TwoGamerIl (victor #27), 0v0 (victor #28), [Hatsune Miku] (victor #29), Chromatic (victor #30), Yuniquan (victor #31), respektive (victor #32) |
+| 988 | 6.01 | Erio o Kamattechan — os-Uchuujin(Asterisk Makina Remix) [Mattress Actress] | Yarissa (verified x1.3), Beafowl (victor #1 x1.3), hallowatcher (victor #2 x1.3), Toy (victor #3 x1.3), Avenging_Goose (victor #4 x1.3), MrBooM (victor #5 x1.3), WubWoofWolf (victor #6 x1.3), xaxreid (victor #7 x1.3), Mathi (victor #8 x1.3), SolaEclipse (victor #9 x1.3), Umbre (victor #10 x1.3), Malolat (victor #11 x1.3), gonzup (victor #12 x1.3), - Slice - (victor #13 x1.3), Korilak (victor #14 x1.3), Viveliam (victor #15 x1.3), Ceja (victor #16 x1.3), Anya Maki (victor #17 x1.3), kodama (victor #18 x1.3), Kingling (victor #19 x1.3), umineko (victor #20 x1.3), Kinoro (victor #21 x1.3), bze (victor #22 x1.3), stacker (victor #23 x1.3), EVIL BALNER (victor #24 x1.3), Saryi (victor #25 x1.3), Abraham (victor #26 x1.3), Selaph (victor #27 x1.3), Tsokoz (victor #28 x1.3), PoMAH nuBoBAPoB (victor #29 x1.3), scuoa (victor #30 x1.3), akiyama (victor #31 x1.3), kirby mix (victor #32 x1.3), mannheim (victor #33 x1.3), bwa (victor #34 x1.3), Apunshii (victor #35 x1.3) |
+| 989 | 6.01 | canoue — Hotarubi Gatari [bloom] | Wez (verified), nerau (victor #1 x1.1), Arakii (victor #2), Maklovitz (victor #3), microwave brick (victor #4 x1.1) |
+| 990 | 6.01 | leroy — turmoiled [elite] | weed machine (verified), Silent Rock (victor #1 x1.1), Palodex (victor #2 x1.1), bocchicookie (victor #3 x1.1), NO37 (victor #4 x1.1), - Alice (victor #5), choke (victor #6), Atsacity (victor #7 x1.1), TOCTEP (victor #8 x1.1), Maklovitz (victor #9), Vordi (victor #10 x1.2), brandwagen (victor #11 x1.1), AgarSanik (victor #12), MALISZEWSKI (victor #13 x1.3) |
+| 991 | 6.01 | Akira Complex & PSYQUI — Come to me [Risen's Extra] | Jayyhk (verified), Ween wao (victor #1 x1.1), big snag (victor #2 x1.2), miral (victor #3), Umaroth (victor #4), Woey (victor #5) |
+| 992 | 6.01 | marasy — Mugen no Ticket (feat. Hatsune Miku & KAITO) [Expert] | overdrive (verified), Asobase (victor #1 x1.1), Marquez (victor #2), Menajis6 (victor #3), WiMpN (victor #4), TinyPark (victor #5), badplayer817 (victor #6), TOCTEP (victor #7 x1.1), perich (victor #8), Arakii (victor #9), choongRC (victor #10), Hammer (victor #11), Kamil500 (victor #12 x1.1), misha awa (victor #13 x1.3), Furamun (victor #14 x1.2), ARedButton (victor #15), Hakumo Shiro (victor #16), F1exandr (victor #17), Take_Yutaka (victor #18), Ryxel (victor #19), Maklovitz (victor #20), Wez (victor #21), fearr (victor #22 x1.1), Nacrus (victor #23), otudou (victor #24), TrojanQ (victor #25), aiyern (victor #26), P r a h (victor #27 x1.1), bocchicookie (victor #28 x1.1), Paras (victor #29), FeiFei493 (victor #30), Stinkster (victor #31), P3TEY (victor #32), PestoBois (victor #33) |
+| 993 | 6.01 | Amatsuki — Summertime Record (COVER) [Kagerou] | 5joshi (verified x1.3), namewithnumber9 (victor #1 x1.2), Risiing Fanboy (victor #2 x1.2), WubWoofWolf (victor #3 x1.3), AAA (victor #4 x1.2), Izuko (victor #5 x1.3), ukasoh (victor #6 x1.3), karott90 (victor #7 x1.3), SomnusA (victor #8 x1.1), tateyama (victor #9 x1.2), yeou_ (victor #10 x1.3), Wilchq (victor #11 x1.1), GodKei (victor #12 x1.3), theez (victor #13 x1.3), Senetix (victor #14 x1.3), core98k (victor #15 x1.3), REFANTAZIO (victor #16 x1.3), Onii Chan (victor #17 x1.2), ryufeseed (victor #18 x1.3), Cres (victor #19 x1.2), KyZzo (victor #20 x1.3), Hakumo Ai (victor #21 x1.2), Sroj (victor #22 x1.2), dark on osu (victor #23 x1.3), Trail Mix (victor #24 x1.3), Sofdop (victor #25 x1.3), Pamu (victor #26 x1.2), Sprigatito (victor #27 x1.3), Jaws (victor #28 x1.3), Hecatia (victor #29 x1.1), Spektre (victor #30 x1.3), Kita Ikuyo (victor #31 x1.1), Hayasaka Ai (victor #32 x1.3), Wido (victor #33 x1.3), Fez Post (victor #34 x1.1), pepe996 (victor #35 x1.3), Chickenka (victor #36 x1.3), -kyaru (victor #37 x1.3), Cqlcifer (victor #38 x1.3) |
+| 994 | 6.01 | Snail's House — waiting for you, in snowing city. [i'm still here, waiting.] | alimentaire (verified x1.1), Zucchiniii (victor #1 x1.1), _ Freedom _ (victor #2 x1.1), Will Stetson (victor #3 x1.1), Belfast (victor #4 x1.3), Bouquetdor (victor #5 x1.2), Nopekjk (victor #6 x1.1), JackPaX (victor #7 x1.3), goatstuckintree (victor #8 x1.2), Arraxey (victor #9), sriracha rice (victor #10 x1.3), stupid dog (victor #11 x1.1), Naigo (victor #12 x1.1), Austinsanity (victor #13), shadow modico (victor #14), Basherman (victor #15 x1.1), Natori Sana (victor #16 x1.1), KiryuMiya (victor #17 x1.1), Rucker (victor #18), MoTL (victor #19 x1.1), deflateddolphin (victor #20 x1.1), 0e4ef622 (victor #21 x1.1), NO37 (victor #22 x1.1), Nameless Player (victor #23 x1.3), bibidibabidiboo (victor #24), Furina- (victor #25), Xyphox (victor #26 x1.1), Venpris (victor #27 x1.1), Dropinx (victor #28 x1.3), GAO HAO (victor #29 x1.1), __unnamed__ (victor #30 x1.1), Celestialer (victor #31), owlful (victor #32 x1.1), krh (victor #33 x1.1), TomoChen (victor #34 x1.1), Razei (victor #35 x1.1), Strinova (victor #36 x1.1), hivno (victor #37 x1.1), Ququlu (victor #38 x1.1), Toua (victor #39 x1.2), william burgers (victor #40 x1.1), PaintedKoala (victor #41 x1.2), vlad0808 (victor #42), jdewkum (victor #43 x1.1), FireGen (victor #44 x1.1), Ledeau_Fox (victor #45 x1.1), Artsy (victor #46 x1.3), fluvry (victor #47 x1.1), avtori (victor #48 x1.1) |
+| 995 | 6.01 | Sasaki Sayaka — Atlantico Blue [Sea of Dreams] | Skill (verified x1.3), Illyamywife (victor #1 x1.3), Reira (victor #2 x1.3), nobuchi (victor #3 x1.3), eran (victor #4 x1.3), Rizer (victor #5 x1.3), JobeHobe (victor #6 x1.2), ChristieBell (victor #7 x1.3), hshs (victor #8 x1.2), -Kiichirou- (victor #9 x1.3), nekz (victor #10 x1.3), DazzLE_Wind (victor #11 x1.3), kodama (victor #12 x1.3), Lulzees (victor #13 x1.2), zelda101 (victor #14 x1.2), Redap (victor #15 x1.3), KyZzo (victor #16 x1.3), Elena- (victor #17 x1.2), NeNe_GoShyuJiN (victor #18 x1.2), pedeko (victor #19 x1.3), Dinh (victor #20 x1.2), Shiho desu (victor #21 x1.3), Headdesking1 (victor #22 x1.3), lolol233 (victor #23 x1.3), Petirabi (victor #24 x1.2), Wido (victor #25 x1.3), Irithyll (victor #26 x1.3), Alcadia (victor #27 x1.3), nonerori (victor #28 x1.2), okuraionn (victor #29 x1.2), Joon_ (victor #30 x1.3), Misono MikaXD (victor #31 x1.3), [LAMY] (victor #32 x1.3), solasi (victor #33 x1.3) |
+| 996 | 6.01 | Anamanaguchi — Scott Pilgrim Anthem [Alphabet's Expert] | KaPPaStorm (verified x1.1), Blairzey (victor #1 x1.3), AlexXerox (victor #2 x1.3), FolMing (victor #3 x1.2), crackhead (victor #4 x1.3), AdrianLabubu67 (victor #5 x1.3), Zralf (victor #6 x1.2), chiv (victor #7 x1.3), Hranolka (victor #8), Woey (victor #9), wreket (victor #10 x1.2), FAW (victor #11 x1.2), Doomsday (victor #12), CutoNaito (victor #13 x1.2), gasanww (victor #14), junamat (victor #15 x1.3), Leonard H (victor #16 x1.3), Mai Odzuka (victor #17), Literal Garbage (victor #18), Liliana (victor #19 x1.3), SlichBane (victor #20 x1.2), Dropinx (victor #21 x1.3), MrPotato (victor #22), Diamux (victor #23 x1.3), Retix (victor #24 x1.3), robotonic (victor #25), Kazuko (victor #26 x1.3), Frostium (victor #27 x1.3), up44 (victor #28), yah (victor #29 x1.3), Sat info (victor #30), pottomotto22 (victor #31 x1.2), bocchicookie (victor #32 x1.1), Jason (victor #33 x1.3), -Spartan (victor #34 x1.1), sulfa (victor #35 x1.2), Marquez (victor #36), an3 (victor #37 x1.1), blueballoooon (victor #38), Cause (victor #39 x1.2), ylitkas (victor #40 x1.3), hsk_z (victor #41 x1.3), Nitry (victor #42 x1.1), Mesho (victor #43), hygeo (victor #44), ZETAJOTA (victor #45 x1.2), she gon pay me (victor #46 x1.1), MistEclipse (victor #47), kaver (victor #48 x1.3) |
+| 997 | 6.01 | wa. remixed celas — Gin no Kaze [Another] | SiLviA (verified x1.1), rrtyui (victor #1 x1.3), Les Discrets (victor #2 x1.1), thelewa (victor #3 x1.3), SASADUKA (victor #4 x1.1), mukachu (victor #5 x1.1), Rucker (victor #6 x1.2), Playboy (victor #7 x1.1), Recia (victor #8 x1.3), tsunamayo (victor #9 x1.1), Sungmo (victor #10 x1.1), Rohulk (victor #11 x1.3), WubWoofWolf (victor #12 x1.3), katatakatata (victor #13 x1.3), azaloaf (victor #14 x1.1), MrBooM (victor #15 x1.3), Xilver15 (victor #16 x1.2), scuoa (victor #17 x1.3), Lilily (victor #18 x1.3), fcuk (victor #19 x1.2), Kokuban (victor #20 x1.3), ALTERNATOR32 (victor #21 x1.2), minus (victor #22 x1.1), PieFlavours (victor #23 x1.1), Willy (victor #24 x1.2), Senetix (victor #25 x1.3), Coreanmaluco (victor #26 x1.3), Ted (victor #27 x1.3), Felrion (victor #28 x1.3), EndingNote (victor #29 x1.3), little Agile (victor #30 x1.1), Zaqlev (victor #31 x1.3), Epiphany (victor #32 x1.3), YAMADAAAAAAAAAA (victor #33 x1.3), lestapekka67 (victor #34 x1.1), Vasteri (victor #35 x1.3), Kingling (victor #36 x1.3), Plumeria (victor #37 x1.2), Petirabi (victor #38 x1.2), Dsan (victor #39 x1.3), memry (victor #40 x1.1), BossPlays (victor #41 x1.2), Jaguar (victor #42 x1.3), Ant -w- (victor #43 x1.3) |
+| 998 | 6.01 | Co shu Nie — asura [CircleNoob's Extra] | Sirek (verified), PakaZ (victor #1), Mentalol (victor #2), Hobeeyz (victor #3), Besdarb (victor #4), Bouquetdor (victor #5 x1.3), rewmiqa (victor #6), go525 (victor #7 x1.1), Foussilin (victor #8 x1.1), sho_o (victor #9), Heise (victor #10 x1.1), Maklovitz (victor #11), Just Lucan (victor #12 x1.1), up44 (victor #13), OilBo (victor #14), kirby mix (victor #15 x1.3), Weebs Suck (victor #16), Vergil2115 (victor #17), hivno (victor #18 x1.1), king_duckling (victor #19), misha awa (victor #20 x1.1), yoshi-mk2 (victor #21), hide (victor #22 x1.1), Cors (victor #23 x1.1), meeb (victor #24), Bingo6 (victor #25 x1.1), moar (victor #26), MordeyMay (victor #27), Cesilia (victor #28 x1.1), DAZQ (victor #29), EEEEEEEEEEEEEEE (victor #30), Niali (victor #31 x1.1), MALISZEWSKI (victor #32 x1.1), ozy (victor #33 x1.2), fancy - you (victor #34 x1.1), Kueelizzz (victor #35), raemu (victor #36 x1.1), RGRTG (victor #37), Lysitea (victor #38 x1.2), Reds (victor #39 x1.1), Crossie (victor #40 x1.1), S1nder (victor #41), Kataru (victor #42), dyfivhdjvsibso (victor #43 x1.1), mashed potatoes (victor #44 x1.1), KillyBou (victor #45), PestoBois (victor #46) |
+| 999 | 6.01 | Eagle — S!ck [!] | uNable (verified x1.2), woojungx4 (victor #1 x1.3), lolol233 (victor #2 x1.2), Jemzsee (victor #3 x1.3), Suyung_ (victor #4 x1.3), VROUM CV VITE (victor #5 x1.2), Dropinx (victor #6 x1.3), Coreanmaluco (victor #7 x1.3), Nopekjk (victor #8 x1.3), Slay (victor #9 x1.3), Bartek22830 (victor #10 x1.3), puppy (victor #11 x1.3), SadnessWillSear (victor #12 x1.3), JackPaX (victor #13 x1.1), bze (victor #14 x1.3), z0mbir (victor #15 x1.2), Jo Yuri (victor #16 x1.2), RafaelXDP (victor #17 x1.3), gusrua123 (victor #18 x1.3), Adrastea (victor #19 x1.3), MrPotato (victor #20 x1.3), Belfast (victor #21 x1.3), cedru (victor #22 x1.3), calKU (victor #23 x1.3), 921206025887 (victor #24 x1.3), -Arko (victor #25 x1.3), Haadez (victor #26 x1.3), Steckdose123 (victor #27 x1.2), A N T O N I O (victor #28 x1.3), Taldux (victor #29 x1.1), Jotmo (victor #30 x1.2), himeka (victor #31 x1.3), k4rnu1 (victor #32 x1.3), thebeastjona (victor #33 x1.3), akiyama (victor #34 x1.3), EVIL BALNER (victor #35 x1.3), pedeko (victor #36 x1.3), jiaxunjason (victor #37 x1.2), runnysunny (victor #38 x1.3), pepe996 (victor #39 x1.3), nik (victor #40 x1.2), Mqte (victor #41 x1.3), -Karu (victor #42 x1.3), MALISZEWSKI (victor #43 x1.3), xidorn (victor #44 x1.3), SirYourPizza (victor #45 x1.3) |
+| 1000 | 6.01 | MonochroMenace — WHODUNIT [feat. Kasane Teto] [Suspect #6 Andrea: The Final Target] | Eirra (verified), BoinkyDoinker (victor #1 x1.3), paprunia (victor #2), Rupertion (victor #3 x1.1), WhiteKat (victor #4 x1.1), Carebare (victor #5), Hi I Love U (victor #6), Wez (victor #7), Atsorko (victor #8), Moyyba (victor #9 x1.1), Rizer (victor #10 x1.3), beeco (victor #11), MrTerror (victor #12), [ LUK ] (victor #13 x1.1), _Chris (victor #14), avesuire (victor #15) |
 
 ## Points leaderboard
 
 | Rank | Player | Points |
 | --- | --- | --- |
-| 1 | mrekk | 8303.343 |
-| 2 | MALISZEWSKI | 5816.263 |
-| 3 | EZChamp | 3008.522 |
-| 4 | Kamensh1k | 2552.031 |
-| 5 | z9a | 2119.962 |
-| 6 | Raikouhou | 2118.384 |
-| 7 | ASecretBox | 1873.707 |
-| 8 | [Karcher] | 1761.670 |
-| 9 | NaPiii_ | 1677.392 |
-| 10 | worst hr player | 1675.700 |
-| 11 | Akolibed | 1644.744 |
-| 12 | Suyung_ | 1622.376 |
-| 13 | bunnylikemoney | 1529.374 |
-| 14 | Utami | 1477.284 |
-| 15 | Saiyku | 1441.940 |
-| 16 | Fleh | 1418.637 |
-| 17 | MineFrostID | 1381.799 |
-| 18 | mcy4 | 1301.179 |
-| 19 | xootynator | 1270.526 |
-| 20 | WhiteCat | 1263.852 |
-| 21 | rektygon | 1253.377 |
-| 22 | gamer228666 | 1235.318 |
-| 23 | enri | 1234.381 |
-| 24 | Bubbleman | 1165.843 |
-| 25 | Chicony | 1156.154 |
-| 26 | willy0214 | 1106.795 |
-| 27 | Vaxei | 1039.532 |
-| 28 | WindowLife | 1024.378 |
-| 29 | Mathi | 1007.572 |
-| 30 | Zentoro | 1002.514 |
-| 31 | RafaMat | 986.475 |
-| 32 | chocomint | 970.031 |
-| 33 | PinkEyeFan2013 | 964.318 |
-| 34 | yary | 828.646 |
-| 35 | FlyingTuna | 802.327 |
-| 36 | lolol233 | 783.377 |
-| 37 | killer2007 | 762.206 |
-| 38 | criller | 755.021 |
-| 39 | Abyssal | 748.520 |
-| 40 | Jemzsee | 675.923 |
+| 1 | mrekk | 8065.404 |
+| 2 | MALISZEWSKI | 5780.627 |
+| 3 | EZChamp | 2999.764 |
+| 4 | Kamensh1k | 2546.856 |
+| 5 | z9a | 2114.559 |
+| 6 | Raikouhou | 2111.916 |
+| 7 | ASecretBox | 1865.060 |
+| 8 | [Karcher] | 1749.990 |
+| 9 | NaPiii_ | 1674.736 |
+| 10 | worst hr player | 1669.036 |
+| 11 | Akolibed | 1642.928 |
+| 12 | Suyung_ | 1612.195 |
+| 13 | bunnylikemoney | 1514.262 |
+| 14 | Utami | 1472.903 |
+| 15 | Saiyku | 1437.705 |
+| 16 | Fleh | 1415.707 |
+| 17 | MineFrostID | 1373.677 |
+| 18 | mcy4 | 1286.612 |
+| 19 | xootynator | 1266.337 |
+| 20 | WhiteCat | 1262.078 |
+| 21 | rektygon | 1246.994 |
+| 22 | gamer228666 | 1234.354 |
+| 23 | enri | 1230.367 |
+| 24 | Bubbleman | 1161.571 |
+| 25 | Chicony | 1153.344 |
+| 26 | willy0214 | 1101.102 |
+| 27 | Vaxei | 1037.526 |
+| 28 | WindowLife | 1023.426 |
+| 29 | Zentoro | 1003.015 |
+| 30 | Mathi | 993.653 |
+| 31 | RafaMat | 986.046 |
+| 32 | PinkEyeFan2013 | 964.318 |
+| 33 | chocomint | 963.760 |
+| 34 | yary | 827.773 |
+| 35 | FlyingTuna | 798.047 |
+| 36 | lolol233 | 783.569 |
+| 37 | killer2007 | 759.925 |
+| 38 | criller | 747.999 |
+| 39 | Abyssal | 747.642 |
+| 40 | Jemzsee | 676.560 |
 | 41 | Cymango | 669.927 |
-| 42 | nooneloves | 668.737 |
-| 43 | maxim | 667.493 |
-| 44 | EthantrixV3 | 654.840 |
-| 45 | calebshucks | 652.881 |
-| 46 | NINERIK | 640.065 |
+| 42 | nooneloves | 668.031 |
+| 43 | maxim | 666.819 |
+| 44 | calebshucks | 651.250 |
+| 45 | EthantrixV3 | 648.730 |
+| 46 | NINERIK | 639.390 |
 | 47 | aknzx | 634.475 |
-| 48 | NathanRam1918 | 628.183 |
-| 49 | Intercambing | 616.437 |
-| 50 | Rafis | 586.909 |
-| 51 | okinamo | 579.293 |
-| 52 | Melvr | 576.523 |
-| 53 | desuqe | 572.469 |
-| 54 | Zylice | 570.274 |
-| 55 | Dever | 565.420 |
-| 56 | Shyot73 | 565.371 |
-| 57 | Welter | 561.538 |
-| 58 | PikaPwn | 543.554 |
-| 59 | Topoi | 538.898 |
-| 60 | Zyntex | 538.519 |
-| 61 | sharytory | 527.226 |
-| 62 | _Shield | 524.988 |
-| 63 | BTMC | 510.156 |
-| 64 | monte | 495.485 |
-| 65 | fragranceofpage | 492.927 |
-| 66 | Exxotl | 488.741 |
-| 67 | clafrelys | 488.240 |
-| 68 | Suyong_ | 487.002 |
-| 69 | Ekoro | 471.555 |
-| 70 | smozhen | 466.653 |
-| 71 | thank you | 458.031 |
-| 72 | 8581210 | 454.654 |
-| 73 | milosz | 453.533 |
-| 74 | vljoy209 | 452.121 |
-| 75 | reimia | 450.406 |
-| 76 | Jakson | 448.143 |
-| 77 | Arnold24x24 | 444.635 |
-| 78 | Varvalian | 442.982 |
-| 79 | Tutel | 435.664 |
-| 80 | zonelouise | 435.255 |
-| 81 | runnysunny | 430.127 |
-| 82 | misha awa | 416.728 |
-| 83 | My Angle Okayu | 405.617 |
+| 48 | NathanRam1918 | 623.884 |
+| 49 | Intercambing | 610.596 |
+| 50 | Zylice | 584.403 |
+| 51 | Rafis | 583.950 |
+| 52 | Melvr | 577.905 |
+| 53 | okinamo | 573.391 |
+| 54 | desuqe | 569.157 |
+| 55 | Shyot73 | 565.371 |
+| 56 | Dever | 564.745 |
+| 57 | Welter | 557.921 |
+| 58 | Zyntex | 538.519 |
+| 59 | Topoi | 537.895 |
+| 60 | PikaPwn | 537.765 |
+| 61 | sharytory | 526.254 |
+| 62 | _Shield | 524.608 |
+| 63 | BTMC | 508.117 |
+| 64 | clafrelys | 487.072 |
+| 65 | fragranceofpage | 486.131 |
+| 66 | Suyong_ | 485.985 |
+| 67 | monte | 485.961 |
+| 68 | Exxotl | 484.717 |
+| 69 | Ekoro | 468.258 |
+| 70 | smozhen | 465.342 |
+| 71 | thank you | 457.240 |
+| 72 | vljoy209 | 457.196 |
+| 73 | 8581210 | 453.868 |
+| 74 | milosz | 453.533 |
+| 75 | Tutel | 451.947 |
+| 76 | reimia | 450.406 |
+| 77 | Jakson | 447.374 |
+| 78 | Arnold24x24 | 442.043 |
+| 79 | Varvalian | 433.308 |
+| 80 | zonelouise | 431.671 |
+| 81 | runnysunny | 427.915 |
+| 82 | misha awa | 413.049 |
+| 83 | My Angle Okayu | 404.840 |
 | 84 | Dempsey | 400.876 |
-| 85 | bsm | 397.948 |
-| 86 | NeliNyan | 392.467 |
-| 87 | Doomsday fanboy | 387.681 |
-| 88 | Bonk | 387.382 |
-| 89 | tekkito | 385.857 |
-| 90 | VoProSSoFF | 377.879 |
-| 91 | velcro shoes | 375.223 |
-| 92 | wuhua | 374.406 |
-| 93 | 1v9 | 357.468 |
-| 94 | Mastasz | 348.843 |
-| 95 | puppy | 348.054 |
-| 96 | tsumiya | 340.636 |
-| 97 | lil bread | 335.259 |
-| 98 | ChocoPafe | 333.039 |
-| 99 | argweid | 332.345 |
-| 100 | big_tatik | 332.205 |
-| 101 | nicki1324 | 328.560 |
-| 102 | Pezz | 325.910 |
-| 103 | BossPlays | 324.426 |
-| 104 | etn | 324.272 |
-| 105 | treyarch | 322.994 |
-| 106 | rng_ | 313.590 |
-| 107 | milktea0019 | 310.364 |
-| 108 | trumpatino69 | 307.399 |
-| 109 | gnahus | 305.575 |
-| 110 | yodeston | 298.513 |
-| 111 | sarboggly | 297.991 |
-| 112 | Mahmood | 296.781 |
-| 113 | Pablohh | 293.251 |
-| 114 | Dreamz | 291.019 |
-| 115 | hexi | 290.566 |
-| 116 | NYASH | 285.323 |
-| 117 | Mekeyo | 277.160 |
-| 118 | AxewB | 276.797 |
-| 119 | lifeline | 275.194 |
+| 85 | NeliNyan | 385.989 |
+| 86 | Doomsday fanboy | 385.805 |
+| 87 | Bonk | 385.047 |
+| 88 | tekkito | 384.436 |
+| 89 | bsm | 384.139 |
+| 90 | VoProSSoFF | 376.728 |
+| 91 | velcro shoes | 375.700 |
+| 92 | wuhua | 369.010 |
+| 93 | 1v9 | 363.973 |
+| 94 | puppy | 348.396 |
+| 95 | Mastasz | 340.893 |
+| 96 | tsumiya | 339.092 |
+| 97 | big_tatik | 332.205 |
+| 98 | ChocoPafe | 330.744 |
+| 99 | argweid | 330.092 |
+| 100 | lil bread | 328.562 |
+| 101 | BossPlays | 325.041 |
+| 102 | nicki1324 | 323.865 |
+| 103 | treyarch | 321.448 |
+| 104 | etn | 318.359 |
+| 105 | Pezz | 317.984 |
+| 106 | yodeston | 310.773 |
+| 107 | rng_ | 310.654 |
+| 108 | milktea0019 | 309.392 |
+| 109 | trumpatino69 | 307.399 |
+| 110 | gnahus | 305.343 |
+| 111 | sarboggly | 295.271 |
+| 112 | Mahmood | 293.186 |
+| 113 | Dreamz | 291.019 |
+| 114 | Pablohh | 290.442 |
+| 115 | hexi | 288.339 |
+| 116 | NYASH | 282.646 |
+| 117 | Mekeyo | 275.798 |
+| 118 | lifeline | 274.363 |
+| 119 | AxewB | 273.874 |
 | 120 | -Hirata | 273.338 |
 | 121 | awesome sauce | 272.352 |
-| 122 | Hagawobla | 267.694 |
-| 123 | 315 | 263.792 |
+| 122 | Hagawobla | 264.335 |
+| 123 | 315 | 263.122 |
 | 124 | cloppit | 263.090 |
 | 125 | RyooYamada | 262.639 |
-| 126 | Aricin | 259.385 |
-| 127 | LyeRR | 259.220 |
+| 126 | LyeRR | 259.220 |
+| 127 | Aricin | 258.428 |
 | 128 | sytho | 254.111 |
 | 129 | M1nTe4 | 253.855 |
 | 130 | Flaro | 253.325 |
-| 131 | Ryugia | 252.572 |
-| 132 | Umbre | 251.313 |
-| 133 | RAFUNA | 247.490 |
-| 134 | ruirui | 246.930 |
-| 135 | Andros | 246.112 |
-| 136 | Ivaxa | 244.748 |
-| 137 | TTv_UFO | 243.322 |
-| 138 | Tsuwagi | 242.751 |
-| 139 | Alfiu | 241.942 |
-| 140 | elsi | 239.321 |
-| 141 | onetabby | 233.761 |
-| 142 | LordGabriel | 231.446 |
-| 143 | tfge | 227.410 |
-| 144 | papercandle | 226.812 |
-| 145 | 6Nusu9 | 225.863 |
-| 146 | Sh4rq_ | 224.310 |
-| 147 | NieTheDie | 224.301 |
-| 148 | aimbotcone | 222.526 |
-| 149 | suly | 221.818 |
-| 150 | def | 221.670 |
+| 131 | Ryugia | 248.715 |
+| 132 | Umbre | 246.393 |
+| 133 | ruirui | 246.093 |
+| 134 | Andros | 245.095 |
+| 135 | Ivaxa | 243.074 |
+| 136 | RAFUNA | 243.041 |
+| 137 | TTv_UFO | 241.672 |
+| 138 | elsi | 240.860 |
+| 139 | Tsuwagi | 240.308 |
+| 140 | Alfiu | 237.037 |
+| 141 | onetabby | 234.847 |
+| 142 | LordGabriel | 228.307 |
+| 143 | papercandle | 225.501 |
+| 144 | NieTheDie | 224.301 |
+| 145 | CyberOni | 224.067 |
+| 146 | tfge | 223.920 |
+| 147 | 6Nusu9 | 222.934 |
+| 148 | suly | 221.818 |
+| 149 | aimbotcone | 221.374 |
+| 150 | def | 220.359 |
 | 151 | reused | 219.823 |
-| 152 | NOUMEN BREAK | 217.666 |
-| 153 | nicebroccoli | 213.473 |
-| 154 | scylla | 212.649 |
-| 155 | Riot | 212.612 |
-| 156 | Ledeau_Fox | 211.841 |
-| 157 | R1cho | 210.182 |
-| 158 | WooperFan1 | 206.503 |
-| 159 | Egor | 203.169 |
-| 160 | yadon | 202.392 |
-| 161 | OnlyHadley | 200.945 |
-| 162 | ozy | 200.912 |
-| 163 | Rizer | 200.212 |
-| 164 | marcel7 | 200.011 |
-| 165 | Tonnisdk | 198.972 |
-| 166 | Tommy315 | 198.751 |
-| 167 | MegaMK | 198.331 |
-| 168 | fedotoff | 197.694 |
-| 169 | nevergrace | 197.301 |
-| 170 | Reedkatt | 195.393 |
-| 171 | gakuw | 193.225 |
-| 172 | kurtis- | 191.603 |
-| 173 | Raspigaous | 187.882 |
-| 174 | AdrianLabubu67 | 187.439 |
-| 175 | suntanCTM | 187.429 |
-| 176 | jahkon | 186.933 |
+| 152 | Sh4rq_ | 217.032 |
+| 153 | NOUMEN BREAK | 215.555 |
+| 154 | Rizer | 213.989 |
+| 155 | scylla | 213.156 |
+| 156 | Riot | 212.612 |
+| 157 | nicebroccoli | 212.555 |
+| 158 | Ledeau_Fox | 212.390 |
+| 159 | R1cho | 210.509 |
+| 160 | WooperFan1 | 205.391 |
+| 161 | ozy | 205.117 |
+| 162 | Egor | 203.169 |
+| 163 | OnlyHadley | 200.945 |
+| 164 | Tonnisdk | 199.631 |
+| 165 | yadon | 198.009 |
+| 166 | marcel7 | 197.754 |
+| 167 | nevergrace | 197.301 |
+| 168 | fedotoff | 196.913 |
+| 169 | Tommy315 | 196.845 |
+| 170 | gakuw | 195.606 |
+| 171 | MegaMK | 195.204 |
+| 172 | Reedkatt | 192.721 |
+| 173 | kurtis- | 191.603 |
+| 174 | Raspigaous | 188.755 |
+| 175 | AdrianLabubu67 | 188.089 |
+| 176 | gusrua123 | 187.076 |
 | 177 | Xaver | 186.691 |
-| 178 | Invoker | 185.968 |
-| 179 | MiMiTooU | 184.570 |
+| 178 | jahkon | 186.631 |
+| 179 | Invoker | 185.968 |
 | 180 | synoxa | 183.426 |
-| 181 | Pabloniichan | 182.983 |
-| 182 | gusrua123 | 180.167 |
-| 183 | matcha | 180.119 |
-| 184 | ZaNy_ | 177.610 |
+| 181 | suntanCTM | 183.390 |
+| 182 | Pabloniichan | 182.983 |
+| 183 | MiMiTooU | 182.697 |
+| 184 | matcha | 179.413 |
 | 185 | -Din- | 176.958 |
 | 186 | FGSky | 175.970 |
-| 187 | alexsandll | 175.458 |
-| 188 | Dumb-Andy | 174.372 |
-| 189 | A21 | 166.267 |
-| 190 | KPOBYIIIKA | 165.394 |
-| 191 | Lesperry | 164.452 |
-| 192 | polski1 | 161.562 |
-| 193 | Akuma no Tenshi | 160.154 |
-| 194 | Kama | 159.103 |
-| 195 | xep | 159.064 |
-| 196 | minefieldsurfer | 158.023 |
+| 187 | ZaNy_ | 175.528 |
+| 188 | alexsandll | 175.458 |
+| 189 | Dumb-Andy | 171.113 |
+| 190 | A21 | 165.089 |
+| 191 | KPOBYIIIKA | 164.806 |
+| 192 | polski1 | 162.944 |
+| 193 | Lesperry | 162.213 |
+| 194 | xep | 160.781 |
+| 195 | Akuma no Tenshi | 160.154 |
+| 196 | Kama | 159.103 |
 | 197 | Norlain | 157.804 |
-| 198 | Tim Kackner | 157.722 |
-| 199 | Rupertion | 155.723 |
-| 200 | Red_Pixel | 153.532 |
+| 198 | Tim Kackner | 155.680 |
+| 199 | minefieldsurfer | 154.459 |
+| 200 | Rupertion | 153.862 |
 | 201 | Toesu | 152.662 |
-| 202 | MALTESER | 151.621 |
-| 203 | Gurbzy | 150.544 |
-| 204 | kyojaku | 149.964 |
-| 205 | luciano | 149.572 |
-| 206 | oPixay | 148.876 |
+| 202 | Red_Pixel | 152.465 |
+| 203 | MALTESER | 150.695 |
+| 204 | kyojaku | 148.947 |
+| 205 | oPixay | 148.841 |
+| 206 | luciano | 148.839 |
 | 207 | budge | 148.156 |
 | 208 | WhiteWoofWoolf | 147.470 |
-| 209 | Chipori | 147.228 |
-| 210 | khz | 146.838 |
-| 211 | Tebii | 145.651 |
-| 212 | MYKEYBOARD | 145.131 |
-| 213 | Aheo | 144.520 |
-| 214 | Ethan2222 | 143.223 |
-| 215 | Mlaw | 139.137 |
-| 216 | Swiq | 138.757 |
-| 217 | Epes | 136.861 |
-| 218 | GodRoPoNiKa | 135.752 |
-| 219 | thaibuy | 135.160 |
-| 220 | badeu | 135.147 |
-| 221 | ZeitFrost | 134.073 |
-| 222 | idke | 133.550 |
-| 223 | Saymel | 133.010 |
+| 209 | khz | 146.838 |
+| 210 | Aheo | 145.375 |
+| 211 | Tebii | 145.331 |
+| 212 | Chipori | 145.211 |
+| 213 | Gurbzy | 145.000 |
+| 214 | MYKEYBOARD | 144.407 |
+| 215 | Ethan2222 | 143.223 |
+| 216 | Mlaw | 137.985 |
+| 217 | Swiq | 137.090 |
+| 218 | thaibuy | 137.009 |
+| 219 | Epes | 136.861 |
+| 220 | GodRoPoNiKa | 133.954 |
+| 221 | ZeitFrost | 132.974 |
+| 222 | badeu | 132.074 |
+| 223 | idke | 131.973 |
 | 224 | Equidimensional | 130.386 |
-| 225 | Wanderio | 130.192 |
-| 226 | karate | 130.170 |
-| 227 | Zanzabar | 128.599 |
-| 228 | SL1PER | 127.731 |
-| 229 | Shiox | 127.702 |
+| 225 | karate | 130.170 |
+| 226 | Saymel | 129.204 |
+| 227 | Wanderio | 128.456 |
+| 228 | bocchicookie | 128.340 |
+| 229 | Shiox | 127.647 |
 | 230 | MikeyRea Grape | 127.349 |
-| 231 | Spacus | 127.048 |
-| 232 | Cheyne | 126.971 |
-| 233 | plee | 126.410 |
-| 234 | Cossin | 126.232 |
-| 235 | pupusa | 125.906 |
-| 236 | Toy0Ta | 124.933 |
-| 237 | HeyCat_ | 121.026 |
-| 238 | Toji_fushiguro_ | 120.946 |
-| 239 | Kotsik | 120.727 |
-| 240 | Plasma | 120.509 |
-| 241 | Rafugapu | 118.894 |
-| 242 | bananachi | 117.946 |
-| 243 | Hifkil | 116.456 |
-| 244 | shimon | 114.972 |
-| 245 | David Seymour | 112.678 |
-| 246 | Thundur | 110.468 |
-| 247 | bocchicookie | 109.200 |
-| 248 | NichoIas | 109.111 |
-| 249 | i love manosaba | 109.065 |
+| 231 | Zanzabar | 127.093 |
+| 232 | plee | 126.410 |
+| 233 | Cossin | 126.232 |
+| 234 | Spacus | 126.174 |
+| 235 | SL1PER | 125.913 |
+| 236 | pupusa | 125.906 |
+| 237 | Cheyne | 125.130 |
+| 238 | Toy0Ta | 124.933 |
+| 239 | HeyCat_ | 121.026 |
+| 240 | Rafugapu | 120.987 |
+| 241 | Toji_fushiguro_ | 120.946 |
+| 242 | Kotsik | 119.673 |
+| 243 | Plasma | 119.498 |
+| 244 | bananachi | 116.794 |
+| 245 | shimon | 114.972 |
+| 246 | Hifkil | 114.091 |
+| 247 | Woey | 113.500 |
+| 248 | David Seymour | 112.678 |
+| 249 | NichoIas | 111.486 |
 | 250 | yamss | 108.977 |
-| 251 | Kluchen | 108.352 |
-| 252 | Zpinxx | 107.676 |
-| 253 | Nazuna Nanakusa | 106.823 |
-| 254 | decaten | 106.799 |
-| 255 | Hakui Koyori | 106.359 |
-| 256 | Allegrissimo | 106.091 |
-| 257 | ur cute | 105.123 |
-| 258 | zhunque | 103.720 |
-| 259 | Reisen-Desu | 103.310 |
-| 260 | AC_ | 103.310 |
-| 261 | netraena | 103.310 |
-| 262 | -NS | 103.310 |
-| 263 | YMD | 102.956 |
-| 264 | Woey | 102.756 |
-| 265 | Tartis | 100.279 |
-| 266 | Dustice | 99.446 |
-| 267 | Cocali | 99.278 |
-| 268 | skia1 | 99.122 |
-| 269 | Jesse Pinkman | 98.715 |
-| 270 | Apostol | 97.829 |
-| 271 | Hellotomlol225 | 97.161 |
-| 272 | Yseri | 97.081 |
-| 273 | AstroVnz | 96.906 |
-| 274 | Aireu | 96.450 |
-| 275 | Sorae | 95.518 |
-| 276 | everless | 94.750 |
-| 277 | Furamun | 94.487 |
-| 278 | -Legoshi- | 93.108 |
-| 279 | bern1sh | 92.070 |
-| 280 | Mitage | 90.111 |
-| 281 | fallenbtw | 90.056 |
-| 282 | marwin | 90.018 |
-| 283 | Alyra | 89.918 |
-| 284 | Coreanmaluco | 89.821 |
-| 285 | shwq | 89.778 |
-| 286 | fedoragoose | 89.223 |
-| 287 | Ephix | 88.276 |
-| 288 | szedis | 88.025 |
-| 289 | Daisuke Narotan | 87.445 |
+| 251 | Kluchen | 108.889 |
+| 252 | Thundur | 107.259 |
+| 253 | Hakui Koyori | 106.825 |
+| 254 | Nazuna Nanakusa | 106.823 |
+| 255 | i love manosaba | 106.689 |
+| 256 | Zpinxx | 105.231 |
+| 257 | Allegrissimo | 104.726 |
+| 258 | YMD | 104.581 |
+| 259 | decaten | 104.315 |
+| 260 | ur cute | 104.153 |
+| 261 | zhunque | 103.720 |
+| 262 | Reisen-Desu | 103.310 |
+| 263 | AC_ | 103.310 |
+| 264 | netraena | 103.310 |
+| 265 | -NS | 103.310 |
+| 266 | Trail Mix | 100.116 |
+| 267 | Furamun | 99.785 |
+| 268 | Tartis | 99.353 |
+| 269 | Coreanmaluco | 99.030 |
+| 270 | Cocali | 98.487 |
+| 271 | Jesse Pinkman | 97.981 |
+| 272 | skia1 | 97.554 |
+| 273 | Yseri | 97.081 |
+| 274 | Apostol | 96.879 |
+| 275 | Aireu | 96.669 |
+| 276 | Dustice | 95.943 |
+| 277 | Hellotomlol225 | 95.778 |
+| 278 | Sorae | 95.518 |
+| 279 | everless | 95.288 |
+| 280 | AstroVnz | 95.063 |
+| 281 | -Legoshi- | 93.108 |
+| 282 | marwin | 92.539 |
+| 283 | bern1sh | 92.070 |
+| 284 | Joyi | 91.965 |
+| 285 | Mitage | 90.111 |
+| 286 | fallenbtw | 88.682 |
+| 287 | szedis | 88.025 |
+| 288 | shwq | 88.007 |
+| 289 | Alyra | 87.886 |
 | 290 | Amasetic | 87.200 |
 | 291 | DONCARLITOS | 87.095 |
-| 292 | Mizeree | 86.830 |
-| 293 | Mornis | 86.633 |
-| 294 | Adomeium | 86.563 |
-| 295 | Evernight | 85.710 |
-| 296 | Trail Mix | 85.424 |
-| 297 | 975250450 | 85.057 |
-| 298 | ciru | 84.536 |
-| 299 | Kyros_ | 84.491 |
-| 300 | EzChock | 83.781 |
-| 301 | shouponpon | 82.886 |
-| 302 | nobully | 82.225 |
-| 303 | centrux | 82.190 |
-| 304 | JeadIng | 81.323 |
-| 305 | Hober38 | 80.813 |
-| 306 | ricoel | 80.697 |
-| 307 | AlmightyDoor | 80.195 |
+| 292 | Evernight | 86.862 |
+| 293 | Ephix | 86.400 |
+| 294 | Mizeree | 86.019 |
+| 295 | Mornis | 85.940 |
+| 296 | fedoragoose | 85.819 |
+| 297 | EzChock | 85.591 |
+| 298 | Adomeium | 85.098 |
+| 299 | 975250450 | 85.057 |
+| 300 | ciru | 84.536 |
+| 301 | Daisuke Narotan | 84.514 |
+| 302 | Kyros_ | 83.714 |
+| 303 | shouponpon | 82.886 |
+| 304 | centrux | 82.190 |
+| 305 | Anoranza | 82.069 |
+| 306 | JeadIng | 81.912 |
+| 307 | nobully | 80.522 |
 | 308 | Kageno | 79.966 |
-| 309 | Jxir | 79.932 |
-| 310 | Aotoleen | 79.647 |
-| 311 | justman | 79.393 |
-| 312 | superi0r | 79.127 |
-| 313 | Joyi | 79.003 |
-| 314 | Binninja | 78.861 |
-| 315 | Endura | 78.767 |
-| 316 | HikkaSka | 78.522 |
-| 317 | Lewis Hamilton | 78.355 |
-| 318 | Azertyran | 77.788 |
-| 319 | dench | 77.709 |
-| 320 | CyberOni | 77.701 |
+| 309 | ricoel | 79.500 |
+| 310 | superi0r | 79.127 |
+| 311 | Jxir | 78.785 |
+| 312 | Endura | 78.767 |
+| 313 | Aotoleen | 78.553 |
+| 314 | Binninja | 78.359 |
+| 315 | Lewis Hamilton | 78.355 |
+| 316 | AlmightyDoor | 77.958 |
+| 317 | Azertyran | 77.788 |
+| 318 | HikkaSka | 77.604 |
+| 319 | Hober38 | 77.387 |
+| 320 | haga1115 | 77.167 |
 | 321 | [ Zane ] | 77.081 |
-| 322 | haruchi | 76.888 |
-| 323 | Bazingasdead | 76.554 |
-| 324 | haga1115 | 76.515 |
-| 325 | Persona John | 76.341 |
-| 326 | BananaGamer1235 | 76.210 |
-| 327 | Gameroft | 75.865 |
-| 328 | BoshyMan741 | 75.836 |
-| 329 | kemsi | 75.759 |
+| 322 | Bazingasdead | 76.554 |
+| 323 | BananaGamer1235 | 76.210 |
+| 324 | haruchi | 76.182 |
+| 325 | dench | 75.991 |
+| 326 | Gameroft | 75.865 |
+| 327 | kemsi | 75.759 |
+| 328 | justman | 75.641 |
+| 329 | Persona John | 75.584 |
 | 330 | CBarAM06uJlb | 75.131 |
-| 331 | huyanh68 | 74.418 |
-| 332 | razorfruit | 73.524 |
+| 331 | huyanh68 | 73.735 |
+| 332 | Karthy | 73.245 |
 | 333 | Mac | 73.230 |
-| 334 | Karthy | 73.033 |
+| 334 | razorfruit | 73.054 |
 | 335 | iweezz | 73.023 |
-| 336 | Tsfury | 72.982 |
+| 336 | Viveliam | 72.720 |
 | 337 | iryl | 72.700 |
 | 338 | DarthInvaderZim | 72.295 |
-| 339 | Victoor | 72.273 |
-| 340 | HaSappy | 71.321 |
-| 341 | tsunagite | 70.314 |
-| 342 | Sawada | 70.294 |
-| 343 | Alice Carroll | 70.162 |
-| 344 | Rykic | 69.985 |
-| 345 | Exarch | 69.909 |
-| 346 | bored yes | 69.385 |
-| 347 | Calideon | 69.030 |
-| 348 | Viveliam | 68.737 |
-| 349 | splenty | 67.944 |
-| 350 | Impowster | 67.317 |
-| 351 | ChaiPhukChep | 66.607 |
-| 352 | maxbireo | 66.606 |
-| 353 | MoJIHu9I_MaKcuM | 66.569 |
-| 354 | laroxPL NoForm | 66.147 |
+| 339 | Exarch | 71.749 |
+| 340 | Tsfury | 71.414 |
+| 341 | HaSappy | 71.321 |
+| 342 | Victoor | 71.157 |
+| 343 | BoshyMan741 | 71.079 |
+| 344 | Sawada | 70.294 |
+| 345 | Rykic | 69.985 |
+| 346 | bored yes | 69.541 |
+| 347 | Alice Carroll | 69.329 |
+| 348 | Calideon | 69.030 |
+| 349 | tsunagite | 68.880 |
+| 350 | laroxPL NoForm | 67.083 |
+| 351 | splenty | 66.799 |
+| 352 | Impowster | 66.149 |
+| 353 | Sherbet | 65.649 |
+| 354 | MoJIHu9I_MaKcuM | 65.552 |
 | 355 | ecca | 65.519 |
-| 356 | Sherbet | 65.075 |
-| 357 | ESCRUPULILLO | 64.317 |
-| 358 | MR JEFFERY | 64.101 |
-| 359 | Niali | 64.018 |
-| 360 | Deeline | 63.985 |
-| 361 | towren | 63.865 |
-| 362 | Weetab | 63.865 |
-| 363 | Zeisen Udongein | 63.834 |
-| 364 | talala | 63.787 |
-| 365 | Goold | 63.714 |
-| 366 | meramin | 63.538 |
-| 367 | _Twent | 63.410 |
-| 368 | Demonical | 63.333 |
-| 369 | will smith | 62.923 |
-| 370 | Unexpected | 62.592 |
-| 371 | LoidKun | 62.462 |
-| 372 | -Kedama | 62.141 |
-| 373 | Rammu | 62.089 |
-| 374 | Marjus | 61.948 |
-| 375 | eruhar | 61.788 |
-| 376 | John Aim | 61.203 |
-| 377 | Xqeer | 61.075 |
-| 378 | yip | 60.826 |
-| 379 | Satsukiiii | 60.720 |
-| 380 | Gonzah | 60.689 |
-| 381 | Tosen Jordan | 60.583 |
-| 382 | Callionet | 60.583 |
-| 383 | Dwagon | 60.583 |
-| 384 | eloj | 60.583 |
-| 385 | RJbyM | 60.583 |
-| 386 | L1ssak | 60.485 |
-| 387 | Rebo | 60.464 |
-| 388 | C-L | 60.292 |
-| 389 | Rinko Shirokane | 60.255 |
-| 390 | Bajan Canadian | 59.962 |
-| 391 | Jitterish | 59.635 |
-| 392 | AmaoTchoupi | 59.390 |
-| 393 | Azer | 59.093 |
-| 394 | SkunkPunk | 59.049 |
-| 395 | Yellow cat | 58.872 |
-| 396 | Woofel | 58.780 |
-| 397 | Slenderman | 58.381 |
-| 398 | Demegozi | 58.024 |
-| 399 | rafal | 57.945 |
-| 400 | yencis | 57.874 |
-| 401 | ka1rskiy | 57.658 |
-| 402 | Alfrah | 57.146 |
-| 403 | Wario | 56.189 |
-| 404 | Rlsc | 56.055 |
-| 405 | aurora on osu | 55.878 |
-| 406 | CUPSIZEFAN | 55.466 |
-| 407 | Arz3 | 55.382 |
-| 408 | -Solar- | 54.603 |
-| 409 | obkatiekat | 54.241 |
-| 410 | VineOpoly | 54.115 |
-| 411 | xoxyl | 53.840 |
-| 412 | Peterbot | 53.832 |
-| 413 | Grippeh | 52.755 |
-| 414 | Sobu | 52.428 |
-| 415 | Good Boyy | 52.134 |
-| 416 | nightlywind | 52.049 |
-| 417 | shinomontaj | 51.908 |
-| 418 | viet soin tech | 51.436 |
-| 419 | Asckar | 51.399 |
-| 420 | KonKonKinakoN | 51.100 |
-| 421 | AAAAHHHH | 50.866 |
-| 422 | Meraxei | 50.672 |
-| 423 | origin_ | 50.341 |
-| 424 | Anoranza | 49.650 |
+| 356 | maxbireo | 65.494 |
+| 357 | towren | 64.739 |
+| 358 | Demonical | 64.427 |
+| 359 | ChaiPhukChep | 64.230 |
+| 360 | Weetab | 63.865 |
+| 361 | Goold | 63.714 |
+| 362 | talala | 63.626 |
+| 363 | ESCRUPULILLO | 63.557 |
+| 364 | meramin | 63.538 |
+| 365 | Deeline | 63.228 |
+| 366 | Marjus | 63.100 |
+| 367 | Zeisen Udongein | 62.829 |
+| 368 | Unexpected | 62.592 |
+| 369 | Niali | 62.227 |
+| 370 | will smith | 62.049 |
+| 371 | Rammu | 61.812 |
+| 372 | eruhar | 61.788 |
+| 373 | Tosen Jordan | 61.613 |
+| 374 | -Kedama | 61.311 |
+| 375 | John Aim | 61.203 |
+| 376 | Xqeer | 61.075 |
+| 377 | MR JEFFERY | 60.915 |
+| 378 | Satsukiiii | 60.720 |
+| 379 | Gonzah | 60.689 |
+| 380 | Callionet | 60.583 |
+| 381 | Dwagon | 60.583 |
+| 382 | eloj | 60.583 |
+| 383 | RJbyM | 60.583 |
+| 384 | yip | 60.581 |
+| 385 | L1ssak | 60.485 |
+| 386 | C-L | 60.292 |
+| 387 | SkunkPunk | 59.049 |
+| 388 | LoidKun | 58.899 |
+| 389 | Yellow cat | 58.872 |
+| 390 | _Twent | 58.851 |
+| 391 | Azer | 58.724 |
+| 392 | AmaoTchoupi | 58.495 |
+| 393 | Demegozi | 58.024 |
+| 394 | Slenderman | 57.409 |
+| 395 | Rinko Shirokane | 57.334 |
+| 396 | rafal | 57.188 |
+| 397 | Wario | 57.162 |
+| 398 | Woofel | 57.081 |
+| 399 | Bajan Canadian | 57.035 |
+| 400 | Jitterish | 56.621 |
+| 401 | ka1rskiy | 56.560 |
+| 402 | aurora on osu | 55.878 |
+| 403 | CUPSIZEFAN | 55.466 |
+| 404 | Rlsc | 55.463 |
+| 405 | Arz3 | 54.488 |
+| 406 | Alfrah | 54.377 |
+| 407 | yencis | 54.340 |
+| 408 | obkatiekat | 54.241 |
+| 409 | VineOpoly | 54.115 |
+| 410 | Peterbot | 53.832 |
+| 411 | -Solar- | 53.530 |
+| 412 | xoxyl | 53.064 |
+| 413 | Rebo | 52.954 |
+| 414 | rngdle | 52.755 |
+| 415 | viet soin tech | 52.337 |
+| 416 | Good Boyy | 52.134 |
+| 417 | nightlywind | 52.049 |
+| 418 | Sobu | 51.950 |
+| 419 | shinomontaj | 51.908 |
+| 420 | Asckar | 51.399 |
+| 421 | KonKonKinakoN | 51.100 |
+| 422 | AAAAHHHH | 50.866 |
+| 423 | origin_ | 50.093 |
+| 424 | Meraxei | 49.798 |
 | 425 | Aminati | 49.645 |
 | 426 | Luszer | 49.645 |
-| 427 | Lawndred | 49.363 |
-| 428 | InBefore | 49.216 |
-| 429 | Meniwa | 48.779 |
-| 430 | Wakson | 48.736 |
-| 431 | Isak- | 48.486 |
-| 432 | im a fancy lad | 48.436 |
-| 433 | Jyuifty | 48.236 |
-| 434 | baoo | 47.968 |
-| 435 | juujep | 47.873 |
-| 436 | My Angel Kita | 47.502 |
-| 437 | kr__ | 47.326 |
-| 438 | EPIC GAMBLING | 47.281 |
-| 439 | MAREK MARUCHA | 47.277 |
-| 440 | lolol235 | 46.955 |
-| 441 | tortelliniii | 46.755 |
-| 442 | Exalon | 46.700 |
-| 443 | Thuya | 46.542 |
-| 444 | wudci | 46.413 |
-| 445 | Aoi Kiseki | 46.318 |
-| 446 | Yoo Da Hee | 46.104 |
-| 447 | uatzap | 46.059 |
-| 448 | orngoos | 45.491 |
-| 449 | palr | 45.284 |
-| 450 | Moonlit111 | 45.247 |
-| 451 | BR00KLYN | 45.085 |
-| 452 | dsa | 44.756 |
+| 427 | Lawndred | 49.345 |
+| 428 | Jyuifty | 48.800 |
+| 429 | My Angel Kita | 48.289 |
+| 430 | Meniwa | 48.091 |
+| 431 | juujep | 47.873 |
+| 432 | Isak- | 47.798 |
+| 433 | InBefore | 47.753 |
+| 434 | lolol235 | 47.550 |
+| 435 | Wakson | 47.297 |
+| 436 | EPIC GAMBLING | 47.281 |
+| 437 | tortelliniii | 46.755 |
+| 438 | CutPaper | 46.744 |
+| 439 | im a fancy lad | 46.556 |
+| 440 | kr__ | 46.436 |
+| 441 | Bouquetdor | 46.398 |
+| 442 | palr | 46.385 |
+| 443 | baoo | 46.369 |
+| 444 | dsa | 46.052 |
+| 445 | Thuya | 45.878 |
+| 446 | MAREK MARUCHA | 45.872 |
+| 447 | BR00KLYN | 45.850 |
+| 448 | Exalon | 45.826 |
+| 449 | kodama | 45.066 |
+| 450 | uatzap | 44.992 |
+| 451 | Lefy | 44.855 |
+| 452 | Yoo Da Hee | 44.577 |
 | 453 | SheDiK YT | 44.380 |
-| 454 | EvilGamings | 44.343 |
-| 455 | -pare | 44.057 |
-| 456 | r_kt | 43.766 |
-| 457 | Lightedd | 43.548 |
-| 458 | kuzu222 | 43.392 |
-| 459 | SadnessWillSear | 43.021 |
-| 460 | Julla | 42.927 |
-| 461 | Anirium | 42.538 |
-| 462 | CutPaper | 42.090 |
-| 463 | Teacchyyy | 42.020 |
-| 464 | Kokuban | 41.662 |
-| 465 | DazzLE_Wind | 41.356 |
-| 466 | Dropinx | 41.248 |
-| 467 | xan_ly | 40.999 |
-| 468 | Ex Merami | 40.410 |
-| 469 | Nederland | 40.410 |
-| 470 | [Q] | 40.410 |
-| 471 | TacosCordoba | 40.410 |
-| 472 | wooting | 40.410 |
-| 473 | FINGERLOCK | 40.203 |
-| 474 | ampy | 40.157 |
-| 475 | ThePooN | 39.510 |
-| 476 | Bouquetdor | 39.382 |
-| 477 | Pregnancy | 39.326 |
-| 478 | Kurumiw | 39.216 |
-| 479 | xapgoc | 39.177 |
-| 480 | Atsacity | 39.106 |
-| 481 | Indicolite | 39.084 |
-| 482 | [Eclipse] | 38.893 |
-| 483 | disperagioia | 38.873 |
-| 484 | MAKCOH | 38.813 |
-| 485 | AllyrD | 38.799 |
-| 486 | eddy | 38.722 |
-| 487 | T A K A O | 38.665 |
-| 488 | UselessJohn | 38.620 |
-| 489 | VIaddex | 38.411 |
-| 490 | dasdwqdf | 38.409 |
-| 491 | hvke | 38.047 |
-| 492 | taro | 37.953 |
-| 493 | angelkanna | 37.543 |
-| 494 | Froinks | 37.494 |
+| 454 | EvilGamings | 44.097 |
+| 455 | kuzu222 | 43.988 |
+| 456 | Kokuban | 43.864 |
+| 457 | wudci | 43.788 |
+| 458 | r_kt | 43.766 |
+| 459 | orngoos | 43.164 |
+| 460 | SadnessWillSear | 43.039 |
+| 461 | Julla | 42.927 |
+| 462 | Aoi Kiseki | 42.689 |
+| 463 | Anirium | 42.538 |
+| 464 | Moonlit111 | 42.489 |
+| 465 | Dropinx | 42.479 |
+| 466 | Lightedd | 42.442 |
+| 467 | -pare | 41.984 |
+| 468 | DazzLE_Wind | 41.680 |
+| 469 | TacosCordoba | 41.318 |
+| 470 | xan_ly | 40.999 |
+| 471 | Ex Merami | 40.410 |
+| 472 | Nederland | 40.410 |
+| 473 | [Q] | 40.410 |
+| 474 | wooting | 40.410 |
+| 475 | Teacchyyy | 40.257 |
+| 476 | FINGERLOCK | 40.203 |
+| 477 | Pregnancy | 40.030 |
+| 478 | ampy | 39.620 |
+| 479 | dasdwqdf | 39.610 |
+| 480 | Kurumiw | 39.216 |
+| 481 | xapgoc | 39.177 |
+| 482 | Indicolite | 39.084 |
+| 483 | [Eclipse] | 38.893 |
+| 484 | disperagioia | 38.873 |
+| 485 | MAKCOH | 38.813 |
+| 486 | T A K A O | 38.665 |
+| 487 | VIaddex | 38.411 |
+| 488 | Atsacity | 38.091 |
+| 489 | ThePooN | 38.070 |
+| 490 | hvke | 38.047 |
+| 491 | eddy | 37.796 |
+| 492 | ded24lol | 37.735 |
+| 493 | UselessJohn | 37.648 |
+| 494 | angelkanna | 37.543 |
 | 495 | Frenklee | 37.399 |
 | 496 | zivxare | 37.220 |
 | 497 | tan- | 37.022 |
-| 498 | ded24lol | 37.022 |
-| 499 | relikOS | 37.022 |
-| 500 | kodama | 37.003 |
-| 501 | Lefy | 36.592 |
-| 502 | mx10000 | 36.545 |
-| 503 | Juh | 36.530 |
-| 504 | Nailer | 36.146 |
-| 505 | zonamu | 36.123 |
-| 506 | Hibiki | 35.640 |
-| 507 | Gaspi | 35.455 |
-| 508 | CharlioM9 | 35.455 |
-| 509 | hubbawubba | 35.455 |
-| 510 | SrChispa | 35.385 |
-| 511 | ikuyokita | 35.378 |
-| 512 | flansl | 35.319 |
-| 513 | Stinkster | 35.318 |
-| 514 | Failing | 35.290 |
-| 515 | Gambler | 34.817 |
-| 516 | Agent5d | 34.817 |
-| 517 | hqshe | 34.329 |
-| 518 | Nekkid | 34.234 |
-| 519 | DP285 | 34.029 |
-| 520 | Dugyy | 34.024 |
-| 521 | parkrat | 33.967 |
-| 522 | hsk_z | 33.767 |
-| 523 | Filizanowski | 33.767 |
-| 524 | Nopekjk | 33.617 |
+| 498 | relikOS | 37.022 |
+| 499 | Stinkster | 36.691 |
+| 500 | Froinks | 36.620 |
+| 501 | hubbawubba | 36.536 |
+| 502 | Juh | 36.530 |
+| 503 | Gaspi | 36.317 |
+| 504 | zonamu | 36.123 |
+| 505 | Uchirrod | 35.979 |
+| 506 | Nailer | 35.455 |
+| 507 | CharlioM9 | 35.455 |
+| 508 | SrChispa | 35.385 |
+| 509 | Nopekjk | 35.367 |
+| 510 | taro | 35.156 |
+| 511 | mx10000 | 35.130 |
+| 512 | flansl | 34.817 |
+| 513 | Gambler | 34.817 |
+| 514 | Agent5d | 34.817 |
+| 515 | Hibiki | 34.766 |
+| 516 | ikuyokita | 34.567 |
+| 517 | hsk_z | 34.417 |
+| 518 | Failing | 34.344 |
+| 519 | hqshe | 34.329 |
+| 520 | AllyrD | 34.302 |
+| 521 | DP285 | 34.029 |
+| 522 | parkrat | 33.967 |
+| 523 | Arakii | 33.963 |
+| 524 | Filizanowski | 33.767 |
 | 525 | Skrowell | 33.560 |
 | 526 | cr4shz1 | 33.193 |
-| 527 | savilju | 33.153 |
+| 527 | Dugyy | 33.133 |
 | 528 | Nyura | 32.918 |
-| 529 | Chrona 4G | 31.823 |
-| 530 | SinqHD | 31.812 |
-| 531 | MrNobady | 31.329 |
-| 532 | WiggleCalt | 31.216 |
-| 533 | Blah | 31.065 |
-| 534 | Fuma | 31.064 |
-| 535 | JackPaX | 30.868 |
-| 536 | Rampax | 30.726 |
-| 537 | brayan56 | 30.411 |
-| 538 | pawb | 30.292 |
-| 539 | Ivanix | 30.219 |
-| 540 | Informous | 30.193 |
-| 541 | -Snowy- | 30.193 |
-| 542 | Rinnu | 30.158 |
+| 529 | savilju | 32.554 |
+| 530 | Chrona 4G | 31.933 |
+| 531 | Fuma | 31.895 |
+| 532 | Rampax | 31.769 |
+| 533 | brayan56 | 31.620 |
+| 534 | Blah | 31.065 |
+| 535 | Nekkid | 31.033 |
+| 536 | Rinnu | 31.022 |
+| 537 | JackPaX | 30.851 |
+| 538 | robloxxa | 30.756 |
+| 539 | Maklovitz | 30.571 |
+| 540 | Ivanix | 30.219 |
+| 541 | Informous | 30.193 |
+| 542 | -Snowy- | 30.193 |
 | 543 | Winkero | 30.046 |
 | 544 | mihail pikulev | 30.034 |
 | 545 | aidinth | 29.888 |
 | 546 | iamVill | 29.775 |
-| 547 | robloxxa | 29.681 |
-| 548 | Maron | 29.015 |
-| 549 | samuele | 28.849 |
-| 550 | CpxG | 28.465 |
-| 551 | cihp | 28.394 |
-| 552 | gionuaS | 28.123 |
-| 553 | Monko2k | 27.981 |
-| 554 | toon | 27.943 |
-| 555 | Stoof | 27.910 |
-| 556 | sybau technique | 27.887 |
-| 557 | fieryrage | 27.882 |
-| 558 | Vendemmia | 27.856 |
-| 559 | raffytaffy | 27.370 |
-| 560 | Jerma985 | 27.198 |
-| 561 | unhappykuro | 27.019 |
-| 562 | YuuSakku | 26.642 |
-| 563 | Skydiver | 26.006 |
-| 564 | MithiChang | 25.984 |
-| 565 | fish barcode | 25.887 |
-| 566 | Burning John | 25.804 |
-| 567 | Cerkie | 25.804 |
-| 568 | Wolfey- | 25.804 |
-| 569 | Jazzercize | 25.782 |
-| 570 | Leonard H | 25.730 |
-| 571 | Arakii | 25.558 |
-| 572 | Maxe191 | 25.495 |
-| 573 | minus | 25.391 |
-| 574 | ProPlaysForMe | 25.341 |
-| 575 | WhatSkill | 25.287 |
-| 576 | playthroughpain | 25.274 |
-| 577 | Uchirrod | 25.229 |
-| 578 | toybot | 25.116 |
-| 579 | Okinari | 25.011 |
-| 580 | RageMuffin | 24.830 |
-| 581 | stupid dog | 24.676 |
-| 582 | Flameztear | 24.392 |
-| 583 | Lyeli | 24.312 |
-| 584 | Sunwraith | 24.271 |
-| 585 | Legend_OZ | 24.261 |
-| 586 | Dawnwing | 24.191 |
-| 587 | elituqinn | 24.179 |
-| 588 | MyzeJD | 24.040 |
-| 589 | Bonc | 24.040 |
-| 590 | Another Guy | 24.019 |
-| 591 | KoaLeahq | 23.941 |
-| 592 | Flami | 23.756 |
-| 593 | Lolu | 23.748 |
-| 594 | Naigo | 23.254 |
-| 595 | Mouse Player | 23.238 |
-| 596 | Dumii | 23.233 |
-| 597 | trigon | 23.176 |
-| 598 | Tikkanen | 22.948 |
-| 599 | nyachik | 22.693 |
-| 600 | tyty5180 | 22.629 |
-| 601 | lPogonyuto | 22.624 |
-| 602 | Rhythm blue | 22.510 |
-| 603 | rairiku | 22.371 |
-| 604 | Smarteyy | 22.329 |
-| 605 | six seven | 22.295 |
-| 606 | respektive | 22.254 |
-| 607 | golem de caca | 22.171 |
-| 608 | esq | 22.171 |
-| 609 | freaky player | 22.156 |
-| 610 | Darnix | 21.855 |
-| 611 | Midarna | 21.639 |
-| 612 | Icarussy | 21.618 |
-| 613 | GAY BALNER | 21.580 |
-| 614 | flowering | 21.470 |
-| 615 | Maiaz | 21.446 |
-| 616 | Sigmund Fraud | 21.441 |
-| 617 | Saskatchewan | 21.269 |
-| 618 | apisedo | 21.219 |
-| 619 | HandsomeMe | 21.122 |
-| 620 | Vagabond | 21.093 |
-| 621 | -Ke15 | 21.025 |
-| 622 | Warinn | 21.012 |
-| 623 | lystia | 20.935 |
-| 624 | TheKusoAimer | 20.913 |
-| 625 | FlasTEH | 20.840 |
-| 626 | Srr | 20.755 |
-| 627 | aspen | 20.552 |
-| 628 | KevDawg | 20.506 |
-| 629 | Minil | 20.495 |
-| 630 | Phantom-101 | 20.436 |
-| 631 | VizerX | 20.389 |
-| 632 | Arraxey | 20.190 |
-| 633 | honque | 20.104 |
-| 634 | YokesPai | 20.104 |
-| 635 | kt09- | 20.104 |
-| 636 | Supernye | 19.938 |
-| 637 | vin | 19.938 |
-| 638 | RomanTheFUKER | 19.928 |
-| 639 | Tokii | 19.912 |
-| 640 | Dezku | 19.875 |
-| 641 | Diaostrophism | 19.862 |
-| 642 | Nameless Player | 19.735 |
-| 643 | ABERON | 19.591 |
-| 644 | FlipRopiik | 19.394 |
-| 645 | Rushio | 19.253 |
-| 646 | xymbii | 19.249 |
-| 647 | ch0co | 19.147 |
-| 648 | leny | 19.118 |
-| 649 | Ruyaya | 19.019 |
-| 650 | Reimedd | 18.945 |
-| 651 | Don t forget me | 18.790 |
-| 652 | xside365 | 18.774 |
-| 653 | stumphole145 | 18.728 |
-| 654 | Korua | 18.584 |
-| 655 | permiss | 18.546 |
-| 656 | PaintedKoala | 18.544 |
-| 657 | ferom | 18.388 |
-| 658 | Kosiarek | 18.349 |
-| 659 | Felrion | 18.313 |
-| 660 | Yuichi | 18.285 |
-| 661 | Hana buys milk | 18.166 |
-| 662 | ferret irl | 18.133 |
-| 663 | VROUM CV VITE | 18.118 |
-| 664 | Majewski | 18.111 |
-| 665 | Risiing | 18.086 |
-| 666 | puffonxe | 18.040 |
-| 667 | kent | 17.966 |
-| 668 | GabberSS | 17.740 |
-| 669 | Razei | 17.656 |
-| 670 | Hatted | 17.534 |
-| 671 | Possu | 17.467 |
-| 672 | imissher | 17.367 |
-| 673 | vana | 17.304 |
-| 674 | Ui chan | 17.119 |
-| 675 | Prodigal | 17.043 |
-| 676 | bung wung | 17.017 |
-| 677 | Lilily | 17.008 |
-| 678 | durex | 16.992 |
-| 679 | distant_waves | 16.882 |
-| 680 | Zever | 16.833 |
-| 681 | Zucchiniii | 16.682 |
-| 682 | Comatose | 16.675 |
-| 683 | Gigi8974 | 16.628 |
-| 684 | -lion | 16.509 |
-| 685 | kasuwa | 16.488 |
-| 686 | BlaakCat | 16.487 |
-| 687 | SaintSFT | 16.477 |
-| 688 | Strecka | 16.450 |
-| 689 | kinoshita fuyou | 16.450 |
-| 690 | arda | 16.450 |
-| 691 | JGLF | 16.316 |
-| 692 | Turles | 16.257 |
-| 693 | Homutan | 16.213 |
-| 694 | gheanfoil | 16.185 |
-| 695 | MetaBee | 16.152 |
-| 696 | BloxyYogurt | 16.105 |
-| 697 | 4 Fun Gaymer | 16.066 |
-| 698 | ISh0wSpeed | 15.928 |
-| 699 | Fametime | 15.919 |
-| 700 | Losorto | 15.825 |
-| 701 | Daf0nz | 15.820 |
-| 702 | BlancPur | 15.723 |
-| 703 | Traz | 15.623 |
-| 704 | Bertilly | 15.497 |
-| 705 | seegii | 15.364 |
-| 706 | -aico | 15.253 |
-| 707 | ssubinism | 15.247 |
-| 708 | marzey | 15.196 |
-| 709 | AlfredTheSalmon | 15.155 |
-| 710 | defii | 15.128 |
-| 711 | Mike Tyson | 15.124 |
-| 712 | blobnom | 15.117 |
-| 713 | Aerora | 15.093 |
-| 714 | Finloge | 14.940 |
-| 715 | choke enough | 14.933 |
-| 716 | Kingling | 14.848 |
-| 717 | Hera_ | 14.833 |
-| 718 | lightwine | 14.795 |
-| 719 | -Petar | 14.651 |
-| 720 | moon2k | 14.647 |
-| 721 | fireblaze3028 | 14.599 |
-| 722 | mitya | 14.566 |
-| 723 | Leasurex | 14.520 |
-| 724 | coughing baby | 14.491 |
-| 725 | MinsterDA | 14.419 |
-| 726 | Erick71208 | 14.411 |
-| 727 | heikneuter | 14.343 |
-| 728 | PLOXARU | 14.300 |
-| 729 | GAO HAO | 14.267 |
-| 730 | syuq | 14.246 |
-| 731 | Jay12310 | 14.202 |
-| 732 | bashou | 14.202 |
-| 733 | fybeth | 14.202 |
-| 734 | 2391 | 14.202 |
-| 735 | Raidd | 14.186 |
-| 736 | koral | 14.094 |
-| 737 | slapshot | 14.084 |
-| 738 | Bartek22830 | 14.026 |
-| 739 | saewon | 13.735 |
-| 740 | Skill | 13.710 |
-| 741 | 815 | 13.556 |
-| 742 | Myp4uk | 13.472 |
-| 743 | lorenzo101122 | 13.472 |
-| 744 | hallowatcher | 13.370 |
-| 745 | Nymphe | 13.161 |
-| 746 | asheq8 | 13.028 |
-| 747 | SmoothyCloud | 13.028 |
-| 748 | Smoyy | 13.028 |
-| 749 | tsp648 | 13.028 |
-| 750 | EndMePlease | 13.028 |
-| 751 | TetraDoge | 13.024 |
-| 752 | Bae Joohyun | 13.024 |
-| 753 | Crystal | 12.987 |
-| 754 | Spinesnight | 12.984 |
-| 755 | wuk | 12.957 |
-| 756 | Choofy | 12.898 |
-| 757 | Cellinia | 12.896 |
-| 758 | Mayuri | 12.870 |
-| 759 | 011010119 | 12.870 |
-| 760 | Lantis | 12.866 |
-| 761 | she gon pay me | 12.859 |
-| 762 | XimperiaL | 12.831 |
-| 763 | Willy | 12.831 |
-| 764 | L4plus1 | 12.755 |
-| 765 | supercurls | 12.590 |
-| 766 | [RanYakumo] | 12.582 |
-| 767 | BadAimBoi | 12.540 |
-| 768 | Antolions | 12.537 |
-| 769 | antonyw | 12.509 |
-| 770 | ronipan | 12.497 |
-| 771 | Nongsa | 12.474 |
-| 772 | Eagle5324 | 12.421 |
-| 773 | My Angel Anzu | 12.421 |
-| 774 | big snag | 12.386 |
-| 775 | Lewiz | 12.382 |
-| 776 | Meower | 12.299 |
-| 777 | Woolly mammoth | 12.257 |
-| 778 | young leosia | 12.169 |
-| 779 | Lujeol | 12.128 |
-| 780 | sh_TORTIK | 12.108 |
-| 781 | - Fia - | 12.072 |
-| 782 | -ZooM- | 12.033 |
-| 783 | shNzg0d | 11.937 |
-| 784 | Plosmo | 11.928 |
-| 785 | Haadez | 11.915 |
-| 786 | onokari123 | 11.860 |
-| 787 | Zoomeree | 11.860 |
-| 788 | zyanishu | 11.860 |
-| 789 | _NeXuL_ | 11.813 |
-| 790 | AlefGdxD | 11.804 |
-| 791 | Eunha | 11.712 |
-| 792 | paulthebest | 11.630 |
-| 793 | manosaba | 11.603 |
-| 794 | SIDETRACKEDDAY | 11.597 |
-| 795 | -Mahiro | 11.555 |
-| 796 | xayoto | 11.553 |
-| 797 | Ideal | 11.532 |
-| 798 | kulerbruh | 11.532 |
-| 799 | IcyTrip | 11.497 |
-| 800 | getenrou | 11.480 |
-| 801 | Blue Dragon | 11.391 |
-| 802 | NoSin | 11.391 |
-| 803 | ThanosPortal | 11.391 |
-| 804 | Oscar con boina | 11.391 |
-| 805 | snailsmcgee | 11.391 |
-| 806 | 921206025887 | 11.391 |
-| 807 | Dragon20942 | 11.391 |
-| 808 | murziels | 11.391 |
-| 809 | TWOJA STARA | 11.376 |
-| 810 | nitystarex | 11.357 |
-| 811 | Tile | 11.324 |
-| 812 | humane_007 | 11.248 |
-| 813 | Torusama | 11.242 |
-| 814 | henq | 11.242 |
-| 815 | Rozeolifant13 | 11.242 |
-| 816 | Anolikaru | 11.242 |
-| 817 | -hiro | 11.229 |
-| 818 | 120-cell | 11.218 |
-| 819 | OceanMan28 | 11.210 |
-| 820 | ming0328ming | 11.067 |
-| 821 | Lukiii | 10.875 |
-| 822 | HUNDUR | 10.848 |
-| 823 | dados123 | 10.848 |
-| 824 | JapWhite | 10.848 |
-| 825 | Naiwo | 10.760 |
-| 826 | Soba Noodles | 10.726 |
-| 827 | Clutch | 10.691 |
-| 828 | RuHo | 10.684 |
-| 829 | sharpnel | 10.684 |
-| 830 | chxkyqqe | 10.629 |
-| 831 | Taylan_ | 10.599 |
-| 832 | Markrum | 10.586 |
-| 833 | tomadoi | 10.366 |
-| 834 | Camberos | 10.310 |
-| 835 | Purpol | 10.172 |
-| 836 | Avenito | 10.153 |
-| 837 | Mr Wang | 10.138 |
-| 838 | Behwall | 10.101 |
-| 839 | capybaras | 10.084 |
-| 840 | doxxsan_ | 10.050 |
-| 841 | nemroz | 10.050 |
-| 842 | Ghossert | 10.042 |
-| 843 | francisqueso | 10.023 |
-| 844 | Darthh | 9.972 |
-| 845 | kazamabc | 9.897 |
-| 846 | NovatoKing | 9.889 |
-| 847 | ben333ki | 9.875 |
-| 848 | Hinaru | 9.830 |
-| 849 | hosesan1020 | 9.685 |
-| 850 | F2X | 9.632 |
-| 851 | HeyItzShane | 9.580 |
-| 852 | Xemtin | 9.569 |
-| 853 | _kioshi | 9.565 |
-| 854 | mati12xxl | 9.501 |
-| 855 | DecoysIsBored | 9.483 |
-| 856 | Flemes | 9.355 |
-| 857 | flubb | 9.352 |
-| 858 | relrel | 9.309 |
-| 859 | zubs | 9.304 |
-| 860 | k4rnu1 | 9.283 |
-| 861 | Namotzu | 9.164 |
-| 862 | Lu2nar | 9.089 |
-| 863 | chivauva | 9.074 |
-| 864 | Zydan | 9.065 |
-| 865 | Fumatsu | 8.980 |
-| 866 | XenoPenguino | 8.948 |
-| 867 | Yennecilia | 8.869 |
-| 868 | OmegaOrigins | 8.800 |
-| 869 | Oosha | 8.794 |
-| 870 | tgnalice | 8.711 |
-| 871 | Martair | 8.711 |
-| 872 | mads | 8.711 |
-| 873 | Zelths | 8.711 |
-| 874 | -database- | 8.711 |
-| 875 | Ace on osu | 8.711 |
-| 876 | Lemuze | 8.711 |
-| 877 | Scyfyyy | 8.711 |
-| 878 | Mr_Plex | 8.711 |
-| 879 | worst th player | 8.711 |
-| 880 | Nakrobsayhi | 8.711 |
-| 881 | Kiskai | 8.711 |
-| 882 | frozyxd | 8.711 |
-| 883 | Ben Man56 | 8.711 |
-| 884 | resto druid | 8.611 |
-| 885 | kirby mix | 8.476 |
-| 886 | Oly9919 | 8.468 |
-| 887 | Aroph | 8.447 |
-| 888 | Rellay | 8.447 |
-| 889 | zoomiee | 8.427 |
-| 890 | dewy | 8.367 |
-| 891 | Xilver15 | 8.350 |
-| 892 | Nev- | 8.232 |
-| 893 | Npoolyim | 8.200 |
-| 894 | Kyube | 8.108 |
-| 895 | AdonisXVIII | 8.079 |
-| 896 | SeeL | 8.074 |
-| 897 | Daitaku Helios | 8.052 |
-| 898 | Lunacy_ | 8.028 |
-| 899 | ganjanov | 8.025 |
-| 900 | Nevzz | 8.025 |
-| 901 | Jordan The Bear | 8.002 |
-| 902 | Ainee | 7.995 |
-| 903 | chaotic_turtle | 7.929 |
-| 904 | Drxvmik | 7.906 |
-| 905 | Nezzar | 7.862 |
-| 906 | BATBALL | 7.822 |
-| 907 | GoldenMine | 7.802 |
-| 908 | Loosay | 7.802 |
-| 909 | KNa- | 7.717 |
-| 910 | snile | 7.717 |
-| 911 | Musty | 7.690 |
-| 912 | Nayro | 7.674 |
-| 913 | lifetime | 7.605 |
-| 914 | Kippz | 7.601 |
-| 915 | blejd | 7.585 |
-| 916 | AlexBelea | 7.585 |
-| 917 | dimchik | 7.546 |
-| 918 | katalashka son | 7.546 |
-| 919 | evankkk | 7.546 |
-| 920 | Ravene | 7.546 |
-| 921 | zeroly | 7.546 |
-| 922 | N I K I T A | 7.546 |
-| 923 | lightingloyz | 7.431 |
-| 924 | -Dreamless | 7.431 |
-| 925 | luzny | 7.431 |
-| 926 | Seamie | 7.431 |
-| 927 | ValueOrBluff | 7.375 |
-| 928 | Shima Rin Dango | 7.373 |
-| 929 | CircleClick | 7.355 |
-| 930 | 9I DePeBO | 7.355 |
-| 931 | Clarity | 7.303 |
-| 932 | Garch | 7.242 |
-| 933 | aoofbop | 7.242 |
-| 934 | asta is cute | 7.213 |
-| 935 | Lightningfox | 7.212 |
-| 936 | Regou | 7.193 |
-| 937 | sylriu | 7.168 |
-| 938 | Nakano | 7.132 |
-| 939 | Sepid | 7.113 |
-| 940 | Pain | 7.095 |
-| 941 | Librarian | 7.061 |
-| 942 | mabayu | 7.060 |
-| 943 | MarcelSvK | 7.022 |
-| 944 | SurvivorX4 | 7.009 |
-| 945 | BobrowyDealer | 6.986 |
-| 946 | duke | 6.947 |
-| 947 | escace | 6.932 |
-| 948 | Aerodite | 6.915 |
-| 949 | Pinto | 6.915 |
-| 950 | fni | 6.915 |
-| 951 | MblLO | 6.898 |
-| 952 | Freddie Benson | 6.774 |
-| 953 | virtuoso | 6.721 |
-| 954 | csaba21123 | 6.711 |
-| 955 | Carbone | 6.665 |
-| 956 | Ditroon | 6.636 |
-| 957 | emilio12l | 6.636 |
-| 958 | yukin1014 | 6.602 |
-| 959 | Jordan2090 | 6.602 |
-| 960 | mayreel | 6.602 |
-| 961 | uyghti | 6.602 |
-| 962 | honbae | 6.532 |
-| 963 | lestapekka67 | 6.524 |
-| 964 | woojungx4 | 6.523 |
-| 965 | Applett | 6.501 |
-| 966 | Fjell | 6.492 |
-| 967 | QAWSEDRFTGYHUJI | 6.485 |
-| 968 | Oxvenn | 6.462 |
-| 969 | Ole | 6.446 |
-| 970 | Bry | 6.391 |
-| 971 | perhap | 6.389 |
-| 972 | Berinjela Chan | 6.383 |
-| 973 | badplayer817 | 6.379 |
-| 974 | GameDragon36 | 6.374 |
-| 975 | Remyuu | 6.340 |
-| 976 | termi | 6.309 |
-| 977 | Timpower | 6.262 |
-| 978 | Fault | 6.252 |
-| 979 | DoIon | 6.236 |
-| 980 | Thatnoobguy | 6.122 |
-| 981 | _EpicEnder | 6.112 |
-| 982 | Edviskrc | 6.086 |
-| 983 | superCreper | 6.079 |
-| 984 | [RUE]Clamati | 6.079 |
-| 985 | skilledez | 6.079 |
-| 986 | MINHOCA LOKA | 6.079 |
-| 987 | Drox | 6.079 |
-| 988 | Ryzeren | 6.079 |
-| 989 | Leroxa | 6.079 |
-| 990 | spray- | 6.069 |
-| 991 | Dripster1 | 6.058 |
-| 992 | AlexusChristus | 6.027 |
-| 993 | penguinplay | 6.024 |
-| 994 | Ayden2008k | 6.002 |
-| 995 | villix | 5.996 |
-| 996 | twennity | 5.984 |
-| 997 | RafaelXDP | 5.958 |
-| 998 | iblue | 5.954 |
-| 999 | Hyun2 | 5.954 |
-| 1000 | HowlPleb | 5.954 |
-| 1001 | -Karu | 5.934 |
-| 1002 | MidC | 5.925 |
-| 1003 | cheeeeto | 5.913 |
-| 1004 | MoeYandere | 5.910 |
-| 1005 | Accelerator | 5.908 |
-| 1006 | TrickyPugster | 5.884 |
-| 1007 | 5joshi | 5.876 |
-| 1008 | Rikuima | 5.857 |
-| 1009 | CallMeRed | 5.844 |
-| 1010 | nejzha | 5.798 |
-| 1011 | ncrohawk | 5.778 |
-| 1012 | uminekl | 5.746 |
-| 1013 | wukioh | 5.740 |
-| 1014 | up44 | 5.738 |
-| 1015 | Threegs | 5.720 |
-| 1016 | vozte | 5.713 |
-| 1017 | Vivaru | 5.698 |
-| 1018 | anizaka | 5.669 |
-| 1019 | reshamen | 5.596 |
-| 1020 | Vaychi | 5.596 |
-| 1021 | pauldeegee | 5.567 |
-| 1022 | abku stupid | 5.567 |
-| 1023 | ruyu | 5.523 |
-| 1024 | LonixOSU | 5.517 |
-| 1025 | ChillierPear | 5.513 |
-| 1026 | Aristia | 5.496 |
-| 1027 | chicken_67 | 5.438 |
-| 1028 | 1ncert | 5.436 |
-| 1029 | soft kitten | 5.436 |
-| 1030 | Oguri Cap | 5.400 |
-| 1031 | Uzumaki | 5.393 |
-| 1032 | Minecraft s | 5.368 |
-| 1033 | Deppyforce | 5.366 |
-| 1034 | anjroo | 5.331 |
-| 1035 | Kyulke | 5.313 |
-| 1036 | Lucio101 | 5.313 |
-| 1037 | MrNeasel | 5.291 |
-| 1038 | Danini | 5.250 |
-| 1039 | ratbutbuff | 5.232 |
-| 1040 | 1103 | 5.177 |
-| 1041 | Master Oogway | 5.177 |
-| 1042 | Suunr1ze | 5.177 |
-| 1043 | wessel_osu2 | 5.164 |
-| 1044 | Lineu | 5.111 |
-| 1045 | zfire | 5.105 |
-| 1046 | nybia | 5.080 |
-| 1047 | Noty | 5.063 |
-| 1048 | Maklovitz | 5.046 |
-| 1049 | Anhydrous | 5.044 |
-| 1050 | _Chonker | 5.039 |
-| 1051 | Lexalia | 5.011 |
-| 1052 | lovetap | 4.958 |
-| 1053 | AVICE AURA | 4.899 |
-| 1054 | Altrax | 4.899 |
-| 1055 | Wez | 4.895 |
-| 1056 | stacker | 4.895 |
-| 1057 | firebat92 | 4.892 |
-| 1058 | Approach Rate | 4.867 |
-| 1059 | Forsit | 4.855 |
-| 1060 | 3uma | 4.855 |
-| 1061 | hidden on osu | 4.830 |
-| 1062 | Michni | 4.810 |
-| 1063 | CharleLee | 4.781 |
-| 1064 | xiaomao | 4.764 |
-| 1065 | yukinasimp | 4.763 |
-| 1066 | kablaze | 4.721 |
-| 1067 | LUNAISTABBY | 4.713 |
-| 1068 | Jo Yuri | 4.711 |
-| 1069 | astonish | 4.698 |
-| 1070 | shineroo | 4.665 |
-| 1071 | Vento | 4.649 |
-| 1072 | Rimbe | 4.649 |
-| 1073 | zados | 4.649 |
-| 1074 | Ryuzaki | 4.646 |
-| 1075 | -Nenu- | 4.633 |
-| 1076 | Freak Fantome | 4.621 |
-| 1077 | Netsuz | 4.619 |
-| 1078 | Laestadian | 4.601 |
-| 1079 | manicmacho | 4.594 |
-| 1080 | Hardstcukc | 4.592 |
-| 1081 | rlsc1109 | 4.570 |
-| 1082 | yah | 4.539 |
-| 1083 | FujiwaraNoMokou | 4.529 |
-| 1084 | TheNexusGamer | 4.485 |
-| 1085 | Biroche | 4.474 |
-| 1086 | wideBoink | 4.474 |
-| 1087 | Tayco | 4.463 |
-| 1088 | AstroFP | 4.460 |
-| 1089 | Chzaron | 4.449 |
-| 1090 | Spektre | 4.431 |
-| 1091 | KyoouN | 4.415 |
-| 1092 | A N T O N I O | 4.389 |
-| 1093 | sagiiT | 4.375 |
-| 1094 | yandax | 4.375 |
-| 1095 | Kasperi | 4.375 |
-| 1096 | Jarran | 4.343 |
-| 1097 | Typeddiamond | 4.342 |
-| 1098 | ILX | 4.326 |
-| 1099 | SkY TN | 4.314 |
-| 1100 | JabuKa | 4.314 |
-| 1101 | cheeseball87 | 4.314 |
-| 1102 | asphyxiate | 4.314 |
-| 1103 | darvv | 4.314 |
-| 1104 | nemoest | 4.314 |
-| 1105 | forza | 4.314 |
-| 1106 | -Tuo | 4.314 |
-| 1107 | Menoji | 4.314 |
-| 1108 | DuZGLOL | 4.314 |
-| 1109 | Abran | 4.314 |
-| 1110 | AliceThymefield | 4.314 |
-| 1111 | Reira | 4.314 |
-| 1112 | Nono7524 | 4.314 |
-| 1113 | fajga | 4.249 |
-| 1114 | EVIL BALNER | 4.231 |
-| 1115 | Siffrin | 4.231 |
-| 1116 | tpa_ | 4.231 |
-| 1117 | the woke left | 4.231 |
-| 1118 | chicken_10 | 4.231 |
-| 1119 | [Bau] | 4.226 |
-| 1120 | garab1k | 4.210 |
-| 1121 | Carlosflow | 4.202 |
-| 1122 | KyZzo | 4.188 |
-| 1123 | [RyuTell] | 4.170 |
-| 1124 | LaBron Jayms | 4.169 |
-| 1125 | Zeklewa | 4.157 |
-| 1126 | somethingcooll | 4.117 |
-| 1127 | [dekori] | 4.072 |
-| 1128 | Name94 | 4.052 |
-| 1129 | Zonii | 4.051 |
-| 1130 | Woodsiee | 4.051 |
-| 1131 | Uma Rice Shower | 4.051 |
-| 1132 | Ginga | 4.051 |
-| 1133 | judor | 4.030 |
-| 1134 | Palodex | 4.030 |
-| 1135 | STLNR | 4.030 |
-| 1136 | Stormur | 4.030 |
-| 1137 | - joshh | 4.030 |
-| 1138 | mli | 4.030 |
-| 1139 | bing bong | 4.030 |
-| 1140 | GalaxyGaming | 4.030 |
-| 1141 | demohooo | 4.030 |
-| 1142 | OCY 3HAETE | 4.030 |
-| 1143 | Ancenthe | 4.030 |
-| 1144 | artlost | 4.030 |
-| 1145 | Shinkiro | 4.030 |
-| 1146 | Xtal | 4.030 |
-| 1147 | KEKW_ | 3.987 |
-| 1148 | Twilight | 3.975 |
-| 1149 | Maru | 3.971 |
-| 1150 | Juicy | 3.967 |
-| 1151 | conradmittn | 3.958 |
-| 1152 | Ragezeus | 3.946 |
-| 1153 | REFANTAZIO | 3.938 |
-| 1154 | Neliel | 3.937 |
-| 1155 | PotJohn Nutella | 3.844 |
-| 1156 | Zralf | 3.839 |
-| 1157 | emilia | 3.838 |
-| 1158 | GALNERYUS | 3.828 |
-| 1159 | Def3nderFV | 3.823 |
-| 1160 | CIash of Clans | 3.806 |
-| 1161 | vain | 3.803 |
-| 1162 | glag | 3.803 |
-| 1163 | Karuna | 3.798 |
-| 1164 | pedeko | 3.753 |
-| 1165 | DataUser | 3.738 |
-| 1166 | NerO | 3.724 |
-| 1167 | rtx | 3.695 |
-| 1168 | DonnieGG | 3.691 |
-| 1169 | Abraham | 3.665 |
-| 1170 | MioMilo | 3.648 |
-| 1171 | xXChokgamerXx | 3.634 |
-| 1172 | Lunasa | 3.615 |
-| 1173 | BOSNIATRUCKER13 | 3.608 |
-| 1174 | GabiBoltZ | 3.600 |
-| 1175 | 13roil | 3.594 |
-| 1176 | FreeDom | 3.585 |
-| 1177 | Read Horimiya | 3.570 |
-| 1178 | Sordruther | 3.570 |
-| 1179 | Birchman | 3.570 |
-| 1180 | tsuniko | 3.568 |
-| 1181 | deit | 3.562 |
-| 1182 | bob man | 3.537 |
-| 1183 | Crestive | 3.525 |
-| 1184 | n0 head | 3.495 |
-| 1185 | Areumi | 3.495 |
-| 1186 | -Spec | 3.484 |
-| 1187 | [KOR]Kosaki | 3.459 |
-| 1188 | IRanko | 3.372 |
-| 1189 | JustTaka | 3.372 |
-| 1190 | DigitalHypno | 3.366 |
-| 1191 | GfMRT | 3.364 |
-| 1192 | Skellers | 3.363 |
-| 1193 | fleuphy | 3.359 |
-| 1194 | Pancho | 3.354 |
-| 1195 | glass2wave7 | 3.350 |
-| 1196 | pundice | 3.350 |
-| 1197 | BiggestAknzxFan | 3.350 |
-| 1198 | -Puyu | 3.336 |
-| 1199 | Starbucks Pepsi | 3.336 |
-| 1200 | Tristan | 3.336 |
-| 1201 | melwem | 3.333 |
-| 1202 | MumeiLover | 3.272 |
-| 1203 | Gasha | 3.250 |
-| 1204 | Fobxx | 3.249 |
-| 1205 | Toshino Kyouko | 3.231 |
-| 1206 | Just2Gud | 3.221 |
-| 1207 | RESU | 3.219 |
-| 1208 | chests | 3.211 |
-| 1209 | Weeder | 3.194 |
-| 1210 | -Hatsune Miku | 3.193 |
-| 1211 | Ebutenim | 3.189 |
-| 1212 | lizzzil | 3.185 |
-| 1213 | Stylante | 3.177 |
-| 1214 | So_pro | 3.177 |
-| 1215 | riwu | 3.177 |
-| 1216 | _singularity | 3.177 |
-| 1217 | Ant -w- | 3.177 |
-| 1218 | kaenen | 3.177 |
-| 1219 | [ Yozzied ] | 3.171 |
-| 1220 | cryptile | 3.165 |
-| 1221 | Drerrie | 3.129 |
-| 1222 | kagiura | 3.110 |
-| 1223 | radicallad | 3.110 |
-| 1224 | bgm16 | 3.094 |
-| 1225 | Dsan | 3.087 |
-| 1226 | robotonic | 3.082 |
-| 1227 | Valor1248 | 3.077 |
-| 1228 | keluu | 3.077 |
-| 1229 | meddle | 3.077 |
-| 1230 | [ Nano ] | 3.063 |
-| 1231 | -Spartan | 3.048 |
-| 1232 | Toua | 3.028 |
-| 1233 | bibidibabidiboo | 3.025 |
-| 1234 | sephy | 2.983 |
-| 1235 | dectopia | 2.982 |
-| 1236 | yenator07 | 2.982 |
-| 1237 | cir | 2.982 |
-| 1238 | Charles Leclerc | 2.982 |
-| 1239 | shadow modico | 2.982 |
-| 1240 | Sawitar | 2.982 |
-| 1241 | BJIADOC | 2.982 |
-| 1242 | Xiel | 2.980 |
-| 1243 | kettoph | 2.980 |
-| 1244 | Cheriatric | 2.980 |
-| 1245 | bottomhottom | 2.980 |
-| 1246 | koyo | 2.980 |
-| 1247 | 643 | 2.980 |
-| 1248 | 4a463a77de8f1b5 | 2.974 |
-| 1249 | noncycle | 2.953 |
-| 1250 | -Danon | 2.949 |
-| 1251 | See | 2.945 |
-| 1252 | movement | 2.936 |
-| 1253 | realshin | 2.917 |
-| 1254 | Nightsky | 2.917 |
-| 1255 | GGBY | 2.917 |
-| 1256 | NO37 | 2.894 |
-| 1257 | Jet- | 2.859 |
-| 1258 | amefuri | 2.840 |
-| 1259 | lilybannanas9 | 2.817 |
-| 1260 | Mysamine | 2.810 |
-| 1261 | connorr | 2.810 |
-| 1262 | Hare_ | 2.731 |
-| 1263 | VilaZ | 2.638 |
-| 1264 | FUNKYKONG | 2.633 |
-| 1265 | Nekoyase | 2.628 |
-| 1266 | Vitya1437 | 2.594 |
-| 1267 | jan glin | 2.565 |
-| 1268 | Petit | 2.557 |
-| 1269 | Mystia | 2.551 |
-| 1270 | ImOyZo | 2.537 |
-| 1271 | Megidy | 2.517 |
-| 1272 | 1337 Yutio | 2.517 |
-| 1273 | cavoeboy | 2.486 |
-| 1274 | Orkay | 2.484 |
-| 1275 | zmecha | 2.468 |
-| 1276 | ph1x | 2.417 |
-| 1277 | Dacoma | 2.417 |
-| 1278 | PenguiN_zi | 2.417 |
-| 1279 | Marquez | 2.414 |
-| 1280 | mniminwoo | 2.412 |
-| 1281 | ArkShadow | 2.405 |
-| 1282 | theez | 2.384 |
-| 1283 | karomi | 2.339 |
-| 1284 | moar | 2.338 |
-| 1285 | [-Lockon-] | 2.289 |
-| 1286 | jaswon | 2.289 |
-| 1287 | TheRainHome | 2.277 |
-| 1288 | Frane | 2.268 |
-| 1289 | WiMpN | 2.266 |
-| 1290 | KiryuMiya | 2.263 |
-| 1291 | Furina- | 2.232 |
-| 1292 | Dafonz | 2.228 |
-| 1293 | Dream Journey | 2.228 |
-| 1294 | ElectabuzzZ | 2.179 |
-| 1295 | CosmicWolf | 2.179 |
-| 1296 | Amuro | 2.170 |
-| 1297 | Dessiderium | 2.167 |
-| 1298 | Spev | 2.155 |
-| 1299 | Recia | 2.154 |
-| 1300 | Chyrubi | 2.143 |
-| 1301 | egaSyeliR | 2.143 |
-| 1302 | Neutromint | 2.143 |
-| 1303 | 1Max | 2.133 |
-| 1304 | Zhamso | 2.131 |
-| 1305 | tacogordo777 | 2.131 |
-| 1306 | Water1em0n | 2.131 |
-| 1307 | DJ Rinickulous | 2.128 |
-| 1308 | Ahshi | 2.121 |
-| 1309 | Chubery | 2.109 |
-| 1310 | WubWoofWolf | 2.108 |
-| 1311 | Rohulk | 2.105 |
-| 1312 | Wilchq | 2.104 |
-| 1313 | Belfast | 2.104 |
-| 1314 | xQwake | 2.086 |
-| 1315 | Destros | 2.086 |
-| 1316 | Antaanar | 2.073 |
-| 1317 | CFGiel | 2.071 |
-| 1318 | waste- | 2.066 |
-| 1319 | -raizen- | 2.064 |
-| 1320 | dlwlrma- | 2.062 |
-| 1321 | kemdaosa | 2.062 |
-| 1322 | Chheng | 2.062 |
-| 1323 | perich | 2.055 |
-| 1324 | Bomilk | 2.042 |
-| 1325 | Alarielle | 2.041 |
-| 1326 | Bakladgan | 2.041 |
-| 1327 | doddack | 2.030 |
-| 1328 | 6otomakas | 1.994 |
-| 1329 | VerreDeCafe | 1.972 |
-| 1330 | Fadi | 1.972 |
-| 1331 | Cafea_ | 1.972 |
-| 1332 | blackpoint675 | 1.964 |
-| 1333 | W A R P A T H | 1.962 |
-| 1334 | TOCTEP | 1.958 |
-| 1335 | exen47 | 1.946 |
-| 1336 | northsign | 1.937 |
-| 1337 | Misono MikaXD | 1.935 |
-| 1338 | Maxkem | 1.932 |
-| 1339 | Azvameth | 1.932 |
-| 1340 | Kayxo_ | 1.932 |
-| 1341 | darkyn | 1.921 |
-| 1342 | Massimo99 | 1.915 |
-| 1343 | RICH CHIGGA | 1.910 |
-| 1344 | Limu | 1.910 |
-| 1345 | Chiya1001 | 1.900 |
-| 1346 | nbss | 1.900 |
-| 1347 | PeteX | 1.900 |
-| 1348 | NoikkaX | 1.900 |
-| 1349 | seki | 1.900 |
-| 1350 | Kasuzu | 1.900 |
-| 1351 | Leehai | 1.900 |
-| 1352 | Yunsmi | 1.900 |
-| 1353 | MioYamazaki | 1.900 |
-| 1354 | atsukow | 1.900 |
-| 1355 | averybadnoob | 1.900 |
-| 1356 | MadLad | 1.900 |
-| 1357 | Nature angel | 1.900 |
-| 1358 | DaHuJka | 1.883 |
-| 1359 | Taterazay | 1.882 |
-| 1360 | lychee boba | 1.879 |
-| 1361 | kontener | 1.868 |
-| 1362 | onkar | 1.868 |
-| 1363 | Eurenel | 1.868 |
-| 1364 | boy thighs | 1.868 |
-| 1365 | wooper | 1.868 |
-| 1366 | POMAH | 1.866 |
-| 1367 | Yato Kukuru | 1.858 |
-| 1368 | shion | 1.855 |
-| 1369 | Kariyu | 1.853 |
-| 1370 | EEEEEEEEEEEEEEE | 1.851 |
-| 1371 | Darkxide | 1.844 |
-| 1372 | cyo | 1.828 |
-| 1373 | Mami | 1.828 |
-| 1374 | Furudo Erika | 1.828 |
-| 1375 | Ventus | 1.779 |
-| 1376 | AA_Raiden_MK | 1.775 |
-| 1377 | Kuchiki Rukia | 1.773 |
-| 1378 | MietteDePain_ | 1.758 |
-| 1379 | Xyloz | 1.758 |
-| 1380 | Chamqp | 1.748 |
-| 1381 | IcyBoat | 1.745 |
-| 1382 | Sirek | 1.744 |
-| 1383 | Vvn | 1.738 |
-| 1384 | Wispy | 1.733 |
-| 1385 | danib0k | 1.726 |
-| 1386 | PCMK | 1.726 |
-| 1387 | Chechill | 1.726 |
-| 1388 | Kumeri | 1.726 |
-| 1389 | ianski | 1.726 |
-| 1390 | -Rigel- | 1.726 |
-| 1391 | kolic | 1.726 |
-| 1392 | thu4der | 1.726 |
-| 1393 | Bronya | 1.724 |
-| 1394 | EZDT | 1.708 |
-| 1395 | Enumi | 1.700 |
-| 1396 | believer_i | 1.684 |
-| 1397 | Mrkotikgg | 1.681 |
-| 1398 | sztywny | 1.681 |
-| 1399 | FetherFall | 1.681 |
-| 1400 | Dri3x | 1.681 |
-| 1401 | creator | 1.669 |
-| 1402 | Winfly | 1.662 |
-| 1403 | Nepyutsu | 1.662 |
-| 1404 | SLOVAKTRUCKER | 1.660 |
-| 1405 | AlpiAz | 1.658 |
-| 1406 | ywd | 1.653 |
-| 1407 | Sturvos | 1.650 |
-| 1408 | Ichinose-Honami | 1.644 |
-| 1409 | SilvDoge | 1.644 |
-| 1410 | rezendeevil | 1.639 |
-| 1411 | follon | 1.634 |
-| 1412 | Petirabi | 1.634 |
-| 1413 | Lantic | 1.634 |
-| 1414 | BabyScylla | 1.613 |
-| 1415 | gusniki | 1.607 |
-| 1416 | sakucherry | 1.589 |
-| 1417 | Ayamaki | 1.589 |
-| 1418 | ReusoL | 1.571 |
-| 1419 | MouseEasy | 1.571 |
-| 1420 | SakuraSunset | 1.571 |
-| 1421 | awawa | 1.571 |
-| 1422 | iisobeyan | 1.568 |
-| 1423 | Thorfinn | 1.551 |
-| 1424 | sakuraskip | 1.536 |
-| 1425 | Sparkxei | 1.536 |
-| 1426 | LLIaBKa | 1.532 |
-| 1427 | dyl | 1.517 |
-| 1428 | Flask | 1.514 |
-| 1429 | sriracha rice | 1.496 |
-| 1430 | JLC314 | 1.493 |
-| 1431 | Jmeeeh | 1.493 |
-| 1432 | Stravez0r | 1.486 |
-| 1433 | Evrazija | 1.486 |
-| 1434 | Skyrovania | 1.485 |
-| 1435 | roliy | 1.485 |
-| 1436 | FDX | 1.485 |
-| 1437 | nwd | 1.481 |
-| 1438 | LUq | 1.481 |
-| 1439 | DanFi | 1.476 |
-| 1440 | Sn34Ky_ | 1.476 |
-| 1441 | ELNabhan | 1.471 |
-| 1442 | NeruNeru | 1.453 |
-| 1443 | wamu | 1.452 |
-| 1444 | littleguy397658 | 1.443 |
-| 1445 | hlanden | 1.443 |
-| 1446 | boleks | 1.431 |
-| 1447 | EyesNeverOpen | 1.431 |
-| 1448 | TomoChen | 1.431 |
-| 1449 | plumerihne | 1.424 |
-| 1450 | Mentalol | 1.417 |
-| 1451 | [LAMY] | 1.415 |
-| 1452 | Shigeru22 | 1.411 |
-| 1453 | [ Master ] | 1.411 |
-| 1454 | Radusek | 1.410 |
-| 1455 | Worne | 1.408 |
-| 1456 | Darrile | 1.408 |
-| 1457 | morix | 1.403 |
-| 1458 | ReaL motion | 1.402 |
-| 1459 | OctopuSSX | 1.395 |
-| 1460 | Toilet Player | 1.395 |
-| 1461 | dantedel221 | 1.395 |
-| 1462 | Valdyr | 1.393 |
-| 1463 | kurume | 1.393 |
-| 1464 | - Kataomoi - | 1.393 |
-| 1465 | Tyrfin | 1.389 |
-| 1466 | Enigmatic | 1.389 |
-| 1467 | Knalli | 1.374 |
-| 1468 | RYPSON | 1.363 |
-| 1469 | GSBlank | 1.363 |
-| 1470 | Sandron | 1.363 |
-| 1471 | Alina Gray | 1.363 |
-| 1472 | Umatza | 1.363 |
-| 1473 | domplayer | 1.356 |
-| 1474 | love katagiri | 1.347 |
-| 1475 | Finney | 1.340 |
-| 1476 | Dathian | 1.340 |
-| 1477 | -Atour- | 1.340 |
-| 1478 | Hakumo Shiro | 1.340 |
-| 1479 | [-Pure Ruby-] | 1.336 |
-| 1480 | Evgesh_ochka | 1.334 |
-| 1481 | Neatral | 1.332 |
-| 1482 | zzzbored | 1.329 |
-| 1483 | _Kaczek_ | 1.324 |
-| 1484 | Kulche | 1.319 |
-| 1485 | a12456 | 1.317 |
-| 1486 | -Masta- | 1.317 |
-| 1487 | what about me | 1.317 |
-| 1488 | RiceShower | 1.302 |
-| 1489 | HYUNG JOO | 1.302 |
-| 1490 | LogiDASH | 1.302 |
-| 1491 | mats on osu | 1.302 |
-| 1492 | Chakrami | 1.302 |
-| 1493 | pr1mary | 1.302 |
-| 1494 | Fmi | 1.302 |
-| 1495 | Adrean | 1.302 |
-| 1496 | pizzouilleee | 1.302 |
-| 1497 | sareemaa | 1.302 |
-| 1498 | SlicedAvocado | 1.302 |
-| 1499 | paxyh | 1.302 |
-| 1500 | mxu | 1.300 |
-| 1501 | Denk | 1.284 |
-| 1502 | autumntheninth | 1.271 |
-| 1503 | Razekon | 1.268 |
-| 1504 | Ev1dent | 1.265 |
-| 1505 | Dextrol | 1.265 |
-| 1506 | le pauvre bil | 1.265 |
-| 1507 | calculus | 1.264 |
-| 1508 | UberFazz | 1.260 |
-| 1509 | azr8 | 1.257 |
-| 1510 | Ethermeral | 1.257 |
-| 1511 | Garden | 1.248 |
-| 1512 | Nov4- | 1.239 |
-| 1513 | duerpv4 | 1.236 |
-| 1514 | Mariskiy Modnik | 1.236 |
-| 1515 | verfex | 1.236 |
-| 1516 | Chiu | 1.235 |
-| 1517 | Zuness | 1.229 |
-| 1518 | jixxi | 1.228 |
-| 1519 | Myonpaku | 1.228 |
-| 1520 | ArmaniDilbo | 1.228 |
-| 1521 | Etfard | 1.228 |
-| 1522 | [ Hyung ] | 1.222 |
-| 1523 | peroro | 1.219 |
-| 1524 | ericqdog | 1.218 |
-| 1525 | umii | 1.212 |
-| 1526 | hivno | 1.205 |
-| 1527 | Duskyui | 1.202 |
-| 1528 | Taldux | 1.200 |
-| 1529 | WorstTechPlayer | 1.199 |
-| 1530 | Fanty | 1.195 |
-| 1531 | Malolat | 1.191 |
-| 1532 | Will Stetson | 1.190 |
-| 1533 | Spaek | 1.185 |
-| 1534 | aiyern | 1.176 |
-| 1535 | chungis | 1.168 |
-| 1536 | - Alice | 1.160 |
-| 1537 | SgtCataclyst | 1.153 |
-| 1538 | beeco | 1.152 |
-| 1539 | _Dan | 1.149 |
-| 1540 | Zhyich | 1.143 |
-| 1541 | creeperXP | 1.140 |
-| 1542 | zSmoxKe | 1.132 |
-| 1543 | Risea | 1.132 |
-| 1544 | Unibrick | 1.126 |
-| 1545 | yumenoshima | 1.125 |
-| 1546 | Deleted_User401 | 1.121 |
-| 1547 | Levesile | 1.119 |
-| 1548 | pruKD | 1.118 |
-| 1549 | Vespirit | 1.112 |
-| 1550 | Toma 2 | 1.112 |
-| 1551 | MALESHEVSKI | 1.112 |
-| 1552 | Asobase | 1.111 |
-| 1553 | Polle | 1.099 |
-| 1554 | kottEy | 1.076 |
-| 1555 | AJT | 1.076 |
-| 1556 | GRR SNARL GROWL | 1.068 |
-| 1557 | Rinyeki | 1.054 |
-| 1558 | konjihi | 1.054 |
-| 1559 | Kudou Chitose | 1.047 |
-| 1560 | KOCT9H | 1.035 |
-| 1561 | CoLouRed GlaZeE | 1.028 |
-| 1562 | telehops | 1.025 |
-| 1563 | araran | 1.018 |
-| 1564 | sophills | 1.017 |
-| 1565 | milosz kitten | 0.999 |
-| 1566 | MrPotato | 0.993 |
-| 1567 | Stecki | 0.993 |
-| 1568 | Guyan | 0.958 |
-| 1569 | ordinary | 0.946 |
-| 1570 | rumii | 0.940 |
-| 1571 | GamerPro3000 | 0.935 |
-| 1572 | BruhMoment | 0.935 |
-| 1573 | Freezd | 0.926 |
-| 1574 | hihihaha142 | 0.926 |
-| 1575 | kannyaws | 0.926 |
-| 1576 | fruit cup | 0.923 |
-| 1577 | yutro | 0.923 |
-| 1578 | Stixe | 0.918 |
-| 1579 | -anastasia | 0.918 |
-| 1580 | Sieu Phan Dong | 0.896 |
-| 1581 | Ahrome | 0.896 |
-| 1582 | Tespa | 0.896 |
-| 1583 | KagaSumire | 0.896 |
-| 1584 | Lex_Al | 0.890 |
-| 1585 | CRIMEA | 0.885 |
-| 1586 | -Shrek | 0.885 |
-| 1587 | Hunter Thompson | 0.879 |
-| 1588 | queue | 0.879 |
-| 1589 | Murzikk | 0.879 |
-| 1590 | teffek | 0.879 |
-| 1591 | bobiak | 0.874 |
-| 1592 | qexing | 0.874 |
-| 1593 | Gulerod | 0.874 |
-| 1594 | Duklet | 0.874 |
-| 1595 | nty1 | 0.874 |
-| 1596 | nyrino | 0.873 |
-| 1597 | El Condor Pasa | 0.869 |
-| 1598 | Big Z | 0.869 |
-| 1599 | Riquiria | 0.869 |
-| 1600 | Reimu-Desu | 0.837 |
-| 1601 | sonix | 0.837 |
-| 1602 | lolol234 | 0.837 |
-| 1603 | NelicMies322 | 0.837 |
-| 1604 | - Phantasma - | 0.832 |
-| 1605 | zeta | 0.832 |
-| 1606 | Miisted | 0.832 |
-| 1607 | kaoshii | 0.832 |
-| 1608 | SparxieFan059 | 0.831 |
-| 1609 | Snakeq | 0.827 |
-| 1610 | Woodzy | 0.811 |
-| 1611 | CRACK FIEND | 0.811 |
-| 1612 | madeinkr | 0.811 |
-| 1613 | Kucheryavyy | 0.811 |
-| 1614 | Defex | 0.796 |
-| 1615 | Waffle- | 0.796 |
-| 1616 | Izomraktar | 0.796 |
-| 1617 | BoinkyDoinker | 0.796 |
-| 1618 | Burtpi | 0.791 |
-| 1619 | Artsy | 0.786 |
-| 1620 | Philly Cheese | 0.786 |
-| 1621 | AWhitePhoenix | 0.786 |
-| 1622 | -Machine- | 0.775 |
-| 1623 | AwesomeBrewski | 0.770 |
-| 1624 | aquaDOR_ | 0.767 |
-| 1625 | y0c | 0.765 |
-| 1626 | kokiton | 0.765 |
-| 1627 | SKY9487 | 0.765 |
-| 1628 | apeach | 0.765 |
-| 1629 | More | 0.765 |
-| 1630 | Shizuru- | 0.765 |
-| 1631 | Mokha | 0.765 |
-| 1632 | SoraRyow | 0.765 |
-| 1633 | Tong Zi | 0.765 |
-| 1634 | Instagator | 0.765 |
-| 1635 | Mochio1 | 0.765 |
-| 1636 | SteIIa | 0.765 |
-| 1637 | ifox | 0.765 |
-| 1638 | ArFunG | 0.760 |
-| 1639 | sut_son | 0.760 |
-| 1640 | inchanpiyu | 0.760 |
-| 1641 | Shikkesora | 0.760 |
-| 1642 | Dzyre | 0.760 |
-| 1643 | Jxrdan | 0.760 |
-| 1644 | Batmann248 | 0.760 |
-| 1645 | TheML69 | 0.760 |
-| 1646 | Salazarino | 0.760 |
-| 1647 | Craezyman | 0.760 |
-| 1648 | Herbayse | 0.760 |
-| 1649 | 1nput | 0.760 |
-| 1650 | rubi | 0.760 |
-| 1651 | Cocoamallows | 0.760 |
-| 1652 | -Tzerk | 0.760 |
-| 1653 | Anatolij1941 | 0.760 |
-| 1654 | Rulyz | 0.760 |
-| 1655 | [-Dany-] | 0.760 |
-| 1656 | HubuCakes | 0.760 |
-| 1657 | vAgue57 | 0.760 |
-| 1658 | Katixiya | 0.760 |
-| 1659 | Acillac | 0.760 |
-| 1660 | ThuNguyen Grape | 0.760 |
-| 1661 | -- Waffle -- | 0.760 |
-| 1662 | LaplusMyMommy | 0.760 |
-| 1663 | Sadredstone | 0.760 |
-| 1664 | joan flowaim | 0.760 |
-| 1665 | cai0 | 0.760 |
-| 1666 | testie | 0.760 |
-| 1667 | cyberbunny3 | 0.760 |
-| 1668 | Liumiya | 0.760 |
-| 1669 | site0121 | 0.760 |
-| 1670 | Saftohr | 0.758 |
-| 1671 | Chuckasinbeef | 0.757 |
-| 1672 | stellasu | 0.755 |
-| 1673 | FelixSosa | 0.755 |
-| 1674 | suenzy | 0.740 |
-| 1675 | Toyota Wellman | 0.738 |
-| 1676 | ChronoTrig | 0.735 |
-| 1677 | toay | 0.733 |
-| 1678 | klappy1 | 0.730 |
-| 1679 | player03 | 0.730 |
-| 1680 | Ralmbry | 0.730 |
-| 1681 | nana7shi | 0.729 |
-| 1682 | Viena | 0.729 |
-| 1683 | Atri - | 0.729 |
-| 1684 | ICallHerMommy | 0.729 |
-| 1685 | Graguan | 0.729 |
-| 1686 | aerith1025 | 0.729 |
-| 1687 | Anpan dayo | 0.729 |
-| 1688 | punikidesu- | 0.729 |
-| 1689 | Baltea | 0.729 |
-| 1690 | Peruere | 0.729 |
-| 1691 | Raydric | 0.725 |
-| 1692 | Homura- | 0.725 |
-| 1693 | Gokuri | 0.725 |
-| 1694 | Mercurius | 0.725 |
-| 1695 | Melt3dCheeze | 0.725 |
-| 1696 | Kairi | 0.725 |
-| 1697 | 5231_Kinoko | 0.725 |
-| 1698 | _---__old | 0.725 |
-| 1699 | muchy | 0.725 |
-| 1700 | Yuh | 0.725 |
-| 1701 | Pijokash | 0.725 |
-| 1702 | CrtReXn | 0.725 |
-| 1703 | Meiph | 0.725 |
-| 1704 | Yellowl | 0.725 |
-| 1705 | oOFrostOo | 0.725 |
-| 1706 | helix | 0.725 |
-| 1707 | Area | 0.725 |
-| 1708 | Ceja | 0.725 |
-| 1709 | BROCKHAMPTON | 0.725 |
-| 1710 | MeaAngel | 0.725 |
-| 1711 | BoT-Shirt | 0.725 |
-| 1712 | Akakuro | 0.725 |
-| 1713 | Aerxia | 0.725 |
-| 1714 | Elzbieta | 0.725 |
-| 1715 | Miguel Mella | 0.725 |
-| 1716 | ToshiroKen | 0.725 |
-| 1717 | Infectonator | 0.725 |
-| 1718 | Twintail | 0.725 |
-| 1719 | Jafeto_99 | 0.725 |
-| 1720 | im gay | 0.725 |
-| 1721 | Brown Guy 1 | 0.725 |
-| 1722 | STH531 | 0.725 |
-| 1723 | still bummed | 0.725 |
-| 1724 | Neta | 0.724 |
-| 1725 | -Myhra | 0.724 |
-| 1726 | TinyPark | 0.724 |
-| 1727 | Masox | 0.724 |
-| 1728 | Teejay | 0.724 |
-| 1729 | Pangetism | 0.724 |
-| 1730 | Anroyz | 0.724 |
-| 1731 | My Angel Bronya | 0.724 |
-| 1732 | Tetla | 0.720 |
-| 1733 | 872316468 | 0.720 |
-| 1734 | Asahi | 0.720 |
-| 1735 | Leiv | 0.720 |
-| 1736 | qtz | 0.720 |
-| 1737 | yeou_ | 0.720 |
-| 1738 | melancholia | 0.720 |
-| 1739 | Big Mugi Fan | 0.720 |
-| 1740 | Poipoi | 0.720 |
-| 1741 | shoyeu | 0.720 |
-| 1742 | Vall | 0.720 |
-| 1743 | JILUNGIE | 0.720 |
-| 1744 | ukasoh | 0.720 |
-| 1745 | Qrestu | 0.720 |
-| 1746 | X1ANGLING | 0.720 |
-| 1747 | ryufeseed | 0.720 |
-| 1748 | Pokuo | 0.720 |
-| 1749 | Shizaki Kanon | 0.719 |
-| 1750 | FLAVEN | 0.719 |
-| 1751 | KRZY | 0.719 |
-| 1752 | Piggey | 0.716 |
-| 1753 | SlimeDrippy | 0.716 |
-| 1754 | DanyL | 0.716 |
-| 1755 | deruz | 0.716 |
-| 1756 | Ji2zie | 0.716 |
-| 1757 | rarebostonian | 0.716 |
-| 1758 | PemiX | 0.716 |
-| 1759 | NHarmonia | 0.716 |
-| 1760 | bze | 0.716 |
-| 1761 | Akamatsu | 0.716 |
-| 1762 | Luck3r | 0.716 |
-| 1763 | Beafowl | 0.716 |
-| 1764 | azaz08967565 | 0.716 |
-| 1765 | Gommish | 0.716 |
-| 1766 | Seat Ibiza TDI | 0.716 |
-| 1767 | BlankTap | 0.715 |
-| 1768 | DraguinZZ | 0.711 |
-| 1769 | _Degenerate | 0.711 |
-| 1770 | Dylson | 0.711 |
-| 1771 | Kurogami | 0.711 |
-| 1772 | Geryy | 0.711 |
-| 1773 | xaxreid | 0.711 |
-| 1774 | - Slice - | 0.711 |
-| 1775 | Reishara | 0.711 |
-| 1776 | Wimsy | 0.711 |
-| 1777 | zxeroxz | 0.711 |
-| 1778 | intenseGoat | 0.711 |
-| 1779 | Yuumi | 0.711 |
-| 1780 | CHALLYY | 0.711 |
-| 1781 | calKU | 0.711 |
-| 1782 | Garage du Lac | 0.711 |
-| 1783 | badfranky- | 0.711 |
-| 1784 | Kuukoisbestgirl | 0.711 |
-| 1785 | KaZuoo | 0.711 |
-| 1786 | nobuchi | 0.711 |
-| 1787 | dark on osu | 0.711 |
-| 1788 | Ascens | 0.711 |
-| 1789 | -Jibril- | 0.711 |
-| 1790 | Yamiezi | 0.711 |
-| 1791 | Shiho desu | 0.711 |
-| 1792 | Sigewinne | 0.711 |
-| 1793 | Wido | 0.711 |
-| 1794 | Disposable | 0.711 |
-| 1795 | Zinkon | 0.711 |
-| 1796 | DAGESTHANOS | 0.711 |
-| 1797 | Donut_fgc | 0.710 |
-| 1798 | hav | 0.708 |
-| 1799 | Orbi988 | 0.706 |
-| 1800 | EmertxE | 0.706 |
-| 1801 | Naylicia | 0.706 |
-| 1802 | 970 | 0.700 |
-| 1803 | Kyllyx | 0.695 |
-| 1804 | Inquisitives | 0.692 |
-| 1805 | ps1 hagrid | 0.692 |
-| 1806 | baka gavin | 0.692 |
-| 1807 | GitahMuttan | 0.692 |
-| 1808 | Snowy LP | 0.690 |
-| 1809 | Mighty Paws | 0.687 |
-| 1810 | TUYU | 0.687 |
-| 1811 | [ Mystic ] | 0.687 |
-| 1812 | piklopedia | 0.686 |
-| 1813 | Nue Houjuu | 0.686 |
-| 1814 | -Kanji | 0.686 |
-| 1815 | Remilo | 0.686 |
-| 1816 | Super Freak | 0.683 |
-| 1817 | Chakerski | 0.683 |
-| 1818 | AARONGAMER1 | 0.683 |
-| 1819 | gxsty | 0.683 |
-| 1820 | Dedosos | 0.683 |
-| 1821 | adiguwno | 0.683 |
-| 1822 | blednak | 0.682 |
-| 1823 | Emperorpenguin83 | 0.682 |
-| 1824 | Koba | 0.682 |
-| 1825 | Specksan | 0.682 |
-| 1826 | Summer Solstice | 0.682 |
-| 1827 | SowAA | 0.682 |
-| 1828 | Senetix | 0.682 |
-| 1829 | FrenZ | 0.682 |
-| 1830 | Zur4x | 0.682 |
-| 1831 | FishFutaba | 0.682 |
-| 1832 | seby | 0.682 |
-| 1833 | Ritsu Tainaka | 0.682 |
-| 1834 | Nicoru Otone | 0.682 |
-| 1835 | Salvotore | 0.682 |
-| 1836 | Gygs | 0.682 |
-| 1837 | inahokaizuka16 | 0.682 |
-| 1838 | ikasu | 0.682 |
-| 1839 | Curvely | 0.682 |
-| 1840 | xEAvi | 0.682 |
-| 1841 | Kasuga Ichiban | 0.682 |
-| 1842 | Misagi | 0.682 |
-| 1843 | mcrb | 0.682 |
-| 1844 | -Sizzle- | 0.682 |
-| 1845 | BoredBlaby | 0.682 |
-| 1846 | TheKid217 | 0.681 |
-| 1847 | NeTsune | 0.681 |
-| 1848 | jms8721 | 0.681 |
-| 1849 | Kiino | 0.681 |
-| 1850 | Paato | 0.681 |
-| 1851 | -Kamy | 0.681 |
-| 1852 | Shamoui | 0.679 |
-| 1853 | Zelq | 0.678 |
-| 1854 | Adrastea | 0.678 |
-| 1855 | WolfBoi | 0.675 |
-| 1856 | Regi | 0.673 |
-| 1857 | x NJNJ x | 0.673 |
-| 1858 | Sakurauchi Riko | 0.673 |
-| 1859 | shawn | 0.673 |
-| 1860 | WHYHELLOTHERE69 | 0.672 |
-| 1861 | cfunkyy | 0.668 |
-| 1862 | Ares Stark | 0.668 |
-| 1863 | ZiinHG | 0.668 |
-| 1864 | _js | 0.668 |
-| 1865 | ghostholding | 0.668 |
-| 1866 | lucky3210 | 0.668 |
-| 1867 | Yukixo | 0.666 |
-| 1868 | MrBooM | 0.664 |
-| 1869 | Toy | 0.664 |
-| 1870 | kyle | 0.664 |
-| 1871 | Miloshka | 0.664 |
-| 1872 | arbusion | 0.664 |
-| 1873 | Krai | 0.664 |
-| 1874 | KomachiBaka | 0.664 |
-| 1875 | Mariano | 0.664 |
-| 1876 | Sharpsight | 0.664 |
-| 1877 | Maopo | 0.664 |
-| 1878 | LewusekX44 | 0.664 |
-| 1879 | Weeve | 0.664 |
-| 1880 | Mushkaee | 0.659 |
-| 1881 | Be Strong | 0.659 |
-| 1882 | VoiD_Matterr | 0.659 |
-| 1883 | nenoriu | 0.659 |
-| 1884 | Winky Face | 0.659 |
-| 1885 | Quinten | 0.659 |
-| 1886 | Tfx Nexus | 0.659 |
-| 1887 | Diiiooon | 0.659 |
-| 1888 | silverfishy | 0.659 |
-| 1889 | neymar | 0.659 |
-| 1890 | flag | 0.659 |
-| 1891 | Eaves | 0.659 |
-| 1892 | KRYPTOS DK | 0.659 |
-| 1893 | Vinsent | 0.659 |
-| 1894 | Komi Shouko | 0.659 |
-| 1895 | Goose1723 | 0.659 |
-| 1896 | falu | 0.659 |
-| 1897 | Naan-E | 0.659 |
-| 1898 | inequal2x | 0.659 |
-| 1899 | Akko The Rock | 0.659 |
-| 1900 | nawhbody | 0.659 |
-| 1901 | Uranium | 0.659 |
-| 1902 | Yezman | 0.659 |
-| 1903 | iForgor86 | 0.659 |
-| 1904 | [-GRIFFIN-] | 0.659 |
-| 1905 | dokitori | 0.659 |
-| 1906 | FORTNITEMASTER | 0.659 |
-| 1907 | TheDustOfTimes | 0.659 |
-| 1908 | RexDIEL | 0.659 |
-| 1909 | Prophet | 0.659 |
-| 1910 | Salty-Water | 0.659 |
-| 1911 | Miyabi | 0.659 |
-| 1912 | RABBIT1 | 0.659 |
-| 1913 | gilraen | 0.657 |
-| 1914 | BusinessGoose05 | 0.657 |
-| 1915 | SanyaVsunya | 0.657 |
-| 1916 | Alumetri | 0.657 |
-| 1917 | cryshina | 0.657 |
-| 1918 | mannheim | 0.655 |
-| 1919 | milr_ | 0.655 |
-| 1920 | Jokupoika24 | 0.655 |
-| 1921 | Mori Calliope | 0.655 |
-| 1922 | - Flandre - | 0.650 |
-| 1923 | H i S a G i | 0.650 |
-| 1924 | - Ciel - | 0.650 |
-| 1925 | Cris- | 0.646 |
-| 1926 | Rinne Ohara | 0.646 |
-| 1927 | held | 0.646 |
-| 1928 | - BankSLZ - | 0.646 |
-| 1929 | O_Resona | 0.646 |
-| 1930 | pixiv Player | 0.646 |
-| 1931 | Kaguya_1096 | 0.646 |
-| 1932 | Darkmatter | 0.646 |
-| 1933 | YAMADAAAAAAAAAA | 0.646 |
-| 1934 | wreket | 0.645 |
-| 1935 | Kuwoneko | 0.642 |
-| 1936 | Inimint | 0.642 |
-| 1937 | Columbinaa | 0.641 |
-| 1938 | Zhen Ji | 0.641 |
-| 1939 | Omekyu | 0.641 |
-| 1940 | Glurak | 0.641 |
-| 1941 | eternal- | 0.641 |
-| 1942 | 1Mursik1 | 0.641 |
-| 1943 | dongdongben | 0.641 |
-| 1944 | SoraElohim | 0.641 |
-| 1945 | dnomyar | 0.638 |
-| 1946 | fisskill | 0.637 |
-| 1947 | cosmospice | 0.636 |
-| 1948 | qdz0 | 0.636 |
-| 1949 | Query | 0.636 |
-| 1950 | RestInSlime | 0.636 |
-| 1951 | -Wyren- | 0.636 |
-| 1952 | UniserverCommon | 0.636 |
-| 1953 | corvus- | 0.636 |
-| 1954 | Atsorko | 0.636 |
-| 1955 | Magma | 0.632 |
-| 1956 | uee | 0.632 |
-| 1957 | Fejlan | 0.632 |
-| 1958 | Frabedajeje | 0.632 |
-| 1959 | Chilluno | 0.632 |
-| 1960 | NeoPixel201 | 0.632 |
-| 1961 | RoVnDaskE | 0.632 |
-| 1962 | Lilian | 0.632 |
-| 1963 | ocularr | 0.632 |
-| 1964 | Refrum | 0.632 |
-| 1965 | megalodon151 | 0.632 |
-| 1966 | Blonk_ | 0.632 |
-| 1967 | huue | 0.629 |
-| 1968 | Envy_ss | 0.629 |
-| 1969 | _kaie | 0.629 |
-| 1970 | -TwiHD | 0.629 |
-| 1971 | Jamoues | 0.628 |
-| 1972 | Mister Lore | 0.628 |
-| 1973 | i drop sliders | 0.624 |
-| 1974 | nkz | 0.624 |
-| 1975 | E-why | 0.624 |
-| 1976 | samdaman | 0.624 |
-| 1977 | friedbagels | 0.624 |
-| 1978 | MARSHINHA | 0.624 |
-| 1979 | shadevr | 0.621 |
-| 1980 | BurgerKing | 0.621 |
-| 1981 | A J R | 0.620 |
-| 1982 | Kemonoshift | 0.620 |
-| 1983 | rizu | 0.620 |
-| 1984 | aquaria_ | 0.620 |
-| 1985 | juan736 | 0.620 |
-| 1986 | Ace4896 | 0.620 |
-| 1987 | NeoUser | 0.620 |
-| 1988 | Nacrus | 0.620 |
-| 1989 | 1miss_rita | 0.620 |
-| 1990 | impurity | 0.620 |
-| 1991 | wobsterL | 0.620 |
-| 1992 | tani | 0.620 |
-| 1993 | [SHK]qazoop | 0.620 |
-| 1994 | LittleMCBoy5860 | 0.620 |
-| 1995 | Lynua | 0.620 |
-| 1996 | j6mafia | 0.620 |
-| 1997 | SanTisy | 0.620 |
-| 1998 | Arithmophobie | 0.620 |
-| 1999 | Leq_y | 0.620 |
-| 2000 | MilkyBio | 0.617 |
-| 2001 | femboy irl | 0.617 |
-| 2002 | daddywaffle | 0.617 |
-| 2003 | Si514ka | 0.615 |
-| 2004 | king_duckling | 0.615 |
-| 2005 | NaRiTA TaiShiN | 0.615 |
-| 2006 | Jossfr | 0.615 |
-| 2007 | Devrimon | 0.615 |
-| 2008 | nki | 0.615 |
-| 2009 | PostScr1pt | 0.615 |
-| 2010 | nero1030 | 0.615 |
-| 2011 | Skylineok | 0.615 |
-| 2012 | Billupwind | 0.615 |
-| 2013 | Delis | 0.615 |
-| 2014 | Silver Striver | 0.615 |
-| 2015 | zipated | 0.613 |
-| 2016 | Kan | 0.611 |
-| 2017 | Strete | 0.611 |
-| 2018 | pupperronii | 0.611 |
-| 2019 | Hammer | 0.611 |
-| 2020 | DinglingChen | 0.611 |
-| 2021 | lixsidixsi | 0.611 |
-| 2022 | 0v0 | 0.611 |
-| 2023 | Marchen | 0.611 |
-| 2024 | Neun_ | 0.611 |
-| 2025 | CIick | 0.611 |
-| 2026 | Ayasaki Nanoka | 0.611 |
-| 2027 | [chaS] | 0.611 |
-| 2028 | Agochi | 0.611 |
-| 2029 | Elena- | 0.611 |
-| 2030 | Bluwok | 0.611 |
-| 2031 | ahirukg | 0.611 |
-| 2032 | JeffGamingYT | 0.611 |
-| 2033 | Silent Rock | 0.611 |
-| 2034 | its0ver | 0.609 |
-| 2035 | H4rdzik | 0.609 |
-| 2036 | AlexXerox | 0.609 |
-| 2037 | Benton | 0.609 |
-| 2038 | BBRMA | 0.609 |
-| 2039 | OnniS6 | 0.609 |
-| 2040 | soupyhya | 0.609 |
-| 2041 | 32kb | 0.609 |
-| 2042 | LolForest | 0.599 |
-| 2043 | Ruchika | 0.599 |
-| 2044 | Grantorio | 0.599 |
-| 2045 | funky enough | 0.599 |
-| 2046 | danielq987 | 0.599 |
-| 2047 | Asiate_ | 0.599 |
-| 2048 | m t g | 0.599 |
-| 2049 | DragonCroc | 0.596 |
-| 2050 | Karo | 0.596 |
-| 2051 | eerie | 0.595 |
-| 2052 | Dolilozzz | 0.591 |
-| 2053 | Soyuha | 0.591 |
-| 2054 | Fleofl | 0.591 |
-| 2055 | - Jeem - | 0.591 |
-| 2056 | Kyaringan | 0.591 |
-| 2057 | vuan | 0.591 |
-| 2058 | Bonnie Abadeer | 0.591 |
-| 2059 | devilzhy | 0.591 |
-| 2060 | x1999- | 0.591 |
-| 2061 | oh brother | 0.591 |
-| 2062 | Lysao | 0.591 |
-| 2063 | genshinplayer67 | 0.591 |
-| 2064 | pNode | 0.591 |
-| 2065 | TheRecu321 | 0.591 |
-| 2066 | age | 0.591 |
-| 2067 | Hallsu | 0.588 |
-| 2068 | Eugoon | 0.588 |
-| 2069 | Nagi Seishiro | 0.588 |
-| 2070 | Skhyze | 0.588 |
-| 2071 | Tonka Truck | 0.588 |
-| 2072 | EPIC FROST | 0.588 |
-| 2073 | Shinjizy | 0.588 |
-| 2074 | -Snoweve- | 0.588 |
-| 2075 | gullibi | 0.588 |
-| 2076 | Sagisawa Arisa | 0.588 |
-| 2077 | MarthXT | 0.588 |
-| 2078 | K_Clap | 0.588 |
-| 2079 | rockrick | 0.588 |
-| 2080 | Abidodol | 0.588 |
-| 2081 | Chi ki | 0.588 |
-| 2082 | pelsta | 0.588 |
-| 2083 | -Eiju- | 0.587 |
-| 2084 | Sayama Kaede | 0.587 |
-| 2085 | Dear Diary | 0.587 |
-| 2086 | lgn is babe | 0.587 |
-| 2087 | lenasailer | 0.587 |
-| 2088 | Colinear | 0.587 |
-| 2089 | Kitaisuim | 0.587 |
-| 2090 | Ugin | 0.584 |
-| 2091 | Jayyhk | 0.583 |
-| 2092 | jem888 | 0.583 |
-| 2093 | [ Cinoche ] | 0.583 |
-| 2094 | kosota | 0.583 |
-| 2095 | Cors | 0.583 |
-| 2096 | Jolly Ranchers | 0.583 |
-| 2097 | Chaoslitz | 0.583 |
-| 2098 | lala3131331 | 0.583 |
-| 2099 | Calin365 | 0.583 |
-| 2100 | -[Mesaki]- | 0.583 |
-| 2101 | bazzyy | 0.583 |
-| 2102 | Tigere007 | 0.583 |
-| 2103 | Julskills | 0.583 |
-| 2104 | chiliawa52 | 0.583 |
-| 2105 | chertcobachii | 0.583 |
-| 2106 | P3RS3X | 0.583 |
-| 2107 | pt0 | 0.583 |
-| 2108 | Lunar_ | 0.580 |
-| 2109 | leinady | 0.580 |
-| 2110 | Purest | 0.580 |
-| 2111 | platinuwaa | 0.580 |
-| 2112 | sho | 0.580 |
-| 2113 | haiiso | 0.580 |
-| 2114 | snowfort | 0.580 |
-| 2115 | oax | 0.580 |
-| 2116 | Rover | 0.576 |
-| 2117 | Bubbasam1 | 0.576 |
-| 2118 | AnyaShy | 0.576 |
-| 2119 | Rittoru | 0.576 |
-| 2120 | I love Emilia | 0.572 |
-| 2121 | Hranolka | 0.565 |
-| 2122 | bnu | 0.565 |
-| 2123 | Bayleef | 0.565 |
-| 2124 | Keke Tang | 0.565 |
-| 2125 | ogey rrat | 0.565 |
-| 2126 | wishcave | 0.565 |
-| 2127 | danissima | 0.565 |
-| 2128 | GLASSY | 0.560 |
-| 2129 | Kevelia | 0.560 |
-| 2130 | Machako | 0.560 |
-| 2131 | -JustCallMeMK- | 0.560 |
-| 2132 | gasanww | 0.560 |
-| 2133 | Cao Tien Minh | 0.556 |
-| 2134 | cwutchy | 0.556 |
-| 2135 | Leon31 | 0.556 |
-| 2136 | Octagon | 0.556 |
-| 2137 | SuperMegaT | 0.556 |
-| 2138 | HamBruhger | 0.556 |
-| 2139 | Tomoe | 0.553 |
-| 2140 | - Hotaru - | 0.553 |
-| 2141 | FlickerZz | 0.553 |
-| 2142 | hainguyn | 0.553 |
-| 2143 | yeetis_prime | 0.553 |
-| 2144 | M e o w - | 0.549 |
-| 2145 | YowaUnagi | 0.549 |
-| 2146 | Neia | 0.549 |
-| 2147 | Hello2026 | 0.549 |
-| 2148 | sho_o | 0.549 |
-| 2149 | marclor | 0.549 |
-| 2150 | dolburi | 0.549 |
-| 2151 | xMikalox | 0.549 |
-| 2152 | Boba Cone | 0.549 |
-| 2153 | diamond79 | 0.549 |
-| 2154 | Rikuhachima Aru | 0.549 |
-| 2155 | Finmi | 0.549 |
-| 2156 | Hydregon | 0.549 |
-| 2157 | cfe | 0.549 |
-| 2158 | Shadowww | 0.549 |
-| 2159 | 0120 | 0.545 |
-| 2160 | MokkoriRyo | 0.545 |
-| 2161 | Vlaadi | 0.545 |
-| 2162 | youchan | 0.545 |
-| 2163 | swagger | 0.545 |
-| 2164 | Squink | 0.545 |
-| 2165 | ice9 | 0.545 |
-| 2166 | YuugureUmi | 0.545 |
-| 2167 | AquaRua | 0.545 |
-| 2168 | ThangGaming | 0.545 |
-| 2169 | Iucany | 0.545 |
-| 2170 | TsG | 0.545 |
-| 2171 | Omegaweaponn | 0.545 |
-| 2172 | vogvog321 | 0.545 |
-| 2173 | M4X_ | 0.545 |
-| 2174 | KumoCat | 0.545 |
-| 2175 | Machest | 0.545 |
-| 2176 | Satoruc97 | 0.545 |
-| 2177 | Huxinn | 0.545 |
-| 2178 | Yorunaga | 0.542 |
-| 2179 | Tzero | 0.542 |
-| 2180 | Usumachi | 0.542 |
-| 2181 | Moaji | 0.542 |
-| 2182 | default-1 | 0.542 |
-| 2183 | - Ephemeral - | 0.542 |
-| 2184 | J4cX | 0.542 |
-| 2185 | fancy - you | 0.542 |
-| 2186 | Washakwil | 0.542 |
-| 2187 | Dazzle | 0.542 |
-| 2188 | ERA Pheon | 0.542 |
-| 2189 | pexium | 0.542 |
-| 2190 | [SHK]wings_wacr | 0.542 |
-| 2191 | kkflandre | 0.538 |
-| 2192 | Dada | 0.538 |
-| 2193 | thacer | 0.538 |
-| 2194 | Spork Lover | 0.538 |
-| 2195 | paradaisu | 0.538 |
-| 2196 | Emerald Ages | 0.538 |
-| 2197 | Repo | 0.538 |
-| 2198 | Wei Ru | 0.538 |
-| 2199 | Frostium | 0.538 |
-| 2200 | superuser | 0.538 |
-| 2201 | Enari | 0.538 |
-| 2202 | Tomou | 0.538 |
-| 2203 | Koide | 0.538 |
-| 2204 | lexa on osu | 0.538 |
-| 2205 | Zeroya | 0.538 |
-| 2206 | Nelli | 0.538 |
-| 2207 | Meek007 | 0.538 |
-| 2208 | StellaFox | 0.538 |
-| 2209 | GG_com2016 | 0.538 |
-| 2210 | Lilium | 0.538 |
-| 2211 | yoshibox | 0.538 |
-| 2212 | anthony321x | 0.538 |
-| 2213 | -CiYing- | 0.538 |
-| 2214 | NEET Alice | 0.538 |
-| 2215 | kyatorro | 0.538 |
-| 2216 | Himeri | 0.534 |
-| 2217 | Mia- | 0.534 |
-| 2218 | zhuzhu19 | 0.534 |
-| 2219 | HonokaKousakaTV | 0.534 |
-| 2220 | - w | 0.534 |
-| 2221 | GerMusic | 0.534 |
-| 2222 | krb | 0.534 |
-| 2223 | yee001 | 0.534 |
-| 2224 | Enenra | 0.534 |
-| 2225 | Zoont | 0.534 |
-| 2226 | -mira | 0.534 |
-| 2227 | onyaga | 0.531 |
-| 2228 | ARTIZIA | 0.531 |
-| 2229 | Suome | 0.531 |
-| 2230 | I AM FUKUKITARU | 0.531 |
-| 2231 | sxl | 0.531 |
-| 2232 | SKaiBlue | 0.520 |
-| 2233 | -Arko | 0.520 |
-| 2234 | bakachungus | 0.516 |
-| 2235 | xlnt | 0.516 |
-| 2236 | Ubernarwhal | 0.516 |
-| 2237 | Foxy | 0.516 |
-| 2238 | Nnaoi | 0.516 |
-| 2239 | Baiterzz | 0.516 |
-| 2240 | AltApprentice | 0.516 |
-| 2241 | Anpeng | 0.516 |
-| 2242 | Lege | 0.512 |
-| 2243 | NatsuHara | 0.512 |
-| 2244 | penfifteen | 0.512 |
-| 2245 | hjaltetd | 0.512 |
-| 2246 | Elscar | 0.512 |
-| 2247 | Sympli | 0.512 |
-| 2248 | Rum1a | 0.512 |
-| 2249 | JupiterGD | 0.512 |
-| 2250 | EternalFirework | 0.512 |
-| 2251 | AkioZeT30 | 0.509 |
-| 2252 | Nume704 | 0.509 |
-| 2253 | filipsonsky123 | 0.509 |
-| 2254 | a-k-u | 0.505 |
-| 2255 | Tina | 0.505 |
-| 2256 | timq | 0.505 |
-| 2257 | Guppy2k | 0.505 |
-| 2258 | Peti | 0.505 |
-| 2259 | Alanko | 0.505 |
-| 2260 | SzefRon | 0.505 |
-| 2261 | Buzzy | 0.505 |
-| 2262 | Dejw27 | 0.505 |
-| 2263 | VierjaPaz | 0.505 |
-| 2264 | Kalanluu | 0.505 |
-| 2265 | lucker | 0.505 |
-| 2266 | Asaka | 0.505 |
-| 2267 | Kanabis | 0.505 |
-| 2268 | Megure | 0.502 |
-| 2269 | mythsu | 0.502 |
-| 2270 | waywern2012 | 0.502 |
-| 2271 | JESSMI2 | 0.502 |
-| 2272 | Saya-Honmei | 0.502 |
-| 2273 | Ariu | 0.502 |
-| 2274 | Loslite | 0.502 |
-| 2275 | Mortal | 0.502 |
-| 2276 | Santa69 | 0.502 |
-| 2277 | SIMONETRAPANI | 0.502 |
-| 2278 | Ruvava | 0.502 |
-| 2279 | striFE36 | 0.502 |
-| 2280 | rosemary | 0.502 |
-| 2281 | Heavymetal4life | 0.502 |
+| 547 | Maxe191 | 29.626 |
+| 548 | MrNobady | 29.443 |
+| 549 | Monko2k | 29.103 |
+| 550 | cihp | 29.017 |
+| 551 | Maron | 29.015 |
+| 552 | minus | 28.598 |
+| 553 | WiggleCalt | 28.562 |
+| 554 | CpxG | 28.465 |
+| 555 | SinqHD | 28.410 |
+| 556 | pawb | 28.384 |
+| 557 | gionuaS | 28.123 |
+| 558 | fieryrage | 27.882 |
+| 559 | Vendemmia | 27.856 |
+| 560 | raffytaffy | 27.370 |
+| 561 | MithiChang | 27.328 |
+| 562 | Cerkie | 27.263 |
+| 563 | Skydiver | 27.241 |
+| 564 | sybau technique | 27.013 |
+| 565 | samuele | 26.946 |
+| 566 | toon | 26.870 |
+| 567 | fish barcode | 26.821 |
+| 568 | Stoof | 26.758 |
+| 569 | YuuSakku | 26.642 |
+| 570 | Dawnwing | 26.589 |
+| 571 | Leonard H | 26.380 |
+| 572 | Jerma985 | 26.199 |
+| 573 | stupid dog | 26.118 |
+| 574 | Burning John | 25.804 |
+| 575 | Wolfey- | 25.804 |
+| 576 | Legend_OZ | 25.528 |
+| 577 | unhappykuro | 25.521 |
+| 578 | toybot | 25.429 |
+| 579 | ProPlaysForMe | 25.341 |
+| 580 | WhatSkill | 25.287 |
+| 581 | playthroughpain | 25.274 |
+| 582 | Okinari | 25.011 |
+| 583 | Jazzercize | 24.991 |
+| 584 | Naigo | 24.966 |
+| 585 | Another Guy | 24.350 |
+| 586 | Lilily | 24.333 |
+| 587 | Lyeli | 24.312 |
+| 588 | elituqinn | 24.179 |
+| 589 | Dumii | 24.175 |
+| 590 | respektive | 24.106 |
+| 591 | MyzeJD | 24.040 |
+| 592 | Bonc | 24.040 |
+| 593 | KoaLeahq | 23.941 |
+| 594 | Flami | 23.756 |
+| 595 | Lolu | 23.748 |
+| 596 | Flameztear | 23.405 |
+| 597 | Mouse Player | 23.238 |
+| 598 | six seven | 23.219 |
+| 599 | Sunwraith | 23.164 |
+| 600 | Smarteyy | 23.053 |
+| 601 | Nameless Player | 22.860 |
+| 602 | nyachik | 22.693 |
+| 603 | tyty5180 | 22.629 |
+| 604 | lPogonyuto | 22.624 |
+| 605 | Rhythm blue | 22.510 |
+| 606 | Felrion | 22.456 |
+| 607 | RageMuffin | 22.437 |
+| 608 | rairiku | 22.371 |
+| 609 | Saskatchewan | 22.336 |
+| 610 | up44 | 22.270 |
+| 611 | golem de caca | 22.171 |
+| 612 | esq | 22.171 |
+| 613 | Sigmund Fraud | 22.166 |
+| 614 | freaky player | 22.156 |
+| 615 | Maiaz | 22.099 |
+| 616 | trigon | 22.051 |
+| 617 | Kingling | 22.026 |
+| 618 | YokesPai | 21.903 |
+| 619 | kt09- | 21.718 |
+| 620 | Icarussy | 21.618 |
+| 621 | GAY BALNER | 21.580 |
+| 622 | vin | 21.499 |
+| 623 | PaintedKoala | 21.233 |
+| 624 | apisedo | 21.219 |
+| 625 | TheKusoAimer | 20.913 |
+| 626 | FlasTEH | 20.840 |
+| 627 | Srr | 20.823 |
+| 628 | Comatose | 20.792 |
+| 629 | Supernye | 20.597 |
+| 630 | aspen | 20.552 |
+| 631 | flowering | 20.552 |
+| 632 | Midarna | 20.492 |
+| 633 | Phantom-101 | 20.436 |
+| 634 | Arraxey | 20.345 |
+| 635 | Tikkanen | 20.343 |
+| 636 | honque | 20.104 |
+| 637 | lystia | 20.104 |
+| 638 | Diaostrophism | 20.083 |
+| 639 | Darnix | 20.053 |
+| 640 | Don t forget me | 19.996 |
+| 641 | Tokii | 19.912 |
+| 642 | Dezku | 19.875 |
+| 643 | Warinn | 19.861 |
+| 644 | Minil | 19.837 |
+| 645 | xymbii | 19.737 |
+| 646 | Zucchiniii | 19.608 |
+| 647 | ABERON | 19.591 |
+| 648 | VizerX | 19.537 |
+| 649 | FlipRopiik | 19.394 |
+| 650 | Razei | 19.371 |
+| 651 | Rushio | 19.253 |
+| 652 | ch0co | 19.147 |
+| 653 | Hatted | 19.056 |
+| 654 | RomanTheFUKER | 18.956 |
+| 655 | Reimedd | 18.945 |
+| 656 | xside365 | 18.774 |
+| 657 | stumphole145 | 18.728 |
+| 658 | KevDawg | 18.711 |
+| 659 | Hana buys milk | 18.680 |
+| 660 | Korua | 18.584 |
+| 661 | -Ke15 | 18.575 |
+| 662 | badplayer817 | 18.569 |
+| 663 | permiss | 18.546 |
+| 664 | distant_waves | 18.536 |
+| 665 | leny | 18.452 |
+| 666 | ferom | 18.388 |
+| 667 | ferret irl | 18.133 |
+| 668 | Majewski | 18.111 |
+| 669 | kent | 17.966 |
+| 670 | HandsomeMe | 17.952 |
+| 671 | Spinesnight | 17.946 |
+| 672 | big snag | 17.576 |
+| 673 | Willy | 17.447 |
+| 674 | Kosiarek | 17.368 |
+| 675 | imissher | 17.367 |
+| 676 | VROUM CV VITE | 17.324 |
+| 677 | vana | 17.304 |
+| 678 | Ui chan | 17.119 |
+| 679 | Zever | 17.111 |
+| 680 | Prodigal | 17.043 |
+| 681 | Aerora | 17.026 |
+| 682 | bung wung | 17.017 |
+| 683 | Ruyaya | 17.005 |
+| 684 | hallowatcher | 16.952 |
+| 685 | Wilchq | 16.898 |
+| 686 | Possu | 16.808 |
+| 687 | Wez | 16.785 |
+| 688 | Gigi8974 | 16.628 |
+| 689 | kirby mix | 16.508 |
+| 690 | Crystal | 16.506 |
+| 691 | kasuwa | 16.488 |
+| 692 | BlaakCat | 16.487 |
+| 693 | SaintSFT | 16.477 |
+| 694 | Strecka | 16.450 |
+| 695 | kinoshita fuyou | 16.450 |
+| 696 | arda | 16.450 |
+| 697 | seegii | 16.424 |
+| 698 | Turles | 16.257 |
+| 699 | durex | 16.235 |
+| 700 | BloxyYogurt | 16.105 |
+| 701 | Risiing | 15.942 |
+| 702 | ISh0wSpeed | 15.928 |
+| 703 | Fametime | 15.919 |
+| 704 | GabberSS | 15.871 |
+| 705 | Losorto | 15.825 |
+| 706 | GAO HAO | 15.776 |
+| 707 | MetaBee | 15.769 |
+| 708 | Haadez | 15.752 |
+| 709 | Yuichi | 15.705 |
+| 710 | Skill | 15.590 |
+| 711 | RESU | 15.577 |
+| 712 | Bartek22830 | 15.508 |
+| 713 | Bertilly | 15.497 |
+| 714 | Homutan | 15.439 |
+| 715 | puffonxe | 15.398 |
+| 716 | JGLF | 15.369 |
+| 717 | gheanfoil | 15.306 |
+| 718 | -aico | 15.253 |
+| 719 | marzey | 15.196 |
+| 720 | slapshot | 15.183 |
+| 721 | manosaba | 14.968 |
+| 722 | Finloge | 14.940 |
+| 723 | -lion | 14.922 |
+| 724 | heikneuter | 14.851 |
+| 725 | Dsan | 14.840 |
+| 726 | Traz | 14.812 |
+| 727 | lightwine | 14.795 |
+| 728 | Eagle5324 | 14.779 |
+| 729 | Daf0nz | 14.753 |
+| 730 | moon2k | 14.647 |
+| 731 | mitya | 14.566 |
+| 732 | coughing baby | 14.491 |
+| 733 | MinsterDA | 14.419 |
+| 734 | PLOXARU | 14.412 |
+| 735 | Erick71208 | 14.411 |
+| 736 | BlancPur | 14.388 |
+| 737 | defii | 14.317 |
+| 738 | ssubinism | 14.254 |
+| 739 | syuq | 14.246 |
+| 740 | lorenzo101122 | 14.237 |
+| 741 | Jay12310 | 14.202 |
+| 742 | bashou | 14.202 |
+| 743 | fybeth | 14.202 |
+| 744 | 2391 | 14.202 |
+| 745 | choke enough | 14.137 |
+| 746 | 4 Fun Gaymer | 14.128 |
+| 747 | Lewiz | 14.123 |
+| 748 | koral | 14.094 |
+| 749 | Lunacy_ | 14.019 |
+| 750 | Hera_ | 13.960 |
+| 751 | Duskyui | 13.939 |
+| 752 | AlfredTheSalmon | 13.806 |
+| 753 | Vagabond | 13.663 |
+| 754 | GfMRT | 13.649 |
+| 755 | Xilver15 | 13.621 |
+| 756 | [RanYakumo] | 13.618 |
+| 757 | Lantis | 13.520 |
+| 758 | Myp4uk | 13.472 |
+| 759 | Leasurex | 13.441 |
+| 760 | she gon pay me | 13.401 |
+| 761 | L4plus1 | 13.346 |
+| 762 | Mike Tyson | 13.228 |
+| 763 | asheq8 | 13.028 |
+| 764 | -Petar | 13.028 |
+| 765 | SmoothyCloud | 13.028 |
+| 766 | Smoyy | 13.028 |
+| 767 | tsp648 | 13.028 |
+| 768 | EndMePlease | 13.028 |
+| 769 | TetraDoge | 13.024 |
+| 770 | Bae Joohyun | 13.024 |
+| 771 | 921206025887 | 12.968 |
+| 772 | wuk | 12.957 |
+| 773 | Choofy | 12.898 |
+| 774 | Cellinia | 12.896 |
+| 775 | Mayuri | 12.870 |
+| 776 | 011010119 | 12.870 |
+| 777 | XimperiaL | 12.831 |
+| 778 | WiMpN | 12.818 |
+| 779 | Ideal | 12.746 |
+| 780 | xayoto | 12.600 |
+| 781 | supercurls | 12.590 |
+| 782 | fireblaze3028 | 12.573 |
+| 783 | Antolions | 12.537 |
+| 784 | antonyw | 12.509 |
+| 785 | ronipan | 12.403 |
+| 786 | nitystarex | 12.326 |
+| 787 | Raidd | 12.320 |
+| 788 | Meower | 12.299 |
+| 789 | saewon | 12.286 |
+| 790 | lestapekka67 | 12.274 |
+| 791 | 815 | 12.257 |
+| 792 | Woolly mammoth | 12.257 |
+| 793 | young leosia | 12.169 |
+| 794 | Lujeol | 12.128 |
+| 795 | blobnom | 12.125 |
+| 796 | sh_TORTIK | 12.108 |
+| 797 | - Fia - | 12.072 |
+| 798 | -ZooM- | 12.033 |
+| 799 | Nymphe | 12.016 |
+| 800 | Dragon20942 | 11.999 |
+| 801 | shNzg0d | 11.937 |
+| 802 | Plosmo | 11.928 |
+| 803 | getenrou | 11.873 |
+| 804 | onokari123 | 11.860 |
+| 805 | Zoomeree | 11.860 |
+| 806 | zyanishu | 11.860 |
+| 807 | Belfast | 11.836 |
+| 808 | F2X | 11.813 |
+| 809 | _NeXuL_ | 11.813 |
+| 810 | AlefGdxD | 11.804 |
+| 811 | SIDETRACKEDDAY | 11.597 |
+| 812 | Massimo99 | 11.586 |
+| 813 | -Mahiro | 11.555 |
+| 814 | Clutch | 11.535 |
+| 815 | kulerbruh | 11.532 |
+| 816 | IcyTrip | 11.497 |
+| 817 | paulthebest | 11.405 |
+| 818 | Blue Dragon | 11.391 |
+| 819 | NoSin | 11.391 |
+| 820 | ThanosPortal | 11.391 |
+| 821 | Oscar con boina | 11.391 |
+| 822 | snailsmcgee | 11.391 |
+| 823 | murziels | 11.391 |
+| 824 | Tile | 11.324 |
+| 825 | humane_007 | 11.248 |
+| 826 | Torusama | 11.242 |
+| 827 | henq | 11.242 |
+| 828 | Rozeolifant13 | 11.242 |
+| 829 | Anolikaru | 11.242 |
+| 830 | -hiro | 11.229 |
+| 831 | 120-cell | 11.218 |
+| 832 | doxxsan_ | 11.202 |
+| 833 | Ghossert | 11.130 |
+| 834 | Nongsa | 11.097 |
+| 835 | BadAimBoi | 11.071 |
+| 836 | pepe996 | 10.970 |
+| 837 | Lukiii | 10.875 |
+| 838 | HUNDUR | 10.848 |
+| 839 | dados123 | 10.848 |
+| 840 | JapWhite | 10.848 |
+| 841 | My Angel Anzu | 10.706 |
+| 842 | RuHo | 10.684 |
+| 843 | sharpnel | 10.684 |
+| 844 | chxkyqqe | 10.629 |
+| 845 | Taylan_ | 10.599 |
+| 846 | Deppyforce | 10.533 |
+| 847 | SurvivorX4 | 10.409 |
+| 848 | OceanMan28 | 10.320 |
+| 849 | Markrum | 10.236 |
+| 850 | Eunha | 10.234 |
+| 851 | flubb | 10.231 |
+| 852 | Purpol | 10.172 |
+| 853 | Avenito | 10.153 |
+| 854 | perich | 10.118 |
+| 855 | Behwall | 10.101 |
+| 856 | capybaras | 10.084 |
+| 857 | Naiwo | 10.077 |
+| 858 | nemroz | 10.050 |
+| 859 | SeeL | 10.036 |
+| 860 | francisqueso | 10.023 |
+| 861 | kazamabc | 10.016 |
+| 862 | Darthh | 9.972 |
+| 863 | sriracha rice | 9.903 |
+| 864 | ben333ki | 9.875 |
+| 865 | Seamie | 9.837 |
+| 866 | Hinaru | 9.830 |
+| 867 | Freak Fantome | 9.783 |
+| 868 | hosesan1020 | 9.685 |
+| 869 | HeyItzShane | 9.580 |
+| 870 | mati12xxl | 9.501 |
+| 871 | DecoysIsBored | 9.483 |
+| 872 | tomadoi | 9.437 |
+| 873 | ming0328ming | 9.424 |
+| 874 | _kioshi | 9.389 |
+| 875 | Mr Wang | 9.371 |
+| 876 | Soba Noodles | 9.309 |
+| 877 | relrel | 9.309 |
+| 878 | Camberos | 9.293 |
+| 879 | Stormur | 9.272 |
+| 880 | TWOJA STARA | 9.196 |
+| 881 | Namotzu | 9.164 |
+| 882 | Furina- | 9.155 |
+| 883 | -Karu | 9.126 |
+| 884 | Lu2nar | 9.089 |
+| 885 | chivauva | 9.074 |
+| 886 | Zydan | 9.065 |
+| 887 | Fumatsu | 8.980 |
+| 888 | AlexBelea | 8.912 |
+| 889 | Loosay | 8.896 |
+| 890 | Yennecilia | 8.869 |
+| 891 | [ Nano ] | 8.835 |
+| 892 | OmegaOrigins | 8.800 |
+| 893 | Oosha | 8.794 |
+| 894 | NovatoKing | 8.790 |
+| 895 | Laestadian | 8.768 |
+| 896 | Carbone | 8.762 |
+| 897 | duke | 8.711 |
+| 898 | tgnalice | 8.711 |
+| 899 | Martair | 8.711 |
+| 900 | mads | 8.711 |
+| 901 | Zelths | 8.711 |
+| 902 | -database- | 8.711 |
+| 903 | Ace on osu | 8.711 |
+| 904 | Lemuze | 8.711 |
+| 905 | Scyfyyy | 8.711 |
+| 906 | Mr_Plex | 8.711 |
+| 907 | worst th player | 8.711 |
+| 908 | Nakrobsayhi | 8.711 |
+| 909 | Kiskai | 8.711 |
+| 910 | frozyxd | 8.711 |
+| 911 | Ben Man56 | 8.711 |
+| 912 | Garch | 8.698 |
+| 913 | lifetime | 8.646 |
+| 914 | Garden | 8.553 |
+| 915 | Stravez0r | 8.498 |
+| 916 | Petirabi | 8.496 |
+| 917 | Aroph | 8.447 |
+| 918 | Rellay | 8.447 |
+| 919 | Flemes | 8.429 |
+| 920 | woojungx4 | 8.309 |
+| 921 | -Dreamless | 8.263 |
+| 922 | Wispy | 8.256 |
+| 923 | k4rnu1 | 8.249 |
+| 924 | aoofbop | 8.194 |
+| 925 | Shima Rin Dango | 8.190 |
+| 926 | 5joshi | 8.188 |
+| 927 | Kyube | 8.108 |
+| 928 | Daitaku Helios | 8.052 |
+| 929 | ganjanov | 8.025 |
+| 930 | Nevzz | 8.025 |
+| 931 | Ainee | 7.995 |
+| 932 | EEEEEEEEEEEEEEE | 7.971 |
+| 933 | zoomiee | 7.962 |
+| 934 | Drxvmik | 7.906 |
+| 935 | asta is cute | 7.868 |
+| 936 | Nezzar | 7.862 |
+| 937 | XenoPenguino | 7.862 |
+| 938 | Librarian | 7.852 |
+| 939 | BATBALL | 7.822 |
+| 940 | GoldenMine | 7.802 |
+| 941 | resto druid | 7.742 |
+| 942 | Oly9919 | 7.737 |
+| 943 | snile | 7.717 |
+| 944 | virtuoso | 7.611 |
+| 945 | blejd | 7.585 |
+| 946 | RafaelXDP | 7.548 |
+| 947 | dimchik | 7.546 |
+| 948 | katalashka son | 7.546 |
+| 949 | evankkk | 7.546 |
+| 950 | Ravene | 7.546 |
+| 951 | zeroly | 7.546 |
+| 952 | N I K I T A | 7.546 |
+| 953 | Rohulk | 7.542 |
+| 954 | -Nenu- | 7.534 |
+| 955 | y0c | 7.523 |
+| 956 | Rikuima | 7.521 |
+| 957 | Jordan The Bear | 7.496 |
+| 958 | dewy | 7.488 |
+| 959 | honbae | 7.473 |
+| 960 | lightingloyz | 7.431 |
+| 961 | luzny | 7.431 |
+| 962 | ValueOrBluff | 7.375 |
+| 963 | zubs | 7.373 |
+| 964 | Lightningfox | 7.369 |
+| 965 | CircleClick | 7.355 |
+| 966 | 9I DePeBO | 7.355 |
+| 967 | csaba21123 | 7.300 |
+| 968 | Npoolyim | 7.242 |
+| 969 | sylriu | 7.168 |
+| 970 | Fjell | 7.167 |
+| 971 | Nakano | 7.132 |
+| 972 | Musty | 7.122 |
+| 973 | CallMeRed | 7.116 |
+| 974 | Sepid | 7.113 |
+| 975 | KNa- | 7.107 |
+| 976 | Pain | 7.095 |
+| 977 | Toy | 7.089 |
+| 978 | mabayu | 7.060 |
+| 979 | MarcelSvK | 7.022 |
+| 980 | WubWoofWolf | 6.992 |
+| 981 | BobrowyDealer | 6.986 |
+| 982 | escace | 6.932 |
+| 983 | Juicy | 6.916 |
+| 984 | Aerodite | 6.915 |
+| 985 | Pinto | 6.915 |
+| 986 | fni | 6.915 |
+| 987 | MblLO | 6.898 |
+| 988 | Kippz | 6.844 |
+| 989 | Timpower | 6.822 |
+| 990 | Ween wao | 6.800 |
+| 991 | TUYU | 6.788 |
+| 992 | Freddie Benson | 6.774 |
+| 993 | MidC | 6.764 |
+| 994 | LUNAISTABBY | 6.655 |
+| 995 | Ditroon | 6.636 |
+| 996 | emilio12l | 6.636 |
+| 997 | chaotic_turtle | 6.618 |
+| 998 | yukin1014 | 6.602 |
+| 999 | Jordan2090 | 6.602 |
+| 1000 | mayreel | 6.602 |
+| 1001 | uyghti | 6.602 |
+| 1002 | See | 6.533 |
+| 1003 | kablaze | 6.531 |
+| 1004 | Flask | 6.529 |
+| 1005 | Xemtin | 6.513 |
+| 1006 | Applett | 6.501 |
+| 1007 | QAWSEDRFTGYHUJI | 6.485 |
+| 1008 | Oxvenn | 6.462 |
+| 1009 | Noty | 6.455 |
+| 1010 | Ole | 6.446 |
+| 1011 | Recia | 6.446 |
+| 1012 | Oguri Cap | 6.402 |
+| 1013 | Nev- | 6.401 |
+| 1014 | perhap | 6.389 |
+| 1015 | ratbutbuff | 6.384 |
+| 1016 | Berinjela Chan | 6.383 |
+| 1017 | GameDragon36 | 6.374 |
+| 1018 | richp2k | 6.366 |
+| 1019 | Saya-Honmei | 6.365 |
+| 1020 | NHarmonia | 6.349 |
+| 1021 | EVIL BALNER | 6.340 |
+| 1022 | Petit | 6.337 |
+| 1023 | - Alice | 6.322 |
+| 1024 | termi | 6.309 |
+| 1025 | Marquez | 6.288 |
+| 1026 | 1ncert | 6.281 |
+| 1027 | Fault | 6.252 |
+| 1028 | spray- | 6.232 |
+| 1029 | MrNeasel | 6.180 |
+| 1030 | AdonisXVIII | 6.174 |
+| 1031 | NO37 | 6.144 |
+| 1032 | Thatnoobguy | 6.122 |
+| 1033 | _EpicEnder | 6.112 |
+| 1034 | Reira | 6.111 |
+| 1035 | Edviskrc | 6.086 |
+| 1036 | superCreper | 6.079 |
+| 1037 | [RUE]Clamati | 6.079 |
+| 1038 | skilledez | 6.079 |
+| 1039 | MINHOCA LOKA | 6.079 |
+| 1040 | Drox | 6.079 |
+| 1041 | Ryzeren | 6.079 |
+| 1042 | Leroxa | 6.079 |
+| 1043 | Tzero | 6.070 |
+| 1044 | Dripster1 | 6.058 |
+| 1045 | Ayden2008k | 6.002 |
+| 1046 | villix | 5.996 |
+| 1047 | 1103 | 5.988 |
+| 1048 | Wido | 5.979 |
+| 1049 | iblue | 5.954 |
+| 1050 | Hyun2 | 5.954 |
+| 1051 | HowlPleb | 5.954 |
+| 1052 | 3uma | 5.941 |
+| 1053 | MoeYandere | 5.910 |
+| 1054 | Accelerator | 5.908 |
+| 1055 | Regou | 5.901 |
+| 1056 | emile- | 5.866 |
+| 1057 | GalaxyGaming | 5.788 |
+| 1058 | uminekl | 5.746 |
+| 1059 | Entarkanio | 5.739 |
+| 1060 | Flashback9 | 5.724 |
+| 1061 | KiryuMiya | 5.722 |
+| 1062 | emilia | 5.717 |
+| 1063 | vozte | 5.713 |
+| 1064 | Altrax | 5.690 |
+| 1065 | Nayro | 5.679 |
+| 1066 | stacker | 5.678 |
+| 1067 | anizaka | 5.669 |
+| 1068 | sxl | 5.658 |
+| 1069 | DoIon | 5.656 |
+| 1070 | KyZzo | 5.650 |
+| 1071 | TOCTEP | 5.630 |
+| 1072 | Jet- | 5.626 |
+| 1073 | Rimbe | 5.625 |
+| 1074 | Clarity | 5.596 |
+| 1075 | reshamen | 5.596 |
+| 1076 | Vaychi | 5.596 |
+| 1077 | pauldeegee | 5.567 |
+| 1078 | abku stupid | 5.567 |
+| 1079 | Karuna | 5.549 |
+| 1080 | Remyuu | 5.548 |
+| 1081 | bwa | 5.530 |
+| 1082 | theez | 5.527 |
+| 1083 | -Koda | 5.520 |
+| 1084 | LonixOSU | 5.517 |
+| 1085 | chicken_67 | 5.438 |
+| 1086 | soft kitten | 5.436 |
+| 1087 | Rucker | 5.431 |
+| 1088 | Atri - | 5.418 |
+| 1089 | pedeko | 5.409 |
+| 1090 | Uzumaki | 5.393 |
+| 1091 | penguinplay | 5.341 |
+| 1092 | Bry | 5.337 |
+| 1093 | anjroo | 5.331 |
+| 1094 | Kyulke | 5.313 |
+| 1095 | Lucio101 | 5.313 |
+| 1096 | cheeeeto | 5.313 |
+| 1097 | Abraham | 5.306 |
+| 1098 | Quinten | 5.257 |
+| 1099 | Just2Gud | 5.249 |
+| 1100 | Darrile | 5.247 |
+| 1101 | shadow modico | 5.195 |
+| 1102 | Master Oogway | 5.177 |
+| 1103 | Suunr1ze | 5.177 |
+| 1104 | PotJohn Nutella | 5.175 |
+| 1105 | twennity | 5.173 |
+| 1106 | AstroFP | 5.170 |
+| 1107 | bing bong | 5.161 |
+| 1108 | Lineu | 5.111 |
+| 1109 | AlexusChristus | 5.103 |
+| 1110 | nybia | 5.080 |
+| 1111 | fajga | 5.070 |
+| 1112 | deit | 5.063 |
+| 1113 | Anhydrous | 5.044 |
+| 1114 | nejzha | 5.012 |
+| 1115 | wamu | 4.980 |
+| 1116 | Sirek | 4.975 |
+| 1117 | wick | 4.949 |
+| 1118 | Threegs | 4.946 |
+| 1119 | Gryzus24 | 4.920 |
+| 1120 | Spektre | 4.920 |
+| 1121 | AVICE AURA | 4.899 |
+| 1122 | Zeklewa | 4.896 |
+| 1123 | Deleted_User401 | 4.879 |
+| 1124 | Approach Rate | 4.867 |
+| 1125 | Forsit | 4.855 |
+| 1126 | ghostholding | 4.855 |
+| 1127 | P r a h | 4.846 |
+| 1128 | hivno | 4.819 |
+| 1129 | wukioh | 4.814 |
+| 1130 | AThree | 4.803 |
+| 1131 | Aristia | 4.799 |
+| 1132 | waste- | 4.780 |
+| 1133 | wessel_osu2 | 4.779 |
+| 1134 | xiaomao | 4.764 |
+| 1135 | ncrohawk | 4.755 |
+| 1136 | piklopedia | 4.732 |
+| 1137 | NeruNeru | 4.700 |
+| 1138 | astonish | 4.698 |
+| 1139 | Nagi Seishiro | 4.689 |
+| 1140 | shineroo | 4.665 |
+| 1141 | Vento | 4.649 |
+| 1142 | zados | 4.649 |
+| 1143 | calKU | 4.645 |
+| 1144 | Ancenthe | 4.638 |
+| 1145 | Jo Yuri | 4.636 |
+| 1146 | Vivaru | 4.631 |
+| 1147 | Tina | 4.631 |
+| 1148 | Sagisawa Arisa | 4.620 |
+| 1149 | Palodex | 4.594 |
+| 1150 | manicmacho | 4.594 |
+| 1151 | Danini | 4.593 |
+| 1152 | ChillierPear | 4.587 |
+| 1153 | Weeder | 4.579 |
+| 1154 | Saryi | 4.573 |
+| 1155 | wreket | 4.571 |
+| 1156 | Zarkyi | 4.562 |
+| 1157 | FujiwaraNoMokou | 4.529 |
+| 1158 | Luck3r | 4.527 |
+| 1159 | Repo | 4.527 |
+| 1160 | kemdaosa | 4.517 |
+| 1161 | Seox | 4.511 |
+| 1162 | xXChokgamerXx | 4.508 |
+| 1163 | [KOR]Kosaki | 4.495 |
+| 1164 | Chubery | 4.486 |
+| 1165 | yah | 4.478 |
+| 1166 | TheNexusGamer | 4.475 |
+| 1167 | Biroche | 4.474 |
+| 1168 | wideBoink | 4.474 |
+| 1169 | Teirin | 4.441 |
+| 1170 | Ace4896 | 4.391 |
+| 1171 | sagiiT | 4.375 |
+| 1172 | yandax | 4.375 |
+| 1173 | Kasperi | 4.375 |
+| 1174 | Netsuz | 4.344 |
+| 1175 | Jarran | 4.343 |
+| 1176 | -Spartan | 4.332 |
+| 1177 | SkY TN | 4.314 |
+| 1178 | Minecraft s | 4.314 |
+| 1179 | JabuKa | 4.314 |
+| 1180 | cheeseball87 | 4.314 |
+| 1181 | asphyxiate | 4.314 |
+| 1182 | darvv | 4.314 |
+| 1183 | nemoest | 4.314 |
+| 1184 | forza | 4.314 |
+| 1185 | -Tuo | 4.314 |
+| 1186 | Menoji | 4.314 |
+| 1187 | DuZGLOL | 4.314 |
+| 1188 | Abran | 4.314 |
+| 1189 | AliceThymefield | 4.314 |
+| 1190 | Nono7524 | 4.314 |
+| 1191 | bibidibabidiboo | 4.294 |
+| 1192 | _Chonker | 4.284 |
+| 1193 | TrickyPugster | 4.284 |
+| 1194 | Zonii | 4.272 |
+| 1195 | Shiho desu | 4.271 |
+| 1196 | Def3nderFV | 4.267 |
+| 1197 | believer_i | 4.256 |
+| 1198 | ReaL motion | 4.250 |
+| 1199 | glass2wave7 | 4.246 |
+| 1200 | Siffrin | 4.231 |
+| 1201 | tpa_ | 4.231 |
+| 1202 | the woke left | 4.231 |
+| 1203 | chicken_10 | 4.231 |
+| 1204 | GSBlank | 4.221 |
+| 1205 | Dafonz | 4.208 |
+| 1206 | Carlosflow | 4.202 |
+| 1207 | MrPotato | 4.166 |
+| 1208 | marclor | 4.146 |
+| 1209 | Sheba | 4.127 |
+| 1210 | somethingcooll | 4.117 |
+| 1211 | [dekori] | 4.072 |
+| 1212 | hidden on osu | 4.053 |
+| 1213 | Name94 | 4.052 |
+| 1214 | Woodsiee | 4.051 |
+| 1215 | Uma Rice Shower | 4.051 |
+| 1216 | Ginga | 4.051 |
+| 1217 | RABBIT1 | 4.050 |
+| 1218 | Maru | 4.031 |
+| 1219 | judor | 4.030 |
+| 1220 | STLNR | 4.030 |
+| 1221 | Lexalia | 4.030 |
+| 1222 | - joshh | 4.030 |
+| 1223 | mli | 4.030 |
+| 1224 | demohooo | 4.030 |
+| 1225 | OCY 3HAETE | 4.030 |
+| 1226 | artlost | 4.030 |
+| 1227 | Shinkiro | 4.030 |
+| 1228 | Xtal | 4.030 |
+| 1229 | Koide | 4.023 |
+| 1230 | Kuchiki Rukia | 3.987 |
+| 1231 | Moyyba | 3.981 |
+| 1232 | Spev | 3.971 |
+| 1233 | DigitalHypno | 3.955 |
+| 1234 | firebat92 | 3.946 |
+| 1235 | Ragezeus | 3.946 |
+| 1236 | Neliel | 3.937 |
+| 1237 | PFFFFFFFFFFFFFT | 3.937 |
+| 1238 | NaRiTA TaiShiN | 3.934 |
+| 1239 | [ Yozzied ] | 3.901 |
+| 1240 | Amuro | 3.884 |
+| 1241 | GGBY | 3.869 |
+| 1242 | dectopia | 3.855 |
+| 1243 | CoLouRed GlaZeE | 3.841 |
+| 1244 | Ant -w- | 3.823 |
+| 1245 | Skellers | 3.815 |
+| 1246 | conradmittn | 3.814 |
+| 1247 | vain | 3.803 |
+| 1248 | glag | 3.803 |
+| 1249 | Crestive | 3.802 |
+| 1250 | Ryuzaki | 3.772 |
+| 1251 | TinyPark | 3.764 |
+| 1252 | ddm | 3.760 |
+| 1253 | domplayer | 3.749 |
+| 1254 | davequin | 3.741 |
+| 1255 | amefuri | 3.736 |
+| 1256 | cyo | 3.736 |
+| 1257 | NerO | 3.724 |
+| 1258 | Typeddiamond | 3.718 |
+| 1259 | Natsuki Kaguya | 3.718 |
+| 1260 | nerau | 3.680 |
+| 1261 | Hardstcukc | 3.657 |
+| 1262 | Toua | 3.656 |
+| 1263 | arm foot | 3.653 |
+| 1264 | koyo | 3.653 |
+| 1265 | garab1k | 3.641 |
+| 1266 | awawa | 3.639 |
+| 1267 | Michni | 3.623 |
+| 1268 | Jaguar | 3.623 |
+| 1269 | TomoChen | 3.611 |
+| 1270 | robotonic | 3.598 |
+| 1271 | Karo | 3.594 |
+| 1272 | J1x | 3.594 |
+| 1273 | Tayco | 3.589 |
+| 1274 | IcyBoat | 3.583 |
+| 1275 | Dagoth Ur | 3.582 |
+| 1276 | REFANTAZIO | 3.573 |
+| 1277 | zzzbored | 3.570 |
+| 1278 | Read Horimiya | 3.570 |
+| 1279 | Sordruther | 3.570 |
+| 1280 | Birchman | 3.570 |
+| 1281 | tsuniko | 3.568 |
+| 1282 | Furudo Erika | 3.564 |
+| 1283 | bob man | 3.537 |
+| 1284 | Zhamso | 3.516 |
+| 1285 | Mystia | 3.513 |
+| 1286 | kyle | 3.512 |
+| 1287 | lilybannanas9 | 3.498 |
+| 1288 | Mori Calliope | 3.496 |
+| 1289 | Zayenn | 3.495 |
+| 1290 | n0 head | 3.495 |
+| 1291 | Areumi | 3.495 |
+| 1292 | Tetla | 3.485 |
+| 1293 | -Spec | 3.484 |
+| 1294 | W A R P A T H | 3.480 |
+| 1295 | boleks | 3.476 |
+| 1296 | I love Emilia | 3.473 |
+| 1297 | Zralf | 3.460 |
+| 1298 | rlsc1109 | 3.458 |
+| 1299 | Miinn_ | 3.441 |
+| 1300 | Pancho | 3.436 |
+| 1301 | Emerald Ages | 3.433 |
+| 1302 | Chickenka | 3.429 |
+| 1303 | [RyuTell] | 3.413 |
+| 1304 | ILX | 3.408 |
+| 1305 | Senetix | 3.404 |
+| 1306 | IRanko | 3.372 |
+| 1307 | JustTaka | 3.372 |
+| 1308 | -Hatsune Miku | 3.365 |
+| 1309 | zhuzhu19 | 3.362 |
+| 1310 | fleuphy | 3.359 |
+| 1311 | Alcadia | 3.358 |
+| 1312 | Dylson | 3.356 |
+| 1313 | 1Max | 3.354 |
+| 1314 | pundice | 3.350 |
+| 1315 | BiggestAknzxFan | 3.350 |
+| 1316 | -Puyu | 3.336 |
+| 1317 | [Bau] | 3.336 |
+| 1318 | Starbucks Pepsi | 3.336 |
+| 1319 | Tristan | 3.336 |
+| 1320 | DaHuJka | 3.335 |
+| 1321 | melwem | 3.333 |
+| 1322 | -TwiHD | 3.324 |
+| 1323 | Buzdygan | 3.313 |
+| 1324 | Maxkem | 3.304 |
+| 1325 | Jiuchu | 3.293 |
+| 1326 | WaShoy | 3.290 |
+| 1327 | everstagnating | 3.283 |
+| 1328 | MumeiLover | 3.272 |
+| 1329 | Yuhuyo | 3.266 |
+| 1330 | KyoouN | 3.263 |
+| 1331 | Zacatel | 3.244 |
+| 1332 | Antaanar | 3.244 |
+| 1333 | falu | 3.241 |
+| 1334 | SKaiBlue | 3.241 |
+| 1335 | FAW | 3.236 |
+| 1336 | cIementine | 3.236 |
+| 1337 | Toshino Kyouko | 3.231 |
+| 1338 | Sn34Ky_ | 3.227 |
+| 1339 | Illyamywife | 3.213 |
+| 1340 | bogdanski | 3.212 |
+| 1341 | LaBron Jayms | 3.211 |
+| 1342 | chests | 3.211 |
+| 1343 | yukinasimp | 3.211 |
+| 1344 | Ascaveth | 3.207 |
+| 1345 | go525 | 3.204 |
+| 1346 | zerkala | 3.204 |
+| 1347 | Swishi | 3.199 |
+| 1348 | [ Hyung ] | 3.191 |
+| 1349 | Ebutenim | 3.189 |
+| 1350 | 4a463a77de8f1b5 | 3.182 |
+| 1351 | le pauvre bil | 3.180 |
+| 1352 | Stylante | 3.177 |
+| 1353 | So_pro | 3.177 |
+| 1354 | riwu | 3.177 |
+| 1355 | _singularity | 3.177 |
+| 1356 | kaenen | 3.177 |
+| 1357 | zfire | 3.177 |
+| 1358 | CeilingWaffle | 3.173 |
+| 1359 | favela | 3.173 |
+| 1360 | amea | 3.167 |
+| 1361 | Prade | 3.160 |
+| 1362 | Kudou Chitose | 3.155 |
+| 1363 | CIash of Clans | 3.149 |
+| 1364 | moar | 3.142 |
+| 1365 | N i s u | 3.138 |
+| 1366 | Drerrie | 3.129 |
+| 1367 | Chiu | 3.124 |
+| 1368 | Diiiooon | 3.123 |
+| 1369 | kagiura | 3.110 |
+| 1370 | radicallad | 3.110 |
+| 1371 | PeteX | 3.106 |
+| 1372 | dlwlrma- | 3.103 |
+| 1373 | AlpiAz | 3.099 |
+| 1374 | Porifore | 3.099 |
+| 1375 | bgm16 | 3.094 |
+| 1376 | Geag | 3.090 |
+| 1377 | Valor1248 | 3.077 |
+| 1378 | keluu | 3.077 |
+| 1379 | meddle | 3.077 |
+| 1380 | KEKW_ | 3.063 |
+| 1381 | moyamoyano_sa | 3.063 |
+| 1382 | Azvameth | 3.053 |
+| 1383 | CFGiel | 3.049 |
+| 1384 | scuoa | 3.047 |
+| 1385 | Samsmas | 3.040 |
+| 1386 | Hecatia | 3.040 |
+| 1387 | Chzaron | 3.028 |
+| 1388 | Hammer | 3.022 |
+| 1389 | little Agile | 2.997 |
+| 1390 | memry | 2.991 |
+| 1391 | Sampo | 2.984 |
+| 1392 | nomokona | 2.984 |
+| 1393 | sephy | 2.983 |
+| 1394 | yenator07 | 2.982 |
+| 1395 | cir | 2.982 |
+| 1396 | Charles Leclerc | 2.982 |
+| 1397 | Sawitar | 2.982 |
+| 1398 | BJIADOC | 2.982 |
+| 1399 | Xiel | 2.980 |
+| 1400 | DataUser | 2.980 |
+| 1401 | kettoph | 2.980 |
+| 1402 | Cheriatric | 2.980 |
+| 1403 | bottomhottom | 2.980 |
+| 1404 | rtx | 2.980 |
+| 1405 | 643 | 2.980 |
+| 1406 | Asobase | 2.976 |
+| 1407 | GitahMuttan | 2.974 |
+| 1408 | makarupa | 2.968 |
+| 1409 | Mentalol | 2.965 |
+| 1410 | A N T O N I O | 2.958 |
+| 1411 | - Asriel - | 2.956 |
+| 1412 | Himeri | 2.953 |
+| 1413 | BOSNIATRUCKER13 | 2.949 |
+| 1414 | -Danon | 2.949 |
+| 1415 | KriO-O | 2.934 |
+| 1416 | realshin | 2.917 |
+| 1417 | Nightsky | 2.917 |
+| 1418 | CharleLee | 2.917 |
+| 1419 | Rinne Ohara | 2.913 |
+| 1420 | PostScr1pt | 2.886 |
+| 1421 | GabiBoltZ | 2.876 |
+| 1422 | KatFood | 2.859 |
+| 1423 | [Hatsune Miku] | 2.854 |
+| 1424 | ChiefCFL | 2.853 |
+| 1425 | Weebs Suck | 2.841 |
+| 1426 | pruKD | 2.840 |
+| 1427 | yawarakai | 2.831 |
+| 1428 | Harumiii | 2.823 |
+| 1429 | yutro | 2.822 |
+| 1430 | Lunasa | 2.810 |
+| 1431 | Mysamine | 2.810 |
+| 1432 | connorr | 2.810 |
+| 1433 | ianski | 2.807 |
+| 1434 | Vordi | 2.802 |
+| 1435 | B L A C K Y | 2.799 |
+| 1436 | [-Pure Ruby-] | 2.798 |
+| 1437 | Cors | 2.796 |
+| 1438 | WorstTechPlayer | 2.793 |
+| 1439 | -Nino Nakano | 2.790 |
+| 1440 | astrin | 2.784 |
+| 1441 | lizzzil | 2.784 |
+| 1442 | Ketsui | 2.783 |
+| 1443 | Untold | 2.782 |
+| 1444 | Vararaup | 2.774 |
+| 1445 | peroro | 2.763 |
+| 1446 | Vitya1437 | 2.742 |
+| 1447 | iraozm | 2.740 |
+| 1448 | sdd2cxz | 2.731 |
+| 1449 | kirei_ | 2.729 |
+| 1450 | Darkxide | 2.722 |
+| 1451 | pregnant | 2.707 |
+| 1452 | Worsl | 2.701 |
+| 1453 | tayeon | 2.699 |
+| 1454 | sulfa | 2.686 |
+| 1455 | umineko | 2.681 |
+| 1456 | Shizaki Kanon | 2.677 |
+| 1457 | lychee boba | 2.670 |
+| 1458 | iRedi | 2.657 |
+| 1459 | umii | 2.653 |
+| 1460 | Nekoyase | 2.645 |
+| 1461 | -Des | 2.640 |
+| 1462 | Alarielle | 2.636 |
+| 1463 | _kaie | 2.636 |
+| 1464 | Pristine | 2.627 |
+| 1465 | Junkmaniac | 2.623 |
+| 1466 | Shircals | 2.623 |
+| 1467 | 846553767646068 | 2.613 |
+| 1468 | moonpoint | 2.611 |
+| 1469 | Shio | 2.594 |
+| 1470 | FreeDom | 2.593 |
+| 1471 | cryptile | 2.593 |
+| 1472 | beeco | 2.589 |
+| 1473 | Ma Yuyu | 2.583 |
+| 1474 | Risea | 2.578 |
+| 1475 | TheWaterBottle | 2.571 |
+| 1476 | xaxreid | 2.569 |
+| 1477 | [LAMY] | 2.565 |
+| 1478 | jan glin | 2.565 |
+| 1479 | Kasuzu | 2.561 |
+| 1480 | PIANOAPOLOGIST6 | 2.554 |
+| 1481 | Cres | 2.546 |
+| 1482 | ruyu | 2.538 |
+| 1483 | ImOyZo | 2.537 |
+| 1484 | Tam- | 2.531 |
+| 1485 | M e o w - | 2.519 |
+| 1486 | GALNERYUS | 2.517 |
+| 1487 | Megidy | 2.517 |
+| 1488 | 1337 Yutio | 2.517 |
+| 1489 | Dri3x | 2.507 |
+| 1490 | St3kiii | 2.499 |
+| 1491 | megalodon151 | 2.488 |
+| 1492 | cavoeboy | 2.486 |
+| 1493 | Gasha | 2.483 |
+| 1494 | Sakurauchi Riko | 2.479 |
+| 1495 | Yankie | 2.476 |
+| 1496 | MadLad | 2.468 |
+| 1497 | PAJWOJ | 2.460 |
+| 1498 | Unibrick | 2.449 |
+| 1499 | Kinoro | 2.443 |
+| 1500 | Soups | 2.442 |
+| 1501 | Eaves | 2.435 |
+| 1502 | OctopuSSX | 2.431 |
+| 1503 | Xyloz | 2.421 |
+| 1504 | ph1x | 2.417 |
+| 1505 | Dacoma | 2.417 |
+| 1506 | PenguiN_zi | 2.417 |
+| 1507 | _demo | 2.416 |
+| 1508 | Frane | 2.406 |
+| 1509 | Cappu | 2.405 |
+| 1510 | paprunia | 2.400 |
+| 1511 | [MY]error_exe | 2.395 |
+| 1512 | SanTisy | 2.381 |
+| 1513 | jixxi | 2.371 |
+| 1514 | Snow Ripple | 2.370 |
+| 1515 | LN-Larks | 2.344 |
+| 1516 | Peti | 2.343 |
+| 1517 | karomi | 2.339 |
+| 1518 | Doomsday | 2.339 |
+| 1519 | Nepyutsu | 2.319 |
+| 1520 | Metal Pipe | 2.313 |
+| 1521 | Stythiii | 2.304 |
+| 1522 | Spazza17 | 2.303 |
+| 1523 | SkyArrow | 2.299 |
+| 1524 | POMAH | 2.299 |
+| 1525 | Tsokoz | 2.296 |
+| 1526 | Goose King | 2.290 |
+| 1527 | [-Lockon-] | 2.289 |
+| 1528 | jaswon | 2.289 |
+| 1529 | Valtz | 2.284 |
+| 1530 | thelewa | 2.278 |
+| 1531 | Epiphany | 2.278 |
+| 1532 | TheRainHome | 2.277 |
+| 1533 | movement | 2.277 |
+| 1534 | Markden | 2.276 |
+| 1535 | Tazz | 2.275 |
+| 1536 | Moegi | 2.272 |
+| 1537 | bze | 2.253 |
+| 1538 | l1mi | 2.250 |
+| 1539 | [ baka 3b ] | 2.242 |
+| 1540 | hlanden | 2.234 |
+| 1541 | UniserverCommon | 2.230 |
+| 1542 | TESTERPIWA | 2.230 |
+| 1543 | Andrew osu | 2.230 |
+| 1544 | opensand | 2.230 |
+| 1545 | Twilight | 2.228 |
+| 1546 | Dream Journey | 2.228 |
+| 1547 | Hakumo Shiro | 2.227 |
+| 1548 | -raizen- | 2.223 |
+| 1549 | Emperorpenguin83 | 2.216 |
+| 1550 | MioMilo | 2.202 |
+| 1551 | Orkay | 2.197 |
+| 1552 | CakeStuff | 2.188 |
+| 1553 | Cesilia | 2.188 |
+| 1554 | dogeosu | 2.184 |
+| 1555 | FDX | 2.180 |
+| 1556 | ElectabuzzZ | 2.179 |
+| 1557 | CosmicWolf | 2.179 |
+| 1558 | Bomilk | 2.173 |
+| 1559 | thelolone | 2.172 |
+| 1560 | Eryth | 2.161 |
+| 1561 | GLBETA | 2.146 |
+| 1562 | Chyrubi | 2.143 |
+| 1563 | egaSyeliR | 2.143 |
+| 1564 | Neutromint | 2.143 |
+| 1565 | Dainsleif | 2.137 |
+| 1566 | reisa | 2.136 |
+| 1567 | tacogordo777 | 2.131 |
+| 1568 | Water1em0n | 2.131 |
+| 1569 | AlexXerox | 2.128 |
+| 1570 | Prophet | 2.127 |
+| 1571 | Foussilin | 2.122 |
+| 1572 | Ahshi | 2.121 |
+| 1573 | Hallsu | 2.118 |
+| 1574 | Darkmaster | 2.114 |
+| 1575 | RYPSON | 2.109 |
+| 1576 | SourMongoose | 2.105 |
+| 1577 | ponpokorin | 2.104 |
+| 1578 | Crankii | 2.097 |
+| 1579 | EmertxE | 2.097 |
+| 1580 | Timowoof | 2.096 |
+| 1581 | Tsumetai Tenshi | 2.096 |
+| 1582 | MelDAY | 2.086 |
+| 1583 | xQwake | 2.086 |
+| 1584 | Destros | 2.086 |
+| 1585 | Shigeru22 | 2.081 |
+| 1586 | Vandabe | 2.078 |
+| 1587 | Sever | 2.073 |
+| 1588 | frameZ1 | 2.073 |
+| 1589 | est | 2.069 |
+| 1590 | Jagester | 2.063 |
+| 1591 | Chheng | 2.062 |
+| 1592 | lovetap | 2.059 |
+| 1593 | Lixarious | 2.058 |
+| 1594 | VilaZ | 2.058 |
+| 1595 | pelsta | 2.049 |
+| 1596 | Phel | 2.044 |
+| 1597 | Naan-E | 2.042 |
+| 1598 | Bakladgan | 2.041 |
+| 1599 | Zogria | 2.035 |
+| 1600 | _Degenerate | 2.034 |
+| 1601 | met_0 | 2.034 |
+| 1602 | alimentaire | 2.031 |
+| 1603 | doddack | 2.030 |
+| 1604 | Leehi | 2.024 |
+| 1605 | MrBooM | 2.023 |
+| 1606 | DerpyX_X | 2.023 |
+| 1607 | Dessiderium | 2.023 |
+| 1608 | Linennight | 2.017 |
+| 1609 | El Condor Pasa | 2.016 |
+| 1610 | Jehn | 2.009 |
+| 1611 | Lolsniper | 2.009 |
+| 1612 | Corim | 2.008 |
+| 1613 | Arav | 2.005 |
+| 1614 | Furyfish | 2.004 |
+| 1615 | shadevr | 1.999 |
+| 1616 | viiolet_wasp | 1.999 |
+| 1617 | barryp | 1.996 |
+| 1618 | Suome | 1.995 |
+| 1619 | Borzilla | 1.992 |
+| 1620 | Mr C B | 1.980 |
+| 1621 | Arue | 1.976 |
+| 1622 | luvlxckdown | 1.975 |
+| 1623 | volition | 1.974 |
+| 1624 | VerreDeCafe | 1.972 |
+| 1625 | Fadi | 1.972 |
+| 1626 | Cafea_ | 1.972 |
+| 1627 | 300mm | 1.972 |
+| 1628 | Amnesia Haze | 1.969 |
+| 1629 | blackpoint675 | 1.964 |
+| 1630 | rarebostonian | 1.962 |
+| 1631 | Pezudos | 1.951 |
+| 1632 | Will Stetson | 1.949 |
+| 1633 | tamespy | 1.945 |
+| 1634 | lamenting alice | 1.939 |
+| 1635 | Twisted_Chimera | 1.936 |
+| 1636 | gasanww | 1.932 |
+| 1637 | Cheesy | 1.932 |
+| 1638 | Kayxo_ | 1.932 |
+| 1639 | femboy irl | 1.931 |
+| 1640 | Malolat | 1.931 |
+| 1641 | kottEy | 1.930 |
+| 1642 | Amaiyun | 1.929 |
+| 1643 | -Yucke | 1.928 |
+| 1644 | dark on osu | 1.922 |
+| 1645 | Sil | 1.922 |
+| 1646 | darkyn | 1.921 |
+| 1647 | mxu | 1.920 |
+| 1648 | Zoopasaurus | 1.916 |
+| 1649 | Bubon_ | 1.915 |
+| 1650 | Spaek | 1.912 |
+| 1651 | breaktime | 1.911 |
+| 1652 | RICH CHIGGA | 1.910 |
+| 1653 | Limu | 1.910 |
+| 1654 | platinuwaa | 1.910 |
+| 1655 | PemiX | 1.907 |
+| 1656 | Zur4x | 1.902 |
+| 1657 | c4w | 1.902 |
+| 1658 | Chiya1001 | 1.900 |
+| 1659 | nbss | 1.900 |
+| 1660 | NoikkaX | 1.900 |
+| 1661 | seki | 1.900 |
+| 1662 | FUNKYKONG | 1.900 |
+| 1663 | Leehai | 1.900 |
+| 1664 | Yunsmi | 1.900 |
+| 1665 | MioYamazaki | 1.900 |
+| 1666 | atsukow | 1.900 |
+| 1667 | averybadnoob | 1.900 |
+| 1668 | Nature angel | 1.900 |
+| 1669 | Rum1a | 1.900 |
+| 1670 | EZDT | 1.898 |
+| 1671 | still bummed | 1.896 |
+| 1672 | rrtyui | 1.896 |
+| 1673 | Nanashi- | 1.894 |
+| 1674 | Aikyuu-Chan | 1.890 |
+| 1675 | hzl | 1.889 |
+| 1676 | ukasoh | 1.885 |
+| 1677 | Taterazay | 1.882 |
+| 1678 | _Kaczek_ | 1.881 |
+| 1679 | bnu | 1.881 |
+| 1680 | DragonCroc | 1.879 |
+| 1681 | Humsterlol | 1.878 |
+| 1682 | chezbananas | 1.875 |
+| 1683 | Captain | 1.873 |
+| 1684 | Sky_Delta | 1.873 |
+| 1685 | Desire | 1.869 |
+| 1686 | kontener | 1.868 |
+| 1687 | onkar | 1.868 |
+| 1688 | Eurenel | 1.868 |
+| 1689 | boy thighs | 1.868 |
+| 1690 | wooper | 1.868 |
+| 1691 | VicoTeen | 1.867 |
+| 1692 | VowsTheFool | 1.866 |
+| 1693 | [Lin] | 1.861 |
+| 1694 | ThunderBird2678 | 1.859 |
+| 1695 | eclessia | 1.858 |
+| 1696 | kaver | 1.857 |
+| 1697 | MrXenox | 1.849 |
+| 1698 | AccMoment | 1.849 |
+| 1699 | khyda | 1.844 |
+| 1700 | ZenithFlare | 1.840 |
+| 1701 | luxSal | 1.840 |
+| 1702 | Chaoslitz | 1.839 |
+| 1703 | nyouso | 1.838 |
+| 1704 | tilda | 1.836 |
+| 1705 | Worne | 1.833 |
+| 1706 | namewithnumber9 | 1.831 |
+| 1707 | schlafen | 1.830 |
+| 1708 | Mami | 1.828 |
+| 1709 | noncycle | 1.828 |
+| 1710 | Iamcooked | 1.826 |
+| 1711 | randomizer89 | 1.825 |
+| 1712 | RED40 | 1.820 |
+| 1713 | Zexylian | 1.820 |
+| 1714 | macabea | 1.797 |
+| 1715 | Liliana | 1.792 |
+| 1716 | Sayuuu_ | 1.791 |
+| 1717 | DonnieGG | 1.787 |
+| 1718 | Mathyu | 1.785 |
+| 1719 | rusher_808 | 1.785 |
+| 1720 | Mloah | 1.784 |
+| 1721 | PawzMyGame | 1.783 |
+| 1722 | Miracle | 1.781 |
+| 1723 | Korilak | 1.781 |
+| 1724 | ChristieBell | 1.776 |
+| 1725 | AA_Raiden_MK | 1.775 |
+| 1726 | comm899 | 1.775 |
+| 1727 | ericqdog | 1.775 |
+| 1728 | bru0p | 1.773 |
+| 1729 | Syaro | 1.771 |
+| 1730 | BarkingMadDog | 1.771 |
+| 1731 | EndingNote | 1.767 |
+| 1732 | Vivace | 1.758 |
+| 1733 | Chiyuu | 1.758 |
+| 1734 | Cristobal1324 | 1.758 |
+| 1735 | MietteDePain_ | 1.758 |
+| 1736 | abbye | 1.758 |
+| 1737 | PestoBois | 1.754 |
+| 1738 | -Mirai- | 1.754 |
+| 1739 | Sympli | 1.753 |
+| 1740 | don_chan | 1.753 |
+| 1741 | Dark PHOENIX | 1.751 |
+| 1742 | Wucki | 1.750 |
+| 1743 | Vespirit | 1.750 |
+| 1744 | Chamqp | 1.748 |
+| 1745 | luvouva | 1.748 |
+| 1746 | mint breeze | 1.747 |
+| 1747 | Pillows | 1.742 |
+| 1748 | scuri | 1.742 |
+| 1749 | Distracted | 1.739 |
+| 1750 | MiguisXD | 1.734 |
+| 1751 | Artsy | 1.733 |
+| 1752 | Taldux | 1.731 |
+| 1753 | M I L E S | 1.729 |
+| 1754 | Koltay | 1.729 |
+| 1755 | arctice | 1.728 |
+| 1756 | danib0k | 1.726 |
+| 1757 | PCMK | 1.726 |
+| 1758 | Chechill | 1.726 |
+| 1759 | Kumeri | 1.726 |
+| 1760 | -Rigel- | 1.726 |
+| 1761 | kolic | 1.726 |
+| 1762 | thu4der | 1.726 |
+| 1763 | Razekon | 1.724 |
+| 1764 | Fangzy | 1.723 |
+| 1765 | Misono MikaXD | 1.722 |
+| 1766 | Avmeth | 1.717 |
+| 1767 | Ansol | 1.717 |
+| 1768 | Ruhe07_ | 1.717 |
+| 1769 | FishySquidMan | 1.716 |
+| 1770 | juliancala | 1.710 |
+| 1771 | KaPPaStorm | 1.709 |
+| 1772 | -Whitedog- | 1.708 |
+| 1773 | Fixr | 1.706 |
+| 1774 | vdc | 1.700 |
+| 1775 | TheKid217 | 1.695 |
+| 1776 | Gold Ship | 1.695 |
+| 1777 | Ryxel | 1.686 |
+| 1778 | okapi | 1.681 |
+| 1779 | Mrkotikgg | 1.681 |
+| 1780 | sztywny | 1.681 |
+| 1781 | FetherFall | 1.681 |
+| 1782 | ArkShadow | 1.681 |
+| 1783 | Blipblo | 1.681 |
+| 1784 | Nacrus | 1.678 |
+| 1785 | Cytusine | 1.676 |
+| 1786 | John Coltrane | 1.673 |
+| 1787 | nekz | 1.671 |
+| 1788 | creator | 1.669 |
+| 1789 | setori | 1.669 |
+| 1790 | Stealer-kun | 1.664 |
+| 1791 | Winfly | 1.662 |
+| 1792 | reflection | 1.661 |
+| 1793 | Kueelizzz | 1.661 |
+| 1794 | choke | 1.656 |
+| 1795 | mashed potatoes | 1.654 |
+| 1796 | ywd | 1.653 |
+| 1797 | Potato9756 | 1.647 |
+| 1798 | Yuuki-chan | 1.645 |
+| 1799 | LightsOut | 1.644 |
+| 1800 | Ichinose-Honami | 1.644 |
+| 1801 | SilvDoge | 1.644 |
+| 1802 | telehops | 1.643 |
+| 1803 | KogumaX | 1.643 |
+| 1804 | Omaru Polka | 1.643 |
+| 1805 | Alexaaro | 1.643 |
+| 1806 | Pioter00000 | 1.643 |
+| 1807 | Scaryz | 1.641 |
+| 1808 | Seat Ibiza TDI | 1.638 |
+| 1809 | Vvn | 1.635 |
+| 1810 | follon | 1.634 |
+| 1811 | Lantic | 1.634 |
+| 1812 | mukachu | 1.632 |
+| 1813 | GodKei | 1.630 |
+| 1814 | Eat Natto | 1.628 |
+| 1815 | Tenyusha | 1.627 |
+| 1816 | YAMADAAAAAAAAAA | 1.624 |
+| 1817 | Badewanne3 | 1.623 |
+| 1818 | Heil__ | 1.623 |
+| 1819 | NikoN1nja | 1.620 |
+| 1820 | TiRa | 1.619 |
+| 1821 | Ceja | 1.617 |
+| 1822 | Redap | 1.616 |
+| 1823 | NewbieFirst | 1.613 |
+| 1824 | BabyScylla | 1.613 |
+| 1825 | Fledin | 1.609 |
+| 1826 | oOFrostOo | 1.609 |
+| 1827 | Neatral | 1.609 |
+| 1828 | gusniki | 1.607 |
+| 1829 | Ssan1xx | 1.606 |
+| 1830 | Selaph | 1.605 |
+| 1831 | Chiful | 1.604 |
+| 1832 | Crossie | 1.602 |
+| 1833 | Greninja | 1.601 |
+| 1834 | ryufeseed | 1.600 |
+| 1835 | Eugoon | 1.599 |
+| 1836 | milr_ | 1.595 |
+| 1837 | zelda101 | 1.591 |
+| 1838 | nonerori | 1.591 |
+| 1839 | Mitsuru- | 1.590 |
+| 1840 | sakucherry | 1.589 |
+| 1841 | Ayamaki | 1.589 |
+| 1842 | an3 | 1.584 |
+| 1843 | Levesile | 1.584 |
+| 1844 | Frostium | 1.582 |
+| 1845 | Slay | 1.577 |
+| 1846 | KRZY | 1.576 |
+| 1847 | ReusoL | 1.571 |
+| 1848 | MouseEasy | 1.571 |
+| 1849 | SakuraSunset | 1.571 |
+| 1850 | pottomotto22 | 1.571 |
+| 1851 | wanderloop | 1.570 |
+| 1852 | Fobxx | 1.568 |
+| 1853 | iisobeyan | 1.568 |
+| 1854 | Vixera | 1.563 |
+| 1855 | Yazone | 1.562 |
+| 1856 | Eirra | 1.562 |
+| 1857 | Ilmay | 1.558 |
+| 1858 | DouGGlas | 1.556 |
+| 1859 | Davidozzo | 1.552 |
+| 1860 | Zaqlev | 1.552 |
+| 1861 | idiothoved | 1.550 |
+| 1862 | AAA | 1.550 |
+| 1863 | Lulzees | 1.544 |
+| 1864 | stone_bream | 1.539 |
+| 1865 | Haida | 1.538 |
+| 1866 | miageto | 1.537 |
+| 1867 | sakuraskip | 1.536 |
+| 1868 | teaminhtg | 1.536 |
+| 1869 | Ares Stark | 1.533 |
+| 1870 | Leebs | 1.531 |
+| 1871 | witchi | 1.530 |
+| 1872 | Bingo6 | 1.528 |
+| 1873 | fancy - you | 1.528 |
+| 1874 | krh | 1.525 |
+| 1875 | katatakatata | 1.524 |
+| 1876 | ARedButton | 1.523 |
+| 1877 | aiyern | 1.523 |
+| 1878 | HiroM | 1.522 |
+| 1879 | Mashima Himeko | 1.521 |
+| 1880 | Zeeno | 1.513 |
+| 1881 | zmecha | 1.510 |
+| 1882 | rinkon | 1.509 |
+| 1883 | xidorn | 1.505 |
+| 1884 | KCS2 | 1.501 |
+| 1885 | kasikomi | 1.500 |
+| 1886 | Barometz | 1.497 |
+| 1887 | Dinh | 1.496 |
+| 1888 | LouisD | 1.496 |
+| 1889 | JLC314 | 1.493 |
+| 1890 | Jmeeeh | 1.493 |
+| 1891 | Zenith | 1.493 |
+| 1892 | welt | 1.489 |
+| 1893 | Hayasaka Ai | 1.487 |
+| 1894 | yuanun | 1.486 |
+| 1895 | Junjou | 1.485 |
+| 1896 | Skyrovania | 1.485 |
+| 1897 | roliy | 1.485 |
+| 1898 | _Chris | 1.483 |
+| 1899 | nwd | 1.481 |
+| 1900 | Kevelia | 1.479 |
+| 1901 | king_duckling | 1.478 |
+| 1902 | DanFi | 1.476 |
+| 1903 | DJ EBAN | 1.472 |
+| 1904 | Arithmophobie | 1.469 |
+| 1905 | Yansilas | 1.462 |
+| 1906 | THE IDOLMASTER | 1.454 |
+| 1907 | kaimuu | 1.454 |
+| 1908 | PotatoBoy123 | 1.454 |
+| 1909 | solasi | 1.451 |
+| 1910 | DeathHydra | 1.449 |
+| 1911 | Armada | 1.448 |
+| 1912 | Mcflrry | 1.448 |
+| 1913 | Neoh | 1.447 |
+| 1914 | Kataru | 1.444 |
+| 1915 | littleguy397658 | 1.443 |
+| 1916 | Bitiksquid | 1.443 |
+| 1917 | Suicune3 | 1.441 |
+| 1918 | karott90 | 1.439 |
+| 1919 | azger | 1.438 |
+| 1920 | darfler | 1.436 |
+| 1921 | ImTrashYT | 1.436 |
+| 1922 | chiv | 1.434 |
+| 1923 | mniminwoo | 1.431 |
+| 1924 | EyesNeverOpen | 1.431 |
+| 1925 | autmn | 1.431 |
+| 1926 | epicercaner | 1.429 |
+| 1927 | NeoPixel201 | 1.429 |
+| 1928 | NanoiteX | 1.422 |
+| 1929 | rewmiqa | 1.421 |
+| 1930 | DAZQ | 1.421 |
+| 1931 | Ruchika | 1.419 |
+| 1932 | - Ciel - | 1.418 |
+| 1933 | ylitkas | 1.415 |
+| 1934 | beaw | 1.414 |
+| 1935 | fluvry | 1.412 |
+| 1936 | BTG4 | 1.411 |
+| 1937 | [ Master ] | 1.411 |
+| 1938 | MordeyMay | 1.410 |
+| 1939 | MarthXT | 1.407 |
+| 1940 | Reimu- | 1.401 |
+| 1941 | [Crz]Makii | 1.400 |
+| 1942 | Toilet Player | 1.395 |
+| 1943 | dantedel221 | 1.395 |
+| 1944 | Luris | 1.394 |
+| 1945 | yallasm | 1.393 |
+| 1946 | Basherman | 1.391 |
+| 1947 | [SHK]oliwakami | 1.385 |
+| 1948 | SecretlyShiro | 1.385 |
+| 1949 | Misagi | 1.385 |
+| 1950 | Jageko | 1.382 |
+| 1951 | SlichBane | 1.381 |
+| 1952 | DualAkira | 1.381 |
+| 1953 | NeNe_GoShyuJiN | 1.379 |
+| 1954 | ThangGaming | 1.378 |
+| 1955 | calculus | 1.378 |
+| 1956 | septembre-02 | 1.376 |
+| 1957 | srezon1 | 1.374 |
+| 1958 | StellaFox | 1.370 |
+| 1959 | 970 | 1.366 |
+| 1960 | Sandron | 1.363 |
+| 1961 | Alina Gray | 1.363 |
+| 1962 | Umatza | 1.363 |
+| 1963 | DAGESTHANOS | 1.360 |
+| 1964 | WhiteKat | 1.358 |
+| 1965 | krb | 1.354 |
+| 1966 | Cohue | 1.351 |
+| 1967 | Silent Rock | 1.350 |
+| 1968 | love katagiri | 1.347 |
+| 1969 | Hakumo Ai | 1.347 |
+| 1970 | Azali | 1.344 |
+| 1971 | quaternary | 1.343 |
+| 1972 | Finney | 1.340 |
+| 1973 | Dathian | 1.340 |
+| 1974 | -Atour- | 1.340 |
+| 1975 | wtfitshard | 1.339 |
+| 1976 | Plumeria | 1.339 |
+| 1977 | Zavarka | 1.336 |
+| 1978 | tatiuo256 | 1.334 |
+| 1979 | RGRTG | 1.330 |
+| 1980 | stellasu | 1.326 |
+| 1981 | Latale | 1.326 |
+| 1982 | akiyama | 1.324 |
+| 1983 | deflateddolphin | 1.321 |
+| 1984 | VierjaPaz | 1.319 |
+| 1985 | ASaltyBunion | 1.319 |
+| 1986 | Kuzik | 1.319 |
+| 1987 | korzei | 1.319 |
+| 1988 | Rokari | 1.317 |
+| 1989 | a12456 | 1.317 |
+| 1990 | -Masta- | 1.317 |
+| 1991 | what about me | 1.317 |
+| 1992 | hollowknees | 1.315 |
+| 1993 | Mashir0 | 1.314 |
+| 1994 | Netizz | 1.314 |
+| 1995 | zSmoxKe | 1.314 |
+| 1996 | Save Me | 1.313 |
+| 1997 | Leiv | 1.313 |
+| 1998 | Terandr | 1.313 |
+| 1999 | shion | 1.309 |
+| 2000 | NoWifi | 1.303 |
+| 2001 | -Kamy | 1.303 |
+| 2002 | RiceShower | 1.302 |
+| 2003 | HYUNG JOO | 1.302 |
+| 2004 | LogiDASH | 1.302 |
+| 2005 | mats on osu | 1.302 |
+| 2006 | Chakrami | 1.302 |
+| 2007 | pr1mary | 1.302 |
+| 2008 | Fmi | 1.302 |
+| 2009 | Adrean | 1.302 |
+| 2010 | pizzouilleee | 1.302 |
+| 2011 | sareemaa | 1.302 |
+| 2012 | SlicedAvocado | 1.302 |
+| 2013 | paxyh | 1.302 |
+| 2014 | sekireaaw | 1.299 |
+| 2015 | papika | 1.297 |
+| 2016 | jehlp | 1.297 |
+| 2017 | arbusion | 1.297 |
+| 2018 | morix | 1.297 |
+| 2019 | Atom_IX | 1.297 |
+| 2020 | sarondres | 1.297 |
+| 2021 | Dada | 1.296 |
+| 2022 | boterham | 1.295 |
+| 2023 | LilyMone | 1.295 |
+| 2024 | tani | 1.295 |
+| 2025 | Trolloli | 1.295 |
+| 2026 | worst ht player | 1.295 |
+| 2027 | AWhitePhoenix | 1.289 |
+| 2028 | gato hongo | 1.289 |
+| 2029 | Thelock | 1.289 |
+| 2030 | GLASSY | 1.282 |
+| 2031 | Touhou Project | 1.282 |
+| 2032 | Minpz | 1.282 |
+| 2033 | Hobeeyz | 1.280 |
+| 2034 | zaul | 1.280 |
+| 2035 | dekay | 1.275 |
+| 2036 | erothique | 1.269 |
+| 2037 | Carebare | 1.267 |
+| 2038 | OPJames | 1.266 |
+| 2039 | In Sane | 1.266 |
+| 2040 | Spork Lover | 1.266 |
+| 2041 | Andythebest | 1.266 |
+| 2042 | Mavs | 1.266 |
+| 2043 | LaLmL | 1.266 |
+| 2044 | Dextrol | 1.265 |
+| 2045 | Jayyhk | 1.263 |
+| 2046 | UberFazz | 1.260 |
+| 2047 | [ AeonLust ] | 1.259 |
+| 2048 | qqale1 | 1.259 |
+| 2049 | yykkrr | 1.259 |
+| 2050 | KaZuoo | 1.259 |
+| 2051 | Clubby | 1.259 |
+| 2052 | ymmm6 | 1.259 |
+| 2053 | Phasius | 1.259 |
+| 2054 | Evrazija | 1.259 |
+| 2055 | azr8 | 1.257 |
+| 2056 | Ethermeral | 1.257 |
+| 2057 | False Nine | 1.253 |
+| 2058 | OnlyJacob | 1.251 |
+| 2059 | MarianCap [AR] | 1.251 |
+| 2060 | trancemegamix | 1.251 |
+| 2061 | NuHaru | 1.250 |
+| 2062 | Manasoy | 1.250 |
+| 2063 | Tecnosh Gordao | 1.250 |
+| 2064 | unseen | 1.250 |
+| 2065 | ForeverRiolet | 1.246 |
+| 2066 | qtz | 1.244 |
+| 2067 | Deazir | 1.244 |
+| 2068 | Gyrados | 1.244 |
+| 2069 | Wynner | 1.244 |
+| 2070 | Kehest | 1.244 |
+| 2071 | bananaman533 | 1.240 |
+| 2072 | ShaBae | 1.240 |
+| 2073 | duerpv4 | 1.236 |
+| 2074 | Mariskiy Modnik | 1.236 |
+| 2075 | verfex | 1.236 |
+| 2076 | Pkups | 1.235 |
+| 2077 | Take no Hana | 1.235 |
+| 2078 | Sheeaper | 1.235 |
+| 2079 | eiry | 1.235 |
+| 2080 | Myonpaku | 1.228 |
+| 2081 | ArmaniDilbo | 1.228 |
+| 2082 | Etfard | 1.228 |
+| 2083 | Ends | 1.228 |
+| 2084 | Mqte | 1.225 |
+| 2085 | sho_o | 1.224 |
+| 2086 | smashcae | 1.221 |
+| 2087 | Terciusz | 1.220 |
+| 2088 | reonyan | 1.214 |
+| 2089 | StiKsy | 1.214 |
+| 2090 | zeris | 1.214 |
+| 2091 | sut_son | 1.214 |
+| 2092 | TheRealAman | 1.214 |
+| 2093 | YesTak | 1.214 |
+| 2094 | [ MiSa YuKa ] | 1.214 |
+| 2095 | xCrazy | 1.214 |
+| 2096 | Shaper | 1.214 |
+| 2097 | Bostinha Games | 1.214 |
+| 2098 | Yukime | 1.214 |
+| 2099 | PaweroX | 1.214 |
+| 2100 | bluezenithgames | 1.214 |
+| 2101 | Downsy | 1.214 |
+| 2102 | _yogu | 1.214 |
+| 2103 | Whiffy | 1.214 |
+| 2104 | WujuBlade | 1.214 |
+| 2105 | PreDexine | 1.214 |
+| 2106 | Plate | 1.214 |
+| 2107 | mozza_ | 1.214 |
+| 2108 | Tori no Uta | 1.214 |
+| 2109 | abinsan | 1.214 |
+| 2110 | Zooble | 1.210 |
+| 2111 | skylily | 1.207 |
+| 2112 | site0121 | 1.207 |
+| 2113 | Anime | 1.207 |
+| 2114 | ekub0 | 1.207 |
+| 2115 | P1u70 | 1.206 |
+| 2116 | Koba | 1.206 |
+| 2117 | daanit | 1.206 |
+| 2118 | Zanik | 1.206 |
+| 2119 | Buszek | 1.206 |
+| 2120 | Garage du Lac | 1.199 |
+| 2121 | Firstus | 1.199 |
+| 2122 | ---- | 1.199 |
+| 2123 | striFE36 | 1.199 |
+| 2124 | miral | 1.196 |
+| 2125 | woiester | 1.195 |
+| 2126 | Panda Bear | 1.192 |
+| 2127 | _ajsem | 1.192 |
+| 2128 | Atsorko | 1.190 |
+| 2129 | Ququlu | 1.190 |
+| 2130 | chungis | 1.189 |
+| 2131 | Tanaka Hime | 1.184 |
+| 2132 | azaz08967565 | 1.171 |
+| 2133 | Gokhau | 1.168 |
+| 2134 | mooshiros | 1.168 |
+| 2135 | Take_Yutaka | 1.167 |
+| 2136 | Moshu | 1.164 |
+| 2137 | Viena | 1.163 |
+| 2138 | Deramok | 1.161 |
+| 2139 | wessel_osu1 | 1.154 |
+| 2140 | Anphans | 1.152 |
+| 2141 | Testeron | 1.152 |
+| 2142 | AMR17 | 1.152 |
+| 2143 | Rhabdomilowo | 1.149 |
+| 2144 | nero1kami | 1.149 |
+| 2145 | xinrr | 1.149 |
+| 2146 | Josee is my luv | 1.149 |
+| 2147 | Rayeku | 1.149 |
+| 2148 | de_skitzofrenia | 1.149 |
+| 2149 | Anze | 1.147 |
+| 2150 | Dragbit 5 | 1.147 |
+| 2151 | Hydrangea_ | 1.147 |
+| 2152 | Pale Citrus | 1.147 |
+| 2153 | pixiv Player | 1.147 |
+| 2154 | Glacc | 1.145 |
+| 2155 | CXu | 1.142 |
+| 2156 | Meltina | 1.142 |
+| 2157 | [ Lili ] | 1.142 |
+| 2158 | Psycopath- | 1.142 |
+| 2159 | Sebu | 1.142 |
+| 2160 | Hakurai | 1.142 |
+| 2161 | FarQ_ | 1.142 |
+| 2162 | Raindrop | 1.142 |
+| 2163 | Dungeon | 1.142 |
+| 2164 | -Electro- | 1.142 |
+| 2165 | Jup3KW | 1.142 |
+| 2166 | A5uka | 1.142 |
+| 2167 | [ Larssen ] | 1.142 |
+| 2168 | Feyyy | 1.142 |
+| 2169 | leina | 1.142 |
+| 2170 | Tsukishima Riho | 1.142 |
+| 2171 | Devolter | 1.142 |
+| 2172 | MyAngel428 | 1.142 |
+| 2173 | nuggetchama | 1.138 |
+| 2174 | Frem | 1.138 |
+| 2175 | anhnhatbui | 1.135 |
+| 2176 | Choco001 | 1.135 |
+| 2177 | 0v0 | 1.132 |
+| 2178 | LimeTwist | 1.132 |
+| 2179 | sreal | 1.132 |
+| 2180 | dyl | 1.129 |
+| 2181 | Hiten | 1.128 |
+| 2182 | Sdot | 1.128 |
+| 2183 | Nyang | 1.125 |
+| 2184 | faze-dank | 1.125 |
+| 2185 | zSidd | 1.125 |
+| 2186 | aaront | 1.125 |
+| 2187 | Coreyellow | 1.124 |
+| 2188 | PapaGunch | 1.122 |
+| 2189 | Seamob | 1.122 |
+| 2190 | AtHeoN | 1.122 |
+| 2191 | Neta | 1.122 |
+| 2192 | Sablestars | 1.122 |
+| 2193 | MiruHong | 1.122 |
+| 2194 | Firebool | 1.122 |
+| 2195 | Insanity7 | 1.122 |
+| 2196 | TB 358 | 1.122 |
+| 2197 | Pure Ruby | 1.122 |
+| 2198 | mahloola | 1.122 |
+| 2199 | Venture | 1.122 |
+| 2200 | -Xia- | 1.120 |
+| 2201 | Yurino Ayumi | 1.120 |
+| 2202 | LaiR | 1.120 |
+| 2203 | iToxicShadow | 1.120 |
+| 2204 | Watson Amelia | 1.120 |
+| 2205 | RenaDesu | 1.120 |
+| 2206 | imagaK | 1.120 |
+| 2207 | vekt0r | 1.120 |
+| 2208 | Forgetest | 1.120 |
+| 2209 | Zechariah | 1.120 |
+| 2210 | Genjitsu | 1.120 |
+| 2211 | Lissaru | 1.120 |
+| 2212 | enkiduu | 1.120 |
+| 2213 | 001thefish | 1.120 |
+| 2214 | Texats | 1.115 |
+| 2215 | krtixd | 1.112 |
+| 2216 | Syfrax | 1.112 |
+| 2217 | gotcalculated | 1.112 |
+| 2218 | Mentalina | 1.112 |
+| 2219 | Tanjirina | 1.112 |
+| 2220 | t ony | 1.108 |
+| 2221 | NEW GOD | 1.108 |
+| 2222 | BlessKM | 1.108 |
+| 2223 | Miguel Mella | 1.108 |
+| 2224 | Notpyon | 1.108 |
+| 2225 | Lazygantengz | 1.108 |
+| 2226 | PoYuTo | 1.108 |
+| 2227 | Ansh1n | 1.105 |
+| 2228 | AnteG1201 | 1.105 |
+| 2229 | Diegod | 1.105 |
+| 2230 | uhm_ | 1.105 |
+| 2231 | noobvoctoFISHtw | 1.105 |
+| 2232 | forer222 | 1.105 |
+| 2233 | Wessup05 | 1.105 |
+| 2234 | PineFugger | 1.105 |
+| 2235 | ZestyTea | 1.100 |
+| 2236 | Fuwawa | 1.099 |
+| 2237 | smh_annie | 1.099 |
+| 2238 | Dr Manhattan | 1.099 |
+| 2239 | F1exandr | 1.098 |
+| 2240 | Seouless | 1.094 |
+| 2241 | Truc | 1.094 |
+| 2242 | LittleDan | 1.094 |
+| 2243 | - Kataomoi - | 1.094 |
+| 2244 | Loslite | 1.094 |
+| 2245 | a hotdog | 1.094 |
+| 2246 | Tigerek386 | 1.094 |
+| 2247 | Crystal- | 1.094 |
+| 2248 | Frostlin | 1.094 |
+| 2249 | layne | 1.094 |
+| 2250 | fripSide | 1.094 |
+| 2251 | miki2003pl | 1.094 |
+| 2252 | m t g | 1.094 |
+| 2253 | Heilia | 1.094 |
+| 2254 | Sponk- | 1.092 |
+| 2255 | Vidrogue | 1.092 |
+| 2256 | winz | 1.092 |
+| 2257 | BlonderDennis | 1.092 |
+| 2258 | Shiny Froakie | 1.092 |
+| 2259 | Kookie- | 1.092 |
+| 2260 | MachineGirl | 1.092 |
+| 2261 | serumanoo | 1.092 |
+| 2262 | Zhabka123 | 1.092 |
+| 2263 | Tiger Claw | 1.088 |
+| 2264 | Voss | 1.088 |
+| 2265 | -mira | 1.086 |
+| 2266 | joan flowaim | 1.081 |
+| 2267 | brujconqueror71 | 1.081 |
+| 2268 | Slay_conceit | 1.081 |
+| 2269 | teashoe | 1.081 |
+| 2270 | Knalli | 1.081 |
+| 2271 | Feraza | 1.081 |
+| 2272 | sub_WHISTLE | 1.081 |
+| 2273 | KotobukiTsumugi | 1.081 |
+| 2274 | Rusty af | 1.081 |
+| 2275 | Zefkiel | 1.081 |
+| 2276 | ToxicBulbasaur | 1.081 |
+| 2277 | [ Couch ] | 1.081 |
+| 2278 | Soroic | 1.081 |
+| 2279 | Qumania | 1.080 |
+| 2280 | nxtgn | 1.080 |
+| 2281 | Mayoka223 | 1.080 |
+| 2282 | schneggie | 1.080 |
+| 2283 | retot | 1.074 |
+| 2284 | Blendra | 1.074 |
+| 2285 | Akamatsu | 1.074 |
+| 2286 | steamhappy | 1.074 |
+| 2287 | ChupaChups | 1.074 |
+| 2288 | Gonito | 1.074 |
+| 2289 | Whenimazombie | 1.074 |
+| 2290 | ArtoriaMyAngel | 1.074 |
+| 2291 | Oryn | 1.074 |
+| 2292 | Salvotore | 1.074 |
+| 2293 | xysuki | 1.074 |
+| 2294 | Vyxico | 1.074 |
+| 2295 | Cizz | 1.074 |
+| 2296 | MrTerror | 1.070 |
+| 2297 | Momoko Mizumi | 1.068 |
+| 2298 | senadina | 1.068 |
+| 2299 | Imuwashi | 1.068 |
+| 2300 | Wayakuyee | 1.068 |
+| 2301 | vur | 1.068 |
+| 2302 | x1nyu | 1.068 |
+| 2303 | Poonz | 1.068 |
+| 2304 | stennu | 1.068 |
+| 2305 | lindo2 | 1.068 |
+| 2306 | TheDustOfTimes | 1.068 |
+| 2307 | Shiina Noriko | 1.062 |
+| 2308 | PizzaLovers007 | 1.055 |
+| 2309 | fooooooood | 1.055 |
+| 2310 | Liswiera | 1.055 |
+| 2311 | stanol | 1.055 |
+| 2312 | WOJT | 1.049 |
+| 2313 | bubblecat | 1.049 |
+| 2314 | Luminiscental | 1.048 |
+| 2315 | StylishBBA | 1.048 |
+| 2316 | Hellstorm | 1.048 |
+| 2317 | JHC_ | 1.048 |
+| 2318 | MissOne | 1.048 |
+| 2319 | Rheos | 1.048 |
+| 2320 | Arutairu | 1.048 |
+| 2321 | My Angel-Aki | 1.048 |
+| 2322 | HuKuTa_4ePeI7 | 1.048 |
+| 2323 | Alencia | 1.048 |
+| 2324 | TheAverageLoser | 1.048 |
+| 2325 | Jeff Fuchsional | 1.048 |
+| 2326 | [SHK]chanliuko | 1.048 |
+| 2327 | ZaBoo | 1.048 |
+| 2328 | delusionalk | 1.048 |
+| 2329 | JA1DIN1 | 1.048 |
+| 2330 | SnowyNight | 1.048 |
+| 2331 | -Agent | 1.043 |
+| 2332 | Forw3n | 1.043 |
+| 2333 | rAng_E | 1.043 |
+| 2334 | DudsonZ | 1.042 |
+| 2335 | Villdjack | 1.042 |
+| 2336 | Skyme | 1.042 |
+| 2337 | serea | 1.042 |
+| 2338 | ThickDust | 1.042 |
+| 2339 | Zinkon | 1.042 |
+| 2340 | elii | 1.042 |
+| 2341 | Dunn | 1.042 |
+| 2342 | mrekk114514 | 1.042 |
+| 2343 | Inquisitives | 1.042 |
+| 2344 | Gary Eats | 1.042 |
+| 2345 | sonix | 1.036 |
+| 2346 | TeNero_ | 1.036 |
+| 2347 | Paracat | 1.036 |
+| 2348 | Maopo | 1.036 |
+| 2349 | alfie_yo | 1.036 |
+| 2350 | Kriatix | 1.036 |
+| 2351 | Jabba | 1.036 |
+| 2352 | egg nog | 1.036 |
+| 2353 | Kuromiau | 1.035 |
+| 2354 | Krilex | 1.035 |
+| 2355 | Ryuvee | 1.035 |
+| 2356 | Loreriv | 1.035 |
+| 2357 | -Gigi- | 1.030 |
+| 2358 | Illinear | 1.030 |
+| 2359 | Firika | 1.024 |
+| 2360 | Goose1723 | 1.023 |
+| 2361 | IIIIVIXRVHB | 1.018 |
+| 2362 | Nagaiyume | 1.018 |
+| 2363 | Fastestmaster | 1.018 |
+| 2364 | Chisayo | 1.018 |
+| 2365 | jacj | 1.018 |
+| 2366 | Lefafel | 1.017 |
+| 2367 | nki | 1.017 |
+| 2368 | Ventus | 1.017 |
+| 2369 | yoshibox | 1.017 |
+| 2370 | _Dan | 1.017 |
+| 2371 | Krosis | 1.017 |
+| 2372 | Giants_105 | 1.017 |
+| 2373 | McK | 1.017 |
+| 2374 | 4329111 | 1.017 |
+| 2375 | Flow- | 1.017 |
+| 2376 | Terriama | 1.017 |
+| 2377 | ShiroNai | 1.017 |
+| 2378 | gecseboti | 1.016 |
+| 2379 | Kyouyama Kazusa | 1.016 |
+| 2380 | mihidayo | 1.016 |
+| 2381 | Tms_Est | 1.016 |
+| 2382 | seby | 1.016 |
+| 2383 | Vellana | 1.016 |
+| 2384 | RAGINGDASHIEje | 1.016 |
+| 2385 | FuwaFuwaCake | 1.016 |
+| 2386 | TitioProerd | 1.016 |
+| 2387 | Nairda_ | 1.016 |
+| 2388 | Noredn | 1.011 |
+| 2389 | Leftoverss | 1.011 |
+| 2390 | Zigzagoon | 1.011 |
+| 2391 | Haydosu | 1.011 |
+| 2392 | AstonFrenchWine | 1.011 |
+| 2393 | qazplm79 | 1.010 |
+| 2394 | LolForest | 1.010 |
+| 2395 | deGLe | 1.006 |
+| 2396 | pkhg | 1.006 |
+| 2397 | turbo_igor_777 | 1.006 |
+| 2398 | X_TAMAO_X | 0.999 |
+| 2399 | Seina | 0.997 |
+| 2400 | KnightC0re | 0.993 |
+| 2401 | -Majo- | 0.993 |
+| 2402 | CryCatG | 0.993 |
+| 2403 | Mystoline | 0.993 |
+| 2404 | Rolhalovich | 0.993 |
+| 2405 | PotjeNutella | 0.993 |
+| 2406 | CodeNyaggies | 0.993 |
+| 2407 | squarerot | 0.993 |
+| 2408 | Damoclesss | 0.993 |
+| 2409 | aconite | 0.993 |
+| 2410 | Hefalumph | 0.993 |
+| 2411 | astr0nomic | 0.993 |
+| 2412 | lip | 0.993 |
+| 2413 | Real Meower | 0.993 |
+| 2414 | 3p0x | 0.993 |
+| 2415 | Stoneybeans | 0.993 |
+| 2416 | Towdie | 0.993 |
+| 2417 | KETTEX | 0.993 |
+| 2418 | pomppp | 0.993 |
+| 2419 | MisaraToT | 0.993 |
+| 2420 | mokia- | 0.992 |
+| 2421 | Madaraha | 0.992 |
+| 2422 | temporag | 0.992 |
+| 2423 | YGOkid8 | 0.987 |
+| 2424 | fartMONSTER5000 | 0.987 |
+| 2425 | Splacten | 0.987 |
+| 2426 | Chi ki | 0.981 |
+| 2427 | Dnwings | 0.981 |
+| 2428 | milpa | 0.981 |
+| 2429 | dracoria | 0.981 |
+| 2430 | non_accuracy | 0.981 |
+| 2431 | QuisTiX | 0.981 |
+| 2432 | SPADESH | 0.981 |
+| 2433 | scoyro | 0.981 |
+| 2434 | Optimus | 0.981 |
+| 2435 | waaiiru | 0.978 |
+| 2436 | Happy New Year | 0.978 |
+| 2437 | -SoMoE- | 0.978 |
+| 2438 | Landegre- | 0.978 |
+| 2439 | Emilie- | 0.978 |
+| 2440 | Quag | 0.978 |
+| 2441 | Syndi | 0.978 |
+| 2442 | rflood | 0.978 |
+| 2443 | Aze x3 | 0.978 |
+| 2444 | Laydau | 0.978 |
+| 2445 | this_cord1985 | 0.978 |
+| 2446 | Praxeology | 0.976 |
+| 2447 | Tomasz Gimaggi | 0.976 |
+| 2448 | Volcanism | 0.976 |
+| 2449 | LosPedros | 0.976 |
+| 2450 | User XXII | 0.976 |
+| 2451 | Vlad | 0.976 |
+| 2452 | EndmeKov | 0.976 |
+| 2453 | Sekiz | 0.976 |
+| 2454 | Jokupoika24 | 0.976 |
+| 2455 | Aeflar | 0.976 |
+| 2456 | Teini | 0.976 |
+| 2457 | Tsumikiri | 0.976 |
+| 2458 | Schoki | 0.976 |
+| 2459 | 123123 | 0.976 |
+| 2460 | Neet Sama | 0.975 |
+| 2461 | Bruley | 0.970 |
+| 2462 | Altom | 0.970 |
+| 2463 | Kondi | 0.970 |
+| 2464 | VORIONTT | 0.970 |
+| 2465 | Orangeholic | 0.970 |
+| 2466 | K_Clap | 0.970 |
+| 2467 | Sand-Star | 0.970 |
+| 2468 | Miori Celesta | 0.970 |
+| 2469 | Melifaro | 0.970 |
+| 2470 | Memesical | 0.970 |
+| 2471 | Exotica | 0.970 |
+| 2472 | Splenden | 0.969 |
+| 2473 | AmphibiousBean | 0.969 |
+| 2474 | KonKoniLou | 0.969 |
+| 2475 | Nilson | 0.969 |
+| 2476 | s e n | 0.969 |
+| 2477 | CrtReXn | 0.969 |
+| 2478 | Guyan | 0.969 |
+| 2479 | Seth MacFarlane | 0.969 |
+| 2480 | Paydro | 0.969 |
+| 2481 | Candina | 0.969 |
+| 2482 | Kilgar | 0.969 |
+| 2483 | Humberto-tan | 0.968 |
+| 2484 | HeartNo | 0.968 |
+| 2485 | City Girl | 0.968 |
+| 2486 | Toumei Dragon | 0.966 |
+| 2487 | Cypherno | 0.966 |
+| 2488 | Mutantrabies | 0.966 |
+| 2489 | hard to freeze | 0.966 |
+| 2490 | Chiharu | 0.966 |
+| 2491 | -[ Dreepy ]- | 0.966 |
+| 2492 | Rin Tezuka | 0.966 |
+| 2493 | Narathan | 0.964 |
+| 2494 | MokkoriRyo | 0.964 |
+| 2495 | O_pen | 0.962 |
+| 2496 | honey | 0.962 |
+| 2497 | Lancien | 0.958 |
+| 2498 | dnomyar | 0.958 |
+| 2499 | R Y A N | 0.954 |
+| 2500 | Dragons | 0.954 |
+| 2501 | ArFunG | 0.954 |
+| 2502 | -Inazuma- | 0.954 |
+| 2503 | LunaFox | 0.954 |
+| 2504 | vAgue57 | 0.954 |
+| 2505 | pany511 | 0.954 |
+| 2506 | MagnarWiecki | 0.954 |
+| 2507 | Einja | 0.954 |
+| 2508 | terrax | 0.952 |
+| 2509 | Restroom | 0.952 |
+| 2510 | Marks2K | 0.952 |
+| 2511 | Pinossaur | 0.952 |
+| 2512 | WhatsApp | 0.952 |
+| 2513 | Toha- | 0.952 |
+| 2514 | Technicalbruh | 0.952 |
+| 2515 | oTwinkle | 0.952 |
+| 2516 | PupperKun | 0.952 |
+| 2517 | r3connect | 0.952 |
+| 2518 | Illuminatrix | 0.952 |
+| 2519 | SechsZahl | 0.952 |
+| 2520 | Tabris | 0.952 |
+| 2521 | G I V Z Z | 0.946 |
+| 2522 | nonentity | 0.946 |
+| 2523 | EPIC MONKEY 69 | 0.946 |
+| 2524 | CurrentlyOsu | 0.946 |
+| 2525 | stinker | 0.946 |
+| 2526 | upheaval | 0.946 |
+| 2527 | -slim- | 0.946 |
+| 2528 | doofus | 0.946 |
+| 2529 | snow leopard | 0.946 |
+| 2530 | cykaman0411 | 0.946 |
+| 2531 | GreenMelonX | 0.946 |
+| 2532 | Utzie | 0.946 |
+| 2533 | Melodia | 0.940 |
+| 2534 | Cawolo | 0.940 |
+| 2535 | -Kino Himari- | 0.938 |
+| 2536 | Closure | 0.936 |
+| 2537 | Tuon | 0.936 |
+| 2538 | Lemaire | 0.936 |
+| 2539 | wohooooooo | 0.936 |
+| 2540 | Jafeto_99 | 0.936 |
+| 2541 | [Soju_Desu] | 0.936 |
+| 2542 | Maxy- | 0.936 |
+| 2543 | MakiBlank | 0.936 |
+| 2544 | bahoopla | 0.936 |
+| 2545 | spoonrager | 0.936 |
+| 2546 | Radny | 0.936 |
+| 2547 | S3Mango | 0.936 |
+| 2548 | Ren_ | 0.936 |
+| 2549 | veryasian | 0.936 |
+| 2550 | Blank- | 0.936 |
+| 2551 | ru lai | 0.935 |
+| 2552 | Tabby Bee | 0.935 |
+| 2553 | Gilletteguy | 0.935 |
+| 2554 | eclipse11 | 0.935 |
+| 2555 | La Valse | 0.932 |
+| 2556 | NiuCriu | 0.932 |
+| 2557 | Denk | 0.932 |
+| 2558 | Zeezus | 0.932 |
+| 2559 | giulio | 0.932 |
+| 2560 | tyrizzle | 0.932 |
+| 2561 | RyuuBei | 0.930 |
+| 2562 | Yumia | 0.929 |
+| 2563 | Kafuu Chino | 0.929 |
+| 2564 | IcyIce | 0.929 |
+| 2565 | miiarad | 0.929 |
+| 2566 | Pelmeenid | 0.929 |
+| 2567 | Sucralosa | 0.929 |
+| 2568 | ADoorNob | 0.929 |
+| 2569 | Mizuha_ | 0.924 |
+| 2570 | Soyuha | 0.924 |
+| 2571 | Hunxin | 0.923 |
+| 2572 | yuiko122 | 0.923 |
+| 2573 | OG Merami | 0.923 |
+| 2574 | OTWGE | 0.923 |
+| 2575 | Hazuki Sendai | 0.923 |
+| 2576 | kyniia | 0.923 |
+| 2577 | Ameshima | 0.923 |
+| 2578 | Koenig_Michi | 0.923 |
+| 2579 | -Kazeshi | 0.923 |
+| 2580 | chikato | 0.923 |
+| 2581 | Senzek | 0.923 |
+| 2582 | XernX | 0.923 |
+| 2583 | MyAngelBoshyMan | 0.923 |
+| 2584 | his puppy | 0.923 |
+| 2585 | Hide in room | 0.923 |
+| 2586 | hotcat190 | 0.920 |
+| 2587 | Mitchi | 0.920 |
+| 2588 | Raiwww | 0.918 |
+| 2589 | Duck Wings | 0.918 |
+| 2590 | -esfuerzo- | 0.918 |
+| 2591 | Rolniczy | 0.912 |
+| 2592 | Szshwrik | 0.912 |
+| 2593 | 16544 | 0.912 |
+| 2594 | Saruei | 0.912 |
+| 2595 | Verxina | 0.912 |
+| 2596 | Pommi | 0.912 |
+| 2597 | Dianth | 0.912 |
+| 2598 | Loathed | 0.912 |
+| 2599 | awhi | 0.912 |
+| 2600 | Nidasimno | 0.912 |
+| 2601 | Normanise | 0.912 |
+| 2602 | alsper05 | 0.912 |
+| 2603 | LuihGi | 0.912 |
+| 2604 | LiseQi | 0.912 |
+| 2605 | Cinia Pacifica | 0.912 |
+| 2606 | Dayvudd | 0.912 |
+| 2607 | Passara | 0.909 |
+| 2608 | Runkku | 0.909 |
+| 2609 | AHotDawg | 0.907 |
+| 2610 | NatChan | 0.906 |
+| 2611 | anykit2005 | 0.901 |
+| 2612 | mindmaster107 | 0.901 |
+| 2613 | BG eggman | 0.901 |
+| 2614 | Tsuki-Yomi | 0.901 |
+| 2615 | Retixia | 0.901 |
+| 2616 | Gommish | 0.901 |
+| 2617 | Wengen | 0.901 |
+| 2618 | _Kasaezic | 0.901 |
+| 2619 | S Cantoniensis | 0.901 |
+| 2620 | MemeMachine21 | 0.901 |
+| 2621 | daitsuku | 0.901 |
+| 2622 | walle | 0.897 |
+| 2623 | Kabonkers | 0.896 |
+| 2624 | Lohovo Vepete | 0.896 |
+| 2625 | Wittepoes | 0.896 |
+| 2626 | Ricardo93 | 0.895 |
+| 2627 | GreLyy_ | 0.895 |
+| 2628 | Mema | 0.895 |
+| 2629 | Zetako | 0.895 |
+| 2630 | Dazzle | 0.895 |
+| 2631 | -Machine- | 0.895 |
+| 2632 | nekoshi | 0.895 |
+| 2633 | SaeedKz | 0.890 |
+| 2634 | -Wum- | 0.889 |
+| 2635 | Vinswag | 0.886 |
+| 2636 | Homete | 0.886 |
+| 2637 | -LucidDream- | 0.886 |
+| 2638 | mahjong | 0.886 |
+| 2639 | nuthing | 0.885 |
+| 2640 | Bototo | 0.885 |
+| 2641 | fartownik | 0.878 |
+| 2642 | Mercurius | 0.878 |
+| 2643 | yandri | 0.878 |
+| 2644 | FeriOP | 0.878 |
+| 2645 | -Kanzaki | 0.878 |
+| 2646 | Conyoh | 0.878 |
+| 2647 | Sorixx | 0.878 |
+| 2648 | iberius | 0.878 |
+| 2649 | MeaAngel | 0.878 |
+| 2650 | Aerolustly | 0.878 |
+| 2651 | AndreDubs | 0.878 |
+| 2652 | pewdekz | 0.878 |
+| 2653 | Ayya Novak | 0.878 |
+| 2654 | Marco Poio | 0.878 |
+| 2655 | Ignas | 0.878 |
+| 2656 | ieu- | 0.878 |
+| 2657 | scug | 0.878 |
+| 2658 | Lateralist | 0.878 |
+| 2659 | Diamond PVP | 0.878 |
+| 2660 | ohshitweeb | 0.875 |
+| 2661 | chileno | 0.873 |
+| 2662 | inequal2x | 0.873 |
+| 2663 | Gokuri | 0.872 |
+| 2664 | 239hachiman | 0.872 |
+| 2665 | Midslayer | 0.872 |
+| 2666 | Warrock | 0.872 |
+| 2667 | 4mpy | 0.872 |
+| 2668 | Big Z | 0.872 |
+| 2669 | Qetto | 0.872 |
+| 2670 | FeeDyy | 0.872 |
+| 2671 | Leftie | 0.872 |
+| 2672 | ahmad | 0.872 |
+| 2673 | Shannon | 0.868 |
+| 2674 | Meowshiii | 0.868 |
+| 2675 | mrow | 0.868 |
+| 2676 | Lirumin | 0.868 |
+| 2677 | Simabuco | 0.868 |
+| 2678 | GalaxySloth | 0.867 |
+| 2679 | TheOmyNomy | 0.863 |
+| 2680 | Beard | 0.863 |
+| 2681 | kippy | 0.863 |
+| 2682 | -AJ | 0.863 |
+| 2683 | BruhMoment | 0.863 |
+| 2684 | Saisasaucesalsa | 0.863 |
+| 2685 | John ethken | 0.858 |
+| 2686 | Hinshi Raito | 0.858 |
+| 2687 | TheChaozEmperor | 0.858 |
+| 2688 | danissima | 0.857 |
+| 2689 | oni | 0.856 |
+| 2690 | Plextora | 0.853 |
+| 2691 | Chibi | 0.853 |
+| 2692 | Klappy | 0.853 |
+| 2693 | Mak Kau Hijau | 0.853 |
+| 2694 | SCHG1N | 0.853 |
+| 2695 | simmerVN | 0.853 |
+| 2696 | pacolism | 0.853 |
+| 2697 | Imuya | 0.853 |
+| 2698 | sho | 0.853 |
+| 2699 | Eterno | 0.853 |
+| 2700 | chata- | 0.853 |
+| 2701 | Dvzezda | 0.853 |
+| 2702 | Kanabis | 0.853 |
+| 2703 | tripppo | 0.853 |
+| 2704 | DoomsdayKitty | 0.847 |
+| 2705 | Tynkky | 0.847 |
+| 2706 | IsonamiPL | 0.847 |
+| 2707 | mam0nt | 0.847 |
+| 2708 | noskaia | 0.847 |
+| 2709 | Elexy- | 0.847 |
+| 2710 | WHYHELLOTHERE69 | 0.847 |
+| 2711 | Minecraft570 | 0.847 |
+| 2712 | ShaneLiang | 0.845 |
+| 2713 | ps1 hagrid | 0.845 |
+| 2714 | Hardstuck 2 | 0.842 |
+| 2715 | KomachiBaka | 0.842 |
+| 2716 | -Croissant | 0.841 |
+| 2717 | momijixi | 0.841 |
+| 2718 | Orbi988 | 0.841 |
+| 2719 | Toma 1 | 0.841 |
+| 2720 | pizdunzaebal | 0.839 |
+| 2721 | Tokisaki | 0.839 |
+| 2722 | aknazar | 0.839 |
+| 2723 | Kaguya_1096 | 0.839 |
+| 2724 | Sowisty | 0.837 |
+| 2725 | Falco | 0.837 |
+| 2726 | Mawksee | 0.836 |
+| 2727 | hinami-chi | 0.836 |
+| 2728 | cristian- | 0.836 |
+| 2729 | MartinCan | 0.836 |
+| 2730 | Aaaaaaalex | 0.832 |
+| 2731 | Osage-chan | 0.832 |
+| 2732 | DragonMaster666 | 0.832 |
+| 2733 | adoragirl | 0.831 |
+| 2734 | Linai | 0.831 |
+| 2735 | Mystic_goat | 0.831 |
+| 2736 | Mikata | 0.831 |
+| 2737 | Sosim | 0.831 |
+| 2738 | Ahrilngmalakas | 0.831 |
+| 2739 | X W Z | 0.831 |
+| 2740 | smol dolfin | 0.831 |
+| 2741 | yoshironya | 0.831 |
+| 2742 | Teiukun | 0.831 |
+| 2743 | controlledHive | 0.831 |
+| 2744 | Hare_ | 0.828 |
+| 2745 | imtiredfromthis | 0.828 |
+| 2746 | PXZz | 0.828 |
+| 2747 | Ziny | 0.828 |
+| 2748 | DT3 | 0.825 |
+| 2749 | [Juan] | 0.823 |
+| 2750 | SoraRyow | 0.823 |
+| 2751 | Patra | 0.822 |
+| 2752 | _Not_M4ti | 0.822 |
+| 2753 | Es Kepok | 0.822 |
+| 2754 | Razak_ | 0.820 |
+| 2755 | chocopun | 0.820 |
+| 2756 | Myonpasu | 0.820 |
+| 2757 | nekoflask | 0.820 |
+| 2758 | Hekiru | 0.820 |
+| 2759 | pexium | 0.820 |
+| 2760 | [Queencard] | 0.820 |
+| 2761 | reptier | 0.817 |
+| 2762 | kaminogi | 0.817 |
+| 2763 | Frogsi | 0.817 |
+| 2764 | Fireburner | 0.817 |
+| 2765 | texia10521 | 0.817 |
+| 2766 | Sauce Cake | 0.817 |
+| 2767 | Regedit | 0.817 |
+| 2768 | Xydiap | 0.817 |
+| 2769 | SpikedJackson | 0.816 |
+| 2770 | Crissa | 0.815 |
+| 2771 | Ayakura Mei | 0.815 |
+| 2772 | chantat | 0.815 |
+| 2773 | Umaruuuu | 0.815 |
+| 2774 | a bat | 0.811 |
+| 2775 | Omeguii | 0.805 |
+| 2776 | DeZpair | 0.805 |
+| 2777 | Shide | 0.805 |
+| 2778 | Leyley | 0.805 |
+| 2779 | dirty sprite | 0.804 |
+| 2780 | Gwelawyr | 0.804 |
+| 2781 | hunneko | 0.804 |
+| 2782 | ICallHerMommy | 0.804 |
+| 2783 | xMatrix382 | 0.800 |
+| 2784 | Alacartx | 0.799 |
+| 2785 | DH02 | 0.796 |
+| 2786 | dtd | 0.795 |
+| 2787 | Felop | 0.795 |
+| 2788 | Rayq | 0.795 |
+| 2789 | TheRandomGuy | 0.795 |
+| 2790 | Mozzarella | 0.795 |
+| 2791 | twinks | 0.791 |
+| 2792 | [Lucky] | 0.791 |
+| 2793 | hats | 0.791 |
+| 2794 | _AfterWind | 0.791 |
+| 2795 | Potla | 0.791 |
+| 2796 | JUZO | 0.789 |
+| 2797 | baldeu | 0.789 |
+| 2798 | Ievi- | 0.786 |
+| 2799 | Drestau | 0.786 |
+| 2800 | mosvannen | 0.786 |
+| 2801 | StayMusical | 0.785 |
+| 2802 | Chichobi | 0.785 |
+| 2803 | Y u w a n | 0.785 |
+| 2804 | [ Luka ] | 0.785 |
+| 2805 | FlasvinhoxD | 0.784 |
+| 2806 | suiss | 0.784 |
+| 2807 | 2 and eight | 0.781 |
+| 2808 | mort | 0.781 |
+| 2809 | Eroubf | 0.781 |
+| 2810 | Cint | 0.781 |
+| 2811 | Rtyzen | 0.779 |
+| 2812 | Piggey | 0.775 |
+| 2813 | maikuroPoni | 0.775 |
+| 2814 | Doginator | 0.775 |
+| 2815 | Daichi | 0.775 |
+| 2816 | ElMick13 | 0.775 |
+| 2817 | Aver | 0.775 |
+| 2818 | Kiipuri | 0.775 |
+| 2819 | Eminem | 0.775 |
+| 2820 | Rekkke | 0.775 |
+| 2821 | Fzechen | 0.775 |
+| 2822 | melancholia | 0.775 |
+| 2823 | un perro | 0.775 |
+| 2824 | IonJ | 0.775 |
+| 2825 | Darkmatter | 0.775 |
+| 2826 | Dear Leader | 0.775 |
+| 2827 | alkalde | 0.775 |
+| 2828 | Hunteriwi | 0.775 |
+| 2829 | Tikef | 0.775 |
+| 2830 | Hopeful | 0.775 |
+| 2831 | 0reo | 0.775 |
+| 2832 | Guminis | 0.775 |
+| 2833 | mrzomb | 0.775 |
+| 2834 | ObedG45 | 0.775 |
+| 2835 | Julia_1439 | 0.775 |
+| 2836 | YoshiLover456 | 0.775 |
+| 2837 | [ Tetris ] | 0.775 |
+| 2838 | Wutever | 0.775 |
+| 2839 | Baymax 3Ha | 0.772 |
+| 2840 | SunFesta | 0.770 |
+| 2841 | TasTyFanBoy | 0.770 |
+| 2842 | Zinen | 0.770 |
+| 2843 | rety | 0.768 |
+| 2844 | minecrafter | 0.768 |
+| 2845 | [Steven] | 0.768 |
+| 2846 | ikyo | 0.765 |
+| 2847 | Ronk | 0.765 |
+| 2848 | Towleyyy | 0.765 |
+| 2849 | yegg | 0.765 |
+| 2850 | GanyuMyBeloved | 0.765 |
+| 2851 | [SHK]SARRTY_awa | 0.765 |
+| 2852 | luukas | 0.765 |
+| 2853 | LincKor | 0.765 |
+| 2854 | Angle_NorFy | 0.765 |
+| 2855 | goza | 0.765 |
+| 2856 | Mikume | 0.765 |
+| 2857 | fiwon123 | 0.765 |
+| 2858 | wayesiks | 0.765 |
+| 2859 | spatanna | 0.765 |
+| 2860 | nofka_ | 0.765 |
+| 2861 | Beleth | 0.762 |
+| 2862 | Diebo_ | 0.762 |
+| 2863 | [Vito] | 0.762 |
+| 2864 | cubelrti | 0.762 |
+| 2865 | Jaeky | 0.762 |
+| 2866 | Slariux | 0.762 |
+| 2867 | DepressedLife | 0.762 |
+| 2868 | Ahmnesia | 0.760 |
+| 2869 | Hikiezi | 0.760 |
+| 2870 | Zodark | 0.760 |
+| 2871 | Raby | 0.760 |
+| 2872 | Misery-_- | 0.760 |
+| 2873 | Desumond | 0.760 |
+| 2874 | FastoFreezu | 0.760 |
+| 2875 | Pein | 0.760 |
+| 2876 | Fallen_HK | 0.760 |
+| 2877 | hvick225 | 0.760 |
+| 2878 | _iV_ | 0.760 |
+| 2879 | xMedi | 0.760 |
+| 2880 | Mudflap | 0.760 |
+| 2881 | Vampirina | 0.760 |
+| 2882 | dsco | 0.760 |
+| 2883 | matyk0 | 0.760 |
+| 2884 | BossWang | 0.760 |
+| 2885 | 9iq | 0.760 |
+| 2886 | Gordon Ramsey | 0.758 |
+| 2887 | 232333 | 0.758 |
+| 2888 | lazypear | 0.756 |
+| 2889 | miComet | 0.756 |
+| 2890 | -Peachii | 0.756 |
+| 2891 | Zeralis | 0.756 |
+| 2892 | VonaAteSandwich | 0.756 |
+| 2893 | Konetto | 0.752 |
+| 2894 | 7ava | 0.751 |
+| 2895 | YtAlbin0 | 0.751 |
+| 2896 | zzZoxer | 0.751 |
+| 2897 | CrabbStick | 0.751 |
+| 2898 | nanawo | 0.748 |
+| 2899 | RodrihBruh | 0.748 |
+| 2900 | fiqa | 0.748 |
+| 2901 | Kulche | 0.748 |
+| 2902 | Robro47 | 0.748 |
+| 2903 | neant | 0.748 |
+| 2904 | shortpotato | 0.748 |
+| 2905 | MyAngelMiku | 0.746 |
+| 2906 | Kardet | 0.746 |
+| 2907 | Mejiro McQueen | 0.746 |
+| 2908 | xl Nyan caxX lx | 0.746 |
+| 2909 | TabletBoii | 0.746 |
+| 2910 | Storm | 0.746 |
+| 2911 | FakeToy | 0.746 |
+| 2912 | Rosaitty | 0.746 |
+| 2913 | Stickmano | 0.746 |
+| 2914 | Stoney | 0.741 |
+| 2915 | xasuma | 0.741 |
+| 2916 | i slider broke | 0.741 |
+| 2917 | Frinode | 0.741 |
+| 2918 | Delette | 0.741 |
+| 2919 | Oichi Nouhime | 0.741 |
+| 2920 | Venumi | 0.741 |
+| 2921 | micne | 0.741 |
+| 2922 | methadone24 | 0.741 |
+| 2923 | 4pm tea | 0.741 |
+| 2924 | Enumi | 0.739 |
+| 2925 | VRainbow | 0.736 |
+| 2926 | Krimsu | 0.736 |
+| 2927 | onyaga | 0.736 |
+| 2928 | Dupamin | 0.736 |
+| 2929 | -Tynamo | 0.736 |
+| 2930 | loveleft | 0.736 |
+| 2931 | moosepi | 0.736 |
+| 2932 | _gt | 0.736 |
+| 2933 | nyrino | 0.736 |
+| 2934 | Big Gulp | 0.736 |
+| 2935 | [Foxu] | 0.736 |
+| 2936 | Koob | 0.736 |
+| 2937 | Mixer | 0.736 |
+| 2938 | Kootek | 0.736 |
+| 2939 | zAlfredo | 0.736 |
+| 2940 | ddline | 0.735 |
+| 2941 | Delete | 0.734 |
+| 2942 | WhySavage | 0.733 |
+| 2943 | NewSystem | 0.733 |
+| 2944 | Ubernarwhal | 0.733 |
+| 2945 | dsay | 0.733 |
+| 2946 | gayugebo | 0.733 |
+| 2947 | Braza974 | 0.733 |
+| 2948 | LuvAnhNgot | 0.733 |
+| 2949 | luvmint | 0.733 |
+| 2950 | pelty | 0.733 |
+| 2951 | flyerx1234 | 0.733 |
+| 2952 | Jerrrzy | 0.733 |
+| 2953 | Umekoo | 0.733 |
+| 2954 | Basensorex | 0.733 |
+| 2955 | Phantrix | 0.733 |
+| 2956 | Perfect Time | 0.733 |
+| 2957 | Lynn_ | 0.733 |
+| 2958 | suchsmoke | 0.733 |
+| 2959 | cudii | 0.733 |
+| 2960 | LoeStarLawyers | 0.733 |
+| 2961 | FrozenTune | 0.733 |
+| 2962 | Karyl-Azusa | 0.733 |
+| 2963 | Cerillion | 0.730 |
+| 2964 | zxeroxz | 0.730 |
+| 2965 | Odiz | 0.730 |
+| 2966 | Rail | 0.730 |
+| 2967 | Squid Game | 0.730 |
+| 2968 | Lothjon | 0.729 |
+| 2969 | xMeno | 0.729 |
+| 2970 | YuugureUmi | 0.729 |
+| 2971 | Suwami | 0.729 |
+| 2972 | Maneki | 0.729 |
+| 2973 | [-HONORIN-] | 0.729 |
+| 2974 | defreeyay | 0.729 |
+| 2975 | raimu123 | 0.729 |
+| 2976 | baeify | 0.729 |
+| 2977 | Videl | 0.729 |
+| 2978 | Dephynia | 0.729 |
+| 2979 | SoDosha | 0.729 |
+| 2980 | ItGoing | 0.729 |
+| 2981 | Hideko0 | 0.729 |
+| 2982 | godmorgen | 0.729 |
+| 2983 | Blitzhagel | 0.729 |
+| 2984 | CalCulqtor | 0.729 |
+| 2985 | [-ExO-] | 0.729 |
+| 2986 | Shadra | 0.729 |
+| 2987 | marshignon | 0.729 |
+| 2988 | BBBiANCO | 0.729 |
+| 2989 | Keotiik | 0.729 |
+| 2990 | Wattka | 0.729 |
+| 2991 | Akarli | 0.729 |
+| 2992 | Yzako | 0.729 |
+| 2993 | Gergo1213 | 0.729 |
+| 2994 | 1571 | 0.729 |
+| 2995 | NotKryo | 0.729 |
+| 2996 | Flurble | 0.729 |
+| 2997 | L Ragnarok | 0.729 |
+| 2998 | Splinter572 | 0.725 |
+| 2999 | Kulezi | 0.725 |
+| 3000 | ClawViper | 0.725 |
+| 3001 | Lulek | 0.725 |
+| 3002 | Verse | 0.725 |
+| 3003 | - Rosemary - | 0.725 |
+| 3004 | Cremation | 0.725 |
+| 3005 | SlimeDrippy | 0.725 |
+| 3006 | xFluffyo | 0.725 |
+| 3007 | Elscar | 0.725 |
+| 3008 | Blobby3000 | 0.725 |
+| 3009 | Nathaniel | 0.725 |
+| 3010 | Viscania | 0.725 |
+| 3011 | VaniGori | 0.725 |
+| 3012 | Sharfik | 0.725 |
+| 3013 | Kayamori Ruka | 0.725 |
+| 3014 | Heatherfield | 0.724 |
+| 3015 | Aeril | 0.724 |
+| 3016 | konawiki | 0.724 |
+| 3017 | Radial | 0.724 |
+| 3018 | Empax | 0.724 |
+| 3019 | Alumetorz | 0.724 |
+| 3020 | bratan | 0.724 |
+| 3021 | HardLifeNH | 0.724 |
+| 3022 | OnniS6 | 0.722 |
+| 3023 | Qmaster278 | 0.722 |
+| 3024 | [Toni] | 0.722 |
+| 3025 | Leo_beo | 0.722 |
+| 3026 | Yomu_ | 0.722 |
+| 3027 | fadi dz | 0.722 |
+| 3028 | tellmico | 0.720 |
+| 3029 | vFlan | 0.720 |
+| 3030 | Gness | 0.720 |
+| 3031 | Kaikirou | 0.720 |
+| 3032 | Wei Ru | 0.719 |
+| 3033 | SS is hard | 0.718 |
+| 3034 | Kn1 | 0.718 |
+| 3035 | _Sira | 0.718 |
+| 3036 | VLADYSLAV | 0.718 |
+| 3037 | C4L3BT | 0.718 |
+| 3038 | Tacobaco | 0.718 |
+| 3039 | Zlck | 0.718 |
+| 3040 | ohmanlauren | 0.718 |
+| 3041 | nard | 0.718 |
+| 3042 | Lust4Bust | 0.718 |
+| 3043 | Sayama Kaede | 0.715 |
+| 3044 | Wau | 0.715 |
+| 3045 | Orluv77 | 0.715 |
+| 3046 | M7ST | 0.715 |
+| 3047 | Mikhaik | 0.715 |
+| 3048 | Kana | 0.715 |
+| 3049 | Orn_nyi | 0.715 |
+| 3050 | 3Deviant | 0.715 |
+| 3051 | KumoCat | 0.715 |
+| 3052 | azhaiAk1 | 0.715 |
+| 3053 | Izaris | 0.715 |
+| 3054 | ShiroPenguin | 0.715 |
+| 3055 | Hanamaru_ | 0.715 |
+| 3056 | goatballer | 0.715 |
+| 3057 | Yunotone | 0.715 |
+| 3058 | MySQI | 0.715 |
+| 3059 | Varler | 0.714 |
+| 3060 | dejiz | 0.710 |
+| 3061 | Letor | 0.710 |
+| 3062 | GeneralSharkk | 0.710 |
+| 3063 | [Mocha] | 0.710 |
+| 3064 | whalee | 0.710 |
+| 3065 | extraMRX | 0.710 |
+| 3066 | ebn5 | 0.710 |
+| 3067 | Pengzy | 0.708 |
+| 3068 | ShotgunApe | 0.708 |
+| 3069 | Rekinaja | 0.708 |
+| 3070 | Getsuyoubi | 0.708 |
+| 3071 | [Nii-san] | 0.708 |
+| 3072 | -Kemsyt | 0.708 |
+| 3073 | Cuckweezy | 0.706 |
+| 3074 | Wew | 0.706 |
+| 3075 | gtfo | 0.706 |
+| 3076 | Balto | 0.706 |
+| 3077 | Mr Oops | 0.706 |
+| 3078 | [ O Y O] baa | 0.706 |
+| 3079 | KingArt | 0.704 |
+| 3080 | Aphrodi | 0.704 |
+| 3081 | Kekai | 0.704 |
+| 3082 | perfectfree | 0.704 |
+| 3083 | Folf | 0.704 |
+| 3084 | Hichinoro | 0.699 |
+| 3085 | WAF24 | 0.699 |
+| 3086 | Chills | 0.699 |
+| 3087 | badfranky- | 0.699 |
+| 3088 | Skhyze | 0.699 |
+| 3089 | ImWarrior | 0.699 |
+| 3090 | IasiS | 0.699 |
+| 3091 | Seikosei | 0.699 |
+| 3092 | Yue_neko | 0.699 |
+| 3093 | paruuu | 0.699 |
+| 3094 | Midiru | 0.699 |
+| 3095 | Arhythmix | 0.699 |
+| 3096 | Yamineko | 0.699 |
+| 3097 | [ Emi ] | 0.699 |
+| 3098 | Qrestu | 0.696 |
+| 3099 | Paskuin | 0.695 |
+| 3100 | Alu | 0.695 |
+| 3101 | Nangong Yu | 0.695 |
+| 3102 | kwotaq | 0.695 |
+| 3103 | Astana | 0.691 |
+| 3104 | K_N | 0.691 |
+| 3105 | DaDobster | 0.691 |
+| 3106 | Wonder | 0.691 |
+| 3107 | Emula | 0.691 |
+| 3108 | Colgate Enjoyer | 0.690 |
+| 3109 | Paia | 0.690 |
+| 3110 | Suwanicoco | 0.690 |
+| 3111 | Vlauz | 0.690 |
+| 3112 | rigellroy | 0.690 |
+| 3113 | mipmip | 0.688 |
+| 3114 | Rainox | 0.688 |
+| 3115 | yeetersteeters | 0.688 |
+| 3116 | toastloading | 0.688 |
+| 3117 | ZidaneTheFox | 0.688 |
+| 3118 | ROMIPOG | 0.688 |
+| 3119 | Geraldy | 0.688 |
+| 3120 | Snow-_ | 0.688 |
+| 3121 | Jairod | 0.688 |
+| 3122 | Vipidz | 0.688 |
+| 3123 | Bocchers | 0.688 |
+| 3124 | Shibuya Kanon | 0.688 |
+| 3125 | Xidiah | 0.688 |
+| 3126 | Yarissa | 0.687 |
+| 3127 | Beafowl | 0.687 |
+| 3128 | Avenging_Goose | 0.687 |
+| 3129 | SolaEclipse | 0.687 |
+| 3130 | gonzup | 0.687 |
+| 3131 | - Slice - | 0.687 |
+| 3132 | Anya Maki | 0.687 |
+| 3133 | PoMAH nuBoBAPoB | 0.687 |
+| 3134 | mannheim | 0.687 |
+| 3135 | Apunshii | 0.687 |
+| 3136 | PinkNightmares | 0.686 |
+| 3137 | ameponzu | 0.683 |
+| 3138 | Sipwin | 0.683 |
+| 3139 | Mozeebra | 0.683 |
+| 3140 | liliancho | 0.683 |
+| 3141 | LoteM | 0.683 |
+| 3142 | DylanNB | 0.683 |
+| 3143 | Kryptik1998 | 0.683 |
+| 3144 | paper clouds | 0.683 |
+| 3145 | Shaiden Rogue | 0.683 |
+| 3146 | svaysvay | 0.683 |
+| 3147 | HoodBoB | 0.683 |
+| 3148 | imgrandmaster | 0.683 |
+| 3149 | jixn | 0.683 |
+| 3150 | Wassu | 0.683 |
+| 3151 | Glimmer_Miku | 0.683 |
+| 3152 | RiceballUwU | 0.681 |
+| 3153 | -[Kirara]- | 0.681 |
+| 3154 | Ramizel | 0.679 |
+| 3155 | totiruocco0 | 0.679 |
+| 3156 | Dustinati | 0.677 |
+| 3157 | Gbomb2215 | 0.677 |
+| 3158 | Nyartin | 0.675 |
+| 3159 | Oldman60 | 0.675 |
+| 3160 | Kaku | 0.675 |
+| 3161 | Ev1dent | 0.675 |
+| 3162 | -Wolfy- | 0.675 |
+| 3163 | [ Senji ] | 0.675 |
+| 3164 | Jtcantwell | 0.675 |
+| 3165 | YomiO | 0.675 |
+| 3166 | naria | 0.672 |
+| 3167 | mofuries | 0.672 |
+| 3168 | Heimin | 0.672 |
+| 3169 | Gibkiy | 0.672 |
+| 3170 | Goryou Nagusa | 0.672 |
+| 3171 | Markysharky24 | 0.672 |
+| 3172 | irfys | 0.672 |
+| 3173 | _Ran | 0.672 |
+| 3174 | Ralmbry | 0.672 |
+| 3175 | sangoose | 0.670 |
+| 3176 | LinOurS | 0.670 |
+| 3177 | kitty irl | 0.670 |
+| 3178 | electrostrike | 0.668 |
+| 3179 | impurity | 0.668 |
+| 3180 | Kiino | 0.668 |
+| 3181 | Izuko | 0.664 |
+| 3182 | yeou_ | 0.664 |
+| 3183 | core98k | 0.664 |
+| 3184 | Sofdop | 0.664 |
+| 3185 | Sprigatito | 0.664 |
+| 3186 | Jaws | 0.664 |
+| 3187 | -kyaru | 0.664 |
+| 3188 | Cqlcifer | 0.664 |
+| 3189 | GalaxySkys | 0.664 |
+| 3190 | Hotshark | 0.664 |
+| 3191 | Moaji | 0.664 |
+| 3192 | Mikizi | 0.664 |
+| 3193 | Ceiza | 0.664 |
+| 3194 | AuroraPhasmata | 0.664 |
+| 3195 | ytk | 0.664 |
+| 3196 | Ayayk | 0.664 |
+| 3197 | Aizu- | 0.664 |
+| 3198 | spensll | 0.664 |
+| 3199 | dolpshing | 0.662 |
+| 3200 | BadWolfi | 0.662 |
+| 3201 | spreadnuts | 0.662 |
+| 3202 | TutriS | 0.662 |
+| 3203 | SmurfQT | 0.662 |
+| 3204 | Sabakan | 0.662 |
+| 3205 | myhan3 | 0.662 |
+| 3206 | yimi | 0.662 |
+| 3207 | synchromic | 0.662 |
+| 3208 | Voisync | 0.662 |
+| 3209 | tung | 0.662 |
+| 3210 | Icy3534 | 0.662 |
+| 3211 | Sluggo | 0.659 |
+| 3212 | Galedrifter | 0.659 |
+| 3213 | KevstracK | 0.659 |
+| 3214 | Nessy | 0.659 |
+| 3215 | -Plubby- | 0.659 |
+| 3216 | Takaichi | 0.659 |
+| 3217 | Cocoamallows | 0.659 |
+| 3218 | [Reflection] | 0.659 |
+| 3219 | Wiseboy | 0.659 |
+| 3220 | Musa | 0.659 |
+| 3221 | kris on osu | 0.659 |
+| 3222 | _WinRAWR | 0.655 |
+| 3223 | 0120 | 0.655 |
+| 3224 | Emezys | 0.655 |
+| 3225 | Lee Jung Hyun | 0.655 |
+| 3226 | nobuchi | 0.655 |
+| 3227 | eran | 0.655 |
+| 3228 | -Kiichirou- | 0.655 |
+| 3229 | Headdesking1 | 0.655 |
+| 3230 | Irithyll | 0.655 |
+| 3231 | Joon_ | 0.655 |
+| 3232 | Boggles | 0.653 |
+| 3233 | Ronrico | 0.653 |
+| 3234 | Fujiwara Mokou | 0.653 |
+| 3235 | thepersonwhodie | 0.653 |
+| 3236 | SacredShrine | 0.651 |
+| 3237 | xMayo | 0.651 |
+| 3238 | Micchi | 0.651 |
+| 3239 | KU_ | 0.651 |
+| 3240 | Mqka | 0.651 |
+| 3241 | burgerapoc | 0.651 |
+| 3242 | Blairzey | 0.650 |
+| 3243 | crackhead | 0.650 |
+| 3244 | junamat | 0.650 |
+| 3245 | Diamux | 0.650 |
+| 3246 | Retix | 0.650 |
+| 3247 | Kazuko | 0.650 |
+| 3248 | Jason | 0.650 |
+| 3249 | Rayzent | 0.649 |
+| 3250 | Moewagon | 0.649 |
+| 3251 | Eliv | 0.649 |
+| 3252 | Ted | 0.646 |
+| 3253 | Vasteri | 0.646 |
+| 3254 | NinjaFish | 0.645 |
+| 3255 | Nosiume | 0.645 |
+| 3256 | Vespanuche | 0.645 |
+| 3257 | Raeyco | 0.640 |
+| 3258 | Adrastea | 0.637 |
+| 3259 | cedru | 0.637 |
+| 3260 | -Arko | 0.637 |
+| 3261 | himeka | 0.637 |
+| 3262 | thebeastjona | 0.637 |
+| 3263 | SirYourPizza | 0.637 |
+| 3264 | Vello | 0.636 |
+| 3265 | dimp1 | 0.636 |
+| 3266 | Airis | 0.636 |
+| 3267 | Fanty | 0.636 |
+| 3268 | TheyTookAshe | 0.636 |
+| 3269 | Virgo | 0.636 |
+| 3270 | [Karina] | 0.636 |
+| 3271 | Okayu | 0.636 |
+| 3272 | Ksaki | 0.636 |
+| 3273 | Lilium | 0.636 |
+| 3274 | Rikka Taichou | 0.636 |
+| 3275 | auhueu | 0.636 |
+| 3276 | -Lily | 0.636 |
+| 3277 | cocotm | 0.636 |
+| 3278 | Shironami | 0.636 |
+| 3279 | mekaeriko | 0.633 |
+| 3280 | BoinkyDoinker | 0.632 |
+| 3281 | Risiing Fanboy | 0.632 |
+| 3282 | tateyama | 0.632 |
+| 3283 | Onii Chan | 0.632 |
+| 3284 | Sroj | 0.632 |
+| 3285 | Pamu | 0.632 |
+| 3286 | saarland gaming | 0.632 |
+| 3287 | Akuuuuuukin | 0.632 |
+| 3288 | krio | 0.632 |
+| 3289 | Sevenns | 0.632 |
+| 3290 | bobbycyl | 0.632 |
+| 3291 | Flylux | 0.629 |
+| 3292 | goatstuckintree | 0.628 |
+| 3293 | riku | 0.625 |
+| 3294 | -N a n a k o- | 0.624 |
+| 3295 | Saunamaisteri | 0.624 |
+| 3296 | Zetera | 0.624 |
+| 3297 | Santeri | 0.624 |
+| 3298 | JobeHobe | 0.623 |
+| 3299 | hshs | 0.623 |
+| 3300 | Elena- | 0.623 |
+| 3301 | okuraionn | 0.623 |
+| 3302 | BlackTexture | 0.621 |
+| 3303 | [SHK]T_T | 0.621 |
+| 3304 | pancakespk | 0.621 |
+| 3305 | Ethan559 | 0.620 |
+| 3306 | I Have Ligma | 0.620 |
+| 3307 | ZumzertoZan B18 | 0.620 |
+| 3308 | _gnim_ | 0.620 |
+| 3309 | dollarww | 0.620 |
+| 3310 | Martin23 | 0.620 |
+| 3311 | TeGaLeX15 | 0.620 |
+| 3312 | Znaid | 0.620 |
+| 3313 | Aikyan | 0.620 |
+| 3314 | BlankAbyss | 0.620 |
+| 3315 | superchayce | 0.620 |
+| 3316 | corvus- | 0.620 |
+| 3317 | JeffGamingYT | 0.620 |
+| 3318 | FolMing | 0.619 |
+| 3319 | CutoNaito | 0.619 |
+| 3320 | Cause | 0.619 |
+| 3321 | ZETAJOTA | 0.619 |
+| 3322 | kotomori_ | 0.617 |
+| 3323 | patos | 0.617 |
+| 3324 | fcuk | 0.615 |
+| 3325 | ALTERNATOR32 | 0.615 |
+| 3326 | GhostApple | 0.613 |
+| 3327 | noederu | 0.611 |
+| 3328 | naru | 0.611 |
+| 3329 | Lysitea | 0.611 |
+| 3330 | Skystar | 0.609 |
+| 3331 | skyrex | 0.609 |
+| 3332 | art | 0.609 |
+| 3333 | xSnejx | 0.609 |
+| 3334 | ImMyyrh | 0.609 |
+| 3335 | Songque | 0.607 |
+| 3336 | Ayanami | 0.607 |
+| 3337 | Rudrii | 0.607 |
+| 3338 | Sadworker | 0.607 |
+| 3339 | kathars | 0.607 |
+| 3340 | jate_valery | 0.607 |
+| 3341 | Low Tier God | 0.607 |
+| 3342 | Rtnt- | 0.607 |
+| 3343 | Kuroi Kenshi | 0.607 |
+| 3344 | uNable | 0.606 |
+| 3345 | z0mbir | 0.606 |
+| 3346 | Steckdose123 | 0.606 |
+| 3347 | Jotmo | 0.606 |
+| 3348 | jiaxunjason | 0.606 |
+| 3349 | nik | 0.606 |
+| 3350 | ColdTooth | 0.604 |
+| 3351 | corm | 0.600 |
+| 3352 | Crazy_RU | 0.600 |
+| 3353 | Cao Tien Minh | 0.599 |
+| 3354 | skyscarlett | 0.599 |
+| 3355 | Sorozu | 0.599 |
+| 3356 | Vinhkhut | 0.599 |
+| 3357 | Inency | 0.599 |
+| 3358 | ANiEKo_ | 0.599 |
+| 3359 | chuma221 | 0.599 |
+| 3360 | riIey | 0.599 |
+| 3361 | Nyameronnn | 0.599 |
+| 3362 | slowwin223 | 0.599 |
+| 3363 | Haruka___ | 0.599 |
+| 3364 | ghlst | 0.599 |
+| 3365 | 1nstant | 0.599 |
+| 3366 | Kuroneko0111 | 0.599 |
+| 3367 | KladVomzin01 | 0.599 |
+| 3368 | akalias | 0.599 |
+| 3369 | Loreal Paris | 0.599 |
+| 3370 | Hachikuji Mayoi | 0.599 |
+| 3371 | Marlene | 0.599 |
+| 3372 | salmonlord | 0.599 |
+| 3373 | D1veva | 0.599 |
+| 3374 | Pau | 0.596 |
+| 3375 | ifox | 0.596 |
+| 3376 | Space_Official | 0.596 |
+| 3377 | DeadZoNeD | 0.595 |
+| 3378 | gilherme boulos | 0.595 |
+| 3379 | depressedclouds | 0.595 |
+| 3380 | ampamaita | 0.595 |
+| 3381 | LightNemesis | 0.595 |
+| 3382 | Ditch_ | 0.595 |
+| 3383 | ayel | 0.595 |
+| 3384 | nokenz | 0.595 |
+| 3385 | IssaKun_ | 0.595 |
+| 3386 | Xephis | 0.595 |
+| 3387 | grkn7 | 0.595 |
+| 3388 | CookieYoshi | 0.591 |
+| 3389 | a r y a | 0.591 |
+| 3390 | ymee | 0.591 |
+| 3391 | McNonal | 0.591 |
+| 3392 | CMeFly | 0.591 |
+| 3393 | Aunn Komano | 0.591 |
+| 3394 | kuuti | 0.591 |
+| 3395 | Fumear | 0.591 |
+| 3396 | Zerint | 0.591 |
+| 3397 | Query | 0.591 |
+| 3398 | Toileri | 0.591 |
+| 3399 | Lilian | 0.591 |
+| 3400 | koiishi | 0.591 |
+| 3401 | Sunda | 0.588 |
+| 3402 | free cookies | 0.588 |
+| 3403 | Loulou | 0.588 |
+| 3404 | KAAAL | 0.588 |
+| 3405 | Miguelonh2O | 0.588 |
+| 3406 | adiguwno | 0.587 |
+| 3407 | Purest | 0.587 |
+| 3408 | HANAMi FT | 0.587 |
+| 3409 | BryceTK | 0.587 |
+| 3410 | Kinomoto Sakura | 0.587 |
+| 3411 | [Akemi Homura] | 0.587 |
+| 3412 | MisakiNakahara | 0.587 |
+| 3413 | nihuramu | 0.587 |
+| 3414 | ube halaya | 0.587 |
+| 3415 | Maitre-Oogway | 0.587 |
+| 3416 | finalbang4 | 0.587 |
+| 3417 | FonKNower | 0.587 |
+| 3418 | Firrenere | 0.587 |
+| 3419 | Cyanara | 0.587 |
+| 3420 | Mentchan | 0.587 |
+| 3421 | guigounes | 0.587 |
+| 3422 | Zyrix | 0.587 |
+| 3423 | [SHK]Mihits | 0.587 |
+| 3424 | snowflake- | 0.587 |
+| 3425 | SharCookie | 0.584 |
+| 3426 | Eiko Tokura | 0.584 |
+| 3427 | sbot | 0.583 |
+| 3428 | masssy | 0.583 |
+| 3429 | LonelyGamer | 0.583 |
+| 3430 | Nikita78873 | 0.583 |
+| 3431 | Pareo | 0.580 |
+| 3432 | Kano | 0.580 |
+| 3433 | taku | 0.580 |
+| 3434 | AIXI1519YIXI | 0.576 |
+| 3435 | Snowfait | 0.576 |
+| 3436 | jacky514 | 0.576 |
+| 3437 | Undead131 | 0.576 |
+| 3438 | DJ Rinickulous | 0.572 |
+| 3439 | ign | 0.572 |
+| 3440 | Lyne | 0.572 |
+| 3441 | chankoma | 0.572 |
+| 3442 | Cao Mi Le | 0.572 |
+| 3443 | BELLOFIGO | 0.572 |
+| 3444 | nonpro22 | 0.572 |
+| 3445 | leonov3a | 0.572 |
+| 3446 | Chamosiala | 0.572 |
+| 3447 | Kenny | 0.572 |
+| 3448 | Never1Forgotten | 0.572 |
+| 3449 | lightstars | 0.572 |
+| 3450 | microwave brick | 0.569 |
+| 3451 | -Cherry- | 0.568 |
+| 3452 | lewkiss_ | 0.568 |
+| 3453 | Flonka | 0.568 |
+| 3454 | 2Icy | 0.568 |
+| 3455 | prevxzzy | 0.568 |
+| 3456 | brandwagen | 0.565 |
+| 3457 | - Phantasma - | 0.564 |
+| 3458 | Akani | 0.560 |
+| 3459 | lacto | 0.560 |
+| 3460 | leam | 0.560 |
+| 3461 | MACJIEHbIU DUMA | 0.560 |
+| 3462 | Kamil500 | 0.557 |
+| 3463 | fearr | 0.557 |
+| 3464 | bemp | 0.556 |
+| 3465 | Radiownd | 0.556 |
+| 3466 | Chill_Noodle_ | 0.556 |
+| 3467 | kumig | 0.556 |
+| 3468 | EVA FAN | 0.556 |
+| 3469 | m-cloud | 0.556 |
+| 3470 | 57HatsuneMiku | 0.556 |
+| 3471 | Fr0zT | 0.556 |
+| 3472 | distressed | 0.556 |
+| 3473 | Any Questions | 0.556 |
+| 3474 | utta | 0.556 |
+| 3475 | juckport | 0.556 |
+| 3476 | SomnusA | 0.553 |
+| 3477 | Kita Ikuyo | 0.553 |
+| 3478 | Fez Post | 0.553 |
+| 3479 | misiekreksio | 0.553 |
+| 3480 | kth180591 | 0.553 |
+| 3481 | Gandalphf | 0.553 |
+| 3482 | BriqueDeThon | 0.553 |
+| 3483 | Reimu-Pafi | 0.553 |
+| 3484 | mimi917 | 0.553 |
+| 3485 | bhnhjbv | 0.553 |
+| 3486 | zXLeOoXz | 0.553 |
+| 3487 | Choksad | 0.553 |
+| 3488 | PekorAshire | 0.553 |
+| 3489 | BakaChiChi | 0.553 |
+| 3490 | Stormu | 0.553 |
+| 3491 | _ Freedom _ | 0.549 |
+| 3492 | Natori Sana | 0.549 |
+| 3493 | MoTL | 0.549 |
+| 3494 | 0e4ef622 | 0.549 |
+| 3495 | Xyphox | 0.549 |
+| 3496 | Venpris | 0.549 |
+| 3497 | __unnamed__ | 0.549 |
+| 3498 | owlful | 0.549 |
+| 3499 | Strinova | 0.549 |
+| 3500 | william burgers | 0.549 |
+| 3501 | jdewkum | 0.549 |
+| 3502 | FireGen | 0.549 |
+| 3503 | avtori | 0.549 |
+| 3504 | Kereminho | 0.549 |
+| 3505 | iotashin | 0.549 |
+| 3506 | Fancy2p | 0.549 |
+| 3507 | Chilluno | 0.549 |
+| 3508 | Yureichii | 0.549 |
+| 3509 | Ame-- | 0.549 |
+| 3510 | Ringtext | 0.549 |
+| 3511 | TwoGamerIl | 0.549 |
+| 3512 | Chromatic | 0.549 |
+| 3513 | Yuniquan | 0.549 |
+| 3514 | Nitry | 0.542 |
+| 3515 | SiLviA | 0.538 |
+| 3516 | Les Discrets | 0.538 |
+| 3517 | SASADUKA | 0.538 |
+| 3518 | Playboy | 0.538 |
+| 3519 | tsunamayo | 0.538 |
+| 3520 | Sungmo | 0.538 |
+| 3521 | azaloaf | 0.538 |
+| 3522 | PieFlavours | 0.538 |
+| 3523 | weed machine | 0.538 |
+| 3524 | AgarSanik | 0.538 |
+| 3525 | Heise | 0.534 |
+| 3526 | Just Lucan | 0.534 |
+| 3527 | hide | 0.534 |
+| 3528 | raemu | 0.534 |
+| 3529 | Reds | 0.534 |
+| 3530 | dyfivhdjvsibso | 0.534 |
+| 3531 | Umaroth | 0.534 |
+| 3532 | overdrive | 0.530 |
+| 3533 | Menajis6 | 0.530 |
+| 3534 | choongRC | 0.530 |
+| 3535 | otudou | 0.530 |
+| 3536 | TrojanQ | 0.530 |
+| 3537 | Paras | 0.530 |
+| 3538 | FeiFei493 | 0.530 |
+| 3539 | P3TEY | 0.530 |
+| 3540 | [ LUK ] | 0.527 |
+| 3541 | Austinsanity | 0.523 |
+| 3542 | Celestialer | 0.523 |
+| 3543 | vlad0808 | 0.523 |
+| 3544 | Hranolka | 0.516 |
+| 3545 | Mai Odzuka | 0.516 |
+| 3546 | Literal Garbage | 0.516 |
+| 3547 | Sat info | 0.516 |
+| 3548 | blueballoooon | 0.516 |
+| 3549 | Mesho | 0.516 |
+| 3550 | hygeo | 0.516 |
+| 3551 | MistEclipse | 0.516 |
+| 3552 | PakaZ | 0.509 |
+| 3553 | Besdarb | 0.509 |
+| 3554 | OilBo | 0.509 |
+| 3555 | Vergil2115 | 0.509 |
+| 3556 | yoshi-mk2 | 0.509 |
+| 3557 | meeb | 0.509 |
+| 3558 | S1nder | 0.509 |
+| 3559 | KillyBou | 0.509 |
+| 3560 | Hi I Love U | 0.502 |
+| 3561 | avesuire | 0.502 |
