@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T17:19:25.241Z",
+  "generatedAt": "2026-09-03T05:47:00.099Z",
   "criteria": {
     "ruleset": "osu",
     "rankedOnly": true,
@@ -8869,6 +8869,15 @@
           "clearedAt": "2026-08-30T08:04:44Z",
           "clearRole": "victor",
           "victorNumber": 36
+        },
+        {
+          "userId": 3516241,
+          "username": "Spazza17",
+          "scoreId": 7398054311,
+          "pointsMultiplier": 1,
+          "clearedAt": "2026-09-02T19:31:06Z",
+          "clearRole": "victor",
+          "victorNumber": 37
         }
       ],
       "rank": 162,
@@ -74909,22 +74918,13 @@
           "victorNumber": 12
         },
         {
-          "userId": 9091312,
-          "username": "sztywny",
-          "scoreId": 4574494460,
-          "pointsMultiplier": 1,
-          "clearedAt": "2025-03-25T18:45:01Z",
-          "clearRole": "victor",
-          "victorNumber": 13
-        },
-        {
           "userId": 15296550,
           "username": "FetherFall",
           "scoreId": 4660908146,
           "pointsMultiplier": 1,
           "clearedAt": "2025-04-10T20:17:17Z",
           "clearRole": "victor",
-          "victorNumber": 14
+          "victorNumber": 13
         },
         {
           "userId": 10549880,
@@ -74933,7 +74933,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2025-05-05T14:34:48Z",
           "clearRole": "victor",
-          "victorNumber": 15
+          "victorNumber": 14
         },
         {
           "userId": 13596160,
@@ -74942,7 +74942,7 @@
           "pointsMultiplier": 1.05,
           "clearedAt": "2025-08-10T09:04:27Z",
           "clearRole": "victor",
-          "victorNumber": 16
+          "victorNumber": 15
         },
         {
           "userId": 17008453,
@@ -74951,7 +74951,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2025-09-13T05:01:16Z",
           "clearRole": "victor",
-          "victorNumber": 17
+          "victorNumber": 16
         },
         {
           "userId": 4803900,
@@ -74960,7 +74960,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2025-11-06T06:22:07Z",
           "clearRole": "victor",
-          "victorNumber": 18
+          "victorNumber": 17
         },
         {
           "userId": 15885344,
@@ -74969,7 +74969,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2025-11-19T19:56:45Z",
           "clearRole": "victor",
-          "victorNumber": 19
+          "victorNumber": 18
         },
         {
           "userId": 6090175,
@@ -74978,7 +74978,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2026-02-11T11:21:44Z",
           "clearRole": "victor",
-          "victorNumber": 20
+          "victorNumber": 19
         },
         {
           "userId": 11478426,
@@ -74987,7 +74987,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2026-04-18T13:50:27Z",
           "clearRole": "victor",
-          "victorNumber": 21
+          "victorNumber": 20
         },
         {
           "userId": 5199332,
@@ -74996,7 +74996,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2026-04-24T15:19:20Z",
           "clearRole": "victor",
-          "victorNumber": 22
+          "victorNumber": 21
         },
         {
           "userId": 16320893,
@@ -75005,7 +75005,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2026-04-30T18:39:48Z",
           "clearRole": "victor",
-          "victorNumber": 23
+          "victorNumber": 22
         },
         {
           "userId": 1906975,
@@ -75014,7 +75014,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2026-05-21T12:58:58Z",
           "clearRole": "victor",
-          "victorNumber": 24
+          "victorNumber": 23
         },
         {
           "userId": 21011325,
@@ -75023,7 +75023,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2026-05-28T17:18:02Z",
           "clearRole": "victor",
-          "victorNumber": 25
+          "victorNumber": 24
         },
         {
           "userId": 9412127,
@@ -75032,7 +75032,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2026-06-25T09:21:08Z",
           "clearRole": "victor",
-          "victorNumber": 26
+          "victorNumber": 25
         }
       ],
       "rank": 809,
@@ -140417,6 +140417,18 @@
       ]
     },
     {
+      "userId": 3516241,
+      "username": "Spazza17",
+      "totalPoints": 46.781909506372465,
+      "maps": [
+        {
+          "beatmapId": 5472661,
+          "demonRank": 162,
+          "points": 46.781909506372465
+        }
+      ]
+    },
+    {
       "userId": 9049630,
       "username": "Lefy",
       "totalPoints": 46.440139630163536,
@@ -157788,18 +157800,6 @@
     {
       "userId": 25950535,
       "username": "Mrkotikgg",
-      "totalPoints": 1.6253046382305871,
-      "maps": [
-        {
-          "beatmapId": 4509879,
-          "demonRank": 809,
-          "points": 1.6253046382305871
-        }
-      ]
-    },
-    {
-      "userId": 9091312,
-      "username": "sztywny",
       "totalPoints": 1.6253046382305871,
       "maps": [
         {
