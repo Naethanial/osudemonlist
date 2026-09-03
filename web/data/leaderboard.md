@@ -1,6 +1,6 @@
 # osu demon list leaderboard
 
-Generated: 2026-09-03T05:47:00.099Z
+Generated: 2026-09-03T17:14:37.862Z
 
 ## Maps (1000)
 
@@ -368,7 +368,7 @@ Generated: 2026-09-03T05:47:00.099Z
 | 360 | 8.17 | Irreversible Mechanism — Existence II: Collision [Null Resonance] | Akolibed (verified), Topoi (victor #1), etn (victor #2), NOUMEN BREAK (victor #3), LyeRR (victor #4), vana (victor #5), lolol233 (victor #6), PikaPwn (victor #7 x1.1) |
 | 361 | 8.17 | Hashimoto Miyuki — FairlyLife [DJ Lia Chen '' Style~~ROCKING~~] | Tommy315 (verified) |
 | 362 | 8.17 | F9 — Kagaribito [Eternal Despair] | MALISZEWSKI (verified), Suyung_ (victor #1) |
-| 363 | 8.17 | BABYMETAL — Road of Resistance [Return of the Ancients] | yodeston (verified), zhunque (victor #1), Arz3 (victor #2), kyojaku (victor #3), RAFUNA (victor #4), will smith (victor #5), vljoy209 (victor #6), ASecretBox (victor #7 x1.3), Spacus (victor #8), Prodigal (victor #9), Mekeyo (victor #10), LordGabriel (victor #11) |
+| 363 | 8.17 | BABYMETAL — Road of Resistance [Return of the Ancients] | yodeston (verified), zhunque (victor #1), Arz3 (victor #2), kyojaku (victor #3), RAFUNA (victor #4), will smith (victor #5), vljoy209 (victor #6), ASecretBox (victor #7 x1.3), Spacus (victor #8), Prodigal (victor #9), Mekeyo (victor #10), LordGabriel (victor #11), [Karcher] (victor #12 x1.2) |
 | 364 | 8.17 | technoplanet — Intuition [Sixth Sense] | MAREK MARUCHA (verified), Dezku (victor #1), Suyung_ (victor #2) |
 | 365 | 8.16 | Nor — Signal of Abydos (xi Remix) [nathan & arminFH's Extreme] | MineFrostID (verified) |
 | 366 | 8.16 | Camellia — Nacreous Snowmelt [Iridescence] | Suyung_ (verified), MALISZEWSKI (victor #1 x1.1), Melvr (victor #2) |
@@ -531,7 +531,7 @@ Generated: 2026-09-03T05:47:00.099Z
 | 523 | 8.01 | Nekomimi Mahoutsukai — LittlE HearTs [GOD] | Fleh (verified) |
 | 524 | 8.01 | Kardashev — Cellar of Ghosts [Reconciliation] | monte (verified), moon2k (victor #1) |
 | 525 | 8.01 | DragonForce — Troopers of the Stars [Brighter Day Tomorrow] | Ephix (verified), Viveliam (victor #1), Mastasz (victor #2), MALISZEWSKI (victor #3 x1.1), Raikouhou (victor #4), Thundur (victor #5 x1.1), Saymel (victor #6), Reedkatt (victor #7 x1.2), Mathi (victor #8), marcel7 (victor #9), Tim Kackner (victor #10), Tutel (victor #11), bunnylikemoney (victor #12), nobully (victor #13), Cheyne (victor #14), Exarch (victor #15 x1.1), NathanRam1918 (victor #16), ruirui (victor #17), Fleh (victor #18), budge (victor #19), elsi (victor #20), zonelouise (victor #21), NaPiii_ (victor #22), Tikkanen (victor #23), blejd (victor #24), argweid (victor #25), RomanTheFUKER (victor #26), Sobu (victor #27), EZChamp (victor #28), samuele (victor #29), Mekeyo (victor #30), NOUMEN BREAK (victor #31), AlexBelea (victor #32), Melvr (victor #33), GodRoPoNiKa (victor #34), Alfrah (victor #35 x1.1), monte (victor #36), Kluchen (victor #37), tortelliniii (victor #38), ur cute (victor #39 x1.1), Tile (victor #40) |
-| 526 | 8.01 | wuk — Sidetracked Day [Uri's Tyranny] | Jxir (verified x1.1), Arakii (victor #1), Kyros_ (victor #2), dimchik (victor #3), [Karcher] (victor #4), willy0214 (victor #5), NaPiii_ (victor #6 x1.2), Victoor (victor #7), Saiyku (victor #8 x1.2), cr4shz1 (victor #9), Niali (victor #10 x1.1), katalashka son (victor #11), NYASH (victor #12), AstroVnz (victor #13), SIDETRACKEDDAY (victor #14), Akuma no Tenshi (victor #15 x1.1), evankkk (victor #16), meramin (victor #17), Turles (victor #18), MiMiTooU (victor #19 x1.2), EZChamp (victor #20 x1.2), she gon pay me (victor #21), xside365 (victor #22), Kluchen (victor #23 x1.2), tortelliniii (victor #24), will smith (victor #25), monte (victor #26), lolol233 (victor #27 x1.2), Azertyran (victor #28), wuk (victor #29 x1.1), respektive (victor #30), gamer228666 (victor #31 x1.2), JeadIng (victor #32), Ravene (victor #33), zeroly (victor #34), N I K I T A (victor #35), Bouquetdor (victor #36), ozy (victor #37), onokari123 (victor #38), ASecretBox (victor #39 x1.3), Zoomeree (victor #40), Alyra (victor #41 x1.1), zyanishu (victor #42), gusrua123 (victor #43 x1.1), Zanzabar (victor #44) |
+| 526 | 8.01 | wuk — Sidetracked Day [Uri's Tyranny] | Jxir (verified x1.1), Arakii (victor #1), Kyros_ (victor #2), dimchik (victor #3), willy0214 (victor #4), NaPiii_ (victor #5 x1.2), Victoor (victor #6), Saiyku (victor #7 x1.2), cr4shz1 (victor #8), Niali (victor #9 x1.1), katalashka son (victor #10), NYASH (victor #11), AstroVnz (victor #12), SIDETRACKEDDAY (victor #13), Akuma no Tenshi (victor #14 x1.1), evankkk (victor #15), meramin (victor #16), Turles (victor #17), MiMiTooU (victor #18 x1.2), EZChamp (victor #19 x1.2), she gon pay me (victor #20), xside365 (victor #21), Kluchen (victor #22 x1.2), tortelliniii (victor #23), will smith (victor #24), monte (victor #25), lolol233 (victor #26 x1.2), Azertyran (victor #27), wuk (victor #28 x1.1), respektive (victor #29), gamer228666 (victor #30 x1.2), JeadIng (victor #31), Ravene (victor #32), zeroly (victor #33), N I K I T A (victor #34), Bouquetdor (victor #35), ozy (victor #36), onokari123 (victor #37), ASecretBox (victor #38 x1.3), Zoomeree (victor #39), Alyra (victor #40 x1.1), zyanishu (victor #41), gusrua123 (victor #42 x1.1), Zanzabar (victor #43), [Karcher] (victor #44 x1.2) |
 | 527 | 8.01 | orangentle — OEFHEBEN [Furioso] | Suyung_ (verified), Tutel (victor #1) |
 | 528 | 8.01 | Falcom Sound Team jdk — GENS D'ARMES [CONQUEROR] | xootynator (verified x1.1), MALISZEWSKI (victor #1), mrekk (victor #2), Raikouhou (victor #3) |
 | 529 | 8.00 | Aitsuki Nakuru — Presenter* [Gift] | Skydiver (verified), tekkito (victor #1 x1.1), yamss (victor #2 x1.1), Dumii (victor #3), GoldenMine (victor #4 x1.1), rairiku (victor #5), _Shield (victor #6), Bubbleman (victor #7), Mathi (victor #8 x1.1), Zydan (victor #9), bocchicookie (victor #10 x1.1), Rupertion (victor #11 x1.1), lightingloyz (victor #12), -Dreamless (victor #13), hexi (victor #14 x1.1), MegaMK (victor #15), Oosha (victor #16), VoProSSoFF (victor #17), Lesperry (victor #18), chocomint (victor #19 x1.1), Another Guy (victor #20), F2X (victor #21), zonelouise (victor #22), Sherbet (victor #23 x1.1), Tim Kackner (victor #24), luzny (victor #25), Uchirrod (victor #26 x1.1), Chicony (victor #27), vljoy209 (victor #28), Loosay (victor #29 x1.1), Slenderman (victor #30 x1.2), flubb (victor #31), Lewis Hamilton (victor #32), tomadoi (victor #33 x1.1), decaten (victor #34), Saiyku (victor #35), lil bread (victor #36), Mastasz (victor #37), brayan56 (victor #38 x1.1), -aico (victor #39), Seamie (victor #40) |
@@ -663,7 +663,7 @@ Generated: 2026-09-03T05:47:00.099Z
 | 655 | 7.90 | Kuroneko Dungeon — Lilieze to Enryuu Laevateinn [Axarious' Muspell] | Bubbleman (verified), Binninja (victor #1) |
 | 656 | 7.90 | Camellia feat. Nanahira — POLKAMANIA [ULTIMANIA] | MALISZEWSKI (verified x1.1), enri (victor #1 x1.1), Raikouhou (victor #2) |
 | 657 | 7.90 | Luze — IKUSAUTA Orglrya [Extreme] | Akolibed (verified), _Shield (victor #1), Plasma (victor #2), Ephix (victor #3), Pablohh (victor #4), Mahmood (victor #5), Welter (victor #6 x1.1), maxim (victor #7), velcro shoes (victor #8) |
-| 658 | 7.90 | Various Artists — Songs Compilation III [Marathon] | Varvalian (verified), etn (victor #1), ASecretBox (victor #2 x1.1), Woofel (victor #3), Rizer (victor #4), [ Zane ] (victor #5), Intercambing (victor #6), nicki1324 (victor #7), rektygon (victor #8), Viveliam (victor #9), Bubbleman (victor #10), vain (victor #11), Pablohh (victor #12), Raikouhou (victor #13), dench (victor #14), MALISZEWSKI (victor #15 x1.1), Gurbzy (victor #16), zonelouise (victor #17), bunnylikemoney (victor #18), Umbre (victor #19 x1.1), Saiyku (victor #20), worst hr player (victor #21), Mac (victor #22), Remyuu (victor #23), runnysunny (victor #24), Arakii (victor #25), Ryugia (victor #26), Epes (victor #27), Zpinxx (victor #28), mcy4 (victor #29 x1.3), Mastasz (victor #30 x1.2), Camberos (victor #31), bocchicookie (victor #32 x1.1), RafaMat (victor #33), glag (victor #34), VoProSSoFF (victor #35 x1.2), 1v9 (victor #36), Swiq (victor #37), monte (victor #38), Winkero (victor #39), vljoy209 (victor #40), chicken_67 (victor #41), [Karcher] (victor #42 x1.2), Midarna (victor #43), AstroVnz (victor #44) |
+| 658 | 7.90 | Various Artists — Songs Compilation III [Marathon] | Varvalian (verified), etn (victor #1), ASecretBox (victor #2 x1.1), Woofel (victor #3), Rizer (victor #4), [ Zane ] (victor #5), Intercambing (victor #6), nicki1324 (victor #7), rektygon (victor #8), Viveliam (victor #9), Bubbleman (victor #10), vain (victor #11), Pablohh (victor #12), Raikouhou (victor #13), dench (victor #14), MALISZEWSKI (victor #15 x1.1), Gurbzy (victor #16), zonelouise (victor #17), bunnylikemoney (victor #18), Umbre (victor #19 x1.1), worst hr player (victor #20), Mac (victor #21), Remyuu (victor #22), runnysunny (victor #23), Arakii (victor #24), Ryugia (victor #25), Epes (victor #26), Zpinxx (victor #27), mcy4 (victor #28 x1.3), Mastasz (victor #29 x1.2), Camberos (victor #30), bocchicookie (victor #31 x1.1), RafaMat (victor #32), glag (victor #33), VoProSSoFF (victor #34 x1.2), 1v9 (victor #35), Swiq (victor #36), monte (victor #37), Winkero (victor #38), vljoy209 (victor #39), chicken_67 (victor #40), [Karcher] (victor #41 x1.2), Midarna (victor #42), AstroVnz (victor #43), Zanzabar (victor #44) |
 | 659 | 7.90 | Shinigiwa Satellite feat. Meramipop — Tensei Redemption [Phantasm] | _Shield (verified), Mathi (victor #1), z9a (victor #2), nejzha (victor #3) |
 | 660 | 7.90 | Sakaue Nachi — Crazy Hot [Final Master Spark] | worst hr player (verified) |
 | 661 | 7.90 | Imperial Circus Dead Decadence — Fusyoku ressentiment, fushiyoku no sarugakuza. [Ketsueki] | Utami (verified), TTv_UFO (victor #1) |
@@ -1018,7 +1018,7 @@ Generated: 2026-09-03T05:47:00.099Z
 | 5 | Raikouhou | 2137.595 |
 | 6 | z9a | 2082.396 |
 | 7 | ASecretBox | 1824.425 |
-| 8 | [Karcher] | 1732.334 |
+| 8 | [Karcher] | 1753.942 |
 | 9 | worst hr player | 1652.216 |
 | 10 | NaPiii_ | 1651.440 |
 | 11 | Akolibed | 1624.417 |
@@ -1026,7 +1026,7 @@ Generated: 2026-09-03T05:47:00.099Z
 | 13 | bunnylikemoney | 1485.350 |
 | 14 | Utami | 1446.047 |
 | 15 | Fleh | 1383.577 |
-| 16 | Saiyku | 1378.621 |
+| 16 | Saiyku | 1374.936 |
 | 17 | MineFrostID | 1352.973 |
 | 18 | mcy4 | 1296.365 |
 | 19 | xootynator | 1250.222 |
@@ -1226,12 +1226,12 @@ Generated: 2026-09-03T05:47:00.099Z
 | 213 | Saymel | 142.743 |
 | 214 | Chipori | 141.218 |
 | 215 | Aheo | 138.783 |
-| 216 | Mlaw | 136.539 |
-| 217 | Swiq | 135.824 |
-| 218 | Hifkil | 135.568 |
-| 219 | pupusa | 134.831 |
-| 220 | Epes | 134.430 |
-| 221 | Zanzabar | 134.009 |
+| 216 | Zanzabar | 137.694 |
+| 217 | Mlaw | 136.539 |
+| 218 | Swiq | 135.824 |
+| 219 | Hifkil | 135.568 |
+| 220 | pupusa | 134.831 |
+| 221 | Epes | 134.430 |
 | 222 | thaibuy | 133.127 |
 | 223 | Ethan2222 | 133.056 |
 | 224 | GodRoPoNiKa | 132.838 |
