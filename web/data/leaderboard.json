@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T17:14:37.862Z",
+  "generatedAt": "2026-09-04T05:55:33.298Z",
   "criteria": {
     "ruleset": "osu",
     "rankedOnly": true,
@@ -5802,22 +5802,13 @@
           "victorNumber": 11
         },
         {
-          "userId": 3072921,
-          "username": "Callionet",
-          "scoreId": 1805488108,
-          "pointsMultiplier": 1,
-          "clearedAt": "2023-12-26T00:18:52Z",
-          "clearRole": "victor",
-          "victorNumber": 12
-        },
-        {
           "userId": 10549880,
           "username": "NINERIK",
           "scoreId": 2760104860,
           "pointsMultiplier": 1.2,
           "clearedAt": "2024-05-01T13:26:54Z",
           "clearRole": "victor",
-          "victorNumber": 13
+          "victorNumber": 12
         },
         {
           "userId": 9975427,
@@ -5826,7 +5817,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2024-05-21T20:37:06Z",
           "clearRole": "victor",
-          "victorNumber": 14
+          "victorNumber": 13
         },
         {
           "userId": 18903701,
@@ -5835,7 +5826,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2025-03-16T06:26:37Z",
           "clearRole": "victor",
-          "victorNumber": 15
+          "victorNumber": 14
         },
         {
           "userId": 7774197,
@@ -5844,7 +5835,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2025-03-30T16:52:32Z",
           "clearRole": "victor",
-          "victorNumber": 16
+          "victorNumber": 15
         },
         {
           "userId": 12389546,
@@ -5853,7 +5844,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2025-04-15T19:15:56Z",
           "clearRole": "victor",
-          "victorNumber": 17
+          "victorNumber": 16
         },
         {
           "userId": 5182050,
@@ -5862,7 +5853,7 @@
           "pointsMultiplier": 1.05,
           "clearedAt": "2025-07-14T19:38:40Z",
           "clearRole": "victor",
-          "victorNumber": 18
+          "victorNumber": 17
         },
         {
           "userId": 13609904,
@@ -5871,7 +5862,7 @@
           "pointsMultiplier": 1.2,
           "clearedAt": "2025-09-27T08:27:31Z",
           "clearRole": "victor",
-          "victorNumber": 19
+          "victorNumber": 18
         },
         {
           "userId": 11243772,
@@ -5880,7 +5871,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2026-01-11T17:56:50Z",
           "clearRole": "victor",
-          "victorNumber": 20
+          "victorNumber": 19
         },
         {
           "userId": 12284608,
@@ -5889,7 +5880,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2026-01-19T19:29:15Z",
           "clearRole": "victor",
-          "victorNumber": 21
+          "victorNumber": 20
         },
         {
           "userId": 10903510,
@@ -5898,7 +5889,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2026-02-26T17:07:37Z",
           "clearRole": "victor",
-          "victorNumber": 22
+          "victorNumber": 21
         },
         {
           "userId": 16320893,
@@ -5907,7 +5898,7 @@
           "pointsMultiplier": 1.2,
           "clearedAt": "2026-03-23T18:42:21Z",
           "clearRole": "victor",
-          "victorNumber": 23
+          "victorNumber": 22
         },
         {
           "userId": 10188022,
@@ -5916,7 +5907,7 @@
           "pointsMultiplier": 1,
           "clearedAt": "2026-06-15T19:46:45Z",
           "clearRole": "victor",
-          "victorNumber": 24
+          "victorNumber": 23
         }
       ],
       "rank": 117,
@@ -22824,6 +22815,15 @@
           "clearedAt": "2026-08-31T01:15:52Z",
           "clearRole": "victor",
           "victorNumber": 32
+        },
+        {
+          "userId": 17125008,
+          "username": "FARTPOO",
+          "scoreId": 7405043433,
+          "pointsMultiplier": 1,
+          "clearedAt": "2026-09-03T21:56:54Z",
+          "clearRole": "victor",
+          "victorNumber": 33
         }
       ],
       "rank": 341,
@@ -86590,6 +86590,15 @@
           "clearedAt": "2026-07-25T23:59:44Z",
           "clearRole": "victor",
           "victorNumber": 11
+        },
+        {
+          "userId": 17863453,
+          "username": "Nevzz",
+          "scoreId": 7405930106,
+          "pointsMultiplier": 1,
+          "clearedAt": "2026-09-04T01:41:47Z",
+          "clearRole": "victor",
+          "victorNumber": 12
         }
       ],
       "rank": 888,
@@ -138411,18 +138420,6 @@
       ]
     },
     {
-      "userId": 3072921,
-      "username": "Callionet",
-      "totalPoints": 59.888396126326214,
-      "maps": [
-        {
-          "beatmapId": 2496646,
-          "demonRank": 117,
-          "points": 59.888396126326214
-        }
-      ]
-    },
-    {
       "userId": 9975427,
       "username": "Dwagon",
       "totalPoints": 59.888396126326214,
@@ -145995,6 +145992,18 @@
       ]
     },
     {
+      "userId": 17125008,
+      "username": "FARTPOO",
+      "totalPoints": 18.763599770206383,
+      "maps": [
+        {
+          "beatmapId": 5319472,
+          "demonRank": 341,
+          "points": 18.763599770206383
+        }
+      ]
+    },
+    {
       "userId": 16691293,
       "username": "Rushio",
       "totalPoints": 18.65980008869284,
@@ -150501,6 +150510,23 @@
       ]
     },
     {
+      "userId": 17863453,
+      "username": "Nevzz",
+      "totalPoints": 8.851530860836894,
+      "maps": [
+        {
+          "beatmapId": 2270137,
+          "demonRank": 513,
+          "points": 7.82221659404548
+        },
+        {
+          "beatmapId": 3638479,
+          "demonRank": 888,
+          "points": 1.0293142667914135
+        }
+      ]
+    },
+    {
       "userId": 16425951,
       "username": "Lu2nar",
       "totalPoints": 8.801635147907866,
@@ -150931,18 +150957,6 @@
     {
       "userId": 11584075,
       "username": "ganjanov",
-      "totalPoints": 7.82221659404548,
-      "maps": [
-        {
-          "beatmapId": 2270137,
-          "demonRank": 513,
-          "points": 7.82221659404548
-        }
-      ]
-    },
-    {
-      "userId": 17863453,
-      "username": "Nevzz",
       "totalPoints": 7.82221659404548,
       "maps": [
         {
