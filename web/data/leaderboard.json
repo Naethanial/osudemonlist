@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T18:31:33.782Z",
+  "generatedAt": "2026-10-03T06:27:38.182Z",
   "criteria": {
     "ruleset": "osu",
     "rankedOnly": true,
@@ -47685,6 +47685,15 @@
           "clearedAt": "2026-09-07T07:08:58Z",
           "clearRole": "victor",
           "victorNumber": 30
+        },
+        {
+          "userId": 9157301,
+          "username": "syuq",
+          "scoreId": 7613757611,
+          "pointsMultiplier": 1.05,
+          "clearedAt": "2026-10-02T18:48:36Z",
+          "clearRole": "victor",
+          "victorNumber": 31
         }
       ],
       "rank": 587,
@@ -49239,7 +49248,7 @@
         },
         {
           "userId": 19241975,
-          "username": "WeisseKatze",
+          "username": "GamerPro3000",
           "scoreId": 7481303915,
           "pointsMultiplier": 1.05,
           "clearedAt": "2026-09-14T18:30:28Z",
@@ -72580,6 +72589,15 @@
           "clearedAt": "2026-09-23T15:06:19Z",
           "clearRole": "victor",
           "victorNumber": 5
+        },
+        {
+          "userId": 13588932,
+          "username": "pii",
+          "scoreId": 7616246206,
+          "pointsMultiplier": 1,
+          "clearedAt": "2026-10-03T02:55:54Z",
+          "clearRole": "victor",
+          "victorNumber": 6
         }
       ],
       "rank": 801,
@@ -90375,7 +90393,7 @@
         },
         {
           "userId": 19241975,
-          "username": "WeisseKatze",
+          "username": "GamerPro3000",
           "scoreId": 5517976800,
           "pointsMultiplier": 1,
           "clearedAt": "2025-09-27T18:24:11Z",
@@ -97343,6 +97361,15 @@
           "clearedAt": "2026-09-13T08:53:05Z",
           "clearRole": "victor",
           "victorNumber": 34
+        },
+        {
+          "userId": 16905329,
+          "username": "Mariskiy Modnik",
+          "scoreId": 7615296019,
+          "pointsMultiplier": 1,
+          "clearedAt": "2026-10-02T23:07:54Z",
+          "clearRole": "victor",
+          "victorNumber": 35
         }
       ],
       "rank": 973,
@@ -145291,6 +145318,23 @@
       ]
     },
     {
+      "userId": 9157301,
+      "username": "syuq",
+      "totalPoints": 18.675630752227306,
+      "maps": [
+        {
+          "beatmapId": 5761471,
+          "demonRank": 422,
+          "points": 13.067728253623825
+        },
+        {
+          "beatmapId": 5306933,
+          "demonRank": 587,
+          "points": 5.607902498603483
+        }
+      ]
+    },
+    {
       "userId": 16197865,
       "username": "Supernye",
       "totalPoints": 18.66891615339473,
@@ -147597,18 +147641,6 @@
           "beatmapId": 3473656,
           "demonRank": 973,
           "points": 0.6033097125478969
-        }
-      ]
-    },
-    {
-      "userId": 9157301,
-      "username": "syuq",
-      "totalPoints": 13.067728253623825,
-      "maps": [
-        {
-          "beatmapId": 5761471,
-          "demonRank": 422,
-          "points": 13.067728253623825
         }
       ]
     },
@@ -151833,7 +151865,7 @@
     },
     {
       "userId": 19241975,
-      "username": "WeisseKatze",
+      "username": "GamerPro3000",
       "totalPoints": 5.829138668890816,
       "maps": [
         {
@@ -153178,6 +153210,23 @@
           "beatmapId": 3737197,
           "demonRank": 941,
           "points": 0.7428825189987883
+        }
+      ]
+    },
+    {
+      "userId": 13588932,
+      "username": "pii",
+      "totalPoints": 4.420974802217039,
+      "maps": [
+        {
+          "beatmapId": 4708805,
+          "demonRank": 715,
+          "points": 2.7211334150301925
+        },
+        {
+          "beatmapId": 5611415,
+          "demonRank": 801,
+          "points": 1.6998413871868459
         }
       ]
     },
@@ -155596,18 +155645,6 @@
       ]
     },
     {
-      "userId": 13588932,
-      "username": "pii",
-      "totalPoints": 2.7211334150301925,
-      "maps": [
-        {
-          "beatmapId": 4708805,
-          "demonRank": 715,
-          "points": 2.7211334150301925
-        }
-      ]
-    },
-    {
       "userId": 5132353,
       "username": "[ Nano ]",
       "totalPoints": 2.707545400391332,
@@ -156978,6 +157015,23 @@
       ]
     },
     {
+      "userId": 16905329,
+      "username": "Mariskiy Modnik",
+      "totalPoints": 1.670095492945792,
+      "maps": [
+        {
+          "beatmapId": 4777878,
+          "demonRank": 882,
+          "points": 1.0667857803978953
+        },
+        {
+          "beatmapId": 3473656,
+          "demonRank": 973,
+          "points": 0.6033097125478969
+        }
+      ]
+    },
+    {
       "userId": 26342680,
       "username": "love katagiri",
       "totalPoints": 1.6672598393358964,
@@ -158273,18 +158327,6 @@
     {
       "userId": 35308757,
       "username": "duerpv4",
-      "totalPoints": 1.0667857803978953,
-      "maps": [
-        {
-          "beatmapId": 4777878,
-          "demonRank": 882,
-          "points": 1.0667857803978953
-        }
-      ]
-    },
-    {
-      "userId": 16905329,
-      "username": "Mariskiy Modnik",
       "totalPoints": 1.0667857803978953,
       "maps": [
         {
