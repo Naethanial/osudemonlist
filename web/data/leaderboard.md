@@ -1,6 +1,6 @@
 # osu demon list leaderboard
 
-Generated: 2026-10-09T07:26:25.547Z
+Generated: 2026-10-09T18:56:54.890Z
 
 ## Maps (1000)
 
@@ -239,7 +239,7 @@ Generated: 2026-10-09T07:26:25.547Z
 | 231 | 8.39 | xi — Glorious Crown [FOUR DIMENSIONS] | BTMC (verified), Bubbleman (victor #1), chocomint (victor #2 x1.1), MALISZEWSKI (victor #3), ruirui (victor #4), Akolibed (victor #5), Utami (victor #6 x1.1), haruchi (victor #7), sytho (victor #8), [ Zane ] (victor #9), Sawada (victor #10), NaPiii_ (victor #11), willy0214 (victor #12), Norlain (victor #13), Pablohh (victor #14), okinamo (victor #15 x1.1), Bonk (victor #16), supernoob2018 (victor #17), zonelouise (victor #18), Rykic (victor #19), RafaMat (victor #20), fragranceofpage (victor #21), EZChamp (victor #22), Zentoro (victor #23), mrekk (victor #24 x1.2), Tikkanen (victor #25), hexi (victor #26) |
 | 232 | 8.39 | YURRY CANON — Suicide Parade [Sakase] | FlyingTuna (verified), Dumb-Andy (victor #1) |
 | 233 | 8.38 | xi — Glorious Crown [FOUR DIMENSIONS] | [Karcher] (verified), MineFrostID (victor #1), mrekk (victor #2 x1.1) |
-| 234 | 8.38 | Zektbach — L'erisia (Primary Logic) [Ristaccia] | yary (verified x1.1), Mathi (victor #1), puppy (victor #2 x1.1), Doomsday fanboy (victor #3), MALISZEWSKI (victor #4 x1.1), MYKEYBOARD (victor #5 x1.1), Tartis (victor #6), misha awa (victor #7 x1.1), Gameroft (victor #8 x1.1), origin_ (victor #9), willy0214 (victor #10), PinkEyeFan2013 (victor #11), Bubbleman (victor #12 x1.2), Raikouhou (victor #13 x1.2), Alfiu (victor #14 x1.1), Melvr (victor #15 x1.1), papercandle (victor #16 x1.2), sarboggly (victor #17), Mahmood (victor #18 x1.2), YMD (victor #19 x1.1), Niali (victor #20 x1.1), awesome sauce (victor #21 x1.1), mrekk (victor #22 x1.3), Cymango (victor #23 x1.2), hexi (victor #24 x1.1), MineFrostID (victor #25), milktea0019 (victor #26 x1.1), Nailer (victor #27 x1.1), Gaspi (victor #28 x1.1), ricoel (victor #29 x1.1), CharlioM9 (victor #30 x1.1), gusrua123 (victor #31 x1.1), EZChamp (victor #32), obkatiekat (victor #33), AmaoTchoupi (victor #34 x1.2), hubbawubba (victor #35 x1.1), Atsacity (victor #36 x1.1), Evernight (victor #37), nooneloves (victor #38 x1.1), Intercambing (victor #39 x1.2), Filizanowski (victor #40), kodama (victor #41 x1.1), Wario (victor #42 x1.1), grog on osu (victor #43), ProPlaysForMe (victor #44), Binninja (victor #45 x1.1) |
+| 234 | 8.38 | Zektbach — L'erisia (Primary Logic) [Ristaccia] | yary (verified x1.1), Mathi (victor #1), puppy (victor #2 x1.1), Doomsday fanboy (victor #3), MALISZEWSKI (victor #4 x1.1), MYKEYBOARD (victor #5 x1.1), Tartis (victor #6), misha awa (victor #7 x1.1), Gameroft (victor #8 x1.1), origin_ (victor #9), willy0214 (victor #10), PinkEyeFan2013 (victor #11), Bubbleman (victor #12 x1.2), Raikouhou (victor #13 x1.2), Alfiu (victor #14 x1.1), Melvr (victor #15 x1.1), papercandle (victor #16 x1.2), sarboggly (victor #17), Mahmood (victor #18 x1.2), YMD (victor #19 x1.1), Niali (victor #20 x1.1), awesome sauce (victor #21 x1.1), mrekk (victor #22 x1.3), Cymango (victor #23 x1.2), hexi (victor #24 x1.1), MineFrostID (victor #25), milktea0019 (victor #26 x1.1), Nailer (victor #27 x1.1), Gaspi (victor #28 x1.1), ricoel (victor #29 x1.1), CharlioM9 (victor #30 x1.1), gusrua123 (victor #31 x1.1), EZChamp (victor #32), obkatiekat (victor #33), AmaoTchoupi (victor #34 x1.2), hubbawubba (victor #35 x1.1), Atsacity (victor #36 x1.1), Evernight (victor #37), nooneloves (victor #38 x1.1), Intercambing (victor #39 x1.2), Filizanowski (victor #40), kodama (victor #41 x1.1), Wario (victor #42 x1.1), grog on osu (victor #43), ProPlaysForMe (victor #44), Binninja (victor #45 x1.1), PikaPwn (victor #46 x1.3) |
 | 235 | 8.38 | DragonForce — The Fire Still Burns [Insanity Lives On] | MALISZEWSKI (verified) |
 | 236 | 8.37 | xi — FREEDOM DiVE [Camo's THREE DIMENSIONS] | PikaPwn (verified x1.1), Fleh (victor #1), ZeitFrost (victor #2), desuqe (victor #3) |
 | 237 | 8.37 | WAGAMAMA RAKIA — M [Let me Listen to your Voices] | rng_ (verified) |
@@ -717,7 +717,7 @@ Generated: 2026-10-09T07:26:25.547Z
 | 709 | 7.88 | Zekk — Re_Construct [yf's Extra(#3)] | worst hr player (verified x1.1), mrekk (victor #1), badeu (victor #2) |
 | 710 | 7.87 | Nanawo Akari — Higher's High [Counterattack] | Tsfury (verified), Tommy315 (victor #1), [Karcher] (victor #2 x1.2), MALISZEWSKI (victor #3 x1.1), LaBron Jayms (victor #4), chocomint (victor #5 x1.1), mcy4 (victor #6 x1.1), NeliNyan (victor #7 x1.1), Jyuifty (victor #8), chests (victor #9), Suyung_ (victor #10 x1.3), Impowster (victor #11 x1.1), Mathi (victor #12), rng_ (victor #13), yukinasimp (victor #14), desuqe (victor #15 x1.1), PikaPwn (victor #16 x1.1), palr (victor #17 x1.1), fragranceofpage (victor #18 x1.1), kuzu222 (victor #19 x1.1), Rupertion (victor #20 x1.1), IRanko (victor #21 x1.1), Tutel (victor #22), Ruyaya (victor #23 x1.1), koral (victor #24), Zentoro (victor #25 x1.1), maxbireo (victor #26 x1.1), Maron (victor #27), JustTaka (victor #28 x1.1), nybia (victor #29), wuhua (victor #30 x1.1) |
 | 711 | 7.87 | Lime — Chronomia [<STAR.IX>Sagittarius#SparkNights] | nooneloves (verified), Weeder (victor #1), tsumiya (victor #2), JeadIng (victor #3), bored yes (victor #4), LoidKun (victor #5), BossPlays (victor #6), Alyra (victor #7 x1.1), Noty (victor #8), ronipan (victor #9 x1.1), Hinaru (victor #10), wessel_osu2 (victor #11), NovatoKing (victor #12), plee (victor #13), aoofbop (victor #14), Destros (victor #15), mayreel (victor #16), Berinjela Chan (victor #17) |
-| 712 | 7.87 | Erabareshi — Motto, Nee Motto (TV Size) [Yuri] | Possu (verified x1.1), wuhua (victor #1 x1.1), Stylante (victor #2), Rebo (victor #3 x1.1), So_pro (victor #4), -Puyu (victor #5 x1.1), Coreanmaluco (victor #6), [Bau] (victor #7 x1.1), riwu (victor #8), Approach Rate (victor #9), MineFrostID (victor #10), Bertilly (victor #11), Raikouhou (victor #12), Fjell (victor #13), BananaGamer1235 (victor #14), Hagawobla (victor #15 x1.1), _singularity (victor #16), LyeRR (victor #17), bunnylikemoney (victor #18), Tikkanen (victor #19), Ant -w- (victor #20), Tutel (victor #21), Tristan (victor #22 x1.1), willy0214 (victor #23), Jerma985 (victor #24), Zonii (victor #25), DarthInvaderZim (victor #26), Kokuban (victor #27), BossPlays (victor #28), BoshyMan741 (victor #29), kaenen (victor #30), Unexpected (victor #31), Doomsday fanboy (victor #32), Don t forget me (victor #33 x1.1), zfire (victor #34), Xyloz (victor #35), aurora on osu (victor #36) |
+| 712 | 7.87 | Erabareshi — Motto, Nee Motto (TV Size) [Yuri] | Possu (verified x1.1), wuhua (victor #1 x1.1), Stylante (victor #2), Rebo (victor #3 x1.1), So_pro (victor #4), -Puyu (victor #5 x1.1), Coreanmaluco (victor #6), [Bau] (victor #7 x1.1), riwu (victor #8), Approach Rate (victor #9), MineFrostID (victor #10), Bertilly (victor #11), Raikouhou (victor #12), Fjell (victor #13), BananaGamer1235 (victor #14), Hagawobla (victor #15 x1.1), _singularity (victor #16), LyeRR (victor #17), bunnylikemoney (victor #18), Tikkanen (victor #19), Ant -w- (victor #20), Tutel (victor #21), Tristan (victor #22 x1.1), willy0214 (victor #23), hvke (victor #24), Jerma985 (victor #25), Zonii (victor #26), DarthInvaderZim (victor #27), Kokuban (victor #28), BossPlays (victor #29), BoshyMan741 (victor #30), kaenen (victor #31), Unexpected (victor #32), Doomsday fanboy (victor #33), Don t forget me (victor #34 x1.1), zfire (victor #35), Xyloz (victor #36), aurora on osu (victor #37) |
 | 713 | 7.87 | Demetori — Hartmann no Youkai Shoujo ~ Todestrieb und Lebenstrieb [GoldenWolf's Thanatos kai Eros] | Hatted (verified), Bubbleman (victor #1), chocomint (victor #2 x1.1), KoaLeahq (victor #3), Rebo (victor #4) |
 | 714 | 7.87 | Tatsh — IMAGE -MATERIAL- <Version 0> [Revolution] | Andros (verified), BTMC (victor #1), Zeisen Udongein (victor #2), clafrelys (victor #3), Stoof (victor #4), Raikouhou (victor #5), Kamensh1k (victor #6 x1.1) |
 | 715 | 7.87 | Halozy — Genryuu Kaiko [Higan Torrent] | Mathi (verified), idke (victor #1), elsi (victor #2), Xilver15 (victor #3), A21 (victor #4), BTMC (victor #5), MrNobady (victor #6), [Karcher] (victor #7), enri (victor #8), worst hr player (victor #9), im a fancy lad (victor #10), EZChamp (victor #11), bocchicookie (victor #12 x1.1), Utami (victor #13 x1.1), Mr Wang (victor #14), shwq (victor #15) |
@@ -1070,13 +1070,13 @@ Generated: 2026-10-09T07:26:25.547Z
 | 57 | Melvr | 517.781 |
 | 58 | Zyntex | 511.976 |
 | 59 | Topoi | 511.638 |
-| 60 | sharytory | 497.600 |
-| 61 | _Shield | 483.851 |
-| 62 | reimia | 479.810 |
-| 63 | Suyong_ | 476.660 |
-| 64 | monte | 473.227 |
-| 65 | BTMC | 470.739 |
-| 66 | PikaPwn | 467.293 |
+| 60 | PikaPwn | 507.933 |
+| 61 | sharytory | 497.600 |
+| 62 | _Shield | 483.851 |
+| 63 | reimia | 479.810 |
+| 64 | Suyong_ | 476.660 |
+| 65 | monte | 473.227 |
+| 66 | BTMC | 470.739 |
 | 67 | fragranceofpage | 466.177 |
 | 68 | clafrelys | 458.078 |
 | 69 | Exxotl | 457.334 |
@@ -1514,29 +1514,29 @@ Generated: 2026-10-09T07:26:25.547Z
 | 501 | kodama | 35.172 |
 | 502 | DazzLE_Wind | 35.151 |
 | 503 | Kurumiw | 34.889 |
-| 504 | taro | 34.597 |
-| 505 | SadnessWillSear | 34.573 |
-| 506 | ncrohawk | 34.570 |
-| 507 | [Eclipse] | 34.534 |
-| 508 | Nailer | 34.420 |
-| 509 | AllyrD | 34.297 |
-| 510 | angelkanna | 34.150 |
-| 511 | Jerma985 | 33.962 |
-| 512 | Gaspi | 33.867 |
-| 513 | CharlioM9 | 33.867 |
-| 514 | hubbawubba | 33.867 |
-| 515 | Anolikaru | 33.831 |
-| 516 | Froinks | 33.624 |
-| 517 | zivxare | 33.407 |
-| 518 | flansl | 33.255 |
-| 519 | Gambler | 33.255 |
-| 520 | Agent5d | 33.255 |
-| 521 | Hibiki | 32.893 |
-| 522 | SrChispa | 32.797 |
-| 523 | Filizanowski | 32.254 |
-| 524 | zonamu | 32.188 |
-| 525 | hqshe | 32.081 |
-| 526 | hvke | 31.912 |
+| 504 | hvke | 34.677 |
+| 505 | taro | 34.597 |
+| 506 | SadnessWillSear | 34.573 |
+| 507 | ncrohawk | 34.570 |
+| 508 | [Eclipse] | 34.534 |
+| 509 | Nailer | 34.420 |
+| 510 | AllyrD | 34.297 |
+| 511 | angelkanna | 34.150 |
+| 512 | Jerma985 | 33.962 |
+| 513 | Gaspi | 33.867 |
+| 514 | CharlioM9 | 33.867 |
+| 515 | hubbawubba | 33.867 |
+| 516 | Anolikaru | 33.831 |
+| 517 | Froinks | 33.624 |
+| 518 | zivxare | 33.407 |
+| 519 | flansl | 33.255 |
+| 520 | Gambler | 33.255 |
+| 521 | Agent5d | 33.255 |
+| 522 | Hibiki | 32.893 |
+| 523 | SrChispa | 32.797 |
+| 524 | Filizanowski | 32.254 |
+| 525 | zonamu | 32.188 |
+| 526 | hqshe | 32.081 |
 | 527 | Nopekjk | 31.760 |
 | 528 | DP285 | 31.653 |
 | 529 | ikuyokita | 31.420 |
