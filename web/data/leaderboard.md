@@ -1,6 +1,6 @@
 # osu demon list leaderboard
 
-Generated: 2026-11-07T08:45:31.273Z
+Generated: 2026-11-07T18:46:38.206Z
 
 ## Maps (1000)
 
@@ -186,7 +186,7 @@ Generated: 2026-11-07T08:45:31.273Z
 | 178 | 8.52 | Imperial Circus Dead Decadence — Yomi yori Kikoyu, Koukoku no Tou to Honoo no Shoujo. [Kurushimi] | WhiteCat (verified), Bubbleman (victor #1), rektygon (victor #2), Reedkatt (victor #3), BTMC (victor #4), bsm (victor #5), Utami (victor #6), Varvalian (victor #7), _Shield (victor #8), gamer228666 (victor #9), [Karcher] (victor #10), MALISZEWSKI (victor #11 x1.1), Demonical (victor #12), Vaxei (victor #13), EZChamp (victor #14), Raikouhou (victor #15), Suyung_ (victor #16), mcy4 (victor #17), worst hr player (victor #18), mrekk (victor #19 x1.2), NathanRam1918 (victor #20), Mahmood (victor #21), Suyong_ (victor #22), Zentoro (victor #23) |
 | 179 | 8.52 | Iyowa feat. Adachi Rei — Heat abnormal [OGLE-2005-BLG-390Lb] | BR00KLYN (verified), KonKonKinakoN (victor #1) |
 | 180 | 8.52 | Eye of the Enemy — The Shift [Poignant Saudade] | Topoi (verified), bunnylikemoney (victor #1), MALISZEWSKI (victor #2 x1.1) |
-| 181 | 8.52 | DM DOKURO — Reality Check Through The Skull [You feel like you're going to have a bad time.] | bananachi (verified), splenty (victor #1), huyanh68 (victor #2) |
+| 181 | 8.52 | DM DOKURO — Reality Check Through The Skull [You feel like you're going to have a bad time.] | bananachi (verified), splenty (victor #1), huyanh68 (victor #2), ka1rskiy (victor #3) |
 | 182 | 8.52 | Hige Driver join. SELEN — Dadadadadadadadadada [Fluttering] | MALISZEWSKI (verified x1.1) |
 | 183 | 8.51 | Yousei Teikoku — Kyouki Chinden (TV Size) [Ultra] | shinomontaj (verified), MALISZEWSKI (victor #1 x1.1), Ethan2222 (victor #2), fallenbtw (victor #3), EZChamp (victor #4), Akolibed (victor #5), SheDiK YT (victor #6), shwq (victor #7), A21 (victor #8), Weetab (victor #9) |
 | 184 | 8.51 | Imperial Circus Dead Decadence — Gekiai No Yobigoe Ga Dekiai No Sakebigoe Wo Kurau [Defiled Love] | Vaxei (verified), mrekk (victor #1), Raikouhou (victor #2), xootynator (victor #3 x1.1), mcy4 (victor #4) |
@@ -593,7 +593,7 @@ Generated: 2026-11-07T08:45:31.273Z
 | 585 | 7.97 | Megurimeguru — Hakai [Destruction] | oPixay (verified), MALISZEWSKI (victor #1 x1.1), Pezz (victor #2), Jemzsee (victor #3), Mathi (victor #4), origin_ (victor #5) |
 | 586 | 7.97 | Olivia Rodrigo — vampire [ultra] | huyanh68 (verified x1.2), VineOpoly (victor #1), leny (victor #2), luxury (victor #3), pii (victor #4), 02171 (victor #5), kr__ (victor #6), z9a (victor #7) |
 | 587 | 7.97 | Toromaru — Formless Canvas [Down's Extreme] | NathanRam1918 (verified), EthantrixV3 (victor #1 x1.1), rektygon (victor #2 x1.2), decaten (victor #3) |
-| 588 | 7.97 | Marmalade butcher — Mirage Age [Phantasmagoria] | NathanRam1918 (verified) |
+| 588 | 7.97 | Marmalade butcher — Mirage Age [Phantasmagoria] | NathanRam1918 (verified), Ivaxa (victor #1) |
 | 589 | 7.97 | Aether Realm — Ravensong [The Tears of the Stars] | sarboggly (verified), Joyi (victor #1), MALISZEWSKI (victor #2 x1.2), NathanRam1918 (victor #3), FINGERLOCK (victor #4), marcel7 (victor #5), Mlaw (victor #6), Binninja (victor #7), Sh4rq_ (victor #8), Pezz (victor #9), WooperFan1 (victor #10), hqshe (victor #11), szedis (victor #12), My Angel Kita (victor #13), z9a (victor #14), bunnylikemoney (victor #15), Tutel (victor #16), saiyku (victor #17), monte (victor #18), ozy (victor #19), My Angle Okayu (victor #20) |
 | 590 | 7.97 | Dragon Guardian — Tsuioku no Kuroki Makenshi [Fate] | Tutel (verified), justman (victor #1), MineFrostID (victor #2), AdonisXVIII (victor #3), DazzLE_Wind (victor #4), marcel7 (victor #5), SadnessWillSear (victor #6), mcy4 (victor #7), elsi (victor #8), bocchicookie (victor #9 x1.1), NathanRam1918 (victor #10), RAFUNA (victor #11), Lantis (victor #12) |
 | 591 | 7.97 | Daisuke Ishiwatari — Condemnation Wings [Requiem Aeternam] | WhiteCat (verified), fragranceofpage (victor #1) |
@@ -908,7 +908,7 @@ Generated: 2026-11-07T08:45:31.273Z
 | 900 | 7.78 | SICK HACK — Watashi dake Yuurei [drunk] | MALISZEWSKI (verified x1.2), worst hr player (victor #1), Shiox (victor #2 x1.2), EZChamp (victor #3) |
 | 901 | 7.78 | Ponchi feat. haxchi — Nyanderful <3 Summer!! [Everyday <3 Summer~!!] | Zucchiniii (verified x1.1), [Karcher] (victor #1 x1.1), bunnylikemoney (victor #2), Pablohh (victor #3) |
 | 902 | 7.78 | Memme — Plasma Gun [LMT's Obliteration] | MAREK MARUCHA (verified), Woey (victor #1 x1.1), criller (victor #2 x1.1), i love manosaba (victor #3 x1.1), AlmightyDoor (victor #4), razorfruit (victor #5), Kenny McCormick (victor #6 x1.1), Dropinx (victor #7), mcy4 (victor #8), UberFazz (victor #9 x1.1), dench (victor #10 x1.2), Pancho (victor #11), Taldux (victor #12), wuhua (victor #13 x1.1), Dsan (victor #14), MALISZEWSKI (victor #15 x1.3), CutPaper (victor #16 x1.1), worst hr player (victor #17 x1.3), Daf0nz (victor #18), Bouquetdor (victor #19), orngoos (victor #20), EthantrixV3 (victor #21 x1.1), Gonzah (victor #22 x1.1), k4rnu1 (victor #23 x1.1), Tutel (victor #24), nooneloves (victor #25) |
-| 903 | 7.78 | Musealcal Eggscrements — EGGS!!! III - back from ze grave [JEFF'S EGGSTREME] | trumpatino69 (verified), gilgamesh815 (victor #1) |
+| 903 | 7.78 | Musealcal Eggscrements — EGGS!!! III - back from ze grave [JEFF'S EGGSTREME] | trumpatino69 (verified), gilgamesh815 (victor #1), HaSappy (victor #2) |
 | 904 | 7.77 | GALNERYUS — DESTINY [A THOUSAND WISHES] | MidC (verified), NaPiii_ (victor #1), Pablohh (victor #2), bunnylikemoney (victor #3), Dessiderium (victor #4), Xemtin (victor #5), Srr 4 (victor #6), Saymel (victor #7), Mathi (victor #8), Sh4rq_ (victor #9) |
 | 905 | 7.77 | Nekomata Master+ — encounter [Disarray] | chocomint (verified x1.1), decaten (victor #1), suntanCTM (victor #2), Lantis (victor #3), EthantrixV3 (victor #4 x1.1), ZaNy_ (victor #5 x1.1) |
 | 906 | 7.77 | ShinRa-Bansho — Dramatic Hizakurige [Athy's Endless Dream] | Vaxei (verified), Bubbleman (victor #1), DazzLE_Wind (victor #2), [Karcher] (victor #3), MALISZEWSKI (victor #4 x1.1), Mathi (victor #5), SL1PER (victor #6), EzChock (victor #7), Melvr (victor #8), Tutel (victor #9) |
@@ -1135,9 +1135,9 @@ Generated: 2026-11-07T08:45:31.273Z
 | 122 | Tommy315 | 260.378 |
 | 123 | Srr 4 | 259.361 |
 | 124 | awesome sauce | 257.014 |
-| 125 | AxewB | 251.469 |
-| 126 | Remiyuu | 247.826 |
-| 127 | Ivaxa | 247.669 |
+| 125 | Ivaxa | 252.982 |
+| 126 | AxewB | 251.469 |
+| 127 | Remiyuu | 247.826 |
 | 128 | 315 | 246.383 |
 | 129 | Aricin | 242.234 |
 | 130 | LyeRR | 241.068 |
@@ -1151,41 +1151,41 @@ Generated: 2026-11-07T08:45:31.273Z
 | 138 | Andros | 227.018 |
 | 139 | RAFUNA | 225.260 |
 | 140 | ruirui | 225.096 |
-| 141 | onetabby | 220.199 |
-| 142 | Tsuwagi | 215.583 |
-| 143 | papercandle | 214.086 |
-| 144 | tfge | 211.506 |
-| 145 | CyberOni | 210.012 |
-| 146 | fedotoff | 209.895 |
-| 147 | aimbotcone | 209.685 |
-| 148 | def | 209.369 |
-| 149 | 6Nusu9 | 209.318 |
-| 150 | reused | 208.386 |
-| 151 | suly | 207.702 |
-| 152 | Umbre | 207.616 |
-| 153 | Binninja | 207.038 |
-| 154 | marcel7 | 206.189 |
-| 155 | LordGabriel | 205.669 |
-| 156 | Toy0Ta | 204.947 |
-| 157 | elsi | 203.353 |
-| 158 | gusrua123 | 203.232 |
-| 159 | Toji_fushiguro_ | 201.996 |
-| 160 | NOUMEN BREAK | 199.050 |
-| 161 | Ledeau_Fox | 198.750 |
-| 162 | R1cho | 197.566 |
-| 163 | scylla | 196.801 |
-| 164 | Sh4rq_ | 195.716 |
-| 165 | Egor | 191.894 |
-| 166 | OnlyHadley | 189.159 |
-| 167 | WooperFan1 | 188.631 |
-| 168 | yadon | 187.938 |
-| 169 | Tonnisdk | 187.339 |
-| 170 | A21 | 185.922 |
-| 171 | nevergrace | 185.837 |
-| 172 | FGSky | 185.049 |
-| 173 | kurtis- | 183.984 |
-| 174 | gakuw | 183.152 |
-| 175 | ka1rskiy | 179.416 |
+| 141 | ka1rskiy | 221.758 |
+| 142 | onetabby | 220.199 |
+| 143 | Tsuwagi | 215.583 |
+| 144 | papercandle | 214.086 |
+| 145 | tfge | 211.506 |
+| 146 | CyberOni | 210.012 |
+| 147 | fedotoff | 209.895 |
+| 148 | aimbotcone | 209.685 |
+| 149 | def | 209.369 |
+| 150 | 6Nusu9 | 209.318 |
+| 151 | reused | 208.386 |
+| 152 | suly | 207.702 |
+| 153 | Umbre | 207.616 |
+| 154 | Binninja | 207.038 |
+| 155 | marcel7 | 206.189 |
+| 156 | LordGabriel | 205.669 |
+| 157 | Toy0Ta | 204.947 |
+| 158 | elsi | 203.353 |
+| 159 | gusrua123 | 203.232 |
+| 160 | Toji_fushiguro_ | 201.996 |
+| 161 | NOUMEN BREAK | 199.050 |
+| 162 | Ledeau_Fox | 198.750 |
+| 163 | R1cho | 197.566 |
+| 164 | scylla | 196.801 |
+| 165 | Sh4rq_ | 195.716 |
+| 166 | Egor | 191.894 |
+| 167 | OnlyHadley | 189.159 |
+| 168 | WooperFan1 | 188.631 |
+| 169 | yadon | 187.938 |
+| 170 | Tonnisdk | 187.339 |
+| 171 | A21 | 185.922 |
+| 172 | nevergrace | 185.837 |
+| 173 | FGSky | 185.049 |
+| 174 | kurtis- | 183.984 |
+| 175 | gakuw | 183.152 |
 | 176 | Reedkatt | 177.869 |
 | 177 | Raspigaous | 177.274 |
 | 178 | AdrianLabubu67 | 177.155 |
@@ -1357,14 +1357,14 @@ Generated: 2026-11-07T08:45:31.273Z
 | 344 | Aotoleen | 70.105 |
 | 345 | BananaGamer1235 | 69.863 |
 | 346 | [ Zane ] | 68.800 |
-| 347 | Persona John | 67.948 |
-| 348 | Mike Tyson | 67.776 |
-| 349 | Karthy | 67.756 |
-| 350 | Kyros_ | 67.557 |
-| 351 | Unexpected | 67.506 |
-| 352 | justman | 67.428 |
-| 353 | BoshyMan741 | 67.089 |
-| 354 | HaSappy | 67.020 |
+| 347 | HaSappy | 67.961 |
+| 348 | Persona John | 67.948 |
+| 349 | Mike Tyson | 67.776 |
+| 350 | Karthy | 67.756 |
+| 351 | Kyros_ | 67.557 |
+| 352 | Unexpected | 67.506 |
+| 353 | justman | 67.428 |
+| 354 | BoshyMan741 | 67.089 |
 | 355 | RageMuffin | 66.744 |
 | 356 | Calideon | 66.223 |
 | 357 | razorfruit | 65.761 |
