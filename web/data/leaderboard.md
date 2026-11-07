@@ -1,6 +1,6 @@
 # osu demon list leaderboard
 
-Generated: 2026-11-06T20:31:51.062Z
+Generated: 2026-11-07T08:45:31.273Z
 
 ## Maps (1000)
 
@@ -469,7 +469,7 @@ Generated: 2026-11-06T20:31:51.062Z
 | 461 | 8.08 | Yousei Teikoku — Sacrifice [cor Scorpii] | MALISZEWSKI (verified x1.1) |
 | 462 | 8.08 | sHimaU — SLOTcore Is Dead [SEVEN] | sharytory (verified x1.1), velcro shoes (victor #1), Doomsday fanboy (victor #2), Satsukiiii (victor #3), cloppit (victor #4 x1.1), budge (victor #5 x1.2), tekkito (victor #6 x1.1), im a fancy lad (victor #7), CUPSIZEFAN (victor #8), ferret irl (victor #9), nooneloves (victor #10), NOUMEN BREAK (victor #11), Ideal (victor #12), kulerbruh (victor #13), sh_TORTIK (victor #14 x1.1) |
 | 463 | 8.08 | BABYMETAL — Arkadia [Path to the Eternal Paradise] | MALISZEWSKI (verified x1.1), NaPiii_ (victor #1) |
-| 464 | 8.08 | Camellia feat. Nanahira — Kizuitara Shunkashuutou (Cut Ver.) [Ultra] | rng_ (verified), Suyung_ (victor #1 x1.1), Leasurex (victor #2), kr__ (victor #3), Lolu (victor #4), Raikouhou (victor #5), Chicony (victor #6) |
+| 464 | 8.08 | Camellia feat. Nanahira — Kizuitara Shunkashuutou (Cut Ver.) [Ultra] | rng_ (verified), Suyung_ (victor #1 x1.1), Leasurex (victor #2), kr__ (victor #3), Lolu (victor #4), Raikouhou (victor #5), Chicony (victor #6), zivxare (victor #7) |
 | 465 | 8.08 | Raimukun — Myths Orbis [Serenhaide's Extreme] | elsi (verified), mcy4 (victor #1), nitystarex (victor #2), RageMuffin (victor #3), Kamensh1k (victor #4), NeliNyan (victor #5), Ekoro (victor #6), Kenny McCormick (victor #7), Anoranza (victor #8) |
 | 466 | 8.08 | TOMOSUKE — Macuilxochitl [Flower] | WhiteCat (verified), EZChamp (victor #1) |
 | 467 | 8.08 | RoughSketch — KINGDOM COME [Kojio's VIVID] | dsa (verified), Torusama (victor #1), misha awa (victor #2 x1.1), Demegozi (victor #3), AlefGdxD (victor #4 x1.1), My Angle Okayu (victor #5), ZaNy_ (victor #6 x1.1), henq (victor #7), 315 (victor #8 x1.3), HeyCat_ (victor #9), Rozeolifant13 (victor #10), Anolikaru (victor #11) |
@@ -645,7 +645,7 @@ Generated: 2026-11-06T20:31:51.062Z
 | 637 | 7.94 | BABYMETAL — Tales of The Destinies [Predator] | Aireu (verified), gamer228666 (victor #1), desuqe (victor #2), Coreanmaluco (victor #3) |
 | 638 | 7.94 | sana — Packet Hero [Extreme] | Wanderio (verified), VizerX (victor #1 x1.1), mx10000 (victor #2), Hana buys milk (victor #3), Sherbet (victor #4 x1.1), Mahmood (victor #5), [Eclipse] (victor #6 x1.1), yencis (victor #7), MALISZEWSKI (victor #8 x1.1), tyty5180 (victor #9), ka1rskiy (victor #10) |
 | 639 | 7.94 | Ne Obliviscaris — Graal [Catacombs of the Pariah] | bunnylikemoney (verified), Pablohh (victor #1) |
-| 640 | 7.94 | Tadokoro Azusa — 1HOPE SNIPER [RESOLVED] | yencis (verified), Alfrah (victor #1 x1.1), rng_ (victor #2), [Eclipse] (victor #3 x1.1), LordGabriel (victor #4) |
+| 640 | 7.94 | Tadokoro Azusa — 1HOPE SNIPER [RESOLVED] | yencis (verified), Alfrah (victor #1 x1.1), rng_ (victor #2), [Eclipse] (victor #3 x1.1), LordGabriel (victor #4), Mathi (victor #5) |
 | 641 | 7.94 | Camellia — Arche [Regou's Paroxysm] | mcy4 (verified), Tsuwagi (victor #1), xiaomao (victor #2), MALISZEWSKI (victor #3) |
 | 642 | 7.94 | Tokyo.MeltiMelt — Last Page (feat. KOKOMI) [Iris] | MidC (verified) |
 | 643 | 7.94 | halca — Darekare Scramble (TV Size) [Kaguya's Ayano] | FGSky (verified x1.1), FlyingTuna (victor #1 x1.3), MALISZEWSKI (victor #2 x1.3), EvilGamings (victor #3) |
@@ -1038,7 +1038,7 @@ Generated: 2026-11-06T20:31:51.062Z
 | 25 | Kenny McCormick | 1149.916 |
 | 26 | Chicony | 1113.368 |
 | 27 | Bubbleman | 1093.949 |
-| 28 | Mathi | 1046.350 |
+| 28 | Mathi | 1050.401 |
 | 29 | WindowLife | 984.245 |
 | 30 | Vaxei | 968.514 |
 | 31 | PinkEyeFan2013 | 929.965 |
@@ -1459,77 +1459,77 @@ Generated: 2026-11-06T20:31:51.062Z
 | 446 | Lawndred | 43.813 |
 | 447 | EvilGamings | 43.483 |
 | 448 | BR00KLYN | 42.785 |
-| 449 | Yoo Da Hee | 42.144 |
-| 450 | Moonlit111 | 42.144 |
-| 451 | orngoos | 41.945 |
-| 452 | SheDiK YT | 41.904 |
-| 453 | Thuya | 41.856 |
-| 454 | -pare | 41.839 |
-| 455 | MAREK MARUCHA | 41.571 |
-| 456 | tortelliniii | 41.280 |
-| 457 | Lefy | 41.255 |
-| 458 | im a fancy lad | 40.915 |
-| 459 | palr | 40.915 |
-| 460 | My Angel Kita | 40.908 |
-| 461 | Aoi Kiseki | 40.881 |
-| 462 | kuzu222 | 40.680 |
-| 463 | baoo | 40.574 |
-| 464 | Exalon | 40.550 |
-| 465 | Julla | 40.232 |
-| 466 | xoxyl | 40.142 |
-| 467 | lolol235 | 40.123 |
-| 468 | wudci | 39.847 |
-| 469 | dsa | 38.667 |
-| 470 | Yellow cat | 38.557 |
-| 471 | Ex Merami | 38.181 |
-| 472 | Nederland | 38.181 |
-| 473 | [Q] | 38.181 |
-| 474 | TacosCordoba | 38.181 |
-| 475 | wooting | 38.181 |
-| 476 | Teacchyyy | 37.902 |
-| 477 | Flameztear | 37.756 |
-| 478 | KNa- | 37.555 |
-| 479 | xan_ly | 37.526 |
-| 480 | Lightedd | 37.478 |
-| 481 | anirupiyo | 37.306 |
-| 482 | CutPaper | 37.177 |
-| 483 | Kokuban | 37.126 |
-| 484 | xapgoc | 37.022 |
-| 485 | disperagioia | 36.558 |
-| 486 | Indicolite | 36.495 |
-| 487 | dearyou | 36.141 |
-| 488 | ThePooN | 35.770 |
-| 489 | ampy | 35.740 |
-| 490 | Atsacity | 35.691 |
-| 491 | Dropinx | 35.637 |
-| 492 | T A K A O | 35.471 |
-| 493 | Peterbot | 35.020 |
-| 494 | Nekoyase | 34.940 |
-| 495 | tan- | 34.817 |
-| 496 | amivy | 34.817 |
-| 497 | relikOS | 34.817 |
-| 498 | kodama | 34.575 |
-| 499 | dasdwqdf | 34.437 |
-| 500 | Bouquetdor | 34.276 |
-| 501 | UselessJohn | 34.208 |
-| 502 | taro | 33.880 |
-| 503 | ncrohawk | 33.858 |
-| 504 | Kurumiw | 33.673 |
-| 505 | Nailer | 33.354 |
-| 506 | viciobylike | 33.354 |
-| 507 | CharlioM9 | 33.354 |
-| 508 | hubbawubba | 33.354 |
-| 509 | DazzLE_Wind | 33.334 |
-| 510 | [Eclipse] | 33.258 |
-| 511 | Anolikaru | 33.218 |
-| 512 | angelkanna | 33.176 |
-| 513 | SadnessWillSear | 33.116 |
-| 514 | AllyrD | 32.978 |
-| 515 | flansl | 32.750 |
-| 516 | Gambler | 32.750 |
-| 517 | Agent5d | 32.750 |
-| 518 | Lex_Al | 32.670 |
-| 519 | zivxare | 32.500 |
+| 449 | zivxare | 42.550 |
+| 450 | Yoo Da Hee | 42.144 |
+| 451 | Moonlit111 | 42.144 |
+| 452 | orngoos | 41.945 |
+| 453 | SheDiK YT | 41.904 |
+| 454 | Thuya | 41.856 |
+| 455 | -pare | 41.839 |
+| 456 | MAREK MARUCHA | 41.571 |
+| 457 | tortelliniii | 41.280 |
+| 458 | Lefy | 41.255 |
+| 459 | im a fancy lad | 40.915 |
+| 460 | palr | 40.915 |
+| 461 | My Angel Kita | 40.908 |
+| 462 | Aoi Kiseki | 40.881 |
+| 463 | kuzu222 | 40.680 |
+| 464 | baoo | 40.574 |
+| 465 | Exalon | 40.550 |
+| 466 | Julla | 40.232 |
+| 467 | xoxyl | 40.142 |
+| 468 | lolol235 | 40.123 |
+| 469 | wudci | 39.847 |
+| 470 | dsa | 38.667 |
+| 471 | Yellow cat | 38.557 |
+| 472 | Ex Merami | 38.181 |
+| 473 | Nederland | 38.181 |
+| 474 | [Q] | 38.181 |
+| 475 | TacosCordoba | 38.181 |
+| 476 | wooting | 38.181 |
+| 477 | Teacchyyy | 37.902 |
+| 478 | Flameztear | 37.756 |
+| 479 | KNa- | 37.555 |
+| 480 | xan_ly | 37.526 |
+| 481 | Lightedd | 37.478 |
+| 482 | anirupiyo | 37.306 |
+| 483 | CutPaper | 37.177 |
+| 484 | Kokuban | 37.126 |
+| 485 | xapgoc | 37.022 |
+| 486 | disperagioia | 36.558 |
+| 487 | Indicolite | 36.495 |
+| 488 | dearyou | 36.141 |
+| 489 | ThePooN | 35.770 |
+| 490 | ampy | 35.740 |
+| 491 | Atsacity | 35.691 |
+| 492 | Dropinx | 35.637 |
+| 493 | T A K A O | 35.471 |
+| 494 | Peterbot | 35.020 |
+| 495 | Nekoyase | 34.940 |
+| 496 | tan- | 34.817 |
+| 497 | amivy | 34.817 |
+| 498 | relikOS | 34.817 |
+| 499 | kodama | 34.575 |
+| 500 | dasdwqdf | 34.437 |
+| 501 | Bouquetdor | 34.276 |
+| 502 | UselessJohn | 34.208 |
+| 503 | taro | 33.880 |
+| 504 | ncrohawk | 33.858 |
+| 505 | Kurumiw | 33.673 |
+| 506 | Nailer | 33.354 |
+| 507 | viciobylike | 33.354 |
+| 508 | CharlioM9 | 33.354 |
+| 509 | hubbawubba | 33.354 |
+| 510 | DazzLE_Wind | 33.334 |
+| 511 | [Eclipse] | 33.258 |
+| 512 | Anolikaru | 33.218 |
+| 513 | angelkanna | 33.176 |
+| 514 | SadnessWillSear | 33.116 |
+| 515 | AllyrD | 32.978 |
+| 516 | flansl | 32.750 |
+| 517 | Gambler | 32.750 |
+| 518 | Agent5d | 32.750 |
+| 519 | Lex_Al | 32.670 |
 | 520 | SrChispa | 32.148 |
 | 521 | Hibiki | 32.128 |
 | 522 | Filizanowski | 31.766 |
