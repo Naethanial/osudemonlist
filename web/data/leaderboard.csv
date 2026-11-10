@@ -2,7 +2,7 @@ userId,username,totalPoints
 7562902,"mrekk",8652.738374
 12408961,"MALISZEWSKI",5410.359503
 1719471,"EZChamp",2818.698995
-16817965,"Kamensh1k",2514.130415
+16817965,"Kamensh1k",2588.304035
 8007528,"Raikouhou",2061.050011
 13057699,"z9a",2036.409938
 7341183,"ASecretBox",1804.194291
@@ -256,7 +256,7 @@ userId,username,totalPoints
 11141578,"NichoIas",100.937181
 6600930,"yamss",99.730068
 14844399,"Nazuna Nanakusa",99.048036
-7108275,"i love manosaba",97.952095
+7108275,"i love manosaba",98.698031
 10717635,"Hakui Koyori",96.856856
 12352050,"aurora on osu",96.729872
 16774872,"saim",96.714428
@@ -868,7 +868,6 @@ userId,username,totalPoints
 12632210,"OceanMan28",8.756585
 14711593,"doxxsan_",8.755180
 11307733,"nemroz",8.755180
-18897621,"Xemtin",8.694588
 14287201,"Purpol",8.618724
 3043603,"kablaze",8.607194
 12443451,"ben333ki",8.557145
@@ -892,6 +891,7 @@ userId,username,totalPoints
 23280447,"hosesan1020",8.006645
 6937470,"kazamabc",8.005322
 17792223,"nwd",8.005322
+18897621,"Xemtin",7.984173
 12255049,"luuNia_",7.923565
 8211340,"flubb",7.921508
 11507406,"DecoysIsBored",7.863401
@@ -1136,7 +1136,6 @@ userId,username,totalPoints
 34673818,"XeoS1T43",3.588831
 20638747,"RinchikHD",3.588831
 13858963,"_Chonker",3.557421
-10598476,"Philly Cheese",3.555851
 15195364,"hollowknees",3.551121
 11417993,"Jarran",3.548445
 15743842,"ILX",3.528392
@@ -1187,6 +1186,7 @@ userId,username,totalPoints
 9039174,"Def3nderFV",3.109007
 11607790,"Chzaron",3.105289
 2003326,"emilia",3.102223
+12130906,"[ Master ]",3.090921
 13216227,"GALNERYUS",3.056679
 4797389,"Abraham",3.044655
 12315498,"DataUser",3.022307
@@ -1197,6 +1197,7 @@ userId,username,totalPoints
 14963905,"Read Horimiya",2.964517
 9924464,"Sordruther",2.964517
 10676573,"Birchman",2.964517
+18549932,"Ksorchou",2.964517
 20263707,"bob man",2.934865
 6661913,"AstroFP",2.923692
 16436446,"Lunasa",2.918980
@@ -1427,7 +1428,6 @@ userId,username,totalPoints
 10170668,"EyesNeverOpen",1.133505
 7869036,"TomoChen",1.133505
 8254661,"SuWaLanPha",1.125144
-12130906,"[ Master ]",1.118529
 9211305,"OctopuSSX",1.105398
 12762744,"Toilet Player",1.105398
 14033569,"dantedel221",1.105398
@@ -1543,6 +1543,7 @@ userId,username,totalPoints
 15226762,"madeinkr",0.611394
 10038930,"Kucheryavyy",0.611394
 6831210,"Burtpi",0.595306
+10598476,"Philly Cheese",0.591334
 5459981,"-Machine-",0.564649
 10906834,"aquaDOR_",0.564078
 8758104,"Stravez0r",0.560779
